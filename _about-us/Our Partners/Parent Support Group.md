@@ -24,3 +24,6 @@ If you wish to contact us, please direct your enquiry to ntss@moe.edu.sg. We wil
 
 * Foster parental involvement in school programs and activities.
 * Provide a platform for communication among parents
+
+**Gallery**
+![](/images/PSG.png)
