@@ -29,4 +29,16 @@ Warm Regards<br>
 
 					*                                               *                                                *
 
+A wise man once said, “Education is the passport to the future, for tomorrow belongs to those who prepare for it today.” It is with such a mindset and philosophy that I believe is what drives us here at New Town Secondary School. We believe that every student wants to learn and that forms the core of what we do here. We do this by helping your children discover and nurture their strengths and talents, developing and prepare them holistically for the challenges of tomorrow.
 
+We endeavour for every Newtowner in our care to be provided with the tools and experiences to encourage and empower them to be thinkers, knowing how to differentiate between right and wrong and knowing what is best for themselves and the people around them. The opportunities here at NTSS will help our students grow in their resilience, compassion and confidence in becoming leaders that they are and in service to their family, community and nation. Our motto, ‘To Forge a Better Life’, continues to guide both educators and students in their path forward in our efforts as a school. 
+
+ One specialised area in which we aim to equip our students with is visual communication. With the world rapidly moving into the digital realm, our students need to be able to utilise and present information and data efficiently and effectively to create meaning. Equipping our students with such critical and inventive skills will ready them to take the lead in Singapore’s knowledge-based economy. 
+
+
+In making NTSS’ vision a reality, our committed educators are continually developing themselves through focused training and professional guidance. We are confident that your children and our students will be cared for and guided by our educators, enabling them to grow to their fullest potential and be active citizens in society.
+Together, let us nurture our youths to be ready for the challenges of the future!
+
+Warm Regards<br>
+**Mr Leonard Tan**<br>
+**Vice-Principal, New Town Secondary School**
