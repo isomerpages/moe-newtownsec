@@ -111,3 +111,4 @@ In May 1971, the School Advisory Committee decided on the construction of a spor
 ![](/images/pic5.jpg)
 
 In 1974, the construction of the School’s track and grandstand commenced and was completed a year later. On 2 May 1975, Mr. Ahmad Mattar, Parliamentary Secretary to the Ministry of Education, officiated the opening ceremony of the School’s athletics track. In 1975, New Town Secondary School was the largest secondary school in Singapore with an enrolment of 3540 pupils in 92 classes and 163 staff
+![](/images/ntss2-1024x729.jpg)
