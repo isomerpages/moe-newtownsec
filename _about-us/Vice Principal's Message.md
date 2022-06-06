@@ -20,3 +20,13 @@ It is indeed a privilege to be part of the New Town family.  Together with teach
 Warm Regards<br>
 **Mr Tom Chan**<br>
 **Vice-Principal, New Town Secondary School**
+
+
+
+
+-----------------------------------------------------------
+
+
+					*                                               *                                                *
+
+
