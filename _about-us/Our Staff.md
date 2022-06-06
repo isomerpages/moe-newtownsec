@@ -326,3 +326,91 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+**Executive and Administrative Staff 2022**
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Lim Hock Seng John</span></th>
+    <th class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Operations Manager</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Kang Cheong Hee</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Operations Manager</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mdm Chan Lai Ying</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Administration Manager</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Ms Iffa Iryani</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">ICT Manager</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Ms Lim Yuan</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Senior SEN Officer</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Ms Rafiza Binte Naser</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> AED (FT-School Counsellor)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mdm Rohaidah Binte Eseh</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">CSO</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mdm Tay Hong Ting Tina</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">CSO</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mdm Ng Kah Lai Karen</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">CSO</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Ng Wee Choon</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">TSO</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Yong Pui Yee</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">TSO</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Yusoff Bin Buang</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">TSO</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Mohamad Shukry Amin Bin Kaswan</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">OSO</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Phee Chwee Chua</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">OSO</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mdm Tan Beng Lan Lynda</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Adj OSO</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Mr See Siang Yao</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Desktop Engineer </span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Ahmad Rasyad</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Desktop Engineer </span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Teng Swee Hoe</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">ECG Counsellor</span></td>
+  </tr>
+</tbody>
+</table>
