@@ -112,3 +112,59 @@ In May 1971, the School Advisory Committee decided on the construction of a spor
 
 In 1974, the construction of the School’s track and grandstand commenced and was completed a year later. On 2 May 1975, Mr. Ahmad Mattar, Parliamentary Secretary to the Ministry of Education, officiated the opening ceremony of the School’s athletics track. In 1975, New Town Secondary School was the largest secondary school in Singapore with an enrolment of 3540 pupils in 92 classes and 163 staff
 ![](/images/ntss2-1024x729.jpg)
+
+**The 1980s – Improving the Quality of Education and Enriching the Education Experience**
+
+**Teaching moral values**<br>
+**Encouraging creativity**
+
+In 1982, a tennis court was built to encourage students to take part in more sports activities. Subsequently, another tennis court was built adjacent to the basketball court and a fitness corner was constructed. In July 1983, nine terrazzo tables and chairs, 11 long benches and 13 round stools were added around the school for the students to rest and study. The School took its first step to promote the use of technology in teaching and learning by installing an overhead projector in every classroom.
+
+In 1987, the School started its first Pre-University classes with 4 classes of 120 students in total. Three intakes of students were accepted in 1987, 1988 and 1989; but the classes were subsequently closed down in 1991 to focus on providing secondary education.
+
+Over the years in the 1980s, the air-conditioning of special rooms and general renovation and refurbishment of the School’s facilities took place. A computer laboratory was set up in 1988. The Staff Welfare Committee was also formed in the same year.
+
+![](/images/ntss3.jpg)
+
+**The 1990s – Diversifying the Education Landscape**
+
+**Holistic Education**<br>
+**Developing the Individual Pupil**
+
+In 1992, the School went single-session to provide an academic environment which would be beneficial to the pupils. Staffs were better able to provide enrichment, supplementary and remediation classes because of this major change. It also permitted co-curricular activities to be carried out over the whole week.
+
+Constant improvements were made to the School’s physical structure even after 1988. However, the Queenstown campus was eventually not big enough to accommodate all the pupils and staff of the School. A decision was made for New Town Secondary School to be relocated to Dover Road. The new campus is certainly a more conducive teaching and learning environment because it is further away from traffic and is located along an educational belt of learning institutions and schools. It provided more opportunities for collaboration with these educational institutions like Singapore Polytechnic and United World College.
+
+The construction of the new campus took place from December 1996 to October 1998. All pupils from the school gathered in the Queenstown campus for the last time on 8 November 1998 and made the symbolic move to the new Dover campus. A tree was also symbolically uprooted from the Queenstown premise and replanted at the Dover premise. The new New Town Secondary School was officially declared open on 22 July 2000 by Mr S Iswaran, Member of Parliament for West Coast GRC.
+
+1999 was the year that the School undertook a major overhaul of its IT system. The School was the first neighbourhood school to be equipped with the Singapore One Broadband Network linking our Intranet system. Teachers and pupils could log in from the numerous LAN points in the School as well as gain access from home. This provided the opportunity for all teachers to teach and the pupils to learn in an IT-supported Environment. The aim was to make the pupils more IT savvy and to possess problem solving, critical thinking and researching skills, which were essential competencies for the 21st century.
+
+**2000 and Beyond – Appreciate our past, Understand our present, Envision our future**
+![](/images/ntss4.jpg)
+
+**Newtowners Prepared for life**
+
+The vision of Nurturing Talents and Sharing Success continues to guide the school in preparing our students to meet the challenges of the 21st century. Over the years, the school has offered a myriad of programmes, often engaging the expertise of our partners to develop Newtowners holistically in the cognitive, aesthetics, moral, physical and social (CAMPS) domains.
+
+**Appreciate our past**
+
+New Town Secondary School started in 1965 and sharing a common history with our country is a distinction that our school is very proud of. In so many ways, our school’s development over the years reflects the changing education landscape of Singapore. In 2009, our school’s NE gallery was officially launched. It was named Light @ Dover to signify its importance of not only preserving our proud history, but to promote a spirit of gratitude towards our forefathers who laid a strong foundation for us. Light @ Dover represented many years of hard work and research by a team of teacher volunteers who believed in championing the appreciation of our past. The centre piece of the gallery was this display of photographs capturing the icons and memories of the original school site as well as quotes from former principals. Many other features including write-ups of our past and present presidents also helped viewers learn about our national leaders and their contributions to our nation-building.
+
+**Understand our present**
+
+In many sense, 2015 was a watershed year. On March 23, Singapore mourned the passing of our founding father, the late Mr Lee Kuan Yew. Like fellow Singaporeans, staff and students of New Town Secondary paid tribute in writing, through lesson packages and in persons. Newtowners, led by the school leaders paid their respect at the West Coast GRC tribute site. Through the experience, students gained a greater understanding of our present, knowing that we have a strong foundation to build upon, due to the effort and hardwork of our forefathers.
+
+In the same year, our school celebrated NTSS50, our 50th anniversary, alongside Singapore’s SG50. A series of celebrations helped forge a stronger sense of school pride and bonding amongst the students and staff.
+
+![](/images/our%20history.png)
+In 2013, our school initiated a Niche Programme in Uniformed Groups, building on the rich history and successes achieved by our Uniformed Groups. Our goal was to nurture our cadets into confident and resilient leaders by providing them with a robust and all-rounded curriculum.
+
+To enhance the learning experience, the school transited the Niche Programme into the Learning for Life Programme (LLP) in 2015. The LLP aims to develop all Newtowners into confident and compassionate leaders with strong character. This programme harnesses the strengths and training opportunities of the Uniformed Groups as the cadet leaders guide and lead their peers and juniors during school camps. The LLP also leverages on the CCE curriculum as well as the student leadership framework to provide students with opportunities to demonstrate their compassion and leadership capabilities.
+
+**Envision our future**
+
+The school envisions our students to be resilient learners who are equipped with critical and inventive thinking skills to prepare them for the challenges and opportunities in a fast-changing world. The school has applied for the Applied Learning Programme (ALP) in Visual Communication to be implemented in 2016, Term 3. The programme aims to develop students’ visual expression and language as well as stimulate their creativity through photography. The infusion of photography in various subjects such as Science and English enhances their learning experiences as they will be able to appreciate the inter-connectedness between various disciplines and their applications in the real world.
+
+With the emerging emphasis on skillsfuture and the notion of “Beyond Learning for work, to Learning for Life”, the school expand its efforts to build character, develop 21st Century Competencies so as to enable our students to live life with confidence and purpose, to be active contributors and concerned citizens. Our school has an ECG Counsellor to help our students make better informed education and career choices in school and beyond graduation. With the many opportunities they offer for authentic and experiential learning, schools leverages on CCA for the development of values, social-emotional learning (SEL) and emerging 21CC in students.
+
+Riding on its rich history and heritage and its past and present achievements, the school will continue its next phase of its journey confidently, in partnership with its stakeholders, to make New Town Secondary School a school of excellence.
