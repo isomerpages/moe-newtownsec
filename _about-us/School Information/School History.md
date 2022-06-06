@@ -109,3 +109,5 @@ To generate a sense of pride and a sense of belonging among the pupils, Mrs. Yeo
 
 In May 1971, the School Advisory Committee decided on the construction of a sports track. President Benjamin Sheares came to the School on 20 July 1971 to plant a tree to commemorate the building of the sports track.
 ![](/images/pic5.jpg)
+
+In 1974, the construction of the School’s track and grandstand commenced and was completed a year later. On 2 May 1975, Mr. Ahmad Mattar, Parliamentary Secretary to the Ministry of Education, officiated the opening ceremony of the School’s athletics track. In 1975, New Town Secondary School was the largest secondary school in Singapore with an enrolment of 3540 pupils in 92 classes and 163 staff
