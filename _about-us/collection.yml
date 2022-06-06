@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - Our Staff.md
       - Principal's Message.md
       - Vice Principal's Message.md
