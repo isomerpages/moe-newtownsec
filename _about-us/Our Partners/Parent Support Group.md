@@ -19,3 +19,8 @@ If you wish to contact us, please direct your enquiry to ntss@moe.edu.sg. We wil
 **Secretary:**                         Mdm Carol Phua<br>
 **Assistant Secretary:**    Mdm Jennifer Chin<br>
 **Treasurer:**                        Ms Susanna Koh<br>
+
+**Our Objectives**
+
+* Foster parental involvement in school programs and activities.
+* Provide a platform for communication among parents
