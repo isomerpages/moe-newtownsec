@@ -77,3 +77,16 @@ third_nav_title: School Information
   </tr>
 </tbody>
 </table>
+
+**The 1960s and 1970s - Forging a Better Life**
+![](/images/old%20school%20pic%20.png)
+
+New Town Secondary School was founded on 2 January 1965, the same year Singapore gained its independence. It was the 68th Secondary School to be opened by the Singapore government. The School was set up to meet the needs of the residents staying in the Queenstown district, many of whom comprised school-going children who were about to embark on secondary education. It was tentatively known as Queensway’s Third Secondary School then.
+
+In its first year there were 45 classes, 1819 pupils and 73 teachers. New Town’s first batch of pupils were made up of 2 classes of Secondary One pupils, 20 classes of Secondary Two and Three Chinese Stream pupils from Hwa Yi Secondary School and Tanglin Technical Secondary School, and 13 classes of Secondary Two, Three and Four English Stream pupils from Queensway Secondary School.
+
+On 7th January 1965, Mrs. Yeo Lai Cheng was appointed by the Ministry Of Education as the School’s first principal. A few months later, the School came to be officially known as New Town Secondary School.
+
+To make the school distinctive, Mrs. Yeo crafted the School’s motto, “To Forge A Better Life”. It was her vision that all New Towners will forge ahead for a better life for the country, their loved ones and themselves after undergoing a holistic education in New Town Secondary School. Mr See Chin Chuang, her Senior Assistant, designed the School’s uniform, flag and badge based on Mrs. Yeo’s vision.
+
+![](/images/pic2-1024x752.jpg)
