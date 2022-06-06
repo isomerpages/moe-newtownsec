@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - School Information/Vision, Mission & Values.md
       - School Information/.keep
       - School Information/School History.md
       - School Information/School Crest & Song.md
+      - School Information/Vision, Mission & Values.md
       - Our Partners/.keep
       - Our Partners/School Advisory Committee.md
       - Our Partners/Parent Support Group.md
