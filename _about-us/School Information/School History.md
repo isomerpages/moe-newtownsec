@@ -94,3 +94,18 @@ On 17 September 1966, New Town Secondary School had its official opening ceremon
 
 To make the school distinctive, Mrs. Yeo crafted the School’s motto, “To Forge A Better Life”. It was her vision that all New Towners will forge ahead for a better life for the country, their loved ones and themselves after undergoing a holistic education in New Town Secondary School. Mr See Chin Chuang, her Senior Assistant, designed the School’s uniform, flag and badge based on Mrs. Yeo’s vision.
 
+![](/images/pic3.jpg)
+
+The founding Prime Minister Mr Lee Kuan Yew visited our school on 25 May 1967.
+![](/images/pic4.jpg)
+
+By 1968, the School was well-established. It was one of the first schools in Singapore to provide bilingual education to its pupils, as advocated by the government in 1966.
+
+Technical education was introduced in 1969. Its purpose was to prepare the pupils for an important role in the industrialisation programmes of Singapore, an option whichthe young Republic had to take to ensure her economic survival.
+
+To generate a sense of pride and a sense of belonging among the pupils, Mrs. Yeo Lai Cheng penned the lyrics of the School Song which expressed the aspirations she had for the School. It was completed with the contribution of Miss Koh Wai Choo who composed the School Song. The lyrics were also translated into Chinese by Professor Jao Yu Wei.
+
+1969 saw a structural change in the development of New Town Secondary School. It was the year when neighboring Baharuddin Vocational School was merged with the school to create the largest bi-lateral integrated school in Singapore with an enrolment of 3027 pupils. There were 81 classes and 148 teachers. To cope with the increase in the size of the School, the post of Vice-Principal was created. The first Vice-Principal of the School was Mr. Adrian De Silva.
+
+In May 1971, the School Advisory Committee decided on the construction of a sports track. President Benjamin Sheares came to the School on 20 July 1971 to plant a tree to commemorate the building of the sports track.
+![](/images/pic5.jpg)
