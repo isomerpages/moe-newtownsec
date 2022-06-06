@@ -87,6 +87,10 @@ In its first year there were 45 classes, 1819 pupils and 73 teachers. New Town�
 
 On 7th January 1965, Mrs. Yeo Lai Cheng was appointed by the Ministry Of Education as the School’s first principal. A few months later, the School came to be officially known as New Town Secondary School.
 
+![](/images/pic2-1024x752.jpg)
+**The First Batch of Teaching Staff (1966)**
+
+On 17 September 1966, New Town Secondary School had its official opening ceremony. The Member of Parliament for Queenstown, Mr Jek Yuen Tong, was the Guest-of-Honour for the ceremony.
+
 To make the school distinctive, Mrs. Yeo crafted the School’s motto, “To Forge A Better Life”. It was her vision that all New Towners will forge ahead for a better life for the country, their loved ones and themselves after undergoing a holistic education in New Town Secondary School. Mr See Chin Chuang, her Senior Assistant, designed the School’s uniform, flag and badge based on Mrs. Yeo’s vision.
 
-![](/images/pic2-1024x752.jpg)
