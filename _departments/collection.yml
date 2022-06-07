@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - CCE/.keep
       - English & Literature/.keep
       - English & Literature/Overview.md
       - English & Literature/Department Members.md
