@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Physical Education (PE)/Department Members.md
       - Physical Education (PE)/Overview.md
       - Physical Education (PE)/.keep
       - Aesthetics and Craft/.keep
