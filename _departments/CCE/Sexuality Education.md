@@ -85,3 +85,44 @@ b.    Character and Citizenship Education (CCE)
   </tr>
 </tbody>
 </table>
+
+# Secondary 2
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-rj1p{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-rj1p">UNIT</th>
+    <th class="tg-rj1p">LESSONS / DURATION</th>
+    <th class="tg-rj1p">Lesson Objectives<br>At the end of the lesson, students will be able to:</th>
+    <th class="tg-rj1p">TIME PERIOD<br>(e.g. Term 1 Week 2)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-y7qa" rowspan="3"><span style="font-weight:normal">Respectful Relationships &amp; Safety</span></td>
+    <td class="tg-y7qa"><span style="font-weight:normal">1</span><br>(60 mins)</td>
+    <td class="tg-y7qa">-        Know that one’s understanding of gender roles should not be limited by gender stereotypes<br><br>-      Develop an appreciation of one’s own unique qualities and characteristics as a male or female<br><br>-       Understand what sexual orientation entails</td>
+    <td class="tg-y7qa"><span style="font-weight:normal">Term 3 Week 7</span></td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa"><span style="font-weight:normal">2A</span><br><span style="font-weight:normal">(60 mins)</span></td>
+    <td class="tg-ii8k">-      Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline</td>
+    <td class="tg-y7qa"><span style="font-weight:normal">Term 3 Week 8</span></td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa"><span style="font-weight:normal">2B</span><br><span style="font-weight:normal">(60 mins)</span></td>
+    <td class="tg-y7qa">-      Recognise the importance of self-respect and respect for others in relating to members of the opposite gender<br><br>-     Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online</td>
+    <td class="tg-y7qa"><span style="font-weight:normal">Term 3 Week 9</span></td>
+  </tr>
+</tbody>
+</table>
