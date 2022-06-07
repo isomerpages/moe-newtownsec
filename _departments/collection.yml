@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - CCE/National Education.md
       - CCE/.keep
       - CCE/Values in Action (VIA).md
       - CCE/Cyber Wellness.md
