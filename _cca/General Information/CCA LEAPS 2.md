@@ -4,3 +4,7 @@ permalink: /cca/General-Information/cca-leaps-2-0
 description: ""
 third_nav_title: General Information
 ---
+You may download the document in the link below:
+
+LEAPS 2.0
+[](/files/LEAPS%202.pdf)
