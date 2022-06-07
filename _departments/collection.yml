@@ -2,7 +2,7 @@ collections:
   departments:
     output: true
     order:
-      - English & Literature/Programmes.md
-      - English & Literature/Department Members.md
-      - English & Literature/Overview.md
       - English & Literature/.keep
+      - English & Literature/Overview.md
+      - English & Literature/Department Members.md
+      - English & Literature/Programmes.md
