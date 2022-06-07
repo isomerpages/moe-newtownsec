@@ -68,3 +68,22 @@ For more information on strengthening digital literacies, please access the Marc
 * Self-directed and collaborative digital learners 
 * Relevant and empowered creators
 * Ethical problem solvers
+
+![](/images/Picture2.png)
+![](/images/PLD.png)
+![](/images/PLD%202.png)
+
+**Responsible Use Of PLDs**
+
+To navigate New Towners through the complex and ambiguous digital world, the school has taken the following  approaches:
+1. Educating through Cyber Wellness curriculum - Updated CCE2021 syllabus
+2.Promoting student-initiated and student-owned structures and processes - ICT Ambassadors and Peer Support Leaders
+3. School PLD routines
+You may retrieve the [Student Device Information Kit](/files/Student%20Device%20Information%20Kit.pdf) here.
+
+<u>**Resources For Parents**</u>
+For more information on cyber wellness, please feel free to refer to the following links:
+1. Cyber Wellness At Home: go.gov.sg/moe-cyber-wellness
+2. Media Literacy Council Parents Resources: go.gov.sg/better-internet-sg
+3.PLD Parent Handbook: Learning with a PLD.pdf
+4. Help123 (External platform by TOUCH Community Service): help123.sg
