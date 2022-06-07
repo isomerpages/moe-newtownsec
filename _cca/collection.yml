@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - General Information/CCA LEAPS 2.md
       - General Information/Teachers in Charge and Training Venues.md
       - General Information/Tuesday CCA Schedule.md
       - General Information/.keep
