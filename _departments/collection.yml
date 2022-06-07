@@ -2,10 +2,10 @@ collections:
   departments:
     output: true
     order:
-      - Humanities/Programmes.md
-      - Humanities/Department Members.md
-      - Humanities/Overview.md
       - Humanities/.keep
+      - Humanities/Overview.md
+      - Humanities/Department Members.md
+      - Humanities/Programmes.md
       - Science/.keep
       - Science/Overview.md
       - Science/Department Members.md
