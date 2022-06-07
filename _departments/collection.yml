@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Infocomm Technology (ICT)/National Digital Literacy Programme (NDLP).md
       - Infocomm Technology (ICT)/Programmes.md
       - Infocomm Technology (ICT)/Department Members.md
       - Infocomm Technology (ICT)/Overview.md
