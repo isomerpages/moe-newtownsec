@@ -60,3 +60,11 @@ At MOE's Committee of Supply (COS) Debate in March 2020, MOE launched the Nation
 The Covid-19 pandemic has revealed the need for us to accelerate the NDLP. All secondary schools will thus embark on the Personalised Digital Learning Programmed (PDLP), where every Secondary One, Two and Three student will own a school-prescribed learning device by the end of 2021.
 
 For more information on strengthening digital literacies, please access the March 2020 COS [here](https://www.moe.gov.sg/microsites/cos2020/refreshing-our-curriculum/strengthen-digital-literacy.html).
+
+**Use Of ICT In New Town Secondary School**
+
+<u>Outcomes Of The NTSS Programme</u><br>
+**To nurture:**
+* Self-directed and collaborative digital learners 
+* Relevant and empowered creators
+* Ethical problem solvers
