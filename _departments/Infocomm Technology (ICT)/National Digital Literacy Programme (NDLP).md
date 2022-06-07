@@ -51,3 +51,12 @@ After a series of engagement sessions and surveys with students and staff, the f
 With the findings gathered, the school has decided on the following bundle
 
 ![](/images/pld%20bundle.png)
+
+**Information On NDLP**
+
+The difference between NDLP and PDLP
+At MOE's Committee of Supply (COS) Debate in March 2020, MOE launched the National Digital Literacy Programme (NDLP) for secondary schools and Institutes of Higher Learning to help students strengthen their digital literacy.
+
+The Covid-19 pandemic has revealed the need for us to accelerate the NDLP. All secondary schools will thus embark on the Personalised Digital Learning Programmed (PDLP), where every Secondary One, Two and Three student will own a school-prescribed learning device by the end of 2021.
+
+For more information on strengthening digital literacies, please access the March 2020 COS [here](https://www.moe.gov.sg/microsites/cos2020/refreshing-our-curriculum/strengthen-digital-literacy.html).
