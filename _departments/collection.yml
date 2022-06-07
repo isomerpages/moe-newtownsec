@@ -2,10 +2,10 @@ collections:
   departments:
     output: true
     order:
-      - CCE/Sexuality Education.md
-      - CCE/Cyber Wellness.md
-      - CCE/Values in Action (VIA).md
       - CCE/.keep
+      - CCE/Values in Action (VIA).md
+      - CCE/Cyber Wellness.md
+      - CCE/Sexuality Education.md
       - English & Literature/.keep
       - English & Literature/Overview.md
       - English & Literature/Department Members.md
