@@ -2,10 +2,10 @@ collections:
   departments:
     output: true
     order:
-      - Mathematics/Programmes.md
-      - Mathematics/Department Members.md
-      - Mathematics/Overview.md
       - Mathematics/.keep
+      - Mathematics/Overview.md
+      - Mathematics/Department Members.md
+      - Mathematics/Programmes.md
       - Mother Tongue Language/.keep
       - Mother Tongue Language/Overview.md
       - Mother Tongue Language/Department Members.md
