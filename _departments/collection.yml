@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Humanities/Programmes.md
       - Humanities/Department Members.md
       - Humanities/Overview.md
       - Humanities/.keep
