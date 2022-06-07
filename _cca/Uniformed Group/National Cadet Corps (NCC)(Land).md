@@ -17,7 +17,7 @@ NCC has eight Core Values:
 * Uprightness
 * Leadership
 * Discipline
-* Commitment & Responsibility
+* Commitment &amp; Responsibility
 * Care for Fellow Cadets
 * Adventurous Spirit
 * Safety
@@ -69,4 +69,6 @@ NCC has eight Core Values:
 **EXTERNAL LINK**
 https://www.facebook.com/sgncc.hq/
 
-PHOTO GALLERY
+**PHOTO GALLERY**
+
+<iframe allowfullscreen="true" height="500" width="500&quot;" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSL856L0FEzvPA7RUdhLrl0uiR6zgHC2YZxRfbwCrzGW3hwmJ9Sb5PwAaj1vCjrpXnNOZ-OgU0B8tJN/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
