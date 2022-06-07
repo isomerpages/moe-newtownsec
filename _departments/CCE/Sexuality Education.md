@@ -240,3 +240,46 @@ b.    Character and Citizenship Education (CCE)
   </tr>
 </tbody>
 </table>
+
+*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students in 2022 will use CCE2021 Secondary 4 Lesson 1, “Levelling the Ground” from the unit, “Respectful Relationship and Safety”.* 
+
+
+<u>**eTeens Programme:**</u>
+
+8.  eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme.
+
+9.  Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
+
+**At New Town Secondary School, the eTeens programme will be implemented as follows in 2022:**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-rj1p{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-rj1p">Topics/Lessons</th>
+    <th class="tg-rj1p">Programme Learning Objectives</th>
+    <th class="tg-rj1p">Time Period<br>(e.g. Term 3 Week 9)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ii8k">Mass Talk by HPB appointed vendor</td>
+    <td class="tg-y7qa">·         Awareness of the different STIs and HIV/AIDS<br><br>·         Modes of transmission<br><br>·         Modes of protection, specifically on how the condom is used<br><br>·         Consequences and impact of STIs/HIV</td>
+    <td class="tg-y7qa">Term 4 Week 1</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">Classroom-based Lesson</td>
+    <td class="tg-y7qa">·         Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making </td>
+    <td class="tg-y7qa">Term 4 Week 2</td>
+  </tr>
+</tbody>
+</table>
