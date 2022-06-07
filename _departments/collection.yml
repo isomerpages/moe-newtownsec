@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - CCE/Values in Action (VIA).md
       - CCE/.keep
       - English & Literature/.keep
       - English & Literature/Overview.md
