@@ -87,3 +87,21 @@ The Food & Consumer programmes at Lower Secondary and Nutrition and Food Science
 <u>**Support Programme**</u>
 
 * Friday Intensive Coursework Programme (FCIP)
+
+# Music
+<u>**Core Programme**</u>
+
+The Lower Secondary music syllabus prepares students for a well-rounded music education, where it focuses on preparing students with subject knowledge in the Popular Culture (Music). A wide range of instruments is taught, exposing students to a practice-based learning environment, as their musicianship competencies are developed progressively. The syllabus culminates with a songwriting module whereby students will have the opportunity to participate in the Singapore Youth Festival: Youth Station Project Songwriting Festival with their original song composition.
+
+<u>**Enrichment Programme and Activities**</u>
+
+School Programmes; Chinese New Celebrations, Total Defence Day, International Friendship Day, National Day, Commendation Day
+
+<u>**Stretch Programmes**</u>
+
+* Singapore Youth Festival: Youth Station Project Songwriting Festival
+
+<u>**Support Programmes**</u>
+
+* F.U.N. Concert Talent Competition
+* New Town Got Talent
