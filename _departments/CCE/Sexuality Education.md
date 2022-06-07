@@ -289,9 +289,6 @@ b.    Character and Citizenship Education (CCE)
 
 11. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form is downloadable [here](/files/Annex%20A-Opt%20Out%20Form%202022.pdf). Parents are to make an appointment with the completed form to speak to our HOD (Student Welfare), Ms Rozaina Rusli, for further discussion before 18 Feb 2022. Please call our General Office at 6775 4140 to arrange an appointment. A hardcopy of the form, duly completed and signed, is to be submitted to the school office by 18 Feb 2022.
 
-12. Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form is downloadable here. Parents are to make an appointment with the completed form to speak to our HOD (Student Welfare), Ms Rozaina Rusli for further discussion before 18 Feb 2022. Please call our General Office at 6775 4140 to arrange an appointment. A hardcopy of the form, duly completed and signed, is to be submitted to the school office by 18 Feb 2022.
+12. Parents who wish to opt their children out of the **eTeens programme** need to complete an opt-out form. This form is downloadable [here](/files/Annex%20B%20-%20ETeens%20opt%20out%20form%202022.pdf). Parents are to make an appointment with the completed form to speak to our HOD (Student Welfare), Ms Rozaina Rusli for further discussion before 18 Feb 2022. Please call our General Office at 6775 4140 to arrange an appointment. A hardcopy of the form, duly completed and signed, is to be submitted to the school office by 18 Feb 2022.
 
 13. Parents can contact the school for discussion or to seek clarification about the school’s sexuality education programme
-
-
-
