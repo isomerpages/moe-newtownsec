@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Uniformed Group/.keep
       - General Information/.keep
       - General Information/Tuesday CCA Schedule.md
       - General Information/Teachers in Charge and Training Venues.md
