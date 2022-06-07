@@ -48,3 +48,13 @@ NAPFA Testing (Sec 2,4 & 5s only)
 * Sec 3 Two Days non-residential Outdoor Adventure Camp
 * Annual NTSS Cross Country 2.4km Run (Internal)
 * Standard First Aid + AED Certification for CCA leaders
+
+<u>**Stretch Programmes**</u>
+
+* Obstacle Course Challenge 2021 (Sec 1-5s)
+* Sec 1 Post Exam Activities Tchoukball Inter-Class Competition
+
+<u>**Support Programme**</u>
+
+* I’m in Charge! Active Lifestyle for Life Progamme (ALL)
+* NAPFA Re-test (for Sec 2, 4 & 5s only)
