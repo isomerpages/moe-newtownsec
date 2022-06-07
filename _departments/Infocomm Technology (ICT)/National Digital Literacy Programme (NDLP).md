@@ -85,5 +85,6 @@ You may retrieve the [Student Device Information Kit](/files/Student%20Device%20
 For more information on cyber wellness, please feel free to refer to the following links:
 1. Cyber Wellness At Home: go.gov.sg/moe-cyber-wellness
 2. Media Literacy Council Parents Resources: go.gov.sg/better-internet-sg
-3.PLD Parent Handbook: Learning with a PLD.pdf
+3.PLD Parent Handbook:  [Learning with a PLD](/files/PLD.pdf)
+
 4. Help123 (External platform by TOUCH Community Service): help123.sg
