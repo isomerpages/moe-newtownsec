@@ -22,3 +22,16 @@ The Mother Tongue Department curriculum focuses on nurturing our students in bec
 * Internal Essay Writing Competition
 * Chinese New Year Concert
 * Mother Tongue Fortnight
+
+<u>**Stretch Programmes**</u>
+
+* External Essay Writing Programme (ML)
+* National Youth Chinese Calligraphy Competition
+* National Secondary School Chinese Creative Writing Competition (新蕾奖)
+* National Creative Story Writing Competition for Secondary Students
+* National Secondary School Chinese Writing Competition @ Boon Lay Community Centre
+
+<u>**Support Programme**</u>
+
+* Afternoon Sign-Up Learning （ASL）
+* MT Intensive Programme
