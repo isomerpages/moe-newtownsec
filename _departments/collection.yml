@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Infocomm Technology (ICT)/Overview.md
       - Infocomm Technology (ICT)/.keep
       - English & Literature/.keep
       - English & Literature/Overview.md
