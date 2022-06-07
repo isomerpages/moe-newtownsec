@@ -2,10 +2,10 @@ collections:
   cca:
     output: true
     order:
-      - Uniformed Group/National Police Cadet Corps (NPCC).md
+      - Uniformed Group/.keep
       - Uniformed Group/National Cadet Corps (NCC)(Land).md
       - Uniformed Group/Girl Guides.md
-      - Uniformed Group/.keep
+      - Uniformed Group/National Police Cadet Corps (NPCC).md
       - General Information/.keep
       - General Information/Tuesday CCA Schedule.md
       - General Information/Teachers in Charge and Training Venues.md
