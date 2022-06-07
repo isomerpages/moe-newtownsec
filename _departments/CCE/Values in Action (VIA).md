@@ -38,3 +38,6 @@ At Secondary 2, students start to venture into the community to help increase aw
 At the upper secondary levels, our VIA programme aims to increase the students’ awareness to various community needs and issues, through community partnerships. The upper secondary students learn about service learning, a tool that combines learning objectives with community service in order to provide a real-life learning experience while meeting societal needs.
 
 These partnerships provide opportunities for our students to identify community needs, plan suitable projects to meet these needs, and execute them, Their learning experiences are consolidated though pre-service and post service reflections to ensure a meaningful experience for both students and accompanying teachers
+
+**Photo Gallery**
+![](/images/VIA.png)
