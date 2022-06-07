@@ -2,10 +2,10 @@ collections:
   departments:
     output: true
     order:
-      - Science/Programmes.md
-      - Science/Department Members.md
-      - Science/Overview.md
       - Science/.keep
+      - Science/Overview.md
+      - Science/Department Members.md
+      - Science/Programmes.md
       - English & Literature/.keep
       - English & Literature/Overview.md
       - English & Literature/Department Members.md
