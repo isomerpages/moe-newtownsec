@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Aesthetics and Craft/Department Members.md
       - Aesthetics and Craft/Overview.md
       - Aesthetics and Craft/.keep
       - Infocomm Technology (ICT)/.keep
