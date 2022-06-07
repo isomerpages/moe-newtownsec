@@ -2,4 +2,5 @@ collections:
   cca:
     output: true
     order:
+      - General Information/Tuesday CCA Schedule.md
       - General Information/.keep
