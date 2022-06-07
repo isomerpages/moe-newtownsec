@@ -39,3 +39,12 @@ Fitness & Conditioning
  
 NAPFA Testing (Sec 2,4 & 5s only)
 
+
+<u>**Enrichment Programmes and Activities**</u>
+
+* In class, Inter-Class & Intra-Class Competition Platforms
+* Sec 1 Introductory to Hip-Hop Dance
+* Sec 2 Introductory to Sports Climbing
+* Sec 3 Two Days non-residential Outdoor Adventure Camp
+* Annual NTSS Cross Country 2.4km Run (Internal)
+* Standard First Aid + AED Certification for CCA leaders
