@@ -42,4 +42,46 @@ b.    Character and Citizenship Education (CCE)
 
 6. The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture and the internet. Adolescence is a complex stage in life as the adolescent attempts to find his/her own identity and often struggles with new social relationships. The period of middle adolescence (generally from 15 – 17 years old) can be a turbulent period for adolescents. The gap between physical and emotional/cognitive maturity may result in a tendency to act on impulse, experiment with various activities (including sexual activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation. The need for peer acceptance can be overwhelmingly strong, and hinder one’s ability to act responsibly.  Given the pressures faced by the middle adolescent from within themselves and from peers, it is important to build a strong sense of self-worth, personal conviction and an understanding of the possible consequences of sexual behaviour.
 
-7.  Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age. 
+7.  Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
+
+**At New Town Secondary School, the following lessons from the Sexuality Education Programme will be taught in 2022:**
+
+# Secondary 1
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
+.tg .tg-rj1p{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-rj1p">UNIT</th>
+    <th class="tg-rj1p">LESSONS / DURATION</th>
+    <th class="tg-rj1p">Lesson Objectives<br>At the end of the lesson, students will be able to:</th>
+    <th class="tg-rj1p">TIME PERIOD<br>(e.g. Term 1 Week 2)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-y7qa" rowspan="3">Respectful Relationships &amp; Safety<br> <br> </td>
+    <td class="tg-y7qa">1<br>(60 mins)</td>
+    <td class="tg-y7qa">-        Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles<br><br>-        Recognise that there are different forms of love (e.g. familial, platonic, romantic love)<br><br>-        Recognise the importance and understand what builds healthy and supportive relationships, both online and offline<br><br>-         Understand what dating is, and recognise that the readiness and interest in dating vary among individuals</td>
+    <td class="tg-y7qa">Term 3 Week 7</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">2<br>(60 mins)</td>
+    <td class="tg-y7qa">-   Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept</td>
+    <td class="tg-y7qa">Term 3 Week 8</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">3<br>(60 mins)</td>
+    <td class="tg-y7qa">-       Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences<br><br>-     Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</td>
+    <td class="tg-y7qa">Term 3 Week 9</td>
+  </tr>
+</tbody>
+</table>
