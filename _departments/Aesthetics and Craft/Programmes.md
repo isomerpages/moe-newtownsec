@@ -67,3 +67,23 @@ National D&T events including
 
 <u>**Support Programme**</u><br>
 * FCIP
+
+# Nutrition and Food Science
+<u>**Core Programme**</u>
+
+The Food & Consumer programmes at Lower Secondary and Nutrition and Food Science at Upper Secondary programmes are specifically designed to provide positive experiences and develop passion for learning. Classroom activities are designed to nurture critical and creative thinking, encouraging the use of information technology and imbue a sense of national identity. Practical work in the classroom takes on an investigative approach where students use fundamental principles to design and create products to meet specific needs.
+
+
+<u>**Enrichment Programmes and Activities**</u>
+
+* Upper Secondary Enrichment on Food Science
+* Upper Secondary MasterChef Workshop
+* Nutrition and Food Science Workshops by Singapore Science Centre
+
+<u>**Stretch Programmes**</u>
+
+* Culinary Cooking Competition
+
+<u>**Support Programme**</u>
+
+* Friday Intensive Coursework Programme (FCIP)
