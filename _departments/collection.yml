@@ -2,12 +2,12 @@ collections:
   departments:
     output: true
     order:
-      - CCE/Education and Career Guidance (ECG).md
       - CCE/.keep
       - CCE/Values in Action (VIA).md
       - CCE/Cyber Wellness.md
       - CCE/Sexuality Education.md
       - CCE/National Education.md
+      - CCE/Education and Career Guidance (ECG).md
       - English & Literature/.keep
       - English & Literature/Overview.md
       - English & Literature/Department Members.md
