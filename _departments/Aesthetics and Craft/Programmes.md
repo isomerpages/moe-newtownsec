@@ -48,3 +48,22 @@ Secondary 3:
 <u>**Support Programme**</u>
 
 * Friday Intensive Coursework Programme (FCIP)
+
+# Design & Technology
+<u>**Core Programme**</u>
+* To develop and build on students’ innate curiosity and ability to create through sketching,
+building of prototypes and ICT tools
+
+<u>**Enrichment Programmes and Activities**</u>
+* Upper Sec Enrichment for Realisation of Artefact
+
+<u>**Stretch Programmes**</u>
+
+External Competitions including 
+1. National Earthquake Competition by Singapore Polytechnic
+2. Nanyang Polytechnic Science & Technology Challenge
+National D&T events including 
+	* D&T Awards
+
+<u>**Support Programme**</u><br>
+* FCIP
