@@ -31,6 +31,60 @@ New Town NPCC has achieved at least 20 GOLD Awards since 1996. We have performed
 
 **ACTIVITIES FOR THE YEAR**
 
-* Police Procedures, Basic Law, Crime Scene Investigation & Singapore Anti-Narcotics Association courses
+* Police Procedures, Basic Law, Crime Scene Investigation &amp; Singapore Anti-Narcotics Association courses
 * .22 Pistol Live Shooting
 * Team-building activities
+
+**ACHIEVEMENTS**
+
+**2021**
+
+* National Home Team Corps Award – Cadet Inspectors Team
+
+**2020**
+
+
+* SPF-NPCC Badge Awardee – Reyza Bin Tajudin (4N6)
+
+**2019**
+
+* Unit Overall Proficiency Award (2019) - Gold
+* Inter-Unit Drill Competition - 4th in Nationals
+* SPF-NPCC Badge Awardee - Safiq Shahnawaz (4E4)
+
+**2018**
+* Unit Overall Proficiency Award (2018) – Gold
+* NPCC Inter-Unit Drill Competition 2018 – 1st Position for Boys Team
+* NPCC Inter-Unit Drill Competition 2018 – 3rd Position for Girls Team
+
+**2017**
+
+* NPCC Inter-Unit Drill Competition 2017 – 1st Position
+* SPC-NPCC Award 2017 (SSGT Lim Zhi Qi Sarah, 4E4 and SSGT Gregory Ng Jun Hao, 4N5)
+* NPCC Area 16 Games Day – Silver
+* Unit Overall Proficiency Award (2017) – Gold
+
+**2016**
+
+* SPF NPCC Badge Awards
+* SI Darren Wong Fook Wah (4E4)
+* SSGT Nur Nadya Bte Yusri (4E3)
+* SI Wang Jia Wei Wayne (4E5)
+
+**2015**
+
+* Unit Overall Proficiency Award (2015) – Gold
+
+**2014**
+
+* UOPA Gold for 2014
+* Unit Overall Proficiency Award (2014) – Gold
+
+**EXTERNAL LINK**
+
+https://www.instagram.com/ntss_npcc/
+
+
+**PHOTO GALLERY**
+
+<iframe allowfullscreen="true" height="500" width="500" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSBljHWukhwDMaDRosGI72bc64CjhQA057crL1ks4Djnel_IqmU7tb4H8XrQIYwnRQ3a64MLgvu7cyU/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
