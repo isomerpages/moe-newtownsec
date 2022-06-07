@@ -2,15 +2,15 @@ collections:
   about-us:
     output: true
     order:
-      - Links/.keep
-      - School Information/.keep
-      - School Information/School History.md
-      - School Information/School Crest & Song.md
-      - School Information/Vision, Mission & Values.md
+      - Principal's Message.md
+      - Vice Principal's Message.md
+      - Our Staff.md
       - Our Partners/.keep
       - Our Partners/School Advisory Committee.md
       - Our Partners/Parent Support Group.md
       - Our Partners/New Town Alumni.md
-      - Principal's Message.md
-      - Vice Principal's Message.md
-      - Our Staff.md
+      - School Information/.keep
+      - School Information/School History.md
+      - School Information/School Crest & Song.md
+      - School Information/Vision, Mission & Values.md
+      - Links/.keep
