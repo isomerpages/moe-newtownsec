@@ -4,7 +4,7 @@ permalink: /departments/character-and-citizenship-education-cce/education-and-ca
 description: ""
 third_nav_title: CCE
 ---
-**Objective of Education & Career Guidance (ECG)**
+**Objective of Education &amp; Career Guidance (ECG)**
 * To prepare Newtowners for the world beyond secondary school life
 
 <u>**Programmes**</u><br>
@@ -32,3 +32,6 @@ Our ECG Counsellor, Mr Teng Swee Hoe provides counselling support to students wh
 * Poly Open Houses (for interested students)
 * MOE ECG Fair (for interested students)
 * In-class ECG lessons during CCE periods
+
+**Photo Gallery**
+<iframe allowfullscreen="true" height="500" width="500" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR8JMxajb3mJvOcCLtRi94kBG3EYym1-2iIE3bKC1xEf3xQMZtXfJH-wYX0Hv_Z3PDcaUAJVxtkkxsN/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
