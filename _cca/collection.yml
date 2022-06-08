@@ -2,11 +2,11 @@ collections:
   cca:
     output: true
     order:
-      - Sports & Games/Table Tennis.md
-      - Sports & Games/Football.md
       - Sports & Games/.keep
       - Sports & Games/Badminton.md
       - Sports & Games/Basketball.md
+      - Sports & Games/Football.md
+      - Sports & Games/Table Tennis.md
       - Uniformed Group/.keep
       - Uniformed Group/Girl Guides.md
       - Uniformed Group/National Cadet Corps (NCC)(Land).md
