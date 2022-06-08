@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Clubs & Societies/Media Resource Library.md
       - Clubs & Societies/.keep
       - Sports & Games/.keep
       - Sports & Games/Badminton.md
