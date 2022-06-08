@@ -26,3 +26,16 @@ Secondary 3 Express students with talent and interest in Art, and who have made 
 * Miss Siow Xing Yu (SH Aesthetics)
 * Mr Kalidass Jayaraman (ST Art)
 * Miss Chew Ying Ying
+
+**WE STories**
+Click on the link below to access the article
+* [New Town Sec_Art.pdf](/files/Pages%20from%20New%20Town%20Sec_Art.pdf)
+
+**Snapshots of our Programme**
+
+<u>**Masterclasses**</u>
+![](/images/AEP%201.png)
+![](/images/AEP.jpg)
+
+<u>**EAP Combined Schools Programme**</u>
+![](/images/AEP%202.png)
