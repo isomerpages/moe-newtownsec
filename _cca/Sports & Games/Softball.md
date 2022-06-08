@@ -12,10 +12,10 @@ Our motto is Nil Satis Nisi Optimum, “Nothing but the Best”. Through softbal
 
 **TRAINING SCHEDULE:**
 
-**Day/Time:** Every Tuesday (& Thursday*) – 3.15pm - 6.15pm
+**Day/Time:** Every Tuesday (&amp; Thursday*) – 3.15pm - 6.15pm
 
 **Venue: School Field**
-* Extra Weekly & Holiday Trainings before the Competition Season
+* Extra Weekly &amp; Holiday Trainings before the Competition Season
 
 **TEACHERS IN-CHARGE**
 
@@ -37,7 +37,7 @@ Our motto is Nil Satis Nisi Optimum, “Nothing but the Best”. Through softbal
 **B Division**
 
 * Captain – Amelia Indra Shika Putri
-* Vice Captains – Fadiah Syarah Binte Fazal Asad Ullah & Wong Si Yu
+* Vice Captains – Fadiah Syarah Binte Fazal Asad Ullah &amp; Wong Si Yu
 
 
 **C Division**
@@ -46,7 +46,7 @@ Our motto is Nil Satis Nisi Optimum, “Nothing but the Best”. Through softbal
 * Vice Captains – Nicole Clare Sea Wen Hui
 
 **ACTIVITIES FOR THE YEAR**
-* ‘B’ & ‘C’ Girls National Inter-School Softball Championships
+* ‘B’ &amp; ‘C’ Girls National Inter-School Softball Championships
 * ‘B’ Girls (Term 1: End Jan – March)
 * ‘C’ Girls (Term 3: July - Aug)
 * SRC Softball Tournament (March Holidays)
@@ -55,3 +55,5 @@ Our motto is Nil Satis Nisi Optimum, “Nothing but the Best”. Through softbal
 * Softball Camp (November)
 
 **PHOTO GALLERY**
+
+<iframe allowfullscreen="true" height="500" width="500" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRcPcFonSBlb2OlZ0d-UqYT_o8I4GGyS6yygBocexalSeZ2VlwyC_lgJhW8bRlVOQFfb8It2ScTkY6U/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
