@@ -2,6 +2,7 @@ collections:
   holistic-education:
     output: true
     order:
+      - Cognitive/2021.md
       - Cognitive/.keep
       - School Distinctive Programmes/.keep
       - School Distinctive Programmes/Applied Learning (ALP).md
