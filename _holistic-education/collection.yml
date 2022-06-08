@@ -2,11 +2,11 @@ collections:
   holistic-education:
     output: true
     order:
+      - Cognitive/.keep
       - Cognitive/2018.md
       - Cognitive/2019.md
       - Cognitive/2020.md
       - Cognitive/2021.md
-      - Cognitive/.keep
       - School Distinctive Programmes/.keep
       - School Distinctive Programmes/Applied Learning (ALP).md
       - School Distinctive Programmes/Learning for Life (LLP).md
