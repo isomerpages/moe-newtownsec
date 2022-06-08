@@ -2,6 +2,7 @@ collections:
   holistic-education:
     output: true
     order:
+      - Cognitive/2020.md
       - Cognitive/2021.md
       - Cognitive/.keep
       - School Distinctive Programmes/.keep
