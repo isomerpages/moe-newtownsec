@@ -2,4 +2,5 @@ collections:
   holistic-education:
     output: true
     order:
+      - School Distinctive Programmes/Learning for Life (LLP).md
       - School Distinctive Programmes/.keep
