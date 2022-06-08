@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Visual & Performing Arts/Concert Band.md
       - Visual & Performing Arts/Art and Crafts.md
       - Visual & Performing Arts/.keep
       - General Information/.keep
