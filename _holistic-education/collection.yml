@@ -2,6 +2,7 @@ collections:
   holistic-education:
     output: true
     order:
+      - Cognitive/2018.md
       - Cognitive/2019.md
       - Cognitive/2020.md
       - Cognitive/2021.md
