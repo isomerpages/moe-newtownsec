@@ -48,3 +48,7 @@ Mr Yong Wei Hoong (Teacher IC/ Student Council)<br>
 Mrs Keira Seow (Teacher IC/ Student Council)<br>
 Ms Wee Shu Ying (Teacher 2IC/CCA Leaders) <br>
 Ms Teng Shumin (Teacher 2IC/Student Council) <br>
+
+**Stories**
+* [New Town Sec LLP](/files/New%20Town%20Sec_LLP.pdf)
+* [CCA Good Leader Stories](/files/CCA%20Leaders_Good%20Stories.pdf)
