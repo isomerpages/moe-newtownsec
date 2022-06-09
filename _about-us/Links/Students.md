@@ -36,3 +36,6 @@ third_nav_title: Links
 * [Secondary 2](/files/2022%20Class%20Timetable_Secondary%202_Completed.pdf)
 * [Secondary 3](/files/2022%20Class%20Timetable_Secondary%203_Completed_Updated%2031%20Dec.pdf)
 * [Secondary 4 & 5](/files/2022%20Class%20Timetable_Secondary%2045_Completed_Updated%2031%20Dec.pdf)
+
+# Student Device Information Kit
+* [Student Device Information Kit.pdf](/files/Student%20Device%20Information.pdf)
