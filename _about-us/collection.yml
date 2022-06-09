@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - For Parents/Admin Information.md
       - For Parents/Group Personal Accident (GPA) Insurance Plan for Students.md
       - For Parents/.keep
       - For Parents/School Letters.md
