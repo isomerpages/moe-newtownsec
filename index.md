@@ -8,7 +8,6 @@ notification: ""
 sections:
   - hero:
       title: Hero title
-      subtitle: Hero subtitle
       background: /images/NTSS-hero-banner.gif
       button: Contact Us
       url: /contact-us/
