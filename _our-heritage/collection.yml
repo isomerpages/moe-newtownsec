@@ -1,5 +1,4 @@
 collections:
   our-heritage:
     output: true
-    order:
-      - Anderson JC/.keep
+    order: []
