@@ -26,3 +26,13 @@ third_nav_title: Links
 **School Newsletters 2016**
 * [New Town Sec Newsletter, Oct 2016](/files/2016-Edition-2_Oct.pdf)
 * [New Town Sec Newsletter, May 2016](/files/2016-Edition-1_May.pdf)
+
+# Student Learning Space (SLS)
+
+* [SLS Login](https://vle.learning.moe.edu.sg/login)
+
+# Class Timetable 2022
+* [Secondary 1](/files/2022%20Class%20Timetable_Secondary%201_Completed.pdf)
+* [Secondary 2](/files/2022%20Class%20Timetable_Secondary%202_Completed.pdf)
+* [Secondary 3](/files/2022%20Class%20Timetable_Secondary%203_Completed_Updated%2031%20Dec.pdf)
+* [Secondary 4 & 5](/files/2022%20Class%20Timetable_Secondary%2045_Completed_Updated%2031%20Dec.pdf)
