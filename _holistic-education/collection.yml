@@ -2,27 +2,27 @@ collections:
   holistic-education:
     output: true
     order:
-      - Physical/2018.md
-      - Physical/2019.md
-      - Physical/2020.md
-      - Physical/2021.md
-      - Physical/.keep
-      - Social and Moral/2018.md
-      - Social and Moral/2019.md
-      - Social and Moral/2020.md
-      - Social and Moral/2021.md
-      - Social and Moral/.keep
-      - Aesthetics/2018.md
-      - Aesthetics/2019.md
-      - Aesthetics/2020.md
-      - Aesthetics/2021.md
-      - Aesthetics/.keep
+      - School Distinctive Programmes/.keep
+      - School Distinctive Programmes/Applied Learning (ALP).md
+      - School Distinctive Programmes/Learning for Life (LLP).md
+      - School Distinctive Programmes/Enhanced Art (EAP).md
       - Cognitive/.keep
       - Cognitive/2018.md
       - Cognitive/2019.md
       - Cognitive/2020.md
       - Cognitive/2021.md
-      - School Distinctive Programmes/.keep
-      - School Distinctive Programmes/Applied Learning (ALP).md
-      - School Distinctive Programmes/Learning for Life (LLP).md
-      - School Distinctive Programmes/Enhanced Art (EAP).md
+      - Physical/.keep
+      - Physical/2018.md
+      - Physical/2019.md
+      - Physical/2020.md
+      - Physical/2021.md
+      - Aesthetics/.keep
+      - Aesthetics/2018.md
+      - Aesthetics/2019.md
+      - Aesthetics/2020.md
+      - Aesthetics/2021.md
+      - Social and Moral/.keep
+      - Social and Moral/2018.md
+      - Social and Moral/2019.md
+      - Social and Moral/2020.md
+      - Social and Moral/2021.md
