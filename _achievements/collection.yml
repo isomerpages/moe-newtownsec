@@ -2,5 +2,6 @@ collections:
   achievements:
     output: true
     order:
+      - Staff/2013 to 2017.md
       - Staff/.keep
       - Alumni.md
