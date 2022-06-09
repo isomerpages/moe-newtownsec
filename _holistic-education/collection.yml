@@ -2,6 +2,7 @@ collections:
   holistic-education:
     output: true
     order:
+      - Physical/2021.md
       - Physical/.keep
       - Social and Moral/2018.md
       - Social and Moral/2019.md
