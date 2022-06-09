@@ -2,14 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - For Parents/.keep
-      - For Parents/School Letters.md
-      - For Parents/School Newsletters.md
-      - For Parents/Direct School Admission Secondary Exercise 2022.md
-      - For Parents/Group Personal Accident (GPA) Insurance Plan for Students.md
-      - For Parents/Admin Information.md
-      - For Parents/Financial Assistance.md
-      - For Parents/Purchase of Textbooks and School Attire.md
       - Principal's Message.md
       - Vice Principal's Message.md
       - Our Staff.md
@@ -21,5 +13,13 @@ collections:
       - School Information/School History.md
       - School Information/School Crest & Song.md
       - School Information/Vision, Mission & Values.md
-      - Links/Students.md
+      - For Parents/.keep
+      - For Parents/School Letters.md
+      - For Parents/School Newsletters.md
+      - For Parents/Direct School Admission Secondary Exercise 2022.md
+      - For Parents/Group Personal Accident (GPA) Insurance Plan for Students.md
+      - For Parents/Admin Information.md
+      - For Parents/Financial Assistance.md
+      - For Parents/Purchase of Textbooks and School Attire.md
       - Links/.keep
+      - Links/Students.md
