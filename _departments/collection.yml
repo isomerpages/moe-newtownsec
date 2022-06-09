@@ -2,12 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - CCE/.keep
-      - CCE/Values in Action (VIA).md
-      - CCE/Cyber Wellness.md
-      - CCE/Sexuality Education.md
-      - CCE/National Education.md
-      - CCE/Education and Career Guidance (ECG).md
       - English & Literature/.keep
       - English & Literature/Overview.md
       - English & Literature/Department Members.md
@@ -41,3 +35,9 @@ collections:
       - Physical Education (PE)/Overview.md
       - Physical Education (PE)/Department Members.md
       - Physical Education (PE)/Programmes.md
+      - CCE/.keep
+      - CCE/Values in Action (VIA).md
+      - CCE/Cyber Wellness.md
+      - CCE/Sexuality Education.md
+      - CCE/National Education.md
+      - CCE/Education and Career Guidance (ECG).md
