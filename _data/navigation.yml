@@ -1,6 +1,12 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Resources
-    resource_room: true
+  - title: About Us
+    collection: about-us
+  - title: Department
+    collection: departments
+  - title: CCA
+    collection: cca
+  - title: Holistic Education
+    collection: holistic-education
+  - title: Achievements
+    collection: achievements
