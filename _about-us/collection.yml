@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - For Parents/Direct School Admission Secondary Exercise 2022.md
-      - For Parents/School Newsletters.md
-      - For Parents/School Letters.md
       - For Parents/.keep
+      - For Parents/School Letters.md
+      - For Parents/School Newsletters.md
+      - For Parents/Direct School Admission Secondary Exercise 2022.md
       - Principal's Message.md
       - Vice Principal's Message.md
       - Our Staff.md
