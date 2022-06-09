@@ -11,28 +11,7 @@ Please download the School Letters in the link below:
 * [Sec 2_Sem 2 2022 Parent Letter.pdf](/files/Sec%202_Sem%202%202022%20Parent%20Letter.pdf)
 * [Sec 3_Sem 2 2022 Parent Letter.pdf](/files/Sec%203_Sem%202%202022%20Parent%20Letter.pdf)
 * [Sec 4&5_Sem 2 2022 Parent Letter.pdf](/files/Sec%2045_Sem%202%202022%20Parent%20Letter.pdf)
-# School Newsletters
-**School Newsletters 2021**
-* [New Town Sec Newsletter, Oct 2021](/files/New%20Town%20Sec_NL_Oct%202021.pdf)
-* [New Town Sec Newsletter, June 2021](/files/New%20Town%20Sec_NL_June21.pdf)
 
-
-**School Newsletters 2020**
-* [New Town Sec Newsletter, Oct 2020](/files/Newsletter%20Oct%202020.pdf)
-* [New Town Sec Newsletter, June 2020](/files/Newsletter%20Jun20%20(Final%204Jun%2020).pdf)
-**School Newsletters 2019**
-* [New Town Sec Newsletter, Oct 2019 ](/files/New%20Town%20Sec_NL_Oct2019.pdf)
-* [New Town Sec Newsletter, May 2019 ](/files/New%20Town%20Sec_NL_May2019.pdf)
-
-**School Newsletters 2018**
-* [New Town Sec Newsletter, May 2018](/files/2018-Edition-1_May.pdf)
-* New Town Sec Newsletter, May 2018
-**School Newsletters 2017**
-* [New Town Sec Newsletter, Oct 2017](/files/2017-2_Oct.pdf)
-* [New Town Sec Newsletter, May 2017](/files/2017-Edition-1_May.pdf)
-**School Newsletters 2016**
-* [New Town Sec Newsletter, Oct 2016](/files/2016-Edition-2_Oct.pdf)
-* [New Town Sec Newsletter, May 2016](/files/2016-Edition-1_May.pdf)
 
 # Direct School Admission – Secondary (DSA-Sec) Exercise 2022
 
@@ -64,4 +43,3 @@ If you think you have what it takes, do apply to join our school through our DSA
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.
 
 For more information on DSA-Sec, please refer to the MOE website at https://www.moe.gov.sg/dsa-sec
-
