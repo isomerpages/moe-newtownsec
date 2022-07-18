@@ -7,8 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Hero title
+      title: Newtown Secondary School
       background: /images/NTSS-hero-banner.gif
-      button: Contact Us
-      url: /contact-us/
 ---
