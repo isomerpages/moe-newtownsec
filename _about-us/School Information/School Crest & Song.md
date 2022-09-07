@@ -1,11 +1,14 @@
 ---
 title: School Crest & Song
-permalink: /about-us/School-Information/school-crest-n-song
+permalink: /about-us/School-Information/school-crest-n-song/
 description: ""
 third_nav_title: School Information
 ---
 # School Crest
-![](/images/ntss-logo.jpg)
+
+<img src="/images/ntss-logo.jpg" 
+     style="width:50%">
+		 
 ***创造美好生活***
 
 ***TO FORGE A BETTER LIFE***
