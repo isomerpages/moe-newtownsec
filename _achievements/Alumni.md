@@ -1,6 +1,6 @@
 ---
 title: Alumni
-permalink: /achievements/alumni
+permalink: /achievements/alumni/
 description: ""
 ---
 <u>**2018**</u>

@@ -1,6 +1,6 @@
 ---
 title: Students
-permalink: /about-us/Links/students
+permalink: /about-us/links/students/
 description: ""
 third_nav_title: Links
 ---

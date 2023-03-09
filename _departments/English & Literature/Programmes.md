@@ -1,6 +1,6 @@
 ---
 title: Programmes
-permalink: /departments/English-n-Literature/programmes
+permalink: /departments/english-n-literature/programmes/
 description: ""
 third_nav_title: English & Literature
 ---

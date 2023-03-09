@@ -1,6 +1,6 @@
 ---
 title: Football
-permalink: /cca/Sports-and-Games/football
+permalink: /cca/sports-and-games/football/
 description: ""
 third_nav_title: Sports & Games
 ---

@@ -1,6 +1,6 @@
 ---
 title: Vice Principal's Message
-permalink: /about-us/vice-principals-message
+permalink: /about-us/vice-principals-message/
 description: ""
 ---
 **Vice-Principals' Message**

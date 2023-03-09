@@ -1,6 +1,6 @@
 ---
 title: Softball
-permalink: /cca/Sports-and-Games/softball
+permalink: /cca/sports-and-games/softball/
 description: ""
 third_nav_title: Sports & Games
 ---

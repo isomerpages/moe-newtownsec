@@ -1,6 +1,6 @@
 ---
 title: Department Members
-permalink: /departments/Mathematics/department-members
+permalink: /departments/mathematics/department-members/
 description: ""
 third_nav_title: Mathematics
 ---

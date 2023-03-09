@@ -1,6 +1,6 @@
 ---
 title: Department Members
-permalink: /departments/Physical-Education-PE/department-members
+permalink: /departments/physical-education-pe/department-members/
 description: ""
 third_nav_title: Physical Education (PE)
 ---

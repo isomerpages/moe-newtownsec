@@ -1,6 +1,6 @@
 ---
 title: Programmes
-permalink: /departments/Mother-Tongue-Language/programmes
+permalink: /departments/mother-tongue-language/programmes/
 description: ""
 third_nav_title: Mother Tongue Language
 ---

@@ -1,6 +1,6 @@
 ---
 title: Department Members
-permalink: /departments/Humanities/department-members
+permalink: /departments/humanities/department-members/
 description: ""
 third_nav_title: Humanities
 ---

@@ -1,6 +1,6 @@
 ---
 title: Our Staff
-permalink: /about-us/our-staff
+permalink: /about-us/our-staff/
 description: ""
 ---
 **School Management Committee 2022**

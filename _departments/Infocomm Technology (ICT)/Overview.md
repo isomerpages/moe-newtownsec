@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /departments/information-and-communications-technology-ict/overview
+permalink: /departments/information-and-communications-technology-ict/overview/
 description: ""
 third_nav_title: Infocomm Technology (ICT)
 ---

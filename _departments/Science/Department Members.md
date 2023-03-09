@@ -1,6 +1,6 @@
 ---
 title: Department Members
-permalink: /departments/Science/department-members
+permalink: /departments/science/department-members/
 description: ""
 third_nav_title: Science
 ---

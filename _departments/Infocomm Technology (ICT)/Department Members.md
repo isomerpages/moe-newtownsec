@@ -1,6 +1,6 @@
 ---
 title: Department Members
-permalink: /departments/information-and-communications-technology-ict/department-members
+permalink: /departments/information-and-communications-technology-ict/department-members/
 description: ""
 third_nav_title: Infocomm Technology (ICT)
 ---

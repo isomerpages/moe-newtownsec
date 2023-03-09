@@ -1,6 +1,6 @@
 ---
 title: Department Members
-permalink: /departments/Aesthetics-and-Craft/department-members
+permalink: /departments/aesthetics-and-craft/department-members/
 description: ""
 third_nav_title: Aesthetics and Craft
 ---

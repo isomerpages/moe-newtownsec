@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /departments/English-n-Literature/overview
+permalink: /departments/english-n-literature/overview/
 description: ""
 third_nav_title: English & Literature
 ---

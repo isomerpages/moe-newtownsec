@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /departments/Humanities/overview
+permalink: /departments/humanities/overview/
 description: ""
 third_nav_title: Humanities
 ---
