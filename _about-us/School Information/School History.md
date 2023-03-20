@@ -5,6 +5,7 @@ description: ""
 third_nav_title: School Information
 ---
 **History of NTSS Principalship - 1965- Present**
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -73,7 +74,11 @@ third_nav_title: School Information
   </tr>
   <tr>
     <td class="tg-4vpu">Mrs Sng Siew Hong</td>
-    <td class="tg-4vpu">January 2016 to present</td>
+    <td class="tg-4vpu">January 2016 to December 2022</td>
+  </tr>
+  <tr>
+    <td class="tg-dlwg">Mr Ari Manickam </td>
+    <td class="tg-dlwg">January 2023 to present</td>
   </tr>
 </tbody>
 </table>
