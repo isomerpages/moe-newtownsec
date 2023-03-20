@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Principal's Message.md
+      - Principal's Message 2023.md
       - Vice Principal's Message.md
       - Our Staff.md
       - Our Partners/.keep
