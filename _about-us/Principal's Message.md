@@ -3,18 +3,19 @@ title: Principal's Message
 permalink: /about-us/principals-message/
 description: ""
 ---
-**Principal's Message**
+A warm welcome to New Town Secondary School!  
 
-Since its founding in 1965, New Town Secondary School has been steadfast in providing a holistic education for its students and in nurturing their talents. Over the decades, the passing of hands from one school principal to another has stayed true to fulfilling the school mission and working towards achieving greater heights for its journey towards school excellence.
+I feel honoured and privileged to be the Principal of New Town Secondary School, carrying forward the good work done by my predecessors.  
 
-Besides imparting knowledge and skills, our staff and the school community have continually worked to instill the values of care & concern, self-discipline, integrity, resilience and resourcefulness in our students. Over the years, we have also seen the growth and maturity of our students, with many generations of ‘New Towners’ being able ‘To Forge a Better Life’ for themselves and actively contribute to society.
+2022 was an exciting year for the staff and students of both New Town Secondary School and Tanglin Secondary School. They were deeply involved in many conversations and merger-related activities. I am very appreciative of the staff, especially the Key Personnel of both schools, for spearheading many of the merger-related work despite the demands of their current work. As a result, we managed to have conversations and make decisions on many critical areas – school’s key programmes, school rules, timetabling matters etc. I am also grateful to the student leaders for planning the Symbolic Walk event with the teachers from the Student Leadership Committee. The event held on 28 October 2022 not only ended the school term of both schools on a high note, but also marked the beginning of our journey as one school.  
 
-With the establishment of our school niche in Community and Youth Leadership (Learning for Life Programme or LLP), we provide an array of programmes and activities to further develop and nurture the leadership qualities in our students. Through planned approaches and community partnership, the LLP aims to enable our students not only to lead their own lives responsibly but also to be able to impact others meaningfully through their leadership and services.
+Both Tanglin and New Town Secondary schools have rich histories. Tanglin Secondary School was one of the pioneer technical schools which helped prepare young Singaporeans for industrialization. It was also the first to admit female students to its technical courses.  On the other hand, New Town Secondary School was founded in 1965, the same year Singapore gained its independence. It was one of the first schools in Singapore to provide bilingual education to its pupils. Together, both schools have a collective history of close to 120 years.
 
-By enabling our students to be resilient learners and to equip them with critical and inventive thinking skills, the school has identified Visual Communication as its second niche under the Applied Learning Programme or ALP. Using a thematic approach that spans across subject areas such as Science, Art, Humanities and English, and by tapping on current related platforms and resources within and beyond the school, we aim to better prepare students for the challenges and opportunities in a rapidly changing world.
+While the two schools have a number of similarities, each school has its own unique strengths. The merger will give us an opportunity to leverage on the strengths of each school to bring about positive outcomes based on our belief that **everyone is unique and that all can succeed**. But for all these to happen, we must respect each other, practice inclusivity and demonstrate empathy.  
 
-Over the years, New Town Secondary School has enjoyed the strong support given by parents, the school advisory committee, alumni, parent support group and partners in education. I am confident that my staff and I will uphold the trust and confidence entrusted upon us to fulfill the school vision of ‘Nurturing Talents, Sharing Success’. We will strive to enable our students to be resilient learners, compassionate citizens and confident leaders.<br>
- Wishing You All the Best!
+2023 will continue to be an exciting year for all of us as we begin our journey under one roof. To emphasise the importance of building a common identity, we have adopted the theme, ‘R.I.S.E. as ONE’ for 2023. R.I.S.E. stands for Respect, Inclusivity, Strength and Empathy. The theme signifies that we will not only work together but soar as one. We have planned many opportunities for students and staff to get to know each other better during the first week of school and for the rest of the year.  
 
-Mrs Sng Siew Hong<br>
-Principal, New Town Secondary School
+The new school term will bring new possibilities and experiences. I am committed to journey with each and everyone in the New Town family to nurture every Newtowner to realize his/her potential and **to forge better lives** for all.
+
+Mr Ari Manickam <br>
+Principal
