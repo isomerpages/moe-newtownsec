@@ -4,27 +4,52 @@ permalink: /about-us/our-partners/parent-support-group-2023/
 description: ""
 third_nav_title: Our Partners
 ---
-
-![](/images/PSGG-300x132.jpg)
-Hi There!
-
-From New Town Secondary School Parent Support Group (NTSS PSG), we sincerely welcome your visit to our website!
-
-NTSS PSG was set up by a group of like-minded parents with a vision of a happier school community. Years down the road, after working on many school programs and activities together, this group of parents have become friends, grown in numbers while keeping their strong drive to keep this PSG going.
-
-If you wish to contact us, please direct your enquiry to ntss@moe.edu.sg. We will get in touch with you as soon as possible.
-
-<u>**NTSS Parents Support Group Executive Committee 2022 (with effect from 1 Nov 2021)**</u>
-**Chairperson:**                   Mdm Angeline Oer<br>
-**Vice-Chairperson:**         Mr Lim Hon<br>
-**Secretary:**                         Mdm Carol Phua<br>
-**Assistant Secretary:**    Mdm Jennifer Chin<br>
-**Treasurer:**                        Ms Susanna Koh<br>
-
-**Our Objectives**
-
-* Foster parental involvement in school programs and activities.
-* Provide a platform for communication among parents
-
-**Gallery**
-![](/images/PSG.png)
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-dwlh{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-3jxu{background-color:#eaeaea;text-align:center;vertical-align:top}
+.tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Appointment</span></th>
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Name</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Co-Chairperson</span><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mrs Angeline Oer</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Co-Chairperson </span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Ms Winny Kwok </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-3jxu">Secretary</td>
+    <td class="tg-3jxu">Ms <span style="font-weight:400;font-style:normal">Catherine Yap</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Assistant Secretary</span><span style="font-weight:bold;color:black"> </span></td>
+    <td class="tg-ii8k">Ms Jennifer Chin</td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Sec 2 Representative </span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr William Chua</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">  Sec 3 Representative </span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Ms Juliet Ho </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Sec 4 Representative</span><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Ms Ann Ng</span></td>
+  </tr>
+</tbody>
+</table>
