@@ -11,29 +11,52 @@ New Town Concert Band (formerly a military band) was formed in 1967 and has been
  
 **PRACTICE SCHEDULE:**
 
-**Day/Time:** Every Tuesday – 3.00pm - 6.30pm
-
-**Venue:** Music room and School premises
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-n4qt">Date / Time</th>
+    <th class="tg-ii8k">Every Tuesday : 3.30pm – 5.30pm<br>Every Friday : 2.30pm – 5.30pm</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-n4qt"> Venue</td>
+    <td class="tg-ii8k">Music Room and School premises</td>
+  </tr>
+</tbody>
+</table>
 
 **TEACHERS IN-CHARGE**
 
-* Ms Yong Li Ping (1st i/c)
-* Mr Muhammad Nur Azman Shah (2nd i/c)
-* Ms Lu Jing
+*   Ms Yong Li Ping (1st i/c)
+*   Mr Muhammad Nur Azman Shah (2nd i/c)
+*   Ms Lu Jing
+*   Ms Anita Bte Mohamed Salleh
+*   Ms Nurul Aisyah Bte Rosli
 
 **CONDUCTORS/TUTORS**
 
-* Mr Erik Tan (Main Conductor)
-* Mr Edmund Chang (Assistant Conductor)
-* Mr Gordon Tan (Section Tutor)
+*   Mr Tan Thiam Hock Erik
+*   Mr Chang Tat Fai Edmund
+*   Mr Gordon Tan Li Chuan
 
 **STUDENT LEADERS** 
-* Band Major - Keshav Menon
-* Drum Major – Ryoo Jin Hee
-* Assistant Band Major – Poon See Mun
-* Assistant Drum Major – Cole Jong Cheng Kai
+*   Band Major - TBA
+*   Drum Major - TBA     
+*   Assistant Band Major - TBA  
+*   Assistant Drum Major - TBA
 
-**ACTIVITIES FOR THE YEAR 2022**
+
+**ACTIVITIES FOR THE YEAR**
 
 * Band Camp
 * IN-HOUSE AND OUTDOOR PERFORMANCES
