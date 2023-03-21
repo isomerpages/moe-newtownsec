@@ -12,38 +12,58 @@ Our motto is Nil Satis Nisi Optimum, “Nothing but the Best”. Through softbal
 
 **TRAINING SCHEDULE:**
 
-**Day/Time:** Every Tuesday (&amp; Thursday*) – 3.15pm - 6.15pm
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-n4qt">Training Time*</th>
+    <th class="tg-ii8k">Every Tuesday : 3.30pm – 5.30pm<br>Every Friday: 1.15pm – 4.15pm</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-n4qt">Training Venue</td>
+    <td class="tg-ii8k">School Field and School premises </td>
+  </tr>
+</tbody>
+</table>
 
-**Venue: School Field**
-* Extra Weekly &amp; Holiday Trainings before the Competition Season
+*Extra Weekly & Holiday Trainings before the Competition Season
 
 **TEACHERS IN-CHARGE**
 
-* Mdm Low Hui Ming (1st i/c)
-* Ms Tracy Ng Siew Siew
-* Mdm Gandhimathi w/o Rashasegaran
-* Ms Tamil Alagi Manian
+*   Mdm Low Hui Ming (1st i/c)
+*   Ms Tracy Ng Siew Siew (2nd i/c)
+*   Ms Toh Hui Min
+*   Ms Tamil Alagi Manian
+
 
 **COACHES**
 
-* Mr Ngiam Jun Jie Gerann
-* Mr Ngiam Swee Kee
-* Mr Joshua Tam Jun Wen, Toshifumi
-* Miss Charmaine Chua
-* Miss Cacia Tan
+*   Ms Charmaine Chua Jia Ying
+*   Ms Adelia Koh Rui Wen 
+*   Mr Ngiam Jun Jie Gerann  
+*   Mr Ngiam Swee Kee
 
 **STUDENT LEADERS**
 
 **B Division**
 
-* Captain – Amelia Indra Shika Putri
-* Vice Captains – Fadiah Syarah Binte Fazal Asad Ullah &amp; Wong Si Yu
-
+*   Captain – TBA
+*   Vice Captains – TBA
 
 **C Division**
 
-* Captain – Nada Putri Ismadi
-* Vice Captains – Nicole Clare Sea Wen Hui
+*   Captain – TBA
+*   Vice Captains – TBA
 
 **ACTIVITIES FOR THE YEAR**
 * ‘B’ &amp; ‘C’ Girls National Inter-School Softball Championships
