@@ -10,22 +10,24 @@ third_nav_title: Clubs & Societies
 Infocomm Technology (Media Production) was established in 2018, tapping on the strengths of the previous Infocomm Club and AVA and Photography Club.Infocomm Technology aims to provide members with opportunities to develop their media skills and build their portfolio in two inter-related areas – namely, photography (handling DSLR cameras, design elements) and audio-visual support. Students deepen their competencies in these areas through in-house training sessions, photography outings, participation in national competitions and providing audio-visual support to school events.
 
 **TRAINING SCHEDULE:**
-**Day/Time:** Every Tuesday – 3.05pm - 6.00pm
+**Day/Time:** Every Tuesday – 3.15pm - 6.00pm
 
 **Venue:** Computer labs
 
 
 **TEACHERS IN-CHARGE**
-* Ms Zoe Chan Zhong Yi  (1st i/c)
-* Mr Loganadhan Prathap
-* Ms Chew Ying Ying
-* Ms Caley Ng Yuet Wan
+*   Ms Zoe Chan Zhong Yi  (1st i/c)  
+*   Ms Hannah Cheng (2nd i/c)
+*   Mr Loganadhan Prathap  
+*   Ms Chew Ying Ying
+*   Ms Joyce Gayathri
+*   Mr Xu Yiming
 
 **INSTRUCTORS**
 
-* Mr Jau Teng Xi
-* Mr Tan Xuan Rui
-* Mr Muhammad Sulaiman
+*   Ms Stiti Zaleha Binte Zainal
+*   Mr Mahyuddin Chan
+*   Mr Hirwanis Bin Ismail
 
 **ACTIVITIES FOR THE YEAR**
 
