@@ -4,56 +4,115 @@ permalink: /holistic-education/school-distinctive-programmes/applied-learning-al
 description: ""
 third_nav_title: School Distinctive Programmes
 ---
+New Town Secondary School’s ALP titled **‘Digital Communicators, Change Makers’** seeks to develop in every New Towner the interest, knowledge and skills in digital literacy to enable students to think critically and respond creatively to authentic situations. Students will be given opportunities to apply their learning in digital literacies through Art and Humanities subjects. This will enable students to appreciate the relevance and value of what they have learned, and allow them to contribute actively to an increasingly interconnected future workforce and society.
 
-**Developing critical and inventive thinkers through visual communication**
+**_Through the ALP, students will be supported to develop digital communications literacies to understand and contribute actively to society._**
 
-<u>**Introduction**</u><br>
-The Applied Learning Programme (ALP) aims to connect academic knowledge and skills with the real world, emphasizing on application of thinking skills, connecting knowledge across disciplines, stretching the imagination and applying these skills in authentic settings in society and industries.
+<figure>
+<img src="/images/stop%20motion.png">
+<figcaption>Students working on their stop-motion animation</figcaption>
+</figure>
 
-In New Town Secondary School, we envision our students to be resilient learners who are equipped with critical and inventive thinking skills to prepare them for the challenges and opportunities in a fast-changing world. Through visual communication, students will develop critical and inventive thinking as they are able to view pictures from different perspectives. Students will also have the opportunity to explore various possibilities of visual representations to bring about their intended message.
+The programme takes key reference from UNICEF’s (2019) definition of digital literacy and the National Digital Literacy Programme. In particular, the ALP considers students’ development of digital communications in relation to the key aspects of digital literacy:
 
-This programme aims to develop students’ visual expression and language as well as stimulate creativity through photography. The infusion of photography in various subjects such as Science and English enhances their Art experience as they are able to appreciate the interconnectedness between various disciplines and the value of Art in their lives. Together with the education and career guidance (ECG) component, a Newtowner who has gone through the programme will be able to respect different viewpoints and perspectives, and practise photography with passion, integrity and a greater sense of civic responsibility.
+* Information and Data Literacy
 
-We adopt a thematic approach for this programme which focuses on the interdisciplinary nature of photography and the image capturing tools. Learning activities utilise a blended structure which are held during curriculum lessons as well as through selected enrichment.
+* Critical Thinking and Problem Solving
 
-**Objective**
-![](/images/1_ALP-FOR-WEBSITE.jpg)
+* Digital Content Creation
 
-**ACTIVITIES/PROGRAMMES**
-**Tier 1:**
+* Communication and Collaboration
 
-* Lessons on Light (Sec 1)
-* Pinhole Camera (Sec 1)
-* Basic Photography Workshop (Sec 1)
-* Stop Motion Animation Workshop (Sec 2)
+Students will be given learning opportunities through Tier 1 and 2 programmes to acquire and demonstrate student outcomes in alignment to MOE’s Desired Outcomes of Education and the development of 21st Century Competencies (21CC):
 
-**Tier 2:**
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
+.tg .tg-tth3{background-color:#EAEAEA;color:#4455A5;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-tth3">MOE’s Desired Outcomes of Education</th>
+    <th class="tg-tth3">Development of 21CC</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-y7qa">Confident Person</td>
+    <td class="tg-y7qa">Solve problems creatively</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">Self-directed Learner</td>
+    <td class="tg-y7qa">Access and operate safely and effectively in a digital environment safely, and critically evaluate information</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">Concerned Citizen</td>
+    <td class="tg-y7qa">Communicates responsibly and effectively through digital technology</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">Active Contributor</td>
+    <td class="tg-y7qa">Develop and create digital content</td>
+  </tr>
+</tbody>
+</table>
 
-* Outdoor Photography Session
-* Curation and Exhibition
-* Photography Competitions
-* Advanced Elective Module
+### Overview of NTSS ALP Learning Experiences
 
-**Secondary 1**
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
+.tg .tg-b9g7{background-color:#EAEAEA;color:#4455A5;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-tth3{background-color:#EAEAEA;color:#4455A5;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-tth3">Tier</th>
+    <th class="tg-tth3">Student Group</th>
+    <th class="tg-tth3">Theme</th>
+    <th class="tg-tth3">Digital Communication Skills</th>
+    <th class="tg-tth3">Learning Platforms</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-b9g7" rowspan="2">Tier 1 (Broad-based Learning Experiences)<br></td>
+    <td class="tg-y7qa">Sec 1</td>
+    <td class="tg-y7qa">Exploring and appreciating our heritage and  shared history (Past)</td>
+    <td class="tg-y7qa">Smartphone photography skills: camera basics and settings, composition and framing, basic photography skills (e.g. exposure triangle, focus, etc.)</td>
+    <td class="tg-y7qa" rowspan="2">+ Knowledge &amp; Skills: through workshops carried out during curriculum time<br> <br>+ Opportunities &amp; Applications: through group digital product creations and showcase / competitions</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">Sec 2</td>
+    <td class="tg-y7qa">Thinking critically about our community and environment (Present)</td>
+    <td class="tg-y7qa">Stop-motion animation basics, storytelling and storyboarding techniques</td>
+  </tr>
+  <tr>
+    <td class="tg-b9g7" rowspan="2">Tier 2 (Interest-based Developmental Experiences)<br></td>
+    <td class="tg-y7qa">Infocomm Club CCA<br> <br>Art and Crafts Club CCA<br>(from 2024 onwards)<br> </td>
+    <td class="tg-y7qa" rowspan="2">Responding creatively to what’s ahead (Future)</td>
+    <td class="tg-y7qa" rowspan="2">Digital photography and video creation focusing on innovative advertising strategies for print and digital platforms, persuasive techniques and integrated advertising techniques</td>
+    <td class="tg-y7qa">+ Knowledge &amp; Skills: through workshops and learning journeys<br> <br>+ Opportunities &amp; Applications: through partnerships with community groups</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">Selected Students</td>
+    <td class="tg-y7qa">+ Media literacy workshops<br>+ Learning journeys</td>
+  </tr>
+</tbody>
+</table>
 
-Lesson 1:<br>
-ASK » How is an image formed?<br>
-CREATE » Pinhole viewer/camera<br>
-![](/images/ALP.png)
 
-Lesson 2:<br>
-ASK » What gives an object its colour?<br>
-EXPLORE » Adding colours and making shadows<br>
-CREATE » A colourful world (Colourful shadows, Light experiments on various coloured objects)
 
-![](/images/ALP%202.png)
-
-Lesson 3:<br>
-ASK » How does a camera work?<br>
-EXPLORE » Camera Handling, Functions on a camera, Basic Composition<br>
-CREATE » Snapshots on patterns around the school
-![](/images/ALP%203.png)
-
-**Staff in/scheme-of-assessment charge**
-* Mr Evan Ng (HOD/Science)
-* Ms Siow Xing Yu (SH/Aesthetics)
+<figure>
+<img src="/images/ALP2023.png">
+<figcaption>Students applying skills learned (e.g. composition techniques) outside the classroom</figcaption>
+</figure>
