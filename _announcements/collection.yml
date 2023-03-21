@@ -2,4 +2,5 @@ collections:
   announcements:
     output: true
     order:
+      - Class Timetable 2023.md
       - Sec 1 CCA Open House and Selection 2023.md
