@@ -15,19 +15,42 @@ Promote an opportunity to experience the sport at a competitive level.
 
 **TRAINING SCHEDULE:**
 
-**Day/Time:** Every Tuesday – 3.15pm - 6.15pm
-
-**Venue:** School Hall
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-n4qt">Training Time</th>
+    <th class="tg-ii8k">Every Tuesday: 3.30pm – 5.30pm<br>Every Friday: 1.30pm – 4.00pm</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-n4qt">Training Venue</td>
+    <td class="tg-ii8k">School Hall</td>
+  </tr>
+</tbody>
+</table>
 
 **TEACHERS-IN-CHARGE**
 
-* Mr Goh Soon Hua (1st i/c)
-* Mr James Koh Chee Yong
+*   Mr Goh Soon Hua (1st i/c)
+*   Mr James Koh Chee Yong (2nd i/c)
+*   Ms Shannon Yap Tuan Chong
 
 
 **COACHES**
 
-* To be confirmed
+*   Mr Tan Kok Tiong Joel
+*   Mr Goh Chin Peng 
+*   Mr Lee Hau Wei, Gabriel
 
 **ACTIVITIES FOR THE YEAR**
 
