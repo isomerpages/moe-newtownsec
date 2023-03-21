@@ -11,20 +11,18 @@ At Media Resource Library Club, we organize activities to promote a reading cult
 
 **TRAINING SCHEDULE:**
 
-**Day/Time:** Every Tuesday – 3.15pm - 6.00pm
+**Day/Time:** Every Tuesday – 3.30pm - 6.00pm
 
 **Venue:** School library
 
 **TEACHERS IN-CHARGE**
-* Mdm Jenny Wee (1st i/c)
-* Mdm Song Ziyan
-
+*   Mdm Song Ziyan (1st i/c)  
+*   Mrs Serene Choy
 **STUDENT LEADERS**
 
-* Ashok Samriddhi (4E1)
-* Kong Yun Yee (4E2)
+* TBA
 
-**ACTIVITIES FOR THE YEAR 2022**
+**ACTIVITIES FOR THE YEAR**
 
 * Storytelling Training
 * Paper Cutout Animation Training
