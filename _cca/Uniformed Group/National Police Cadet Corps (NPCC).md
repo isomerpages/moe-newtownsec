@@ -12,22 +12,24 @@ New Town NPCC has achieved at least 20 GOLD Awards since 1996. We have performed
 
 **TRAINING SCHEDULE:**
 
-**Day/Time**: Every Tuesday – 3.15pm - 6.15pm
+**Day/Time**: Every Friday – 2.30pm - 5.30pm
 
 **Venue**: NPCC Room or School premises
 
 **TEACHERS-IN-CHARGE**
-* Mrs Keira Seow (1st i/c)
-* Ms Lai Chiu Shuan (2nd i/c)
-* Mr Low Woon Kiat, Nicholas
-* Ms Alisha Lim Qing Chen
+*   Mrs Keira Seow (1st i/c)
+*   Ms Lai Chiu Shuan (2nd i/c)
+*   Mdm Ong Hwee Hian  
+*   Ms Kalai Vani Sivam
+*   Mr Alex Chan Kwan Meng
+*   Ms Alisha Lim Qing Chen
 
 **CADET INSPECTORS**
 
-* Lim Jian Xiong Jacky
-* Issac Tok Jie Xun
-* Loh Jiawei Roy
-* Pek Bing Zheng Jordan
+*   Lim Jian Xiong Jacky
+*   Issac Tok Jie Xun
+*   Loh Jiawei Roy
+*   Pek Bing Zheng Jordan
 
 **ACTIVITIES FOR THE YEAR**
 
