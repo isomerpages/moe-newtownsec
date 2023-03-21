@@ -24,15 +24,15 @@ NCC has eight Core Values:
 
 **TRAINING SCHEDULE:**
 
-**Day/Time**: Every Tuesday – 3.15pm - 6.15pm
+**Day/Time**: Every Friday – 2.30pm - 5.30pm
 
 **Venue**: NCC Room or School premises
 
 **TEACHERS-IN-CHARGE**
 
-* Mr Sky Phua (1st i/c)
-* Mr Tay Chong Guan 
-* Mr Jackson Goh
+*   Mr Jackson Goh (1st i/c)
+*   Mr Tay Chong Guan (2nd i/c)
+*   Mr Randall Lim Wei Chun
 
 **ACTIVITIES FOR THE YEAR**
 
