@@ -2,10 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Humanities/.keep
-      - Humanities/Overview.md
-      - Humanities/Department Members.md
-      - Humanities/Programmes.md
       - Infocomm Technology (ICT)/.keep
       - Infocomm Technology (ICT)/Programmes.md
       - Infocomm Technology (ICT)/Department Members.md
