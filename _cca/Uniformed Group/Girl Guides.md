@@ -7,29 +7,29 @@ third_nav_title: Uniformed Group
 ![](/images/main.jpg)
 
 # INTRODUCTION
-<u>**Mission**</u><br>
+<u>Mission</u><br>
 To enable girls and young women to develop their fullest potential as responsible citizens of the world.
 
-<u>**Vision**</u><br>
+<u>Vision</u><br>
 We are a growing worldwide Movement ~ the voice of girls and young women who influence issues they care about and build a better world.
 
-<u>**The Guide Motto “Be Prepared”**</u><br>
+<u>The Guide Motto “Be Prepared”</u><br>
 The initials of the GGS motto, “Be Prepared”, also happens to be our Founder’s initials and is a practical reminder of the purpose of Girl Guiding which is to always be prepared for any eventuality. We carry out many activities that encompass the five modules in guiding – social and personal development, home, outdoor, knowledge of community and international. We also strive to be proficient in specific life skills that enable us to be prepared for the future.
 
 **TRAINING SCHEDULE:**
 
-**Day/Time**: Every Tuesday – 3.15pm - 6pm
+**Day/Time**: Every Friday – 1.30pm - 4.30pm
 
 **Venue**: Girl Guides Room, Deep Learning Lab or School premises
 
 **TEACHERS-IN-CHARGE**
 
-* Ms Nur Sheela Bte Sugirmanto (1st i/c)
-* Ms Nur Syahirah Bte Nahadi
-* Ms Chua Zi Hui Samanthan 
-* Mdm Zhuo Jinrong
+*   Ms Nur Syahirah Bte Nahadi (1st i/c)
+*   Ms Renuka Selva Rajoo (2nd i/c)
+*   Ms Chua Zi Hui Samanthan   
+*   Mdm Zhuo Jinrong
 
-**ACTIVITIES FOR THE YEAR 2022**
+**ACTIVITIES FOR THE YEAR**
 
 * Puan Noor Aishah Award
 * Free Being Me Workshop
@@ -43,7 +43,7 @@ The initials of the GGS motto, “Be Prepared”, also happens to be our Founder
 
 **ACHIEVEMENTS**
 
-<u>**2021**</u>
+<u>2021</u>
 
 * West Division Day - Caption The Moment Competition (Participation)
 * West Division Day - Get Creative with Tik Tok Competition (Bronze Award)
@@ -51,13 +51,13 @@ The initials of the GGS motto, “Be Prepared”, also happens to be our Founder
 * West Division Day - All about Girl Guide Quizizz Competition (Participation)
 * West Division Campfire (13th August) - Emcees
 
-<u>**2019**</u>
+<u>2019</u>
 
 * Puan Noor Aishah (PNA) Gold Award
 * West Division Day – Poster Design – Bronze
 * West Division Day – Save the Fishes – Gold 
 
-<u>**2018**</u>
+<u>2018</u>
 
 * Puan Noor Aishah (PNA) Gold Award
 
@@ -65,7 +65,7 @@ The initials of the GGS motto, “Be Prepared”, also happens to be our Founder
 
 
 
-<u>**2017**</u>
+<u>2017</u>
 
 * Puan Noor Aishah (PNA) Gold Award
 
@@ -81,5 +81,3 @@ https://www.girlguides.org.sg
 **PHOTO GALLERY**
 
 <iframe allowfullscreen="true" height="500" width="500" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRolY5cnEIwByzC2Hj1hGgF7r0hTpaynH3kI-0vWWYGZk6RN0PpohUYG4HHA6F_UlVTxIKL3GkjbwWZ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-
-
