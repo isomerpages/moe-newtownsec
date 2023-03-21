@@ -17,21 +17,26 @@ To nurture artistic talent and develop leaders who are confident ambassadors of 
 
 **PRACTICE SCHEDULE:**
 
-**Day/Time:** Every Tuesday – 3pm - 6pm
+**Day/Time:** Every Tuesday – 3.30pm - 6.00pm
 
 **Venue:** Art Rooms &amp; Spare Room G3A
 
 **TEACHERS IN-CHARGE**
 
-* Mr Kalidass s/o Jayaraman (1st i/c)
-* Ms Siow Xing Yu
-* Ms Grace Pushparani d/o William
+*   Mr Kalidass s/o Jayaraman (1st i/c)
+*   Ms Grace Pushparani (2nd i/c)
+*   Ms Pang Jia Mien
+*   Ms Lai Xue Fen
+
+**INSTRUCTORS**
+
+* Ms Lee Yi Lin
 
 **STUDENT LEADERS**
-* Chairperson: Audy Amez Putri Gunawan 
-* Vice Chairperson:  Lee Tian Yun 
-* Publicity Chairperson: Tan Sihan, Velkissia
-* Publicity Vice-chairperson: Yang Xinling
+*   Chairperson: TBA
+*   Vice Chairperson:  TBA 
+*   Publicity Chairperson: TBA
+*   Publicity Vice-chairperson: TBA
 
 **ACTIVITIES FOR THE YEAR**
 * Rediscover Cartoon Drawing &amp; Colouring Workshop
