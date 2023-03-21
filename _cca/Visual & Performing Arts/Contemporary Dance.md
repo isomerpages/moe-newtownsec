@@ -45,7 +45,7 @@ Contemporary Dance is one of the school’s visual and performing arts CCAs wher
 **INSTRUCTORS**
 
 *   Ms Jean Tan Mei Qi
-*   Mr Elias Han Quan Azib 
+*   Mr Elias Han Quan Azib&nbsp;
 
   
 
@@ -61,6 +61,60 @@ Contemporary Dance is one of the school’s visual and performing arts CCAs wher
     
 *   National Day Celebrations Performance  
     
-*   Teachers’ Day Performance
+*   Teachers’ Day&nbsp;Performance
 
 **ACHIEVEMENTS**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-n4qt">No.</th>
+    <th class="tg-n4qt">Year</th>
+    <th class="tg-n4qt">Full Title</th>
+    <th class="tg-n4qt">Award / Achievement / Position</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ii8k">1.</td>
+    <td class="tg-ii8k">2021</td>
+    <td class="tg-ii8k"> Singapore Youth Festival Arts Presentation for Dances (International Dance) </td>
+    <td class="tg-ii8k">Certificate of Distinction</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">2.</td>
+    <td class="tg-ii8k">2019</td>
+    <td class="tg-ii8k">Singapore Youth Festival Arts Presentation for Dances (International Dance) </td>
+    <td class="tg-ii8k">Certificate of Accomplishment</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">3.</td>
+    <td class="tg-ii8k">2017</td>
+    <td class="tg-ii8k"> Singapore Youth Festival Arts Presentation for Dances (International Dance)</td>
+    <td class="tg-ii8k">Certificate of Distinction</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">4.</td>
+    <td class="tg-ii8k">2015</td>
+    <td class="tg-ii8k">Super 24! Dance Competition </td>
+    <td class="tg-ii8k">1st Runner Up </td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">5.</td>
+    <td class="tg-ii8k">2015</td>
+    <td class="tg-ii8k">Singapore Youth Festival Arts Presentation for Dances (International Dance)</td>
+    <td class="tg-ii8k">Certificate of Distinction </td>
+  </tr>
+</tbody>
+</table>
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSXIAegzXf5zK8fyJXfzlnUrAO0Rq275-HfpMzHs8xY_XTaEtANoufXHnwC1uJio52i8JHxjx8CtfZf/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
