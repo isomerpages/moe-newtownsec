@@ -4,7 +4,6 @@ permalink: /about-us/links/parents/direct-school-admission-secondary-dsa-sec-exe
 description: ""
 third_nav_title: DSA
 ---
-
 DSA-Sec is an MOE initiative designed to give schools greater flexibility in student admission, in order to allow for the recognition and development of a more diverse range of student achievements and talents beyond academic achievements.  
 
 We are looking for interested Primary 6 pupils with talents/skills in **Student** **Leadership**, **Art,** and/or **Fencing** for admission to Secondary One in 2023.
@@ -35,7 +34,7 @@ Please refer to the following on
 
 [**Application Process**](/about-us/links/parents/direct-school-admission-secondary-dsa-sec-exercise-2022/application-process)
 
-[**Application Key Dates**](/about-us/links/parents/direct-school-admission-secondary-dsa-sec-exercise-2022/application-key-dates)
+[**Application Key Dates**](/about-us/links/parents/direct-school-admission-secondary-dsa-sec-exercise/application-key-dates)
 
   
 
