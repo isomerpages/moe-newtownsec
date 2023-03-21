@@ -24,24 +24,48 @@ The objectives of our activities are to:
 
 **TRAINING SCHEDULE:**
 
-**Day/Time:** Every Tuesday– 3.15pm - 6.15pm
-
-
-**Venue:** School Field or External Venue (e.g. Turf City football pitch or Clementi Stadium)
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-n4qt">Training Time</th>
+    <th class="tg-ii8k">Every Tuesday : 3.30pm – 6.00pm<br>Every Friday: 2.30pm – 5.00pm</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-n4qt">Training Venue</td>
+    <td class="tg-ii8k">School Field, External venue (Clementi Stadium) and School premises </td>
+  </tr>
+</tbody>
+</table>
 
 **TEACHERS-IN-CHARGE** 
 
-* Mdm Kasumawati Bte Wansi (1st i/c)
-* Mr Imarah Bin Abas
-* Mr Ong Zhongsheng, Joel
-
-
+*   Ms Sheeja V Pillai (1st i/c)  
+    
+*   Mr Ang Xiang Rui (2nd i/c) (Term 2 onwards)  
+    
+*   Mdm Nazreen Bte Abdul Latiff  
+    
+*   Mr Yong Wei Hoong (Term 2 onwards)  
+    
+*   Mdm Kasumawati Bte Wansi (Term 1 only)
 
 **COACHES**
 
-* Mr Robert Petrovic
-* Mr Emmeric Ong
-* Mr Ahmadul Haadi Muhammad 
+*   Mr Muhammad Shafie Bin Azhar
+*   Mr Mohammad Roshlan Bin Mohammad Lazim
+*   Mr Harry Lum Hon Lup
+
 
 **ACTIVITIES FOR THE YEAR**
 
@@ -57,6 +81,3 @@ The objectives of our activities are to:
 **Photo Gallery**
 
 <iframe allowfullscreen="true" height="500" width="500" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR8jj3gSIjoTURisz4cFb_8QFdQxEJWzedKz8S8fECYuc5upTpVRdE0-L0o1JVqNBicTR5sWWSVPrDL/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-
-
-
