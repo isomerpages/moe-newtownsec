@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - English & Literature (2023).md
       - Aesthetics and Craft/.keep
       - Aesthetics and Craft/Overview.md
       - Aesthetics and Craft/Department Members.md
