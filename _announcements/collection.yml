@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Briefing for Students (2022 GCE–N Level Results).md
       - 2023 Secondary 1 Posting.md
       - 2022 Release of N–Level Examination Results.md
       - Class Timetable 2023.md
