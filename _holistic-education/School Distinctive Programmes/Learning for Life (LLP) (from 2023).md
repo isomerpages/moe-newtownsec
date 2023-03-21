@@ -4,52 +4,65 @@ permalink: /holistic-education/school-distinctive-programmes/learning-for-life-l
 description: ""
 third_nav_title: School Distinctive Programmes
 ---
+Starting with mastery of self, every student will be given the opportunity to learn and apply leadership competencies through various learning experiences as part of their leadership journey in New Town Secondary School.
 
-**Our Belief**<br>
-Every student can be a leader and mastery of self is an important component of his / her leadership development and journey in New Town Secondary School.
+### Our Vision
 
-**Our Vision**<br>
-As part of the school’s vision to ‘Nurture Talents and Sharing Success’, we seek to also develop confident and compassionate student leaders to lead, serve and excel.
+To develop every Newtowner into confident and compassionate student leaders who are ready to serve and lead their community to overcome challenges of tomorrow
 
-**Outcomes of the Learning For Life Programme**
-1. Ethical and reflective leader who shows concern for the community.
-2. Skilled servant leader who are competent to serve and lead by example.
-3. Empowered contributor who are able to exert positive energy to spheres of influence.
+### Key Beliefs
 
-**Whole-School Approach**
-Every staff in the school is involved in the training of student leadership as shown below:
+**_(a) Every student can be developed as a leader._**
 
-<iframe allowfullscreen="true" height="500" width="500" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTECytSrrUh9AC4quiXmMqTTcv62457vwlO_IQ2r4UY4bm-l9sM3CjBFoylEuopgf89dZXz2dp8YdIj/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+Every student can be developed as a leader who makes a positive difference to others within his/her sphere of influence.
 
-**Objectives**
-1) To develop students into confident and compassionate leaders with
-strong character.
-2) To enable students to acquire leadership skills through workshops and training
-programmes.
-3) To provide opportunities and expose for students to take on leadership roles.
+**_(b) Every student should be developed as a leader._**
 
-**Activities/Programmes**
-* Leadership Cohort Training Programme for Secondary 1 and 2 students
-* Secondary 3 3D2N Outdoor Adventure Camp (Cohort Character Development Programme)
-* Student Leaders Year-End Leadership Training Camp (differentiated learning objectives)
-* Secondary 1 Orientation Camp (Training of Students Leaders to organise and run the Orientation Camp)
-* Teachers’ Day Celebration
-* Student Leadership Workshop for West 1 Cluster Primary School Student Leaders
+All students will be imbued with core values that will anchor them in life and have the opportunity to learn and apply student leadership competencies through Student Development Experiences (SDE), CCA and CCE lessons.
+
+### Desired Outcomes of the Learning For Life Programme
+
+_The school strives to nurture students to become:_
+
+1. Ethical and reflective leaders who show concern for the community;
+
+2. Skilled servant leaders who serve and lead by example; and
+
+3. Empowered contributors who exert positive energy to spheres of influence.
+
+### Whole-School Approach
+
+Every staff in the school is involved in equipping students with leadership competencies and dispositions through “**SPARK**” - an acronym which stands for **Selection, Provision, Affirmation, Reflection and Knowledgeable others.**
+
+<img src="/images/SPARK%20Pic.png" 
+     style="width:75%">
+		 
+The leadership training model is based on **Kouzes and Posner’s Five Practices of Exemplary Student Leadership:**
+
+<img src="/images/5PracticesSLD%20Pic.png" 
+     style="width:90%">
+<img src="/images/Org%20Char%20Pic.png" 
+     style="width:90%">
+
+### Key Student Leadership Development Experiences
+
+  
+
+**Training Programmes:**
+
+* Cohort-wide Leadership Training Programme (for Sec 1-3 students)
+* Student Councillors and Peer Support Leaders Training
+* CCA Leaders’ Training
+* Class Committee Training       
+* Ambassadors Training   
+* Student Leaders’ Mid-Year and Year-End Leadership Training Camp 
+
+**Service Platforms:**
+
+* Secondary One Orientation Programme
+* Past v Present Games
 * Student Leaders’ Investiture
-* Class Committee Training: Ambassadors’ Training in skills and competencies
-* Class Committee Training: Class Chairpersons Workshop
-* CCA Leaders and Members Training
-
-**Teachers in-charge**<br>
-Mr Evan Ng (HOD/ Science)<br>
-Ms Lim Kaiwen (AYH, Teacher IC/CCA Leaders) <br>
-Ms Stella Yap (Ag AH/PE, Teacher IC/Peer Support Leaders) <br>
-Mr Nicholas Low (Teacher IC/Peer Support Leaders)<br>
-Mr Yong Wei Hoong (Teacher IC/ Student Council)<br>
-Mrs Keira Seow (Teacher IC/ Student Council)<br>
-Ms Wee Shu Ying (Teacher 2IC/CCA Leaders) <br>
-Ms Teng Shumin (Teacher 2IC/Student Council) <br>
-
-**Stories**
-* [New Town Sec LLP](/files/New%20Town%20Sec_LLP.pdf)
-* [CCA Good Leader Stories](/files/CCA%20Leaders_Good%20Stories.pdf)
+* Teachers and Staff Appreciation Day Celebration
+* NE Events
+* Service-Learning Projects
+* Student-initiated and student-led activities during various school events _(e.g. Kindness Week, Cyberwellness, Kampung Class Bingo, Exam Encouragement Week, etc)._
