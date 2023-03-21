@@ -33,9 +33,29 @@ A reminder to Basketballers to give nothing but the best in attitude, mind and p
 
 **TRAINING SCHEDULE:**
 
-**Day/Time:** Every Tuesday* – 3pm - 6.15pm
-
-**Venue:** Indoor Sports Hall Level 1 and School Basketball Courts 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-n4qt">Training Time*</th>
+    <th class="tg-ii8k">Every Tuesday : 3.30pm – 5.30pm<br>Every Friday: 2.30pm – 5.30pm</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-n4qt">Training Venue</td>
+    <td class="tg-ii8k">School Indoor Sports Hall (Level 1), Outdoor Basketball Court and School premises </td>
+  </tr>
+</tbody>
+</table>
 
 
 * Extra Weekly &amp; Holiday Trainings before the Competition Season
@@ -44,16 +64,18 @@ A reminder to Basketballers to give nothing but the best in attitude, mind and p
 
 **TEACHERS-IN-CHARGE**
 
-* Ms Yap Sze Hui, Stella (1st i/c)
-* Mdm Valli d/o Sundaram (2nd i/c)
-* Mr Loh Yong Qi
-* Ms Wendy Koh
+*   Ms Yap Sze Hui, Stella (1st i/c)
+*   Mdm Valli d/o Sundaram (2nd i/c)
+*   Mdm Aidashikin Bte Solikin
+*   Mr Loh Yong Qi  
+*   Ms En Yeng Teng
+*   Mr Joel Chan
 
 **COACHES**
 
-* Mr Elvin Chong
-* Mr Warren Wong
-* Mr Dini Matin Bin Zaini
+*   Mr Chong Beng Chee Elvin
+*   Mr Denilson Soh Caijun
+*   Mr Wong  Wee Jun Warren
 
 **ACTIVITIES FOR THE YEAR**
 
