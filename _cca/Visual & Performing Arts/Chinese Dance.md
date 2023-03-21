@@ -13,15 +13,35 @@ Dance trains the students in body coordination, mental concentration and most im
 
 **PRACTICE SCHEDULE:**
 
-**Day/Time:** Every Tuesday – 3.15pm - 6.30pm
-
-**Venue:** Dance studio or School hall
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-n4qt">Date / Time</th>
+    <th class="tg-ii8k">Every Tuesday : 3.30pm – 6.00pm<br>Every Friday: 1.15pm – 3.45pm</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-n4qt"> Venue</td>
+    <td class="tg-ii8k">Dance Studio, Hall Stage and Amphitheatre</td>
+  </tr>
+</tbody>
+</table>
 
 **TEACHERS IN-CHARGE**
 
-* Ms Ding Chao (1st i/c)
-* Ms Vanessa Jane Toh Wei Min
-* Ms Amanda Sarah Chin Yong Hui
+*   Ms Ding Chao (1st i/c)
+*   Mrs Lim-Tang Anqiong (2nd i/c)
+*   Mrs Dolly Teo
 
 **COACH**
 
