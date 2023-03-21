@@ -9,4 +9,8 @@ sections:
   - hero:
       title: Newtown Secondary School
       background: /images/NTSS-hero-banner.gif
+      key_highlights:
+        - title: Useful Links
+          description: ""
+          url: /quick-links/for-students/
 ---
