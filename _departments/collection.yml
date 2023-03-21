@@ -2,10 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Mathematics/.keep
-      - Mathematics/Overview.md
-      - Mathematics/Department Members.md
-      - Mathematics/Programmes.md
       - Science/.keep
       - Science/Overview.md
       - Science/Department Members.md
