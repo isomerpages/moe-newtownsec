@@ -29,11 +29,11 @@ If you think you have what it takes, do apply to join our school through our **
 
 Please refer to the following on
 
-[**Selection Criteria**](https://newtownsec.moe.edu.sg/about-us/links/parents/direct-school-admission-secondary-dsa-sec-exercise-2022/selection-criteria)  
+[**Selection Criteria**](/about-us/links/parents/direct-school-admission-secondary-dsa-sec-exercise-2022/selection-criteria)  
 
-[**Application Process**](https://newtownsec.moe.edu.sg/about-us/links/parents/direct-school-admission-secondary-dsa-sec-exercise-2022/application-process)
+[**Application Process**](/about-us/links/parents/direct-school-admission-secondary-dsa-sec-exercise-2022/application-process)
 
-[**Application Key Dates**](https://newtownsec.moe.edu.sg/about-us/links/parents/direct-school-admission-secondary-dsa-sec-exercise-2022/application-key-dates)
+[**Application Key Dates**](/about-us/links/parents/direct-school-admission-secondary-dsa-sec-exercise-2022/application-key-dates)
 
   
 
