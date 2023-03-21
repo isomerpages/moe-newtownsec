@@ -21,28 +21,28 @@ The English Language and Literature curriculum focuses on building language skil
 
 ***Secondary One***
 
-· Writing and Reciting Poems
+* Writing and Reciting Poems
 
-· Bringing Texts Alive through Reader’s Theatre
+* Bringing Texts Alive through Reader’s Theatre
 
-· Blackout Poetry and Flash Fiction
+* Blackout Poetry and Flash Fiction
 
 ***Secondary Two***
 
-· Drama Appreciation
+* Drama Appreciation
 
-· Poetry Writing Workshop
+* Poetry Writing Workshop
 
-· Film Immersion Workshop
+* Film Immersion Workshop
 
 ***Secondary Three***
 
-· NTSS-NUS College Think Writing Mentorship Programme
+* NTSS-NUS College Think Writing Mentorship Programme
 
-· Theatrical Production Enrichment
+* Theatrical Production Enrichment
 
-· Debating Workshop
+* Debating Workshop
 
 ***Secondary Four/Five***
 
-· Oral Communication Workshop
+* Oral Communication Workshop
