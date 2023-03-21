@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - General Information/.keep
-      - General Information/Tuesday CCA Schedule.md
+      - General Information/General Information.md
       - General Information/CCA LEAPS 2.md
       - Sports & Games/.keep
       - Sports & Games/Badminton.md
