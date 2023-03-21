@@ -25,9 +25,9 @@ description: ""
 
 **School Newsletters 2018**  
 
-*   [New Town Sec Newsletter, Oct 2018](https://newtownsec-moe-edu-sg-admin.cwp.sg/qql/slot/u174/About%20Us/Links/Parents/2018-Edition-2_Oct.pdf)  
+*   [New Town Sec Newsletter, Oct 2018 FILE SIZE MORE THAN 5MB](https://newtownsec-moe-edu-sg-admin.cwp.sg/qql/slot/u174/About%20Us/Links/Parents/2018-Edition-2_Oct.pdf)  
     
-*   [New Town Sec Newsletter, May 2018](https://newtownsec.moe.edu.sg/qql/slot/u174/About%20Us/Links/Parents/2018-Edition-1_May.pdf)
+*   [New Town Sec Newsletter, May 2018](/files/2018-Edition-1_May.pdf)
 
   
 
@@ -35,9 +35,9 @@ description: ""
 
   
 
-*   [New Town Sec Newsletter, Oct 2017](https://newtownsec-moe-edu-sg-admin.cwp.sg/qql/slot/u174/About%20Us/Links/Parents/2017-Edition-2_Oct.pdf)  
+*   [New Town Sec Newsletter, Oct 2017](/files/2017-Edition-2_Oct.pdf)  
     
-*   [New Town Sec Newsletter, May 2017](https://newtownsec.moe.edu.sg/qql/slot/u174/About%20Us/Links/Parents/2017-Edition-1_May.pdf)
+*   [New Town Sec Newsletter, May 2017](/files/2017-Edition-1_May.pdf)
 
   
 
