@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - 2023 Secondary 1 Posting.md
       - 2022 Release of N–Level Examination Results.md
       - Class Timetable 2023.md
       - Sec 1 CCA Open House and Selection 2023.md
