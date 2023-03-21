@@ -14,24 +14,48 @@ The team trains on a weekly basis, under the guidance of experienced Coaches and
 
 **TRAINING SCHEDULE**
 
-**Day/Time**: Every Tuesday* – 3.15 p.m. to 6.15 p.m.
-
-**Venue**: Indoor Sports Hall Level 2 and External venue e.g. Clementi Sports Hall
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-n4qt">Training Time*</th>
+    <th class="tg-ii8k">Every Tuesday : 3.30pm – 5.30pm<br>Every Friday: 2.30pm – 5.30pm</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-n4qt">Training Venue</td>
+    <td class="tg-ii8k">School Indoor Sports Hall (Level 2), School Hall, External venue (Clementi Sports Hall / Community Centres) and School premises </td>
+  </tr>
+</tbody>
+</table>
 
 * Extra Weekly &amp; Holiday Trainings before the Competition Season
 
 **TEACHERS-IN-CHARGE**
 
-* Mr Teoh Tick Meng (1st i/c)
-* Mrs Manjula Shanmuganathan (i/c for Boys Team)
-* Ms Teng Shumin (i/c for Girls Team)
-* Mr Yap Kim Hon
-* Ms Ng Chin Shan, Amy
+*   Ms Teo Mei Chia  (1st i/c)
+*   Ms Teng Shumin (2nd i/c) 
+*   Mrs Manjula Shanmuganathan 
+*   Mr Sim Ik Fong
+*   Ms Caley Ng Yuet Wan
+*   Mr Chan Kee Cheong
 
 **COACHES**
 
-* Stanley Wang
-* Cedric Tan
+*   Mr Tan Wei Siong Cedric
+*   Mr Wang Yong Thiam
+*   Mr Liao Junwei 
+*   Mr Voon Thian Seong Benedict
+*   Mr Justin Tay Liwei
 
 **ACTIVITIES FOR THE YEAR**
 
