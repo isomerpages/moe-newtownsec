@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Physical Education (PE) (2023).md
       - Craft & Technology (2023).md
       - Information and Communications Technology (2023).md
       - Humanities (2023).md
