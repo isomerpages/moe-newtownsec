@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - School Letters.md
       - 2022 Enrichment & Special Programmes.md
       - 2023 New Town Secondary School.md
       - Briefing for Students (2022 GCE–N Level Results).md
