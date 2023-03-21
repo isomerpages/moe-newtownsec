@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Humanities (2023).md
       - Science (2023).md
       - Mathematics (2023).md
       - Mother Tongue Language (2023).md
