@@ -15,5 +15,5 @@ sections:
           url: /others/announcements/sec-1-cca-open-house-and-selection-2023/
         - title: Quick Links
           description: ""
-          url: /quick-links/for-students/permalink/
+          url: /quick-links/for-students/
 ---
