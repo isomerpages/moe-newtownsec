@@ -13,7 +13,7 @@ sections:
         - title: Announcements
           description: ""
           url: /others/announcements/sec-1-cca-open-house-and-selection-2023/
-        - title: Useful Links
+        - title: Quick Links
           description: ""
           url: /quick-links/for-students/
 ---
