@@ -4,150 +4,17 @@ permalink: /about-us/about-us/links/parents/direct-school-admission-secondary-ds
 description: ""
 third_nav_title: For Parents
 ---
-# Direct School Admission – Secondary (DSA-Sec) Exercise 2022
+# Direct School Admission – Secondary (DSA-Sec) Exercise 2023
 
 
-DSA-Sec is an MOE initiative designed to give schools greater flexibility in student admission, in order to allow for the recognition and development of a more diverse range of student achievements and talents beyond academic achievements.
+**What is Direct School Admission?**
 
-We are looking for interested Primary 6 pupils with talents/skills in **Student Leadership, Art, and/or Fencing** for admission to Secondary One in 2023.
+&nbsp;DSA-Sec is an MOE initiative designed to give schools greater flexibility in student admission, to allow for the recognition and development of a more diverse range of student achievements and talents beyond academic achievements.
 
-**DSA – Student Leadership**
+&nbsp;We are looking for interested Primary 6 students with talents/passion/skills in&nbsp;**Leadership, Visual Arts, Fencing, Basketball**&nbsp;and/or&nbsp;**Guzheng**&nbsp;for admission to Secondary One in 2024.
+ 
+ <br>
 
-Students who possess positive attitude, good communication skills and have demonstrated leadership capabilities, such as leading others in planning and carrying out school events or level-wide programmes, may wish to take part in our DSA-Student Leadership.
+<table style="margin: 0px; outline: 0px; padding: 0px; border: 1px solid rgb(234, 234, 234); color: rgb(56, 61, 81); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 857px; height: 1400px;" class="iveo_table ives_tab_1"><tbody style="margin: 0px; outline: 0px; padding: 0px;" class=""><tr style="margin: 0px; outline: 0px; padding: 0px;" class=""><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 851px;" class="" width="616"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;" class=""><strong style="margin: 0px; outline: 0px; padding: 0px;" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" class="" lang="EN-SG">Leadership (Girls and Boys)</span></strong><span style="margin: 0px; outline: 0px; padding: 0px;" class=""></span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;" class=""><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);" class="" width="616"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: justify;" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" class="">Students who possess positive attitude, good communication skills and have demonstrated leadership capabilities, such as leading others in planning and carrying out school events or level-wide programmes, may wish to take part in our DSA-Student Leadership.</span><span style="margin: 0px; outline: 0px; padding: 0px;" class=""></span></p><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: justify;" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" class="">&nbsp;</span><span style="margin: 0px; outline: 0px; padding: 0px; text-align: center;">At New Town Secondary School, students will attend leadership development programmes through self-mastery and team-based activities.&nbsp;Students will have an opportunity to hone their leadership competencies and be empowered to lead through school and level-wide programmes. They will apply and hone their leadership skills through authentic learning platforms.</span><span style="margin: 0px; outline: 0px; padding: 0px; text-align: center;">&nbsp;</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;" class=""><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);" class="" width="616"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;" class=""><b style="margin: 0px; outline: 0px; padding: 0px;" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" class="">Visual Arts (Girls and Boys)</span></b><b style="margin: 0px; outline: 0px; padding: 0px;" class=""></b></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;" class=""><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);" class="" width="616"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: justify;" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" class="">Students with talent and interest in Art can look forward to having the opportunity to develop their creative talent and ability through our Lower Secondary Art Programme as well as the Art and Crafts CCA.&nbsp;</span></p><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: justify;" class="">Our curriculum and programmes provide exposure&nbsp;and experience to a wide range of materials and medium - dry to wet medium, digital photography to animation, learning opportunities with creative professionals and alumnus, as well as platforms for like-minded students to meet and grow together.&nbsp;</p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;" class=""><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);" class="" width="616"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;" class=""><b style="margin: 0px; outline: 0px; padding: 0px;" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" class="" lang="EN-SG">Fencing (Girls and Boys)</span></b><span style="margin: 0px; outline: 0px; padding: 0px;" class=""></span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;" class=""><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);" class="" width="616"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: justify;" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" class="">Students with talent and interest in Fencing can look forward to having the opportunity to develop their sporting talent and ability through our Fencing CCA.&nbsp;</span></p><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: justify;" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" class="">Fencing aims to nurture and develop students with positive attitude to learn and to build character through competitive sports. The CCA also strives to develop in students, greater competency in the areas of self-management, mental resilience, responsible decision-making, social awareness and relationship management.</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;" class=""><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);" class="" width="616"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;" class=""><b style="margin: 0px; outline: 0px; padding: 0px;" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" class="">Basketball (Boys)</span></b><b style="margin: 0px; outline: 0px; padding: 0px;" class=""></b></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;" class=""><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);" class="" width="616"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: justify;" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" class="">Students (Boys) with talent and interest in Basketball can look forward to having the opportunity to develop their sporting talent and ability through our Basketball CCA.&nbsp;</span></p><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: justify;" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" class="">Basketball aims to nurture and develop students with positive attitude to learn and to build character through competitive sports. The CCA also strives to develop in students, greater competency in the areas of self-management, mental resilience, responsible decision-making, social awareness and relationship management.</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;" class=""><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);" class="" width="616"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;" class=""><b style="margin: 0px; outline: 0px; padding: 0px;" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" class="">Guzheng Ensemble (Girls)</span></b><b style="margin: 0px; outline: 0px; padding: 0px;" class=""></b></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;" class=""><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);" class="" width="616"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: justify;" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" class="">Students with talent and interest in playing the Guzheng can look forward to having the opportunity to develop their musical talent and lifelong passion for the arts through our Guzheng Ensemble CCA.&nbsp;</span></p><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: justify;" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" class="">Through the meaningful music experiences planned,<span>&nbsp;</span></span><span style="margin: 0px; outline: 0px; padding: 0px;" class="">Guzheng Ensemble aims to nurture and develop students with positive attitude to learn, build character, cultivate mental resilience and develop competency in self-management, responsible decision-making and relationship management.</span><span style="margin: 0px; outline: 0px; padding: 0px; text-align: center;">&nbsp;</span></p></td></tr></tbody></table>
 
-At New Town Secondary School, students will attend leadership development programmes through self-mastery and team-based activities. Students will have an opportunity to hone their leadership competencies and be empowered to lead through school and level-wide programmes. They will apply and hone their leadership skills through authentic learning platforms.
-
-**DSA – Art**
-
-Students with talent and interest in Art can look forward to having the opportunity to develop their creative talent and ability through our Lower Secondary Art Programme as well as the Co-Curricular Activity- Art and Crafts Club. 
-
-Our curriculum and programmes provide exposure and experience to a wide range of materials and medium - dry to wet medium, digital photography to animation, learning opportunities with creative professionals and alumnus, as well as platforms for like-minded students to meet and grow together. 
-
-**DSA – Fencing**
-
-Students with talent and interest in Fencing can look forward to having the opportunity to develop their sporting talent and ability through our Fencing CCA. 
-
-Fencing aims to nurture students with positive attitude to learn and improve through competitive sports, and to enable them to demonstrate greater competence in the areas of self-management, self-awareness, responsible decision-making, social awareness and relationship management.
-
-If you think you have what it takes, do apply to join our school through our DSA-Student Leadership, DSA-Art, and/or DSA-Fencing
-
-Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.
-
-For more information on DSA-Sec, please refer to the MOE website at https://www.moe.gov.sg/dsa-sec
-
-# Selection Criteria
-
-The Selection Criteria for Student Leadership, Art and Fencing talent areas as follows :
-
-**1.    Evidence in talent area**
-
-<u>For Student Leadership:</u>
-
-* Student leadership involvement in primary school
-* Leadership position held at school level, CCA or cohort-level projects
-* Involvement in Values-in-Action or Community Services
-
-<u>For Art:</u>
-
-* Student Art portfolio (Portfolio of 3 – 5 original works to be presented during the interview)
-* Other relevant qualifications pertaining to Art
-* On the spot Art talent demonstration via Art task (students will be required to complete the Art task within a set time limit)
-
-<u>For Fencing:</u>
-
-* Strong passion in fencing and display positive attitude to learn, improve and contribute.  
-* Candidates who display determined and competitive sporting qualities through their participation in sports CCAs will be preferred.
-
-**2.    Assessment of attitude and suitability: (during the interview)**
-* Communication skills 
-* Passion and interest in the identified talent area
-
-**3.    School reports (to be submitted)**
-* Primary 5 and Primary 6 school examination results
-
-**Shortlisted applicants** will be required to attend an interview session. During the interview session, applicants will be assessed on the qualities indicated in the DSA Selection Criteria.
-
-* For Student Leadership, applicants will need to provide evidence of leadership capabilities 
-* For Art, applicants will be required to provide evidence of their level of aptitude in art
-* For Fencing, applicants will be required to provide evidence of their sporting qualities, either through demonstration of fencing abilities or equivalent sporting ability.
-
-# Application Process
-The 4-stage Application Process is as follows:<br>
-**Stage 1 – Application**<br>
-**(5 May 2022 to 1 June 2022)**<br>
-* Students from MOE primary schools: Login to DSA Portal via parent’s SingPass or apply through primary school from 5 May 2022 to 1 June 2022 (3.00 pm).
-* Fill in all relevant information in the DSA-Sec portal. 
-*  Verify all information and submit application through the website.
-* Non-mainstream school students: Parents should apply online for a Registration Number through DSA Portal. This can be done through an online form via MOE DSA Website – www.moe.gov.sg/dsa-sec.
-
-**Stage 2 – Interview**<br>
-**(1 August to 26 August 2022)**
-
-Shortlisted applicants will be informed and scheduled for an interview:
-
-* For **Student Leadership**, applicants will need to provide evidence of leadership capabilities.
-* For **Art**, applicants will be required to provide evidence of their level of aptitude in art.
-* For **Fencing** applicants will be required to provide evidence of their sporting qualities, either through demonstration of fencing abilities or equivalent sporting ability.
-* The interview panel would also be looking for evidence of positive attitude and commitment through a conversation with the candidate.
-* **Shortlisted applicants** will be notified by the school on the interview date by **22 July 2022**
-
-**Stage 3 – Result Notification**<br>
-**(By 12 September 2022)**
-
-Applicants will be notified by post if they have been:
-
-* given a Confirmed Offer or
-* put on the Waiting List or if the school is unable to offer them a place.
-
-Those given a Confirmed Offer are guaranteed a place in the school in a course (Express or Normal Academic) which the student is eligible for, based on the PSLE results obtained.
-
-**Stage 4 – School Preference Submission**<br>
-**(31 October to 4 November 2022)**
-
-Applicants with Confirmed Offer or on Waiting List will receive a School Preference Form on 31 October 2022 from their primary school. Applicants must submit the school preferences via the MOE DSA-Sec online portal.
-
-The School Preference Submission will end on 4 November 2022.
-
-Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 5 May 2022, 11am to 1 June 2022, 3pm. For more details, please refer to MOE website – www.moe.gov.sg/dsa-sec
-
-# Application Key Dates
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ey39{background-color:#D2D2D2;color:#383D51;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-ct72{background-color:#FFF;color:#383D51;text-align:center;vertical-align:top}
-.tg .tg-9rpc{background-color:#FFF;color:#383D51;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ey39">Tentative Dates</th>
-    <th class="tg-ey39"><br>Event<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ct72"> <br>5 May 2022 (11.00 am)<br> </td>
-    <td class="tg-9rpc"> <br><br><span style="color:#000;background-color:initial">Start of DSA-Sec Application</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-ct72"> <br>1 June 2022 (3.00 pm)<br> </td>
-    <td class="tg-9rpc"><br> <span style="color:#000;background-color:initial">End of DSA-Sec Application</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-ct72"><br><span style="color:#000;background-color:initial">25 July 2022</span><br></td>
-    <td class="tg-9rpc"><br><span style="color:#000;background-color:initial">Notification of shortlisted applicants</span><br>Notification of unsuccessful applicants</td>
-  </tr>
-  <tr>
-    <td class="tg-ct72"> <br>1 August to 26 August 2022<br> </td>
-    <td class="tg-9rpc"><br><span style="color:#000;background-color:initial">Interview session for shortlisted applicants</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-ct72"> <br>12 September 2022<br> </td>
-    <td class="tg-9rpc"><br> <span style="color:#000;background-color:initial">Notification of results of successful applicants by mail</span></td>
-  </tr>
-</tbody>
-</table>
+The selection criteria and process for the talent areas&nbsp;**will be updated from early-May**. For more information on DSA-Sec, please refer to the MOE website at&nbsp;[**http://www.moe.gov.sg/dsa-sec**](http://www.moe.gov.sg/dsa-sec)
