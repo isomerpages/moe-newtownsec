@@ -3,11 +3,5 @@ collections:
     output: true
     order:
       - For Students.md
-      - For Students/.keep
-      - For Students/Home Based Learning (HBL) (12 Apr).md
-      - For Students/Student Learning Space (SLS).md
-      - For Students/Student Device Information Kit.md
-      - For Students/Class Timetable 2023.md
-      - For Students/School Newsletter.md
       - For Staffs.md
       - For Parents.md
