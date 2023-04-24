@@ -6,5 +6,4 @@ third_nav_title: General Information
 ---
 You may download the document in the link below:
 
-LEAPS 2.0
-[](/files/LEAPS%202.pdf)
+[LEAPS 2.0](/files/LEAPS%202.pdf)
