@@ -72,4 +72,5 @@ New Town Concert Band (formerly a military band) was formed in 1967 and has been
 * Singapore Youth Festival (2017) – Certificate of Accomplishment
 
 ### Photo Gallery
+
 <iframe allowfullscreen="true" height="500" width="500" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRDUvo2lCOwafTBdVmDyfis7cURu5UG68W-fsI-RYin5zXcA4zIfV5adld9KNwNBEbgQNVglDouNXdn/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
