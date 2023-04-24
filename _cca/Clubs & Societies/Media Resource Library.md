@@ -9,20 +9,22 @@ third_nav_title: Clubs & Societies
 
 At Media Resource Library Club, we organize activities to promote a reading culture within the Club and the student population. There are also various platforms for members to share their favourite book with the school on social media. Members also have the opportunities to participate in the National Stamp Collecting Competition organized by the Singapore Philatelic Museum.
 
-**TRAINING SCHEDULE:**
+### TRAINING SCHEDULE:
 
 **Day/Time:** Every Tuesday – 3.30pm - 6.00pm
 
 **Venue:** School library
 
-**TEACHERS IN-CHARGE**
-*   Mdm Song Ziyan (1st i/c)  
+### TEACHERS IN-CHARGE
+*   Mdm Song Ziyan&nbsp;(1st i/c)  
 *   Mrs Serene Choy
-**STUDENT LEADERS**
+
+
+### STUDENT LEADERS
 
 * TBA
 
-**ACTIVITIES FOR THE YEAR**
+### ACTIVITIES FOR THE YEAR
 
 * Storytelling Training
 * Paper Cutout Animation Training
@@ -33,11 +35,12 @@ At Media Resource Library Club, we organize activities to promote a reading cult
 * Learning Journey
 * Promoting Reading on Social Media
 
-**ACHIEVEMENTS**
+### ACHIEVEMENTS
+
 * National Stamp Collecting Competition 2019 (1 Gold &amp; 1 Silver)
 * National Stamp Collecting Competition 2018 (Silver)
 
-**EXTERNAL LINKS**
+### EXTERNAL LINKS
 
 * School Library OPAC
 
@@ -48,6 +51,6 @@ https://schoolibrary.moe.edu.sg/newtownsec
 
 https://schoolibrary.moe.edu.sg/eresourcessec
 
-**PHOTO GALLERY**
+### PHOTO GALLERY
 
 <iframe allowfullscreen="true" height="500" width="500" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSDLhzYNdk71H-cqXCapJq21XNm3wrN7yGBdQIKLPKqNB2kwn2UxwN5hsABRwprQrZS-CNSxBCe0pcY/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
