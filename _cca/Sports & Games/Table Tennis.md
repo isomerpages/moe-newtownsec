@@ -13,7 +13,7 @@ Promote table tennis as a viable recreational sport for healthy living.
 Promote appreciation for the sport and attain basic skills.
 Promote an opportunity to experience the sport at a competitive level.
 
-**TRAINING SCHEDULE:**
+### TRAINING SCHEDULE:
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -39,24 +39,24 @@ Promote an opportunity to experience the sport at a competitive level.
 </tbody>
 </table>
 
-**TEACHERS-IN-CHARGE**
+### TEACHERS-IN-CHARGE
 
 *   Mr Goh Soon Hua (1st i/c)
 *   Mr James Koh Chee Yong (2nd i/c)
 *   Ms Shannon Yap Tuan Chong
 
 
-**COACHES**
+### COACHES
 
 *   Mr Tan Kok Tiong Joel
-*   Mr Goh Chin Peng 
-*   Mr Lee Hau Wei, Gabriel
+*   Mr Goh Chin Peng&nbsp;
+*   Mr&nbsp;Lee Hau Wei, Gabriel
 
-**ACTIVITIES FOR THE YEAR**
+### ACTIVITIES FOR THE YEAR
 
 * National School Games for B Division Table Tennis Championships 
 * National School Games for C Division Table Tennis Championship
 
-**Photo Gallery**
+### Photo Gallery
 
 <iframe allowfullscreen="true" height="500" width="500" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRRCewrGLxhYgvCyy1cIBqAix-nCBMD0eseqQGcZ52IXyTmJ4k-nTmPh8ZZbkcgZSXNavH7tpIW37x4/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
