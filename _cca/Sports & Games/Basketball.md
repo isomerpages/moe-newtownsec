@@ -16,7 +16,7 @@ The NTSS Basketball CCA consists of both girls and boys team. We aim to empower 
 
 3) Encourage student opportunities to pursue and excel in their passion / talent through positivity and the joy of learning 
 
-**MOTTO:**
+### MOTTO:
 
 **DEDICATION. DETERMINATION. DISCIPLINE**
 
@@ -31,7 +31,7 @@ TEAM MOTIVATION (HANDS IN CHEER)
 A reminder to Basketballers to give nothing but the best in attitude, mind and performance. Uniting in diversity of roles, living in the moment to strive and soar for excellence. Caring and respecting teammates, opponents, officials and self and staying true to our belief in sports. It is about helping your teammates through their life journey because, what happens to your teammates matters to you.
 
 
-**TRAINING SCHEDULE:**
+### TRAINING SCHEDULE:
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -58,26 +58,26 @@ A reminder to Basketballers to give nothing but the best in attitude, mind and p
 </table>
 
 
-* Extra Weekly &amp; Holiday Trainings before the Competition Season
+*Extra Weekly &amp; Holiday Trainings before the Competition Season
 
 
 
-**TEACHERS-IN-CHARGE**
+### TEACHERS-IN-CHARGE
 
-*   Ms Yap Sze Hui, Stella (1st i/c)
+*   Ms&nbsp;Yap Sze Hui, Stella (1st i/c)
 *   Mdm Valli d/o Sundaram (2nd i/c)
 *   Mdm Aidashikin Bte Solikin
 *   Mr Loh Yong Qi  
 *   Ms En Yeng Teng
 *   Mr Joel Chan
 
-**COACHES**
+### COACHES
 
 *   Mr Chong Beng Chee Elvin
 *   Mr Denilson Soh Caijun
-*   Mr Wong  Wee Jun Warren
+*   Mr Wong&nbsp; Wee Jun Warren
 
-**ACTIVITIES FOR THE YEAR**
+### ACTIVITIES FOR THE YEAR
 
 * West Zone ‘B’ Division Championships (Jan – Apr)
 * ActiveSG BAS Basketball Development League (Apr – May)
@@ -85,10 +85,10 @@ A reminder to Basketballers to give nothing but the best in attitude, mind and p
 * ActiveSG BAS Basketball Development League (Aug – Sept)
 * Basketball Day Camp /Activities (*NEW)
 
-**ACHIEVEMENTS**
+### ACHIEVEMENTS
 
 * B Division Boys was qualified for Round 2 of National School Games West Zone Badminton Championship 2018-2019
 
-**PHOTO GALLERY**
+### PHOTO GALLERY
 
 <iframe allowfullscreen="true" height="500" width="500" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRv-bVefhel0L9bYra8lnteXAdcC5FXL6X9YdOhV7KlPxlXMb9Z7Vt19xy97G2LhmFoii_pfS0cAUlp/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
