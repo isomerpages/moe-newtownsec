@@ -4,11 +4,11 @@ permalink: /cca/sports-n-games/netball/
 description: ""
 third_nav_title: Sports & Games
 ---
-**INTRODUCTION**
+# INTRODUCTION
 
-Netball is a CCA that inculcates the importance of sportsmanship, teamwork and resilience in our players. During weekly trainings, they will acquire the basic knowledge, fitness, skills and strategies required to excel in Netball. Annual competitions and sports camps further provide opportunities for players to develop their leadership and life skills. In addition, they will also forge long lasting friendships both within the team and with the alumni.   
+Netball is a CCA that inculcates the importance of sportsmanship, teamwork and resilience in our players. During weekly trainings, they will acquire the basic knowledge, fitness, skills and strategies required to excel in Netball. Annual competitions and sports camps further provide opportunities for players to develop their leadership and life skills. In addition, they will also forge long lasting friendships both within the team and with the alumni. &nbsp;&nbsp;
 
-**TRAINING SCHEDULE:**
+### TRAINING SCHEDULE:
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -34,23 +34,23 @@ Netball is a CCA that inculcates the importance of sportsmanship, teamwork and r
 </tbody>
 </table>
 
-**TEACHERS-IN-CHARGE**
+### TEACHERS-IN-CHARGE
 
 *   Mdm Nurdayan Mohd Noor (1st i/c)
 *   Mrs Tricia Ong (2nd i/c)
 *   Ms Mohgana Thiagarajan
 
-**COACHES**
+### COACHES
 
 *   Ms Yeo Mee Hong
 
   
 
-**ACTIVITIES FOR THE YEAR**
+### ACTIVITIES FOR THE YEAR
 
-*   National School Games for B Division Table Tennis Championships 
+*   National School Games for B Division Table Tennis Championships&nbsp;
 *   National School Games for C Division Table Tennis Championship
-*   ‘B’ & ‘C’ Girls Zonal Inter-School Netball Championships
+*   ‘B’ &amp; ‘C’ Girls Zonal Inter-School Netball Championships
 *   Participation in Singapore Netball Academy League Games
 *   Participation in Deloitte Pesta Sukan
 *   Participation in Active Netball Carnival
@@ -58,7 +58,7 @@ Netball is a CCA that inculcates the importance of sportsmanship, teamwork and r
 
   
 
-**ACHIEVEMENTS**
+### ACHIEVEMENTS
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
