@@ -4,11 +4,11 @@ permalink: /cca/sports-n-games/fencing/
 description: ""
 third_nav_title: Sports & Games
 ---
-**INTRODUCTION**  
+# INTRODUCTION 
 
 Fencing is one of the main sports Co-Curricular Activities (CCAs) offered to our students in New Town Secondary. We aim to nurture fencers' competence in self-management, self-awareness, responsible decision-making, social awareness and relationship management. &nbsp;These Social and Emotional competencies will serve as a driving force to enable our New Town fencers to succeed in the 21st Century.  
   
-**TRAINING SCHEDULE**
+### TRAINING SCHEDULE
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -34,18 +34,18 @@ Fencing is one of the main sports Co-Curricular Activities (CCAs) offered to our
 </tbody>
 </table>
 
-**TEACHERS-IN-CHARGE**
+### TEACHERS-IN-CHARGE
 
 *   Mdm Tan Soon May (1st i/c)
 *   Mdm Wahidah Bte Salamon (2nd i/c)
 *   Ms Chan Wen Xin
 
-**COACHES**
+### COACHES
 
 *   Mr Leong Kok Seng
 *   Ms Sarah Kong Wai Yee&nbsp;
 
-**ACTIVITIES FOR THE YEAR**
+### ACTIVITIES FOR THE YEAR
 
 *   Participation in National School Games Fencing Championship&nbsp;
 *   Participation in Singapore Minime Fencing Championship
@@ -60,7 +60,7 @@ Fencing is one of the main sports Co-Curricular Activities (CCAs) offered to our
 *   3D2N Combined Sports Camp during December Holiday
 
   
-**ACHIEVEMENTS**
+### ACHIEVEMENTS
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
