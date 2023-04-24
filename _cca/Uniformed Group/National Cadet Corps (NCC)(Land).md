@@ -22,19 +22,19 @@ NCC has eight Core Values:
 * Adventurous Spirit
 * Safety
 
-**TRAINING SCHEDULE:**
+### TRAINING SCHEDULE:
 
 **Day/Time**: Every Friday – 2.30pm - 5.30pm
 
 **Venue**: NCC Room or School premises
 
-**TEACHERS-IN-CHARGE**
+### TEACHERS-IN-CHARGE
 
-*   Mr Jackson Goh (1st i/c)
+*   Mr Jackson Goh&nbsp;(1st i/c)
 *   Mr Tay Chong Guan (2nd i/c)
 *   Mr Randall Lim Wei Chun
 
-**ACTIVITIES FOR THE YEAR**
+### ACTIVITIES FOR THE YEAR
 
 * 1-star Kayaking Course
 * Advanced Drills Course
@@ -55,7 +55,7 @@ NCC has eight Core Values:
 * Sports Championship
 * Total Defence Course
 
-**ACHIEVEMENTS**
+### ACHIEVEMENTS
 
 * Accomplishment Award for Unit Recognition 2019
 * Accomplishment Award for Unit Recognition 2018
@@ -66,9 +66,9 @@ NCC has eight Core Values:
 * West Zone IMT Shooting Competition 2015(Sec 2) : 3rd placing
 * Silver Award for Best Unit Competition 2014
 
-**EXTERNAL LINK**
+### EXTERNAL LINK
 https://www.facebook.com/sgncc.hq/
 
-**PHOTO GALLERY**
+### PHOTO GALLERY
 
 <iframe allowfullscreen="true" height="500" width="500&quot;" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSL856L0FEzvPA7RUdhLrl0uiR6zgHC2YZxRfbwCrzGW3hwmJ9Sb5PwAaj1vCjrpXnNOZ-OgU0B8tJN/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
