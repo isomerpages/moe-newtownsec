@@ -9,7 +9,7 @@ third_nav_title: Visual & Performing Arts
 
 The Guzheng Ensemble has been the pride and glory of New Town Secondary School. The Ensemble was established in May and has since become an integral part of the school’s aesthetics programme. It not only trains the students in finger coordination and mental concentration but more importantly, the spirit of teamwork. Members grow to realise and appreciate that hard work is an indispensable part of achievement. These attributes will be the assets that the performers possess. The Guzheng Ensemble gives students numerous opportunities to perform in school events to showcase their talents. It also develops their musicality and boosting their confidence. 
 
-**PRACTICE SCHEDULE:**
+### PRACTICE SCHEDULE:
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -35,19 +35,18 @@ The Guzheng Ensemble has been the pride and glory of New Town Secondary School. 
 </tbody>
 </table>
 
-**TEACHERS IN-CHARGE**
+### TEACHERS IN-CHARGE
 
 *   Mrs Yong-Teh Laik Cheng (1st i/c)
 *   Ms Low Mian Jiun (2nd i/c)
 *   Ms Wee Shu Ying
 
-**COACH**
+### COACH
 
 *   Mr Indra Chen Shanhui
 *   Mr Kok Xu Rong
 
-**ACTIVITIES FOR THE YEAR**
-
+### ACTIVITIES FOR THE YEAR
 
 * CCA Open House 
 * Performance Chinese New Year Concert 
@@ -56,10 +55,11 @@ The Guzheng Ensemble has been the pride and glory of New Town Secondary School. 
 * VIA Programme 
 
 
-**ACHIEVEMENTS**
+### ACHIEVEMENTS
 
 * SYF Arts Presentation 2019 (Certificate of Distinction)
 * SYF Arts Presentation 2017 (Certificate of Distinction) 
 
-**Photo Gallery**
+### Photo Gallery
+
 <iframe allowfullscreen="true" height="500" width="500" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRRJm1gvIeeQRFMKawzfS2LBE7lYERfiC-XPVGTuiS4WQuWuvkMEbMcBMqMtMwiD1CwrObKdY3C7l11/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
