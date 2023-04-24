@@ -65,4 +65,5 @@ To nurture artistic talent and develop leaders who are confident ambassadors of 
 	* Wong Cze Wei, Zovy (3E3) - Gold Award
 
 ### Photo Gallery
+
 <iframe allowfullscreen="true" height="500" width="500" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRW4-_S1TvcRYKmzPWzEsBxJXlmhaMipdpP54fFcIBfMPtVa1EXIvhEwpKqwxl89vkA7QvstDmzXzh_/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
