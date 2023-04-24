@@ -10,7 +10,7 @@ third_nav_title: Sports & Games
 
 Our motto is Nil Satis Nisi Optimum, “Nothing but the Best”. Through softball, we hope to inculcate the 3 values of respect, responsibility and discipline in each member, and to build up these four aspects of the team: Character, Teamwork, Skills and Fitness.
 
-**TRAINING SCHEDULE:**
+### TRAINING SCHEDULE:
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -36,9 +36,9 @@ Our motto is Nil Satis Nisi Optimum, “Nothing but the Best”. Through softbal
 </tbody>
 </table>
 
-*Extra Weekly & Holiday Trainings before the Competition Season
+*Extra Weekly &amp; Holiday Trainings before the Competition Season
 
-**TEACHERS IN-CHARGE**
+### TEACHERS IN-CHARGE
 
 *   Mdm Low Hui Ming (1st i/c)
 *   Ms Tracy Ng Siew Siew (2nd i/c)
@@ -46,14 +46,14 @@ Our motto is Nil Satis Nisi Optimum, “Nothing but the Best”. Through softbal
 *   Ms Tamil Alagi Manian
 
 
-**COACHES**
+### COACHES
 
 *   Ms Charmaine Chua Jia Ying
-*   Ms Adelia Koh Rui Wen 
+*   Ms Adelia Koh Rui Wen&nbsp;
 *   Mr Ngiam Jun Jie Gerann  
 *   Mr Ngiam Swee Kee
 
-**STUDENT LEADERS**
+### STUDENT LEADERS
 
 **B Division**
 
@@ -62,10 +62,10 @@ Our motto is Nil Satis Nisi Optimum, “Nothing but the Best”. Through softbal
 
 **C Division**
 
-*   Captain – TBA
+*   Captain –&nbsp;TBA
 *   Vice Captains – TBA
 
-**ACTIVITIES FOR THE YEAR**
+### ACTIVITIES FOR THE YEAR
 * ‘B’ &amp; ‘C’ Girls National Inter-School Softball Championships
 * ‘B’ Girls (Term 1: End Jan – March)
 * ‘C’ Girls (Term 3: July - Aug)
@@ -74,6 +74,6 @@ Our motto is Nil Satis Nisi Optimum, “Nothing but the Best”. Through softbal
 * Service Learning Activity (November)
 * Softball Camp (November)
 
-**PHOTO GALLERY**
+### PHOTO GALLERY
 
 <iframe allowfullscreen="true" height="500" width="500" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRcPcFonSBlb2OlZ0d-UqYT_o8I4GGyS6yygBocexalSeZ2VlwyC_lgJhW8bRlVOQFfb8It2ScTkY6U/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
