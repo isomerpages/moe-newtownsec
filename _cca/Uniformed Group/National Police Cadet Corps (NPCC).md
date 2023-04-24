@@ -10,13 +10,13 @@ New Town NPCC Unit was established in 1966. We aim to provide holistic training 
 
 New Town NPCC has achieved at least 20 GOLD Awards since 1996. We have performed consistently well in all of NPCC HQ Inter-Unit Competitions: Campcraft Competition, .22 Revolver Shooting Competition and Inter-Unit Drill Competition. We are also involved in community services both locally and overseas. To date, New Town NPCC have conducted adventure, community service and education trips to Malaysia, Indonesia, Thailand, Nepal, Hong Kong and Australia.
 
-**TRAINING SCHEDULE:**
+### TRAINING SCHEDULE:
 
 **Day/Time**: Every Friday – 2.30pm - 5.30pm
 
 **Venue**: NPCC Room or School premises
 
-**TEACHERS-IN-CHARGE**
+### TEACHERS-IN-CHARGE
 *   Mrs Keira Seow (1st i/c)
 *   Ms Lai Chiu Shuan (2nd i/c)
 *   Mdm Ong Hwee Hian  
@@ -24,20 +24,20 @@ New Town NPCC has achieved at least 20 GOLD Awards since 1996. We have performed
 *   Mr Alex Chan Kwan Meng
 *   Ms Alisha Lim Qing Chen
 
-**CADET INSPECTORS**
+### CADET INSPECTORS
 
 *   Lim Jian Xiong Jacky
 *   Issac Tok Jie Xun
 *   Loh Jiawei Roy
 *   Pek Bing Zheng Jordan
 
-**ACTIVITIES FOR THE YEAR**
+### ACTIVITIES FOR THE YEAR
 
 * Police Procedures, Basic Law, Crime Scene Investigation &amp; Singapore Anti-Narcotics Association courses
 * .22 Pistol Live Shooting
 * Team-building activities
 
-**ACHIEVEMENTS**
+### ACHIEVEMENTS
 
 **2021**
 
@@ -82,11 +82,11 @@ New Town NPCC has achieved at least 20 GOLD Awards since 1996. We have performed
 * UOPA Gold for 2014
 * Unit Overall Proficiency Award (2014) – Gold
 
-**EXTERNAL LINK**
+### EXTERNAL LINK
 
 https://www.instagram.com/ntss_npcc/
 
 
-**PHOTO GALLERY**
+### PHOTO GALLERY
 
 <iframe allowfullscreen="true" height="500" width="500" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTihYF1Lf-KjcOmluEQ3dbFekgEuofFqEGjYxXc3z68-kI3IDmnNhlHRMWKr1ikCQU6-mrZYnYKszZ3/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
