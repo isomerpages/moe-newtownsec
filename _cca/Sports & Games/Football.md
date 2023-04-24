@@ -22,7 +22,7 @@ The objectives of our activities are to:
 
 (5) Provide students with opportunities to demonstrate their values and apply their skills in a competitive environment.
 
-**TRAINING SCHEDULE:**
+### TRAINING SCHEDULE:
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -48,7 +48,7 @@ The objectives of our activities are to:
 </tbody>
 </table>
 
-**TEACHERS-IN-CHARGE** 
+### TEACHERS-IN-CHARGE
 
 *   Ms Sheeja V Pillai (1st i/c)  
     
@@ -60,24 +60,24 @@ The objectives of our activities are to:
     
 *   Mdm Kasumawati Bte Wansi (Term 1 only)
 
-**COACHES**
+### COACHES
 
 *   Mr Muhammad Shafie Bin Azhar
 *   Mr Mohammad Roshlan Bin Mohammad Lazim
 *   Mr Harry Lum Hon Lup
 
 
-**ACTIVITIES FOR THE YEAR**
+### ACTIVITIES FOR THE YEAR
 
 * West Zone Football Competition (‘B’ and ‘C’ Divisions)
 * Friendly Matches and Training Sessions with other schools
 
-**ACHIEVEMENTS**
+### ACHIEVEMENTS
 
 * Won 2018 School Inter-CCA Cross Country Challenge Trophy (Boys)
 * Qualified for 2017 National School Premier League (B-Division)
 * Top 2 in group for 2017 West Zone Football Championships (B-Division)
 
-**Photo Gallery**
+### Photo Gallery
 
 <iframe allowfullscreen="true" height="500" width="500" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR8jj3gSIjoTURisz4cFb_8QFdQxEJWzedKz8S8fECYuc5upTpVRdE0-L0o1JVqNBicTR5sWWSVPrDL/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
