@@ -16,20 +16,20 @@ We are a growing worldwide Movement ~ the voice of girls and young women who inf
 <u>The Guide Motto “Be Prepared”</u><br>
 The initials of the GGS motto, “Be Prepared”, also happens to be our Founder’s initials and is a practical reminder of the purpose of Girl Guiding which is to always be prepared for any eventuality. We carry out many activities that encompass the five modules in guiding – social and personal development, home, outdoor, knowledge of community and international. We also strive to be proficient in specific life skills that enable us to be prepared for the future.
 
-**TRAINING SCHEDULE:**
+### TRAINING SCHEDULE:
 
 **Day/Time**: Every Friday – 1.30pm - 4.30pm
 
 **Venue**: Girl Guides Room, Deep Learning Lab or School premises
 
-**TEACHERS-IN-CHARGE**
+### TEACHERS-IN-CHARGE
 
-*   Ms Nur Syahirah Bte Nahadi (1st i/c)
+*   Ms Nur Syahirah Bte Nahadi&nbsp;(1st i/c)
 *   Ms Renuka Selva Rajoo (2nd i/c)
-*   Ms Chua Zi Hui Samanthan   
+*   Ms Chua Zi Hui Samanthan&nbsp;  
 *   Mdm Zhuo Jinrong
 
-**ACTIVITIES FOR THE YEAR**
+### ACTIVITIES FOR THE YEAR
 
 * Puan Noor Aishah Award
 * Free Being Me Workshop
@@ -41,7 +41,7 @@ The initials of the GGS motto, “Be Prepared”, also happens to be our Founder
 * West Division Campfire 
 * Annual NTSS Girl Guides Camp
 
-**ACHIEVEMENTS**
+### ACHIEVEMENTS
 
 <u>2021</u>
 
@@ -74,10 +74,10 @@ The initials of the GGS motto, “Be Prepared”, also happens to be our Founder
 * West Division Day – Artic Explorers – Bronze
 
 
-**EXTERNAL LINK**
+### EXTERNAL LINK
 
 https://www.girlguides.org.sg
 
-**PHOTO GALLERY**
+### PHOTO GALLERY
 
 <iframe allowfullscreen="true" height="500" width="500" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRolY5cnEIwByzC2Hj1hGgF7r0hTpaynH3kI-0vWWYGZk6RN0PpohUYG4HHA6F_UlVTxIKL3GkjbwWZ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
