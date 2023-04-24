@@ -9,7 +9,7 @@ third_nav_title: Visual & Performing Arts
 
 New Town Concert Band (formerly a military band) was formed in 1967 and has been well received since its inception. Under the baton of maestro Erik Tan, our Concert Band has explored a wide range of repertoire written by various composers. One of her major highlights was performing at the Singapore Youth Festival (SYF) Arts Presentation, where the band was exposed to different genres of band repertoire and culture. Through various performances, New Town Concert Band aims to continuously develop itself.
  
-**PRACTICE SCHEDULE:**
+### PRACTICE SCHEDULE:
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -35,7 +35,7 @@ New Town Concert Band (formerly a military band) was formed in 1967 and has been
 </tbody>
 </table>
 
-**TEACHERS IN-CHARGE**
+### TEACHERS IN-CHARGE
 
 *   Ms Yong Li Ping (1st i/c)
 *   Mr Muhammad Nur Azman Shah (2nd i/c)
@@ -43,20 +43,20 @@ New Town Concert Band (formerly a military band) was formed in 1967 and has been
 *   Ms Anita Bte Mohamed Salleh
 *   Ms Nurul Aisyah Bte Rosli
 
-**CONDUCTORS/TUTORS**
+### CONDUCTORS/TUTORS
 
 *   Mr Tan Thiam Hock Erik
 *   Mr Chang Tat Fai Edmund
 *   Mr Gordon Tan Li Chuan
 
-**STUDENT LEADERS** 
-*   Band Major - TBA
+### STUDENT LEADERS
+*   Band Major -&nbsp;TBA
 *   Drum Major - TBA     
 *   Assistant Band Major - TBA  
 *   Assistant Drum Major - TBA
 
 
-**ACTIVITIES FOR THE YEAR**
+### ACTIVITIES FOR THE YEAR
 
 * Band Camp
 * IN-HOUSE AND OUTDOOR PERFORMANCES
@@ -65,11 +65,11 @@ New Town Concert Band (formerly a military band) was formed in 1967 and has been
 	* Commendation Day
 	* National Day Concert
 
-**ACHIEVEMENTS**
+### ACHIEVEMENTS
 
 * Singapore Youth Festival (2021) – Certificate of Accomplishment
 * Singapore Youth Festival (2019) – Certificate of Accomplishment
 * Singapore Youth Festival (2017) – Certificate of Accomplishment
 
-**Photo Gallery**
+### Photo Gallery
 <iframe allowfullscreen="true" height="500" width="500" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRDUvo2lCOwafTBdVmDyfis7cURu5UG68W-fsI-RYin5zXcA4zIfV5adld9KNwNBEbgQNVglDouNXdn/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
