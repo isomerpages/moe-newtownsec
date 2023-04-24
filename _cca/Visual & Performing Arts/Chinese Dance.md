@@ -11,7 +11,7 @@ Chinese Dance of New Town Secondary School aims to expose students to different 
 
 Dance trains the students in body coordination, mental concentration and most importantly, the spirit of teamwork. Dance also teaches the students to be self-disciplined and resilient as they constantly strive to perfect their moves. These attributes will be the assets that New Town dancers possess.
 
-**PRACTICE SCHEDULE:**
+### PRACTICE SCHEDULE:
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -37,27 +37,28 @@ Dance trains the students in body coordination, mental concentration and most im
 </tbody>
 </table>
 
-**TEACHERS IN-CHARGE**
+### TEACHERS IN-CHARGE
 
 *   Ms Ding Chao (1st i/c)
 *   Mrs Lim-Tang Anqiong (2nd i/c)
 *   Mrs Dolly Teo
 
-**COACH**
+### COACH
 
 * Ms Li Xin Jun Wendy 
 
-**ACTIVITIES FOR THE YEAR**
+### ACTIVITIES FOR THE YEAR
 
 * CCA Open House Performance (online)
 * Chinese New Year Performance (online)
 
-**ACHIEVEMENTS**
+### ACHIEVEMENTS
 
 * SYF Arts Presentation 2021 Certificate of Distinction
 * SYF Arts Presentation 2019 Certificate of Distinction
 * SYF Arts Presentation 2017 Certificate of Accomplishment
 * SYF Arts Presentation 2015 Certificate of Distinction
 
-**Photo Gallery**
+### Photo Gallery
+
 <iframe allowfullscreen="true" height="500" width="500" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTd4sZyNsteYPqLlZClOLZtp7wpaNWgXUexgrv1S1G1dkjbv-fw1zK39DgJRftCmLXaV-7jHhUPsBhP/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
