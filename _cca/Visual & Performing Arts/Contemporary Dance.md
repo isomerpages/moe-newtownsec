@@ -4,11 +4,11 @@ permalink: /cca/visual-n-performing-arts/contemporary-dance/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
-**INTRODUCTION**  
+# INTRODUCTION
 
 Contemporary Dance is one of the school’s visual and performing arts CCAs where dancers learn various dance forms and choreography while developing teamwork and leadership skills. Dancers also participate in various camps and events to ignite their passion, showcase their talents and learn from others.  
   
-**TRAINING SCHEDULE:**
+### TRAINING SCHEDULE:
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -34,22 +34,21 @@ Contemporary Dance is one of the school’s visual and performing arts CCAs wher
 </tbody>
 </table>
 
-**TEACHERS IN-CHARGE**
+### TEACHERS IN-CHARGE
 
 *   Ms Tang Wai Yin (1st i/c)
 *   Ms Amanda Sarah Chin Yong Hui (2nd i/c)
 *   Mrs Jane Chng  
-    
 *   Ms Cheong Wan Ting
 
-**INSTRUCTORS**
+### INSTRUCTORS
 
 *   Ms Jean Tan Mei Qi
 *   Mr Elias Han Quan Azib&nbsp;
 
   
 
-**ACTIVITIES FOR THE YEAR**
+### ACTIVITIES FOR THE YEAR
 
   
 
@@ -63,7 +62,7 @@ Contemporary Dance is one of the school’s visual and performing arts CCAs wher
     
 *   Teachers’ Day&nbsp;Performance
 
-**ACHIEVEMENTS**
+### ACHIEVEMENTS
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
