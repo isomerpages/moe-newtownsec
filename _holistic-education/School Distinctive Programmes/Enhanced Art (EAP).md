@@ -35,9 +35,11 @@ Click on the link below to access the article
 ### Snapshots of our Programme
 
 <u>Masterclasses</u>
+
 ![](/images/AEP%201.png)
 
 ![](/images/AEP.jpg)
 
 <u>EAP Combined Schools Programme</u>
+
 ![](/images/AEP%202.png)
