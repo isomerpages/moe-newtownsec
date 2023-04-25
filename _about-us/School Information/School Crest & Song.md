@@ -6,8 +6,7 @@ third_nav_title: School Information
 ---
 # School Crest
 
-<img src="/images/ntss-logo.jpg" 
-     style="width:50%">
+<img src="/images/crest1.jpeg" style="width:50%">
 		 
 ***创造美好生活***
 
@@ -32,4 +31,4 @@ At the centre of the badge is a flower which is made up of many petals encirclin
 **Pianist: Mr. Fifi Leong**<br>
 **Sound Engineer: Mr. Gerald Koh**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/I7VFXIVY3xI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I7VFXIVY3xI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
