@@ -89,4 +89,4 @@ https://www.instagram.com/ntss_npcc/
 
 ### PHOTO GALLERY
 
-<iframe allowfullscreen="true" height="500" width="500" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTihYF1Lf-KjcOmluEQ3dbFekgEuofFqEGjYxXc3z68-kI3IDmnNhlHRMWKr1ikCQU6-mrZYnYKszZ3/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT-6QziQFYCXsnlzDMRAmoxJ1Duj-F8-OB433lC0elBCYLVAMeLlZhG_SdYRKjvnKecgnYURvdMQqgj/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
