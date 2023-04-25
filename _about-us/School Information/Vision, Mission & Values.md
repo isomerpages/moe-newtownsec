@@ -4,6 +4,13 @@ permalink: /about-us/school-information/vision-mission-n-values/
 description: ""
 third_nav_title: School Information
 ---
+<h3><u>Philosophy</u></h3>
+
+Everyone is Unique, All can Succeed
+
+<h3><u>Motto</u></h3>
+
+To Forge a Better Life
 <h3><u>Vision</u></h3>
 
 Nurturing Talents, Sharing Success
