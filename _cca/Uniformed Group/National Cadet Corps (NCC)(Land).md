@@ -71,4 +71,7 @@ https://www.facebook.com/sgncc.hq/
 
 ### PHOTO GALLERY
 
-<iframe allowfullscreen="true" height="500" width="500&quot;" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSL856L0FEzvPA7RUdhLrl0uiR6zgHC2YZxRfbwCrzGW3hwmJ9Sb5PwAaj1vCjrpXnNOZ-OgU0B8tJN/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQm9lImj-Kf3LNo6sdhcu9qSC_1SkaD41wMC5BNGY4594PT0zxG42PhO7UKaWwYCYWPzNjnUbICMKT9/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQKzw81AG8yYo4rw7IA-kK0JsUGSzlueV1jF0AKGzhqIH4G7Wcht1J0VOyKrHY6MBjnRWXTX-GvTpNe/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
