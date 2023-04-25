@@ -45,6 +45,6 @@ School Song
 **_Pianist: Mr. Fifi Leong_**  
 **_Sound Engineer: Mr. Gerald Koh_**
 
-[video to be uploaded to youtube and embbed here]
+[new video to be uploaded to youtube and embbed here]
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I7VFXIVY3xI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
