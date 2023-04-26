@@ -4,6 +4,7 @@ permalink: /cca/visual-n-performing-arts/contemporary-dance/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
+![](/images/contemporary%20dance%2001.jpeg)
 # INTRODUCTION
 
 Contemporary Dance is one of the school’s visual and performing arts CCAs where dancers learn various dance forms and choreography while developing teamwork and leadership skills. Dancers also participate in various camps and events to ignite their passion, showcase their talents and learn from others.  
