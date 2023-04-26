@@ -91,4 +91,4 @@ A reminder to Basketballers to give nothing but the best in attitude, mind and p
 
 ### PHOTO GALLERY
 
-<iframe allowfullscreen="true" height="500" width="500" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRv-bVefhel0L9bYra8lnteXAdcC5FXL6X9YdOhV7KlPxlXMb9Z7Vt19xy97G2LhmFoii_pfS0cAUlp/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRT1rkzIEO_kbrB1sLiTqqEXkKmk7E3QsfIiHheWLVWPBIQRtrCnIu_g65kCQ_-otfxw5yRqOKe7VPR/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
