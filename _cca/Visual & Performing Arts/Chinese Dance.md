@@ -64,4 +64,4 @@ Dance trains the students in body coordination, mental concentration and most im
 
 ![](/images/header-1.jpg)
 
-<iframe allowfullscreen="true" height="500" width="500" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTd4sZyNsteYPqLlZClOLZtp7wpaNWgXUexgrv1S1G1dkjbv-fw1zK39DgJRftCmLXaV-7jHhUPsBhP/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRIyQg6oZqPw87Op6Y7221qp6QMjvOmPdRn4oA02r1r7MblpUzbrR9-30gyaECvsIK8Ls6WucX2QTWQ/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
