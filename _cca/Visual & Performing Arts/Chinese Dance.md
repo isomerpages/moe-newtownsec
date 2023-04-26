@@ -54,6 +54,7 @@ Dance trains the students in body coordination, mental concentration and most im
 
 ### ACHIEVEMENTS
 
+* SYF Arts Presentation 2023 Certificate of Accomplishment
 * SYF Arts Presentation 2021 Certificate of Distinction
 * SYF Arts Presentation 2019 Certificate of Distinction
 * SYF Arts Presentation 2017 Certificate of Accomplishment
