@@ -80,4 +80,4 @@ The objectives of our activities are to:
 
 ### Photo Gallery
 
-<iframe allowfullscreen="true" height="500" width="500" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR8jj3gSIjoTURisz4cFb_8QFdQxEJWzedKz8S8fECYuc5upTpVRdE0-L0o1JVqNBicTR5sWWSVPrDL/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRr1swhxhJZVToXqw5DRDYBz-KrA1gR4NpEg_A8oiTUNMgF6a3IyiwdudPMnU1X7cmu2OkvzZkUnv8g/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
