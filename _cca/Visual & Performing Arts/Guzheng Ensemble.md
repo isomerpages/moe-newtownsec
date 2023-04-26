@@ -63,5 +63,8 @@ The Guzheng Ensemble has been the pride and glory of New Town Secondary School. 
 * SYF Arts Presentation 2017 (Certificate of Distinction) 
 
 ### Photo Gallery
+![](/images/guzheng%2001.jpeg)
+
+![](/images/guzheng%2002.jpeg)
 
 <iframe allowfullscreen="true" height="500" width="500" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRRJm1gvIeeQRFMKawzfS2LBE7lYERfiC-XPVGTuiS4WQuWuvkMEbMcBMqMtMwiD1CwrObKdY3C7l11/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
