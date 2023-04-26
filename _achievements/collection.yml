@@ -2,6 +2,10 @@ collections:
   achievements:
     output: true
     order:
+      - Alumni.md
+      - Staff/.keep
+      - Staff/2018 to Current.md
+      - Staff/2013 to 2017.md
       - Student/.keep
       - Student/2021.md
       - Student/2020.md
@@ -11,7 +15,3 @@ collections:
       - Student/2016.md
       - Student/2015.md
       - Student/2014.md
-      - Staff/2018 to Current.md
-      - Staff/2013 to 2017.md
-      - Staff/.keep
-      - Alumni.md
