@@ -53,4 +53,4 @@ https://schoolibrary.moe.edu.sg/eresourcessec
 
 ### PHOTO GALLERY
 
-<iframe allowfullscreen="true" height="500" width="500" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSDLhzYNdk71H-cqXCapJq21XNm3wrN7yGBdQIKLPKqNB2kwn2UxwN5hsABRwprQrZS-CNSxBCe0pcY/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR30GFs5Yk5zY-J_a-pTe5FKW5neODq9YxTT2RYAoZyfzZn-1Ft969W24nCW7ikQIkmwWCIaZEDuoyv/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
