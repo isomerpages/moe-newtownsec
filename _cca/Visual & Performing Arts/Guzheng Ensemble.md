@@ -4,7 +4,8 @@ permalink: /cca/visual-n-performing-arts/guzheng-ensemble/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
-![](/images/IMG-7168.jpg)
+![](/images/guzheng%2002.jpeg)
+
 # INTRODUCTION
 
 The Guzheng Ensemble has been the pride and glory of New Town Secondary School. The Ensemble was established in May and has since become an integral part of the school’s aesthetics programme. It not only trains the students in finger coordination and mental concentration but more importantly, the spirit of teamwork. Members grow to realise and appreciate that hard work is an indispensable part of achievement. These attributes will be the assets that the performers possess. The Guzheng Ensemble gives students numerous opportunities to perform in school events to showcase their talents. It also develops their musicality and boosting their confidence. 
