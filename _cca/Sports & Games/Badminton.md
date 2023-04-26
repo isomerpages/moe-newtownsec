@@ -4,7 +4,7 @@ permalink: /cca/sports-and-games/badminton/
 description: ""
 third_nav_title: Sports & Games
 ---
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSBljHWukhwDMaDRosGI72bc64CjhQA057crL1ks4Djnel_IqmU7tb4H8XrQIYwnRQ3a64MLgvu7cyU/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="500" height="500" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS6MjSpr9fPi4NaEtnx7BEZkaY94AVVGwwbc8PrwYOu1HG-HbOCBx4o-z2v1ZypxSFdwxUlyI8tg8kt/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 # INTRODUCTION
 
@@ -70,4 +70,4 @@ The team trains on a weekly basis, under the guidance of experienced Coaches and
 
 ### Photo Gallery
 
-<iframe allowfullscreen="true" height="500" width="500" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTowVB2jV8i3hK1vH3xvpEIOOSV3WqvUBEO-szZHdtbdlNpwGCf2BcrsUlxq13kY7gPZcWBaKHWU94Q/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQyY5H8RFE6r6VgX2lR4i0vVZt4UX-gopUafb1ORR10rABzKDucWAEo1oxqCDQS0u8AnJIYDXqqtsxr/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
