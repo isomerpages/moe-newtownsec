@@ -4,7 +4,7 @@ permalink: /cca/visual-n-performing-arts/chinese-dance/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
-![](/images/header-1.jpg)
+![](/images/chinese%20dance%2001.jpeg)
 # Introduction
 
 Chinese Dance of New Town Secondary School aims to expose students to different kinds of dance forms and allow them to appreciate the rhythm and essence of beautiful dances. As dancers, the common aspiration is to be able to shine on stage. In addition, a true dancer will also be passionate about dancing and possess the right attitude.
