@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: /others/announcements/sec-1-cca-open-house-and-selection-2023/
+          url: /announcements/ntss-cross-country-2023/
         - title: Quick Links
           description: ""
           url: /quick-links/for-students/
