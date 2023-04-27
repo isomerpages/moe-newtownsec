@@ -2,7 +2,6 @@ collections:
   announcements:
     output: true
     order:
-      - 2023 Secondary 1 Posting.md
       - 2023 New Town Secondary School.md
       - School Letters.md
       - DSA/.keep
