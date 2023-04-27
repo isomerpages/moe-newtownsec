@@ -2,9 +2,9 @@ collections:
   announcements:
     output: true
     order:
+      - NTSS Cross Country 2023.md
       - DSA/.keep
       - DSA/Direct School Admission – Secondary (DSA–Sec) Exercise 2023.md
       - DSA/Selection Criteria.md
       - DSA/Application Process.md
       - DSA/Application Key Dates.md
-      - NTSS Cross Country 2023.md
