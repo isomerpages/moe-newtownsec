@@ -2,5 +2,6 @@ collections:
   announcements:
     output: true
     order:
+      - DSA/Direct School Admission – Secondary (DSA–Sec) Exercise 2023.md
       - DSA/.keep
       - NTSS Cross Country 2023.md
