@@ -2,7 +2,6 @@ collections:
   announcements:
     output: true
     order:
-      - Direct School Admission Secondary Exercise 2023.md
       - Sec 1 CCA Open House and Selection 2023.md
       - Class Timetable 2023.md
       - 2022 Release of N–Level Examination Results.md
