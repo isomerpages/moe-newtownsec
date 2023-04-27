@@ -2,4 +2,5 @@ collections:
   announcements:
     output: true
     order:
+      - DSA/.keep
       - NTSS Cross Country 2023.md
