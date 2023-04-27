@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - DSA/Application Key Dates.md
       - DSA/Application Process.md
       - DSA/Selection Criteria.md
       - DSA/Direct School Admission – Secondary (DSA–Sec) Exercise 2023.md
