@@ -2,7 +2,6 @@ collections:
   announcements:
     output: true
     order:
-      - School Letters.md
       - DSA/.keep
       - DSA/Direct School Admission – Secondary (DSA–Sec) Exercise 2022.md
       - DSA/Selection Criteria.md
