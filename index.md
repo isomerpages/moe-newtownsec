@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/NTSS-hero-banner.gif
+      background: /images/banner1.jpg
       key_highlights:
         - title: Announcements
           description: ""
