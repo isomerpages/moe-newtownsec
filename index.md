@@ -15,4 +15,5 @@ sections:
         - title: Quick Links
           description: ""
           url: /quick-links/for-students/
+      title: New Town Secondary School
 ---
