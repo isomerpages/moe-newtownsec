@@ -6,6 +6,8 @@ third_nav_title: DSA
 ---
 ### What is Direct School Admission?
 
+**2023-04-21**
+
 &nbsp;DSA-Sec is an MOE initiative designed to give schools greater flexibility in student admission, to allow for the recognition and development of a more diverse range of student achievements and talents beyond academic achievements.
 
 &nbsp;We are looking for interested Primary 6 students with talents/passion/skills in&nbsp;**Leadership, Visual Arts, Fencing, Basketball**&nbsp;and/or&nbsp;**Guzheng**&nbsp;for admission to Secondary One in 2024.
