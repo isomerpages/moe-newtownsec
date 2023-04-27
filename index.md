@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Newtown Secondary School
       background: /images/NTSS-hero-banner.gif
       key_highlights:
         - title: Announcements
