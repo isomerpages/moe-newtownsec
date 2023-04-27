@@ -2,7 +2,6 @@ collections:
   announcements:
     output: true
     order:
-      - Sec 1 CCA Open House and Selection 2023.md
       - Class Timetable 2023.md
       - 2023 Secondary 1 Posting.md
       - 2023 New Town Secondary School.md
