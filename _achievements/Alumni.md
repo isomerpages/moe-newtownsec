@@ -3,7 +3,8 @@ title: Alumni
 permalink: /achievements/alumni/
 description: ""
 ---
-<u>**2018**</u>
+**<u>2018</u>**
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -61,7 +62,8 @@ description: ""
 </tbody>
 </table>
 
-<u>**2017**</u>
+**<u>2017</u>**
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -159,7 +161,8 @@ description: ""
 </tbody>
 </table>
 
-<u>**2016**</u>
+**<u>2016</u>**
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -202,7 +205,8 @@ description: ""
 </tbody>
 </table>
 
-<u>**2015**</u>
+**<u>2015</u>**
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -340,7 +344,8 @@ description: ""
 </tbody>
 </table>
 
-<u>**2014**</u>
+**<u>2014</u>**
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
