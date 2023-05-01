@@ -19,4 +19,6 @@ sections:
       title: Welcome to our website
       image: /images/slide1.JPG
       alt: Image alt text
+      button: Principal's Message 2023
+      url: https://staging.d2or6b3ngngjp5.amplifyapp.com/about-us/principals-message-2023/
 ---
