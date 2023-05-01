@@ -17,6 +17,6 @@ sections:
           url: /quick-links/for-students/
   - infopic:
       title: Welcome to our website
-      image: /images/welcome1.JPG
+      image: /images/slide1.JPG
       alt: Image alt text
 ---
