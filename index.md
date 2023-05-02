@@ -7,7 +7,7 @@ permalink: /
 notification: New Town Secondary School
 sections:
   - hero:
-      background: /images/banner5.jpg
+      background: /images/NTSS-hero-banner.gif
       key_highlights:
         - title: Announcements
           description: ""
