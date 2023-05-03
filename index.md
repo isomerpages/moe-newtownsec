@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/banner-1.jpg
       key_highlights:
-        - title: Announcements
+        - title: School Distinctive Programmes
           description: ""
-          url: /announcements/ntss-cross-country-2023/
+          url: /holistic-education/school-distinctive-programmes/learning-for-life-llp-from-2023/
         - title: Quick Links
           description: ""
           url: /quick-links/for-students/
