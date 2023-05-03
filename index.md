@@ -15,4 +15,6 @@ sections:
         - title: Quick Links
           description: ""
           url: /quick-links/for-students/
+  - resources:
+      subtitle: LATEST ANNOUNCEMENTS
 ---
