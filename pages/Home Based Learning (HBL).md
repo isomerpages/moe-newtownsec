@@ -15,7 +15,7 @@ Home Based Learning (HBL)
 2. Student Initiated Learning (SIL) 
 
 *   Select one SIL topic of your choice from the various SLS modules assigned to you.
-*   Follow the task instructions and complete the SIL reflection Padlet using the guiding questions provided.         (Padlet link is in your google classroom Form Class Admin page)
+*   Follow the task instructions and complete the SIL reflection Padlet using the guiding questions provided. (Padlet link is in your google classroom Form Class Admin page)
 
 Have a great day learning!  
   
