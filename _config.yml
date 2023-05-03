@@ -1,6 +1,6 @@
 title: New Town Secondary School
 url: https://www.newtownsec.moe.edu.sg
-favicon: /images/ntss-logo.jpg
+favicon: /images/ntss logo.jpg
 colors:
   primary-color: "#9adcf1"
   secondary-color: "#010000"
@@ -52,7 +52,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d2or6b3ngngjp5.amplifyapp.com/
 prod: https://master.d2or6b3ngngjp5.amplifyapp.com/
-shareicon: ""
+shareicon: /images/isomer-logo.svg
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
