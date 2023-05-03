@@ -52,7 +52,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d2or6b3ngngjp5.amplifyapp.com/
 prod: https://master.d2or6b3ngngjp5.amplifyapp.com/
-shareicon: /images/ntss-logo 1.jpg
+shareicon: ""
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
