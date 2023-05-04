@@ -14,7 +14,6 @@ sections:
         - title: Quick Links
           description: ""
           url: /quick-links/for-students/
-      background: /images/banner 1 - front page6.jpg
   - resources:
       subtitle: LATEST ANNOUNCEMENTS
 ---
