@@ -2,7 +2,7 @@ collections:
   achievements:
     output: true
     order:
-      - Alumni.md
+      - This is a private page viewable only by selected users.md
       - Staff/.keep
       - Staff/2018 to Current.md
       - Staff/2013 to 2017.md
