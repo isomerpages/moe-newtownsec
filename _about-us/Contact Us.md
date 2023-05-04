@@ -5,6 +5,7 @@ description: ""
 ---
 Contact Us
 ==========
+[View Map](https://www.google.com/maps/place/New+Town+Secondary+School/@1.3100184,103.7709924,17z/data=!3m1!4b1!4m6!3m5!1s0x31da1a8aef8b5741:0x79f6a32a26648bf3!8m2!3d1.3100184!4d103.7731811!16zL20vMDd6NWZ2)
 
 <br>  
 
