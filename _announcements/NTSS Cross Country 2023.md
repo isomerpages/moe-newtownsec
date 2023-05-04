@@ -12,3 +12,4 @@ Read more : [NTSS Cross Country 2023 - Directional Map to West Coast Park & Runn
 [Cross Country Briefing Video 1](https://youtu.be/LXlsRvjZAQ4)
 
 [Cross Country Briefing Video 2](https://youtu.be/ZzhZgKLaTmE)
+
