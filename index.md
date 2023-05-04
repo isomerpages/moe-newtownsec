@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banner 1 - front page(jpg).jpg
+      background: /images/banner 1 - front page2.jpg
       key_highlights:
         - title: School Distinctive Programmes
           description: ""
