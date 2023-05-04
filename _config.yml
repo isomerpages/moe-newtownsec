@@ -3,7 +3,7 @@ url: https://www.newtownsec.moe.edu.sg
 favicon: /images/crest1.jpeg
 colors:
   primary-color: "#13126a"
-  secondary-color: "#010000"
+  secondary-color: "#4a90e2"
   media-colors:
     - title: media-color-one
       color: "#49759a"
