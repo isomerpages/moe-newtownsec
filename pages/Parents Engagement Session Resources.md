@@ -3,6 +3,9 @@ title: Parents Engagement Session Resources
 permalink: /about-us/links/parents/parents-engagement-session-resources/
 description: ""
 ---
+**Sec 1 Parents Engagement Session Slides (2023)**
+* [Sec 1 Parents Engagement Session (2023)](/files/2023%20Sec%201%20PES_Slides.pdf)
+
 **Sec 3 Parents Engagement Session, 03 Mar 2023**  
   
 *   [Sec 3 Parents Engagement Session Slides](/files/2023%20Sec%203%20PES_final.pdf)
