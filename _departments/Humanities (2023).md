@@ -1,0 +1,40 @@
+---
+title: Humanities (2023)
+permalink: /department/humanities-2023/
+description: ""
+---
+### KEY FOCUS
+
+* To nurture students to develop knowledge, skills, values and dispositions to examine global issues;
+
+* To nurture students to develop an understanding and appreciation of diverse perspectives, cultures and experiences of others; and
+
+* To nurture students to have sound and reasoned decision-making by providing opportunities for a critical examination of different perspectives through the inquiry approach.
+
+### PROGRAMMES
+
+**Core Programme**
+
+In **Geography**, students will learn about the relationships between environments and people. They will explore local and global issues, such as climate change and resource depletion through learning experiences such as fieldwork. Students will be able to find out more about the challenges faced across the world in managing resource use sustainably and how stakeholders involved develop solutions for sustainable development.
+
+**History** helps students understand the human experience and societies across time. As students learn about key historical developments, different cultures and the experiences of others, students will be able to make sense of present-day local and global issues. Being able to appreciate the past and the perspectives of others will also help students to relate to people of diverse backgrounds and cultures.
+
+**Social Studies** allows students to inquire into contemporary societal issues in the local and global context through classroom discussions and examination of sources of different forms and types. Students will appreciate multiple perspectives and the importance of cultural diversity and develop the agency to respond to pertinent societal issues.
+
+**Principles of Accounts** develops in students the knowledge and skills to prepare, communicate and use both accounting information and non-accounting information related to the business to make decisions. The understanding and application of accounting knowledge to develop lifelong skills and values will be of value to students in the increasingly complex world of business. 
+
+**Enrichment Programmes and Activities**
+
+* Geographical Investigation for Lower Secondary students
+
+* Geography fieldwork experience for Upper Secondary Geography students
+
+* Historical Investigation for Lower Secondary students
+
+* History Learning Journey to National Museum of Singapore for Secondary 2 students
+
+* Social Studies Learning Journey/ Issues Investigation for Upper Secondary students
+
+**Stretch Programmes**
+
+Students who demonstrate an aptitude and passion for the Humanities subjects may be invited and mentored to participate in local Humanities competitions / events (e.g. NUS Geography Challenge) to deepen their growth and interest in the subjects.

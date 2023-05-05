@@ -1,0 +1,28 @@
+collections:
+  cca:
+    output: true
+    order:
+      - General Information/.keep
+      - General Information/General Information.md
+      - General Information/CCA LEAPS 2.md
+      - Uniformed Group/.keep
+      - Uniformed Group/Girl Guides.md
+      - Uniformed Group/National Cadet Corps (NCC)(Land).md
+      - Uniformed Group/National Police Cadet Corps (NPCC).md
+      - Sports & Games/.keep
+      - Sports & Games/Badminton.md
+      - Sports & Games/Basketball.md
+      - Sports & Games/Football.md
+      - Sports & Games/Table Tennis.md
+      - Sports & Games/Softball.md
+      - Sports & Games/Fencing.md
+      - Sports & Games/Netball.md
+      - Clubs & Societies/.keep
+      - Clubs & Societies/Media Resource Library.md
+      - Clubs & Societies/Infocomm Technology (Media Production).md
+      - Visual & Performing Arts/.keep
+      - Visual & Performing Arts/Art and Crafts.md
+      - Visual & Performing Arts/Concert Band.md
+      - Visual & Performing Arts/Chinese Dance.md
+      - Visual & Performing Arts/Guzheng Ensemble.md
+      - Visual & Performing Arts/Contemporary Dance.md
