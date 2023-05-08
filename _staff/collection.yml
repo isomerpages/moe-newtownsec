@@ -2,4 +2,5 @@ collections:
   staff:
     output: true
     order:
+      - 2018 to Current.md
       - 2013 to 2017.md
