@@ -4,7 +4,6 @@ collections:
     order:
       - Staff/.keep
       - Student/.keep
-      - Student/2020.md
       - Student/2019.md
       - Student/2018.md
       - Student/2017.md
