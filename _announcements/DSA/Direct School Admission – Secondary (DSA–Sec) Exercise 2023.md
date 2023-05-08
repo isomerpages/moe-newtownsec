@@ -143,11 +143,11 @@ We are looking for interested Primary 6 students with talents/passion/skills in 
 
 Please refer to the following regarding:
 
-**1.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Selection Criteria**
+**1.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[Selection Criteria](https://www.newtownsec.moe.edu.sg/direct-school-admission-secondary-dsa-sec-exercise-2023/selection-criteria/)**
 
-**2.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Application Process**
+**2.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[Application Process](https://www.newtownsec.moe.edu.sg/direct-school-admission-secondary-dsa-sec-exercise-2023/application-process/)**
 
-**3.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Application Key Dates**
+**3.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[Application Key Dates](https://www.newtownsec.moe.edu.sg/direct-school-admission-secondary-dsa-sec-exercise-2023/application-key-dates/)**
 
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent. Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.
 
