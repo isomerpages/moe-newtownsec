@@ -4,6 +4,5 @@ collections:
     order:
       - Staff/.keep
       - Student/.keep
-      - Student/2016.md
       - Student/2015.md
       - Student/2014.md
