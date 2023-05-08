@@ -2,5 +2,6 @@ collections:
   achievements:
     output: true
     order:
+      - Student.md
       - Staff.md
       - Alumni.md
