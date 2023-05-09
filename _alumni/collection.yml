@@ -1,7 +1,5 @@
 collections:
-  achievements:
+  alumni:
     output: true
     order:
       - Alumni.md
-      - Staff.md
-      - Student.md

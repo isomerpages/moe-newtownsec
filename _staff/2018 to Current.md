@@ -1,8 +1,7 @@
 ---
 title: 2018 to Current
-permalink: /achievements/
+permalink: /annoucements/
 description: ""
-third_nav_title: Staff
 ---
 <h3><u>2021</u></h3>
 
