@@ -22,7 +22,7 @@ description: ""
 
 [Application Form (Word Format)](https://go.gov.sg/canteen-application-form)
 
-[Application form (Pdf Format)]()
+[Application form (Pdf format)](/files/application%20form.pdf)
 
 2\. Attached the following documents together with the application form:
 
