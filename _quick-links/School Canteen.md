@@ -20,7 +20,6 @@ description: ""
   
 1\. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 
-
 [Application Form](https://go.gov.sg/canteen-application-form)
 
 [Application form (Pdf Format)]()
