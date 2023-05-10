@@ -2,7 +2,7 @@ collections:
   quick-links:
     output: true
     order:
-      - School Canteen.md
       - For Students.md
       - For Staffs.md
       - For Parents.md
+      - School Canteen.md
