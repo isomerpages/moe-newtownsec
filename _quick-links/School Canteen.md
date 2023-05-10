@@ -14,4 +14,61 @@ description: ""
   font-variant-caps: normal;orphans: 2;widows: 2;-webkit-text-stroke-width: 0px;
   text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial">NIL</span></td></tr></tbody></table>
 	
-	
+		
+**Application Procedure**
+
+  
+1\. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
+
+
+
+
+
+2\. Attached the following documents together with the application form:
+
+* Photocopy of the NRIC (front and back)
+
+*  List of proposed menu and pricing for all items (selection will be based on proposal submitted)
+
+* Photocopy of relevant certificates such as Basic Food Hygiene Course certificates of all food handlers
+
+3\. Submit the completed application form and documents by closing date via email OR to the School's General Office.
+
+Address: **New Town Sec School, 1020 Dover Road, Singapore 139657** 
+
+Contact No: **67754140**  
+Email: **ntss@moe.edu.sg**
+
+Contact Person: **Mdm Rohaidah (CSO)/Mr Chia Yuen Teck (Operations Mgr)/Ms Chan Lai Ying (Administrative Mgr)**
+
+**How to get there?**
+
+* Nearest MRT: Clementi MRT (EW23 line) – Change to Bus 196 from Clementi Interchange
+
+* Bouna Vista MRT (EW21) – Change to Bus 196 at Bus Stop Opp MOE Bldg
+
+* Bus number: 196 and 33 - 3 minutes walking distance
+
+**Interest applicants must meet the following criteria:**
+
+* Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
+
+* Able to provide good service and quality food with prices determined in consultation with the school. (at most $3.50 for a set meal of rice, meat, vegetable &amp; fruit).&nbsp; Proposed menu with price list must be attached to the application form for our consideration.
+
+* Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see \[link\](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).
+
+* Able to maintain high standard of food safety and personal hygiene.
+
+* Healthy and fit to operate the stall.
+
+*  Able to operate during school holidays and as and when requested by the school.
+
+**Applicants should preferably fulfil the following criteria:**
+
+* Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.
+
+* Possess catering experience or experience operating in a school environment.
+
+* Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).
+
+* Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.
