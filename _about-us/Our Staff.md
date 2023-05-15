@@ -271,7 +271,7 @@ description: ""
   <tr>
     <td class="tg-hvl7"><span style="color:#222;background-color:#EAEAEA"> </span></td>
     <td class="tg-hvl7"><span style="color:#222;background-color:#EAEAEA"> Mr Joel Chan</span><br><br></td>
-    <td class="tg-hvl7"><span style="color:#222;background-color:#EAEAEA">Joel_chan_jie_hao_a@moe.edu.sg</span><br><span style="color:#222;background-color:#EAEAEA"> </span></td>
+    <td class="tg-hvl7"><span style="color:#222;background-color:#EAEAEA">Joel_chan_jie_hao@moe.edu.sg</span><br><span style="color:#222;background-color:#EAEAEA"> </span></td>
   </tr>
   <tr>
     <td class="tg-djlw">S1-4</td>
