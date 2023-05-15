@@ -67,7 +67,7 @@ Applicants will be notified by post if they have been:
 
 ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; put on the Waiting List or if the school is unable to offer them a place.
 
-Those given a Confirmed Offer are guaranteed a place in the school in a course (Express or Normal Academic) which the student is eligible for, based on the PSLE results obtained.
+Those given a Confirmed Offer are guaranteed a place in the school in a course which the student is eligible for, based on the PSLE results obtained.
 
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:double windowtext 4.5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes"><td width="445" valign="top" style="width:333.45pt;border:double windowtext 4.5pt;
