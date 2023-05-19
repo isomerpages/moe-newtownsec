@@ -6,4 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
-[Cohort Learning Week (22 - 25 May) ](/announcements/cohort-learning-week/))
+[Cohort Leaning Week schedule](https://staging.d2or6b3ngngjp5.amplifyapp.com/announcements/cohort-learning-week/)
