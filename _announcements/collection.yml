@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Cohort Learning Week (22 – 25 May) Schedule.md
       - NTSS Cross Country 2023.md
       - DSA/.keep
       - DSA/Direct School Admission – Secondary (DSA–Sec) Exercise 2023.md
