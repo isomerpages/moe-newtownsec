@@ -6,4 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
-[Cohort Learning Week (22 - 24 May) ](/announcements/cohort-learning-week/))
+[Cohort Learning Week (22 - 25 May) ](/announcements/cohort-learning-week/))
