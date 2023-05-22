@@ -3,6 +3,7 @@ title: For Staffs
 permalink: /quick-links/for-staff/
 description: ""
 ---
+*   [**MIMS Portal**](https://idp.mims.moe.gov.sg/nidp/saml2/sso)
 *   [**Student Learning Space (SLS)**](https://vle.learning.moe.edu.sg/)
 *   [**SC Mobile**](https://scmobile.moe.edu.sg/)
 *   [**Resource Booking System**](https://rbs.avero-tech.com/)
