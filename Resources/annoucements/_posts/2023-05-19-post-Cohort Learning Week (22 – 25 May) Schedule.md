@@ -6,6 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
-[Cohort Leaning Week schedule](https://staging.d2or6b3ngngjp5.amplifyapp.com/announcements/cohort-learning-week/)
-
-[Cohort Learning Week Schedule](/announcements/cohort-learning-week/)
+[Cohort Learning Week (22 - 25 May) Schedule](https://www.newtownsec.moe.edu.sg/resources/annoucements/cohort-learning-week/)
