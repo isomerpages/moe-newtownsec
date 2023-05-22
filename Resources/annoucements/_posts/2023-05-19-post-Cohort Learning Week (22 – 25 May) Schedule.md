@@ -7,3 +7,5 @@ description: ""
 image: ""
 ---
 [Cohort Leaning Week schedule](https://staging.d2or6b3ngngjp5.amplifyapp.com/announcements/cohort-learning-week/)
+
+[Cohort Learning Week Schedule](/announcements/cohort-learning-week/)
