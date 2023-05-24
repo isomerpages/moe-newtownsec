@@ -6,4 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
-[[Cohort Learning Week (22 - 25 May) Schedule]](/annoucements/cohort-learning-week/)
+[Cohort Learning Week (22-25 May) Schedule](https://www.newtownsec.moe.edu.sg/announcements/cohort-learning-week/)
