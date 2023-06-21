@@ -331,8 +331,8 @@ description: ""
   </tr>
   <tr>
     <td class="tg-djlw">S2-4</td>
-    <td class="tg-6cvf">Ms Alisha Lim<br></td>
-    <td class="tg-hvl7"><span style="color:#222;background-color:#EAEAEA">alisha_lim_qing_chen@moe.edu.sg</span><br><span style="color:#222;background-color:#EAEAEA"> </span></td>
+    <td class="tg-6cvf">Mr Alex Chan<br></td>
+    <td class="tg-hvl7"><span style="color:#222;background-color:#EAEAEA">chan_kwan_meng_alex@moe.edu.sg </span><br><span style="color:#222;background-color:#EAEAEA"> </span></td>
   </tr>
   <tr>
     <td class="tg-djlw"> </td>
@@ -386,8 +386,8 @@ description: ""
   </tr>
   <tr>
     <td class="tg-djlw"> </td>
-    <td class="tg-6cvf">Mrs Serene Choy / Mr Alex Chan</td>
-    <td class="tg-hvl7"><span style="color:#222;background-color:#EAEAEA">tay_seok_hean_serene@moe.edu.sg</span><br><span style="color:#222;background-color:#EAEAEA">chan_kwan_meng_alex@moe.edu.sg </span></td>
+    <td class="tg-6cvf">Mrs Serene Choy</td>
+    <td class="tg-hvl7"><span style="color:#222;background-color:#EAEAEA">tay_seok_hean_serene@moe.edu.sg</span><br><span style="color:#222;background-color:#EAEAEA"></span></td>
   </tr>
   <tr>
     <td class="tg-djlw">S3-4</td>
