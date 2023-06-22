@@ -3,6 +3,10 @@ title: School Newsletters
 permalink: /about-us/links/parents/school-newsletters/
 description: ""
 ---
+**School Newsletters 2023**
+
+* [New Town Sec Newsletter, May 2023](/files/ntss%20newsletter%20may%202023.pdf)
+
 **School Newsletters 2022**
 
 *   [New Town Sec Newsletter, Oct 2022](/files/NTSS%20NL_22%20Oct%206%20final.pdf)
