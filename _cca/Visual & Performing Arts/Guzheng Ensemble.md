@@ -25,7 +25,7 @@ The Guzheng Ensemble has been the pride and glory of New Town Secondary School. 
 <thead>
   <tr>
     <th class="tg-n4qt">Date / Time</th>
-    <th class="tg-ii8k">Every Tuesday : 3.30pm – 6.00pm<br>Every Friday : 1.30pm – 4.00pm</th>
+    <th class="tg-ii8k">Every Tuesday : 3.30pm – 6.00pm<br>Every Friday : 1.15pm – 4.15pm</th>
   </tr>
 </thead>
 <tbody>
