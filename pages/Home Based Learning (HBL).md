@@ -14,10 +14,8 @@ Home Based Learning (HBL)
 
 
 
-| [Sec 1](https://docs.google.com/spreadsheets/d/1fPAPgxkWsk24emSsgODUZiFCSrvU5_m3/edit#gid=1969127093)     | [Sec 2](https://docs.google.com/spreadsheets/d/1UO4GhjFn6NQ0UOfGNmOAuqQJezazVDdG/edit#gid=583134357)     | [Sec 3](https://docs.google.com/spreadsheets/d/1HKi8lxQI0CZl-lgmyWbeXoUKxaPoXlS2/edit#gid=1747102555)    |
+| [Sec 1](https://docs.google.com/spreadsheets/d/1hNGESiky0MZXW6PCiimvFa8F8EhQjx-WMENc3GgH-xA/edit#gid=14012182)     | [Sec 2](https://docs.google.com/spreadsheets/d/1Kbh8MSh7dz-UqF3Cf3bq1qGCZmytroCgoNckyNfnlXQ/edit#gid=14012182)     | [Sec 3](https://docs.google.com/spreadsheets/d/1KaEnmxYzEvzq5y5tslFzboNRNrq1BldZ3Zugi_CFmIk/edit#gid=14012182)    |
 
-
-    [Sec 1](https://docs.google.com/spreadsheets/d/1fPAPgxkWsk24emSsgODUZiFCSrvU5_m3/edit#gid=1969127093)                        [Sec 2](https://docs.google.com/spreadsheets/d/1UO4GhjFn6NQ0UOfGNmOAuqQJezazVDdG/edit#gid=583134357)                        [Sec 3](https://docs.google.com/spreadsheets/d/1HKi8lxQI0CZl-lgmyWbeXoUKxaPoXlS2/edit#gid=1747102555)                      
 
 **2. Student Initiated Learning (SIL)**
 
