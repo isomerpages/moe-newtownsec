@@ -4,7 +4,7 @@ permalink: /cca/sports-and-games/softball/
 description: ""
 third_nav_title: Sports & Games
 ---
-![](/images/Our%20Group%20Photo.jpg)
+![Group Photo](/images/group%203.jpeg)
 
 # INTRODUCTION
 Our motto is Nil Satis Nisi Optimum, “Nothing but the Best”. Through softball, we hope to inculcate the 3 values of thinking, athletic and resilient in each member, and to build up these four aspects of the team: Character, Teamwork, Skills and Fitness
@@ -76,5 +76,11 @@ Our motto is Nil Satis Nisi Optimum, “Nothing but the Best”. Through softbal
 * Softball Camp (November)
 
 ### PHOTO GALLERY
+
+![](/images/photo%201%2029%20june%202023.jpeg)
+
+![](/images/photo%202%2029%20june%202023.jpeg)
+
+![](/images/photo%203%2029%20june%202023.jpeg)
 
 <iframe allowfullscreen="true" height="500" width="500" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRcPcFonSBlb2OlZ0d-UqYT_o8I4GGyS6yygBocexalSeZ2VlwyC_lgJhW8bRlVOQFfb8It2ScTkY6U/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
