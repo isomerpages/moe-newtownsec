@@ -7,8 +7,8 @@ third_nav_title: Sports & Games
 ![](/images/Our%20Group%20Photo.jpg)
 
 # INTRODUCTION
+Our motto is Nil Satis Nisi Optimum, “Nothing but the Best”. Through softball, we hope to inculcate the 3 values of thinking, athletic and resilient in each member, and to build up these four aspects of the team: Character, Teamwork, Skills and Fitness
 
-Our motto is Nil Satis Nisi Optimum, “Nothing but the Best”. Through softball, we hope to inculcate the 3 values of respect, responsibility and discipline in each member, and to build up these four aspects of the team: Character, Teamwork, Skills and Fitness.
 
 ### TRAINING SCHEDULE:
 
@@ -48,28 +48,29 @@ Our motto is Nil Satis Nisi Optimum, “Nothing but the Best”. Through softbal
 
 ### COACHES
 
-*   Ms Charmaine Chua Jia Ying
-*   Ms Adelia Koh Rui Wen&nbsp;
-*   Mr Ngiam Jun Jie Gerann  
+*   Mr Ngiam Jun Jie Gerann
 *   Mr Ngiam Swee Kee
+*   Miss Charmaine Chua
+*   Misss Adelia Koh
 
 ### STUDENT LEADERS
 
 **B Division**
 
-*   Captain – TBA
-*   Vice Captains – TBA
+*   Captain – Lam Zhi Hui, Pearly
+*   Vice Captains – Thanya D/O Kathiravan and Giselle Goh Chia Hsuan
+*   Head of Logistics - Seraphina Ng Jia Yi (Wu Jiayi)
 
 **C Division**
 
-*   Captain –&nbsp;TBA
-*   Vice Captains – TBA
+*   Captain –  Debbie Goh RikiNUR HUMAIRAH BINTE MOHD AMIN
+*   Vice Captains – Luo Minyu, Nur Humairah Binte Mohd Amin
+*   Head of Logistics – Rebecca Neo Ming Ming
 
 ### ACTIVITIES FOR THE YEAR
 * ‘B’ &amp; ‘C’ Girls National Inter-School Softball Championships
 * ‘B’ Girls (Term 1: End Jan – March)
 * ‘C’ Girls (Term 3: July - Aug)
-* SRC Softball Tournament (March Holidays)
 * New Town Inter-School Softball Carnival (June Holidays)
 * Service Learning Activity (November)
 * Softball Camp (November)
