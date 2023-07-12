@@ -67,6 +67,8 @@ New Town Concert Band (formerly a military band) was formed in 1967 and has been
 
 ### ACHIEVEMENTS
 
+* 2023 PAssionArts Festival - Open Stage Concert Bands Competition - Champion
+* Singapore Youth Festival (2023) – Certificate of Distinction
 * Singapore Youth Festival (2021) – Certificate of Accomplishment
 * Singapore Youth Festival (2019) – Certificate of Accomplishment
 * Singapore Youth Festival (2017) – Certificate of Accomplishment
