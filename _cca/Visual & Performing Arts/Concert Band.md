@@ -4,7 +4,7 @@ permalink: /cca/visual-n-performing-arts/concert-band/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
-![](/images/concert%20band%20header.jpg)
+![Band Group Photo](/images/band%20group%20photo.jpg)
 # INTRODUCTION
 
 New Town Concert Band (formerly a military band) was formed in 1967 and has been well received since its inception. Under the baton of maestro Erik Tan, our Concert Band has explored a wide range of repertoire written by various composers. One of her major highlights was performing at the Singapore Youth Festival (SYF) Arts Presentation, where the band was exposed to different genres of band repertoire and culture. Through various performances, New Town Concert Band aims to continuously develop itself.
