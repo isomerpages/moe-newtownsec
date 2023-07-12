@@ -50,10 +50,10 @@ New Town Concert Band (formerly a military band) was formed in 1967 and has been
 *   Mr Gordon Tan Li Chuan
 
 ### STUDENT LEADERS
-*   Band Major -&nbsp;TBA
-*   Drum Major - TBA     
-*   Assistant Band Major - TBA  
-*   Assistant Drum Major - TBA
+*   Band Major -&nbsp;Sharlene Neo Yi Ning
+*   Drum Major - Hafidzah Binte Zuraimi     
+*   Assistant Band Major - Brayan Lee Yin Hao  
+*   Assistant Drum Major - Wong Chun Lum Adon
 
 
 ### ACTIVITIES FOR THE YEAR
