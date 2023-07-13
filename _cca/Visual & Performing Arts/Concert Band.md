@@ -4,7 +4,7 @@ permalink: /cca/visual-n-performing-arts/concert-band/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
-![](/images/concert%20band%20header.jpg)
+![Band Group Photo](/images/band%20group%20photo.jpg)
 # INTRODUCTION
 
 New Town Concert Band (formerly a military band) was formed in 1967 and has been well received since its inception. Under the baton of maestro Erik Tan, our Concert Band has explored a wide range of repertoire written by various composers. One of her major highlights was performing at the Singapore Youth Festival (SYF) Arts Presentation, where the band was exposed to different genres of band repertoire and culture. Through various performances, New Town Concert Band aims to continuously develop itself.
@@ -50,10 +50,10 @@ New Town Concert Band (formerly a military band) was formed in 1967 and has been
 *   Mr Gordon Tan Li Chuan
 
 ### STUDENT LEADERS
-*   Band Major -&nbsp;TBA
-*   Drum Major - TBA     
-*   Assistant Band Major - TBA  
-*   Assistant Drum Major - TBA
+*   Band Major -&nbsp;Sharlene Neo Yi Ning
+*   Drum Major - Hafidzah Binte Zuraimi     
+*   Assistant Band Major - Brayan Lee Yin Hao  
+*   Assistant Drum Major - Wong Chun Lum Adon
 
 
 ### ACTIVITIES FOR THE YEAR
@@ -67,6 +67,8 @@ New Town Concert Band (formerly a military band) was formed in 1967 and has been
 
 ### ACHIEVEMENTS
 
+* 2023 PAssionArts Festival - Open Stage Concert Bands Competition - Champion
+* Singapore Youth Festival (2023) – Certificate of Distinction
 * Singapore Youth Festival (2021) – Certificate of Accomplishment
 * Singapore Youth Festival (2019) – Certificate of Accomplishment
 * Singapore Youth Festival (2017) – Certificate of Accomplishment
