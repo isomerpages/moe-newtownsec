@@ -63,7 +63,7 @@ Our motto is Nil Satis Nisi Optimum, “Nothing but the Best”. Through softbal
 
 **C Division**
 
-*   Captain –  Debbie Goh RikiNUR HUMAIRAH BINTE MOHD AMIN
+*   Captain –  Debbie Goh Riki
 *   Vice Captains – Luo Minyu, Nur Humairah Binte Mohd Amin
 *   Head of Logistics – Rebecca Neo Ming Ming
 
