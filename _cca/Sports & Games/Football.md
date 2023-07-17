@@ -63,13 +63,11 @@ The objectives of our activities are to:
 
 *   Ms Sheeja V Pillai (1st i/c)  
     
-*   Mr Ang Xiang Rui (2nd i/c) (Term 2 onwards)  
+*   Mr Ang Xiang Rui (2nd i/c) 
     
 *   Mdm Nazreen Bte Abdul Latiff  
     
-*   Mr Yong Wei Hoong (Term 2 onwards)  
-    
-*   Mdm Kasumawati Bte Wansi (Term 1 only)
+*   Mr Yong Wei Hoong 
 
 ### COACHES
 
