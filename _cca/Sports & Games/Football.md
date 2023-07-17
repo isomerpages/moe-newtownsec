@@ -4,7 +4,7 @@ permalink: /cca/sports-and-games/football/
 description: ""
 third_nav_title: Sports & Games
 ---
-![](/images/football.jpg)
+![Photo 1 Football 2023](/images/photo%201%20football%202023.JPG)
 # INTRODUCTION
 
 The NTSS Football CCA consists of only the boys’ team. Our vision is to develop our members into gentlemen of the sport who take pride in possessing the values and skills of the exemplary footballer, demonstrating them both on and beyond the football pitch.
@@ -213,4 +213,4 @@ The objectives of our activities are to:
 
 ### Photo Gallery
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRr1swhxhJZVToXqw5DRDYBz-KrA1gR4NpEg_A8oiTUNMgF6a3IyiwdudPMnU1X7cmu2OkvzZkUnv8g/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
