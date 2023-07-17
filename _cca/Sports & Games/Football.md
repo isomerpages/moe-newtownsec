@@ -24,29 +24,40 @@ The objectives of our activities are to:
 
 ### TRAINING SCHEDULE:
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-n4qt">Training Time</th>
-    <th class="tg-ii8k">Every Tuesday : 3.30pm – 6.00pm<br>Every Friday: 2.30pm – 5.00pm</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-n4qt">Training Venue</td>
-    <td class="tg-ii8k">School Field, External venue (Clementi Stadium) and School premises </td>
-  </tr>
-</tbody>
-</table>
+             
+
+<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="576" style="width:432.35pt;margin-left:-.4pt;border-collapse:collapse;border:none;
+ mso-border-alt:solid #2A2A2A .75pt;mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="146" valign="top" style="width:109.7pt;border:solid #2A2A2A 1.0pt;
+  mso-border-alt:solid #2A2A2A .75pt;background:white;padding:3.75pt 3.75pt 3.75pt 3.75pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:18.0pt"><b><span style="font-family:&quot;inherit&quot;,serif;color:black;mso-color-alt:windowtext">Day</span></b></p></td><td width="214" valign="top" style="width:160.7pt;border:solid #2A2A2A 1.0pt;
+  border-left:none;mso-border-left-alt:solid #2A2A2A .75pt;mso-border-alt:solid #2A2A2A .75pt;
+  background:white;padding:3.75pt 3.75pt 3.75pt 3.75pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:18.0pt"><b><span style="font-family:&quot;inherit&quot;,serif;color:black;mso-color-alt:windowtext">Time</span></b></p></td><td width="216" valign="top" style="width:161.95pt;border:solid #2A2A2A 1.0pt;
+  border-left:none;mso-border-left-alt:solid #2A2A2A .75pt;mso-border-alt:solid #2A2A2A .75pt;
+  background:white;padding:3.75pt 3.75pt 3.75pt 3.75pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:18.0pt"><b><span style="font-family:&quot;inherit&quot;,serif;color:black;mso-color-alt:windowtext">Venue</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td width="146" valign="top" style="width:109.7pt;border:solid #2A2A2A 1.0pt;
+  border-top:none;mso-border-top-alt:solid #2A2A2A .75pt;mso-border-alt:solid #2A2A2A .75pt;
+  background:#EBEBEB;padding:3.75pt 3.75pt 3.75pt 3.75pt"><p class="MsoNormal" align="center" style="margin-bottom:7.5pt;text-align:center;
+  line-height:18.0pt"><span style="color:black;mso-color-alt:windowtext">Tuesday</span></p></td><td width="214" valign="top" style="width:160.7pt;border-top:none;border-left:
+  none;border-bottom:solid #2A2A2A 1.0pt;border-right:solid #2A2A2A 1.0pt;
+  mso-border-top-alt:solid #2A2A2A .75pt;mso-border-left-alt:solid #2A2A2A .75pt;
+  mso-border-alt:solid #2A2A2A .75pt;background:#EBEBEB;padding:3.75pt 3.75pt 3.75pt 3.75pt"><p class="MsoNormal" align="center" style="margin-bottom:7.5pt;text-align:center;
+  line-height:18.0pt"><span style="color:black;mso-color-alt:windowtext">3.30 pm – 6.00 pm</span></p></td><td width="216" valign="top" style="width:161.95pt;border-top:none;border-left:
+  none;border-bottom:solid #2A2A2A 1.0pt;border-right:solid #2A2A2A 1.0pt;
+  mso-border-top-alt:solid #2A2A2A .75pt;mso-border-left-alt:solid #2A2A2A .75pt;
+  mso-border-alt:solid #2A2A2A .75pt;background:#EBEBEB;padding:3.75pt 3.75pt 3.75pt 3.75pt"><p class="MsoNormal" align="center" style="margin-bottom:7.5pt;text-align:center;
+  line-height:18.0pt"><span style="color:black;mso-color-alt:windowtext">Soccer Field</span></p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes"><td width="146" valign="top" style="width:109.7pt;border:solid #2A2A2A 1.0pt;
+  border-top:none;mso-border-top-alt:solid #2A2A2A .75pt;mso-border-alt:solid #2A2A2A .75pt;
+  background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
+  242;padding:3.75pt 3.75pt 3.75pt 3.75pt"><p class="MsoNormal" align="center" style="margin-bottom:7.5pt;text-align:center;
+  line-height:18.0pt"><span style="color:black;mso-color-alt:windowtext">Friday</span></p></td><td width="214" valign="top" style="width:160.7pt;border-top:none;border-left:
+  none;border-bottom:solid #2A2A2A 1.0pt;border-right:solid #2A2A2A 1.0pt;
+  mso-border-top-alt:solid #2A2A2A .75pt;mso-border-left-alt:solid #2A2A2A .75pt;
+  mso-border-alt:solid #2A2A2A .75pt;background:#F2F2F2;mso-background-themecolor:
+  background1;mso-background-themeshade:242;padding:3.75pt 3.75pt 3.75pt 3.75pt"><p class="MsoNormal" align="center" style="margin-bottom:7.5pt;text-align:center;
+  line-height:18.0pt"><span style="color:black;mso-color-alt:windowtext">2.30 pm – 5.30 pm</span></p></td><td width="216" valign="top" style="width:161.95pt;border-top:none;border-left:
+  none;border-bottom:solid #2A2A2A 1.0pt;border-right:solid #2A2A2A 1.0pt;
+  mso-border-top-alt:solid #2A2A2A .75pt;mso-border-left-alt:solid #2A2A2A .75pt;
+  mso-border-alt:solid #2A2A2A .75pt;background:#F2F2F2;mso-background-themecolor:
+  background1;mso-background-themeshade:242;padding:3.75pt 3.75pt 3.75pt 3.75pt"><p class="MsoNormal" align="center" style="margin-bottom:7.5pt;text-align:center;
+  line-height:18.0pt"><span style="color:black;mso-color-alt:windowtext">Soccer Field</span></p></td></tr></tbody></table>
 
 ### TEACHERS-IN-CHARGE
 
@@ -80,4 +91,4 @@ The objectives of our activities are to:
 
 ### Photo Gallery
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRr1swhxhJZVToXqw5DRDYBz-KrA1gR4NpEg_A8oiTUNMgF6a3IyiwdudPMnU1X7cmu2OkvzZkUnv8g/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRr1swhxhJZVToXqw5DRDYBz-KrA1gR4NpEg_A8oiTUNMgF6a3IyiwdudPMnU1X7cmu2OkvzZkUnv8g/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
