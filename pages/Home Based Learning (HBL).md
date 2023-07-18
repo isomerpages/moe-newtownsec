@@ -12,7 +12,7 @@ Home Based Learning (HBL)
    (Click on your respective level) \[Link will be accessible on 19 July\]  
 	 
 
-| [Sec 1](https://docs.google.com/spreadsheets/d/1Vv9FYY8b6YCkib9B2fBxJb1gDAF3VTLzHkcKbb2x4hI/edit#gid=14012182)     | [Sec 2](https://docs.google.com/spreadsheets/d/1POVM34JblenX88POjna6Dbff-ccTDRI8gVT6N4FI1-8/edit#gid=14012182)     | [Sec 3](https://docs.google.com/spreadsheets/d/1KaEnmxYzEvzq5y5tslFzboNRNrq1BldZ3Zugi_CFmIk/edit#gid=14012182)    |
+| [Sec 1](https://docs.google.com/spreadsheets/d/1Vv9FYY8b6YCkib9B2fBxJb1gDAF3VTLzHkcKbb2x4hI/edit#gid=14012182)     | [Sec 2](https://docs.google.com/spreadsheets/d/1POVM34JblenX88POjna6Dbff-ccTDRI8gVT6N4FI1-8/edit#gid=14012182)     | [Sec 3](https://docs.google.com/spreadsheets/d/17dSfeHTO2LoyQiUJHJRGuM2UG6qxez3m6fRsSL6G4P4/edit#gid=14012182)    |
 
 
 **2. Student Initiated Learning (SIL)**
