@@ -212,5 +212,3 @@ The objectives of our activities are to:
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">op 2 in group for West Zone Football Championships (B-Division)</span></p></td></tr></tbody></table>
 
 ### Photo Gallery
-
-
