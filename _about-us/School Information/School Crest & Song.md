@@ -32,19 +32,3 @@ GOLDEN SUN RAYS
 ---------------
 
 Signify Newtowners shining as unique individuals&nbsp;
-
-
-School Song
------------
-
-**_Music score: Kok Wai Choo_**   
-**_Words and Melody: Mrs Yeo Lai Cheng_**
-
-**_Arranged By: Mr. Desmond Moey_**   
-**_Vocalist: Ms. Sheng Wong_**   
-**_Pianist: Mr. Fifi Leong_**  
-**_Sound Engineer: Mr. Gerald Koh_**
-
-[new video to be uploaded to youtube and embbed here]
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/I7VFXIVY3xI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
