@@ -32,4 +32,3 @@ GOLDEN SUN RAYS
 ---------------
 
 Signify Newtowners shining as unique individuals&nbsp;
-
