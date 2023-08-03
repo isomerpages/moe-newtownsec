@@ -4,6 +4,3 @@ permalink: /about-us/our-partners/new-town-alumni-2023/
 description: ""
 third_nav_title: Our Partners
 ---
-
-
-![Alumni2023](/images/alumni.jpg)
