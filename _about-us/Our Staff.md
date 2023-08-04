@@ -289,6 +289,11 @@ description: ""
     <td class="tg-6cvf">Ms Renuka Selva Rajoo</td>
     <td class="tg-hvl7"><span style="color:#222;background-color:#EAEAEA">renuka_selva_rajoo@moe.edu.sg</span><br><br></td>
   </tr>
+	<tr>
+    <td class="tg-djlw"> </td>
+    <td class="tg-6cvf">Mr Mr Dan Yeo Jiunn Hou</td>
+    <td class="tg-hvl7"><span style="color:#222;background-color:#EAEAEA">yeo_jiunn_hou@moe.edu.sg</span><br><br></td>
+  </tr>
   <tr>
     <td class="tg-djlw">S1-6</td>
     <td class="tg-hvl7"><span style="color:#222;background-color:#EAEAEA">Mr Sky Phua</span><br><span style="color:#222;background-color:#EAEAEA"> </span></td>
