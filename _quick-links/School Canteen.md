@@ -10,7 +10,7 @@ description: ""
   font-variant-caps: normal;orphans: 2;widows: 2;-webkit-text-stroke-width: 0px;
   text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial">Western Food Stall (Halal)</span></td><td style="border-left:none" class="xl66"><span style="font-variant-ligatures: normal;
   font-variant-caps: normal;orphans: 2;widows: 2;-webkit-text-stroke-width: 0px;
-  text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial">31-May-23</span></td><td style="border-left:none" class="xl66"><span style="font-variant-ligatures: normal;
+  text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial">18 August 2023</span></td><td style="border-left:none" class="xl66"><span style="font-variant-ligatures: normal;
   font-variant-caps: normal;orphans: 2;widows: 2;-webkit-text-stroke-width: 0px;
   text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial">NIL</span></td></tr></tbody></table>
 	
@@ -25,12 +25,11 @@ description: ""
  [Application form(Pdf format)](/files/application%20form.pdf)
 
 2\. Attached the following documents together with the application form:
-
 * Photocopy of the NRIC (front and back)
-
-*  List of proposed menu and pricing for all items (selection will be based on proposal submitted)
-
+* List of proposed menu and pricing for all items (selection will be based on proposal submitted)
 * Photocopy of relevant certificates such as Basic Food Hygiene Course certificates of all food handlers
+
+
 
 3\. Submit the completed application form and documents by closing date via email OR to the School's General Office.
 
@@ -50,25 +49,16 @@ Contact Person: **Mdm Rohaidah (CSO)/Mr Chia Yuen Teck (Operations Mgr)/Ms Chan 
 * Bus number: 196 and 33 - 3 minutes walking distance
 
 **Interest applicants must meet the following criteria:**
-
 * Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
-
-* Able to provide good service and quality food with prices determined in consultation with the school. (at most $3.50 for a set meal of rice, meat, vegetable &amp; fruit).&nbsp; Proposed menu with price list must be attached to the application form for our consideration.
-
-* Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see \[link\](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).
-
+* Able to provide good service and quality food with prices determined in consultation with the school. (at most $3.20 for a set meal of rice, meat, vegetable &amp; fruit).  Proposed menu with price list must be attached to the application form for our consideration.
+* Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see [link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).
 * Able to maintain high standard of food safety and personal hygiene.
-
 * Healthy and fit to operate the stall.
-
-*  Able to operate during school holidays and as and when requested by the school.
+* Able to operate during school holidays and as and when requested by the school.
 
 **Applicants should preferably fulfil the following criteria:**
-
 * Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.
-
 * Possess catering experience or experience operating in a school environment.
-
 * Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).
 
-* Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.
+*Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*
