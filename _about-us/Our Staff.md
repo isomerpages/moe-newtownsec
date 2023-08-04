@@ -291,7 +291,7 @@ description: ""
   </tr>
 	<tr>
     <td class="tg-djlw"> </td>
-    <td class="tg-6cvf">Mr Mr Dan Yeo Jiunn Hou</td>
+    <td class="tg-6cvf">Mr Dan Yeo Jiunn Hou</td>
     <td class="tg-hvl7"><span style="color:#222;background-color:#EAEAEA">yeo_jiunn_hou@moe.edu.sg</span><br><br></td>
   </tr>
   <tr>
