@@ -126,4 +126,3 @@ Contact Person: **Mdm Rohaidah (CSO)/Mr Chia Yuen Teck (Operations Mgr)/Ms Chan 
 * Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).
 
 *Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*
-
