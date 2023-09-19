@@ -7,12 +7,12 @@ Home Based Learning (HBL)
 =========================
 
   
-### 02 August 2023 
+### 16 August 2023 
 **1. HBL Timetable and Learning Task**   
-   (Click on your respective level) \[Link will be accessible on 02 August\]  
+   (Click on your respective level) \[Link will be accessible on 16 August\]  
 	 
 
-| [Sec 1](https://docs.google.com/spreadsheets/d/1aMo2XI_2uOeAZb7AmtTyV9qCkDHciiT_-NjaUtsYA4U/edit#gid=14012182)     | [Sec 2](https://docs.google.com/spreadsheets/d/1mMa_FFg1WhlEhodbRTXtIbP5OpYS_SpjNKPbQ2ZyYIo/edit#gid=14012182)     | [Sec 3](https://docs.google.com/spreadsheets/d/1AXPZwMc4_NkZ4JqhRBmkWEeA0MMWK33gab0in2oXNMY/edit#gid=14012182)    |
+| [Sec 1](https://docs.google.com/spreadsheets/d/1zGEOqHQVcILynmcF-WUQht7iSlkii0UAxdohk7PmcLQ/edit#gid=14012182)     | [Sec 2](https://docs.google.com/spreadsheets/d/1DGTrujGlnUFd-PECo8XZDF-EFt9Y9fcjo9Arz7z3-vc/edit#gid=14012182)     | [Sec 3](https://docs.google.com/spreadsheets/d/1st3rW7S7vqqYEM14z74Gobv80IiqeTG2V8yAiGINbUc/edit#gid=14012182)    |
 
 
 **2. Student Initiated Learning (SIL)**

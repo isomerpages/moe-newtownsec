@@ -5,11 +5,11 @@ permalink: /contact-us/
 agency_name: New Town Secondary School
 locations:
   - address:
-      - "1020 "
+      - "1020"
       - Dover Road
       - Singapore 139657
     operating_hours: []
-    maps_link: ""
+    maps_link: https://goo.gl/maps/DFk3WrThMk6UVBkz9
     title: General Office
 contacts:
   - content:
