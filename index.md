@@ -14,7 +14,7 @@ sections:
         - title: Quick Links
           description: ""
           url: /quick-links/for-students/
-      background: /images/banner 1 - front page4.jpg
+      background: /images/ntss philosophy photo collage (1200 × 630px).jpg
   - resources:
       subtitle: LATEST ANNOUNCEMENTS
 ---
