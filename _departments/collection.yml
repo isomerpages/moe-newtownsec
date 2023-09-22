@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - English & Literature.md
-      - Mother Tongue Language (2023).md
+      - Mother Tongue Language.md
       - Mathematics (2023).md
       - Science (2023).md
       - Humanities (2023).md
