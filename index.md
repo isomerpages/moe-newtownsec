@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/ntss philosophy photo collage (1200 × 630px).jpg
+      background: /images/NTSS-hero-banner.gif
   - resources:
       subtitle: LATEST ANNOUNCEMENTS
 ---
