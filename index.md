@@ -28,7 +28,7 @@ sections:
       url: https://www.newtownsec.moe.edu.sg/holistic-education/school-distinctive-programmes/applied-learning-alp-from-2023/
       alt: Image alt text
   - infopic:
-      title: Enhanced Art Programme (EAP)
+      title: Enhanced Art (EAP)
       subtitle: School Distinctive Programmes
       id: infopic
       description: NTSS is one of the 9 schools in Singapore to offer the EAP. This is
