@@ -8,6 +8,11 @@ notification: ""
 sections:
   - hero:
       background: /images/NTSS-hero-banner.gif
-  - resources:
-      subtitle: LATEST ANNOUNCEMENTS
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
