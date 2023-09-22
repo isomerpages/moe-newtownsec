@@ -17,4 +17,14 @@ sections:
         challenges of tomorrow.
       button: More details
       url: https://www.newtownsec.moe.edu.sg/holistic-education/school-distinctive-programmes/learning-for-life-llp-from-2023/
+  - infopic:
+      title: Applied Learning (ALP)
+      subtitle: School Distinctive Programmes
+      id: infopic
+      description: NTSS’s ALP titled ‘Digital Communicators, Change Makers’ seeks to
+        develop in every New Towner the interest, knowledge and skills in
+        digital literacy.
+      button: More details
+      url: https://www.newtownsec.moe.edu.sg/holistic-education/school-distinctive-programmes/applied-learning-alp-from-2023/
+      alt: Image alt text
 ---
