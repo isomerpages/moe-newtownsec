@@ -37,4 +37,5 @@ sections:
       button: More details
       url: https://www.newtownsec.moe.edu.sg/holistic-education/school-distinctive-programmes/enhanced-art-eap/
       alt: Image alt text
+      image: /images/AEP 1.png
 ---
