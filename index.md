@@ -27,6 +27,7 @@ sections:
       button: More details
       url: https://www.newtownsec.moe.edu.sg/holistic-education/school-distinctive-programmes/applied-learning-alp-from-2023/
       alt: Image alt text
+      image: /images/alp 2 cropped.png
   - infopic:
       title: Enhanced Art (EAP)
       subtitle: School Distinctive Programmes
