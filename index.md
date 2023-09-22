@@ -9,10 +9,12 @@ sections:
   - hero:
       background: /images/NTSS-hero-banner.gif
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Learning for Life (LLP)
+      subtitle: School Distinctive Programmes
       id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+      description: To develop every Newtowner into confident and compassionate student
+        leaders who are ready to serve and lead their community to overcome
+        challenges of tomorrow.
+      button: More details
+      url: https://www.newtownsec.moe.edu.sg/holistic-education/school-distinctive-programmes/learning-for-life-llp-from-2023/
 ---
