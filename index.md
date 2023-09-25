@@ -18,6 +18,7 @@ sections:
       button: More details
       url: https://www.newtownsec.moe.edu.sg/holistic-education/school-distinctive-programmes/learning-for-life-llp-from-2023/
       image: /images/student councillors_group05_lr.png
+      alt: Image alt text
   - infopic:
       title: Applied Learning (ALP)
       subtitle: School Distinctive Programmes
