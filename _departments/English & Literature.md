@@ -1,5 +1,5 @@
 ---
-title: English & Literature (2023)
+title: English & Literature
 permalink: /department/english-n-literature-2023/
 description: ""
 ---

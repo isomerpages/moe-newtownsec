@@ -1,5 +1,5 @@
 ---
-title: Craft & Technology (2023)
+title: Craft & Technology
 permalink: /department/craft-n-technology-2023/
 description: ""
 ---

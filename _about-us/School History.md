@@ -2,7 +2,6 @@
 title: School History
 permalink: /about-us/school-information/school-history/
 description: ""
-third_nav_title: School Information
 ---
 **History of NTSS Principalship - 1965- Present**
 

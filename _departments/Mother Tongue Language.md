@@ -1,5 +1,5 @@
 ---
-title: Mother Tongue Language (2023)
+title: Mother Tongue Language
 permalink: /department/mother-tongue-language-2023/
 description: ""
 ---

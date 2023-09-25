@@ -1,5 +1,5 @@
 ---
-title: Learning for Life (LLP) (from 2023)
+title: Learning for Life (LLP)
 permalink: /holistic-education/school-distinctive-programmes/learning-for-life-llp-from-2023/
 description: ""
 third_nav_title: School Distinctive Programmes
@@ -32,17 +32,14 @@ _The school strives to nurture students to become:_
 
 ### Whole-School Approach
 
-Every staff in the school is involved in equipping students with leadership competencies and dispositions through “**SPARK**” - an acronym which stands for **Selection, Provision, Affirmation, Reflection and Knowledgeable others.**
+Every staff in the school is involved in equipping students with leadership competencies and dispositions through “**SPARK**” - an acronym which stands for&nbsp;**Selection, Provision, Affirmation, Reflection and Knowledgeable others.**
 
-<img src="/images/SPARK%20Pic.png" 
-     style="width:75%">
+<img src="/images/SPARK%20Pic.png" style="width:75%">
 		 
-The leadership training model is based on **Kouzes and Posner’s Five Practices of Exemplary Student Leadership:**
+The leadership training model is based on&nbsp;**Kouzes and Posner’s Five Practices of Exemplary Student Leadership:**
 
-<img src="/images/5PracticesSLD%20Pic.png" 
-     style="width:90%">
-<img src="/images/Org%20Char%20Pic.png" 
-     style="width:90%">
+<img src="/images/5PracticesSLD%20Pic.png" style="width:90%">
+<img src="/images/Org%20Char%20Pic.png" style="width:90%">
 
 ### Key Student Leadership Development Experiences
 
@@ -53,9 +50,9 @@ The leadership training model is based on **Kouzes and Posner’s Five Practice
 * Cohort-wide Leadership Training Programme (for Sec 1-3 students)
 * Student Councillors and Peer Support Leaders Training
 * CCA Leaders’ Training
-* Class Committee Training       
-* Ambassadors Training   
-* Student Leaders’ Mid-Year and Year-End Leadership Training Camp 
+* Class Committee Training&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+* Ambassadors Training&nbsp;&nbsp;&nbsp;
+* Student Leaders’ Mid-Year and Year-End Leadership Training Camp&nbsp;
 
 **Service Platforms:**
 
@@ -65,4 +62,4 @@ The leadership training model is based on **Kouzes and Posner’s Five Practice
 * Teachers and Staff Appreciation Day Celebration
 * NE Events
 * Service-Learning Projects
-* Student-initiated and student-led activities during various school events _(e.g. Kindness Week, Cyberwellness, Kampung Class Bingo, Exam Encouragement Week, etc)._
+* Student-initiated and student-led activities during various school events&nbsp;_(e.g. Kindness Week, Cyberwellness, Kampung Class Bingo, Exam Encouragement Week, etc)._

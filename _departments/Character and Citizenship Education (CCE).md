@@ -1,5 +1,5 @@
 ---
-title: Character and Citizenship Education (CCE) (2023)
+title: Character and Citizenship Education (CCE)
 permalink: /department/character-and-citizenship-education-cce-2023/
 description: ""
 ---

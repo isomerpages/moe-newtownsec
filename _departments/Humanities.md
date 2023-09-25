@@ -1,5 +1,5 @@
 ---
-title: Humanities (2023)
+title: Humanities
 permalink: /department/humanities-2023/
 description: ""
 ---

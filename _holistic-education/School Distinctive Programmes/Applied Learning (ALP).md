@@ -1,5 +1,5 @@
 ---
-title: Applied Learning (ALP) (from 2023)
+title: Applied Learning (ALP)
 permalink: /holistic-education/school-distinctive-programmes/applied-learning-alp-from-2023/
 description: ""
 third_nav_title: School Distinctive Programmes

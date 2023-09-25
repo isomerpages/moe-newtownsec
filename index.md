@@ -7,14 +7,38 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      key_highlights:
-        - title: School Distinctive Programmes
-          description: ""
-          url: /holistic-education/school-distinctive-programmes/learning-for-life-llp-from-2023/
-        - title: Quick Links
-          description: ""
-          url: /quick-links/for-students/
-      background: /images/banner 1 - front page4.jpg
-  - resources:
-      subtitle: LATEST ANNOUNCEMENTS
+      background: /images/school philosophy photo collage (1920 × 720px).png
+  - infopic:
+      title: Learning for Life (LLP)
+      subtitle: School Distinctive Programmes
+      id: infopic
+      description: To develop every Newtowner into confident and compassionate student
+        leaders who are ready to serve and lead their community to overcome
+        challenges of tomorrow.
+      button: More details
+      url: https://www.newtownsec.moe.edu.sg/holistic-education/school-distinctive-programmes/learning-for-life-llp-from-2023/
+      image: /images/student councillors_group05_lr.png
+      alt: Image alt text
+  - infopic:
+      title: Applied Learning (ALP)
+      subtitle: School Distinctive Programmes
+      id: infopic
+      description: NTSS’s ALP titled ‘Digital Communicators, Change Makers’ seeks to
+        develop in every New Towner the interest, knowledge and skills in
+        digital literacy.
+      button: More details
+      url: https://www.newtownsec.moe.edu.sg/holistic-education/school-distinctive-programmes/applied-learning-alp-from-2023/
+      alt: Image alt text
+      image: /images/alp 2 cropped.png
+  - infopic:
+      title: Enhanced Art (EAP)
+      subtitle: School Distinctive Programmes
+      id: infopic
+      description: NTSS is one of the 9 schools in Singapore to offer the EAP. This is
+        an upper secondary programme that leads to the GCE O’ Level Art
+        Examination.
+      button: More details
+      url: https://www.newtownsec.moe.edu.sg/holistic-education/school-distinctive-programmes/enhanced-art-eap/
+      alt: Image alt text
+      image: /images/eap_group03.jpg
 ---

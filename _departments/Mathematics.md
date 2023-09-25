@@ -1,5 +1,5 @@
 ---
-title: Mathematics (2023)
+title: Mathematics
 permalink: /department/mathematics-2023/
 description: ""
 ---

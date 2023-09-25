@@ -1,5 +1,5 @@
 ---
-title: Science (2023)
+title: Science
 permalink: /department/science-2023/
 description: ""
 ---
@@ -47,24 +47,24 @@ The Science Department aims to leverage on a variety of pedagogical approaches a
 
 **Core Programme**
 
-The Science Department seeks to nurture **effective problem solvers** and **confident Science communicators** who are resilient, inquisitive, creative and ethical through a curriculum that promotes scientific literacy, inquiry and innovation.
+The Science Department seeks to nurture&nbsp;**effective problem solvers**&nbsp;and&nbsp;**confident Science communicators**&nbsp;who are resilient, inquisitive, creative and ethical through a curriculum that promotes scientific literacy, inquiry and innovation.
 
   
 The features of the New Town Science Department include:
 
-a.    Inquiry-based lessons to promote questioning in students
+a.&nbsp;&nbsp;&nbsp;&nbsp;Inquiry-based lessons to promote questioning in students
 
-b.    Practical lessons to acquire science process skills
+b.&nbsp;&nbsp;&nbsp;&nbsp;Practical lessons to acquire science process skills
 
-c.    Use of ICT tools (PDLP) and SLS to develop communication and information skills
+c.&nbsp;&nbsp;&nbsp;&nbsp;Use of ICT tools (PDLP) and SLS to develop communication and information skills
 
-d.    Blended Learning packages to promote civic literacy and real-life problem solving
+d.&nbsp;&nbsp;&nbsp;&nbsp;Blended Learning packages to promote civic literacy and real-life problem solving
 
-e.    Differentiated programmes to cater to varied interests and needs
+e.&nbsp;&nbsp;&nbsp;&nbsp;Differentiated programmes to cater to varied interests and needs
 
 **Enrichment Programmes and Activities**
 
-* Secondary 1 Integrative Activity for water filtration   
+* Secondary 1 Integrative Activity for water filtration&nbsp; &nbsp;
 
 * Secondary 2 Integrative Activity for solar oven
 

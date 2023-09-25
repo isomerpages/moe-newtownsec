@@ -2,12 +2,12 @@ collections:
   departments:
     output: true
     order:
-      - English & Literature (2023).md
-      - Mother Tongue Language (2023).md
-      - Mathematics (2023).md
-      - Science (2023).md
-      - Humanities (2023).md
-      - Information and Communications Technology (2023).md
-      - Craft & Technology (2023).md
-      - Physical Education (PE) (2023).md
-      - Character and Citizenship Education (CCE) (2023).md
+      - English & Literature.md
+      - Mother Tongue Language.md
+      - Mathematics.md
+      - Science.md
+      - Humanities.md
+      - Information and Communications Technology.md
+      - Craft & Technology.md
+      - Physical Education (PE).md
+      - Character and Citizenship Education (CCE).md
