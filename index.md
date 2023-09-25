@@ -4,7 +4,7 @@ title: New Town Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: I want the banner to appear
+notification: ""
 sections:
   - hero:
       background: "/images/homepage banner: school philosophy photo collage (795 ×
