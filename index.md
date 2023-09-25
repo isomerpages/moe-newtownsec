@@ -7,7 +7,8 @@ permalink: /
 notification: I want the banner to appear
 sections:
   - hero:
-      background: /images/school philosophy photo collage (1920 × 720px).png
+      background: "/images/homepage banner: school philosophy photo collage (795 ×
+        380px).png"
   - infopic:
       title: Learning for Life (LLP)
       subtitle: School Distinctive Programmes
