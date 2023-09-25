@@ -7,8 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: "/images/homepage banner: school philosophy photo collage (795 ×
-        380px).png"
+      background: /images/school philosophy photo collage (1920 × 720px).png
   - infopic:
       title: Learning for Life (LLP)
       subtitle: School Distinctive Programmes
