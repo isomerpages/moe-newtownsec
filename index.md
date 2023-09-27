@@ -12,6 +12,9 @@ sections:
         - title: School Distinctive Programmes
           description: Key Highlight description
           url: https://www.newtownsec.moe.edu.sg/holistic-education/school-distinctive-programmes/learning-for-life-llp-from-2023/
+        - title: Quick Links
+          description: Key Highlight description
+          url: ""
   - infopic:
       title: Learning for Life (LLP)
       subtitle: School Distinctive Programmes
