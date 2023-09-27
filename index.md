@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero Banner/testing banner (1920 × 720px).gif
+      background: /images/Hero Banner/ntss hero banner photo collage gif (1920px).gif
   - infopic:
       title: Learning for Life (LLP)
       subtitle: School Distinctive Programmes
