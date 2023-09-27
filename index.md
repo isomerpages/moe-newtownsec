@@ -7,7 +7,14 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/school philosophy photo collage (1920 × 720px).png
+      background: /images/Hero Banner/school philosophy photo collage (1920 × 720px).png
+      key_highlights:
+        - title: School Distinctive Programmes
+          description: ""
+          url: https://www.newtownsec.moe.edu.sg/holistic-education/school-distinctive-programmes/learning-for-life-llp-from-2023/
+        - title: Quick Links
+          description: ""
+          url: /quick-links/for-students/
   - infopic:
       title: Learning for Life (LLP)
       subtitle: School Distinctive Programmes
