@@ -8,6 +8,10 @@ notification: ""
 sections:
   - hero:
       background: /images/Hero Banner/ntss hero banner photo collage gif (1920px).gif
+      key_highlights:
+        - title: School Distinctive Programmes
+          description: Key Highlight description
+          url: https://www.newtownsec.moe.edu.sg/holistic-education/school-distinctive-programmes/learning-for-life-llp-from-2023/
   - infopic:
       title: Learning for Life (LLP)
       subtitle: School Distinctive Programmes
