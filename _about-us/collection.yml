@@ -2,8 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Achievements/Outstanding Alumnus.md
-      - Achievements/.keep
       - Principal's Message.md
       - Vision, Mission & Values.md
       - School Crest & Song.md
@@ -13,4 +11,6 @@ collections:
       - Our Partners/School Advisory Committee (2023).md
       - Our Partners/Parent Support Group (2023).md
       - Our Partners/New Town Alumni (2023).md
+      - Achievements/.keep
+      - Achievements/Outstanding Alumnus.md
       - Contact Us.md
