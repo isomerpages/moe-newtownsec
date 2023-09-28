@@ -8,13 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/Hero Banner/ntss philosophy hero banner 1920x720px static.jpg
-      key_highlights:
-        - title: School Distinctive Programmes
-          description: ""
-          url: https://www.newtownsec.moe.edu.sg/holistic-education/school-distinctive-programmes/learning-for-life-llp-from-2023/
-        - title: Quick Links
-          description: ""
-          url: /quick-links/for-students/
   - infopic:
       title: Applied Learning (ALP)
       subtitle: School Distinctive Programmes
