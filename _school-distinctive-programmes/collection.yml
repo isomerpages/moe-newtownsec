@@ -2,6 +2,6 @@ collections:
   school-distinctive-programmes:
     output: true
     order:
-      - Applied Learning (ALP).md
+      - Applied Learning Programme (ALP).md
       - Learning for Life (LLP).md
       - Enhanced Art (EAP).md
