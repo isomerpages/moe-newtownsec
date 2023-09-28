@@ -1,5 +1,5 @@
 collections:
-  resources:
+  admission:
     output: true
     order:
       - Direct School Admission/.keep
