@@ -2,5 +2,6 @@ collections:
   resources:
     output: true
     order:
+      - Direct School Admission/.keep
       - Selection Criteria.md
       - Direct School Admission – Secondary (DSA–Sec) Exercise 2023.md
