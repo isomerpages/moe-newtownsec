@@ -2,6 +2,8 @@ collections:
   resources:
     output: true
     order:
+      - Direct School Admission/Direct School Admission – Secondary (DSA–Sec)
+        Exercise 2023.md
       - Direct School Admission/Application Key Dates.md
       - Direct School Admission/Application Process.md
       - Direct School Admission/.keep
