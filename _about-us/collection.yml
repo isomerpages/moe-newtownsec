@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Achievements/Achievements.md
+      - Achievements/School.md
       - Achievements/.keep
       - Principal's Message.md
       - Vision, Mission & Values.md
