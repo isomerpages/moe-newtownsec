@@ -1,4 +1,5 @@
 collections:
   resources:
     output: true
-    order: []
+    order:
+      - Direct School Admission – Secondary (DSA–Sec) Exercise 2023.md
