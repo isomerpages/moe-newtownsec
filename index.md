@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero Banner/ntss hero banner photo collage gif (1920px).gif
+      background: /images/Hero Banner/ntss philosophy hero banner 1920x720px static.jpg
       key_highlights:
         - title: School Distinctive Programmes
           description: ""
