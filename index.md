@@ -7,14 +7,18 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero Banner/school philosophy photo collage (1920 × 720px).png
-      key_highlights:
-        - title: School Distinctive Programmes
-          description: ""
-          url: https://www.newtownsec.moe.edu.sg/holistic-education/school-distinctive-programmes/learning-for-life-llp-from-2023/
-        - title: Quick Links
-          description: ""
-          url: /quick-links/for-students/
+      background: /images/Hero Banner/ntss philosophy hero banner 1920x720px static.jpg
+  - infopic:
+      title: Applied Learning (ALP)
+      subtitle: School Distinctive Programmes
+      id: infopic
+      description: NTSS’s ALP titled ‘Digital Communicators, Change Makers’ seeks to
+        develop in every New Towner the interest, knowledge and skills in
+        digital literacy.
+      button: More details
+      url: https://www.newtownsec.moe.edu.sg/holistic-education/school-distinctive-programmes/applied-learning-alp-from-2023/
+      alt: Image alt text
+      image: /images/School Distinctive Programmes/alp_edited.jpg
   - infopic:
       title: Learning for Life (LLP)
       subtitle: School Distinctive Programmes
@@ -26,17 +30,6 @@ sections:
       url: https://www.newtownsec.moe.edu.sg/holistic-education/school-distinctive-programmes/learning-for-life-llp-from-2023/
       image: /images/student councillors_group05_lr.png
       alt: Image alt text
-  - infopic:
-      title: Applied Learning (ALP)
-      subtitle: School Distinctive Programmes
-      id: infopic
-      description: NTSS’s ALP titled ‘Digital Communicators, Change Makers’ seeks to
-        develop in every New Towner the interest, knowledge and skills in
-        digital literacy.
-      button: More details
-      url: https://www.newtownsec.moe.edu.sg/holistic-education/school-distinctive-programmes/applied-learning-alp-from-2023/
-      alt: Image alt text
-      image: /images/alp 2 cropped.png
   - infopic:
       title: Enhanced Art (EAP)
       subtitle: School Distinctive Programmes

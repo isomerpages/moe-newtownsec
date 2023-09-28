@@ -1,8 +1,0 @@
-collections:
-  holistic-education:
-    output: true
-    order:
-      - School Distinctive Programmes/.keep
-      - School Distinctive Programmes/Learning for Life (LLP).md
-      - School Distinctive Programmes/Applied Learning (ALP).md
-      - School Distinctive Programmes/Enhanced Art (EAP).md

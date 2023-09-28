@@ -1,8 +1,7 @@
 collections:
-  quick-links:
+  resources:
     output: true
     order:
       - For Students.md
-      - For Staffs.md
       - For Parents.md
-      - School Canteen.md
+      - For Staff.md

@@ -1,8 +1,7 @@
 ---
-title: Enhanced Art (EAP)
+title: Enhanced Art Programme (EAP)
 permalink: /holistic-education/school-distinctive-programmes/enhanced-art-eap/
 description: ""
-third_nav_title: School Distinctive Programmes
 ---
 New Town Secondary school is one of the 9 schools in Singapore to offer the Enhanced Art Programme (EAP). This an upper secondary programme that leads to the GCE O’ Level Art Examination.
 

@@ -1,8 +1,7 @@
 ---
-title: Learning for Life (LLP)
+title: Learning for Life Programme (LLP)
 permalink: /holistic-education/school-distinctive-programmes/learning-for-life-llp-from-2023/
 description: ""
-third_nav_title: School Distinctive Programmes
 ---
 Starting with mastery of self, every student will be given the opportunity to learn and apply leadership competencies through various learning experiences as part of their leadership journey in New Town Secondary School.
 

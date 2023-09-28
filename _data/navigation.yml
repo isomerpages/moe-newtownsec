@@ -1,10 +1,14 @@
-logo: /images/ntss logo with name (png).png
+logo: /images/School Crest/ntss crest with full name.png
 links:
   - title: About Us
     collection: about-us
   - title: Department
     collection: departments
-  - title: CCA
-    collection: cca
-  - title: Holistic Education
-    collection: holistic-education
+  - title: Co-curriculum
+    collection: co-curriculum
+  - title: Distinctive Programmes
+    collection: school-distinctive-programmes
+  - title: Admissions
+    collection: admissions
+  - title: Resources
+    collection: resources

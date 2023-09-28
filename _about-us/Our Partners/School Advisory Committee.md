@@ -1,5 +1,5 @@
 ---
-title: School Advisory Committee (2023)
+title: School Advisory Committee
 permalink: /about-us/our-partners/school-advisory-committee-2023/
 description: ""
 third_nav_title: Our Partners

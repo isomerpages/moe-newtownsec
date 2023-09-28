@@ -1,5 +1,5 @@
 ---
-title: Parent Support Group (2023)
+title: Parent Support Group
 permalink: /about-us/our-partners/parent-support-group-2023/
 description: ""
 third_nav_title: Our Partners
