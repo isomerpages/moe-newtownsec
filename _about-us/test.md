@@ -6,7 +6,7 @@ description: ""
 ![](/images/20140109_ari_psd%20copy3.png)
 
 
-### **Mr Ari Manickam**
+#### **Mr Ari Manickam**
 
 **Principal’s Message 2023**
 
