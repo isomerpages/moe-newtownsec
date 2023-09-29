@@ -4,8 +4,6 @@ permalink: /about-us/principals-message-2023/
 description: ""
 ---
 
-![](/images/20140109_arimanickam_png.png)
-
 A warm welcome to New Town Secondary School!  
 
 I feel honoured and privileged to be the Principal of New Town Secondary School, carrying forward the good work done by my predecessors.  
