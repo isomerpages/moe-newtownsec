@@ -4,6 +4,8 @@ permalink: /about-us/test/
 description: ""
 ---
 ![](/images/20140109_ari_psd%20copy2.png)
+
+
 ### **Mr Ari Manickam**
 
 **Principal’s Message 2023**
