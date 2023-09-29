@@ -3,7 +3,7 @@ title: test
 permalink: /about-us/test/
 description: ""
 ---
-![](/images/20140109_ari_psd%20copy3.png)
+![](/images/mrari_2014.png)
 
 
 #### **Mr Ari Manickam**
