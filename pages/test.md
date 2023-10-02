@@ -1,8 +1,14 @@
 ---
-title: Principal's Message
-permalink: /about-us/principals-message-2023/
+title: test
+permalink: /about-us/test/
 description: ""
 ---
+![](/images/mrari_2014.png)
+
+
+#### **Mr Ari Manickam**
+
+**Principal’s Message 2023**
 
 A warm welcome to New Town Secondary School!  
 
