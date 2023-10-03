@@ -1,0 +1,4 @@
+collections:
+  latest-achievements:
+    output: true
+    order: []
