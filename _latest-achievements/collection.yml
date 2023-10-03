@@ -1,4 +1,5 @@
 collections:
   latest-achievements:
     output: true
-    order: []
+    order:
+      - School Achievements.md
