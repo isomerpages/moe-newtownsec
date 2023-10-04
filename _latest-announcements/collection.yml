@@ -1,5 +1,5 @@
 collections:
-  announcements:
+  latest-announcements:
     output: true
     order:
       - Cohort Learning Week (22 – 25 May) Schedule.md
