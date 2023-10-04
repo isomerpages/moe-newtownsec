@@ -11,7 +11,7 @@ description: ""
 
 ***TO FORGE A BETTER LIFE***
 
-COGWHEEL CENTREPIECE&nbsp;
+COGWHEEL CENTREPIECE
 ---------------------
 
 To develop Newtowners into active contributors to Singapore’s next phase of growth.
