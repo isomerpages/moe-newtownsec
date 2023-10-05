@@ -6,12 +6,12 @@ description: ""
 <center>
 <p><img align="right" style="width:50%;margin-left:15px;margin-right:15px;" src="/images/principal%20mr%20ari_144dpi.jpg">
 A warm welcome to New Town Secondary School!
-
+	
 I feel honoured and privileged to be the Principal of New Town Secondary School, carrying forward the good work done by my predecessors.
 
 2022 was an exciting year for the staff and students of both New Town Secondary School and Tanglin Secondary School. They were deeply involved in many conversations and merger-related activities. I am very appreciative of the staff, especially the Key Personnel of both schools, for spearheading many of the merger-related work despite the demands of their current work. As a result, we managed to have conversations and make decisions on many critical areas – school’s key programmes, school rules, timetabling matters etc. I am also grateful to the student leaders for planning the Symbolic Walk event with the teachers from the Student Leadership Committee. The event held on 28 October 2022 not only ended the school term of both schools on a high note, but also marked the beginning of our journey as one school.</p>
 
-<p>Both Tanglin and New Town Secondary schools have rich histories. Tanglin Secondary School&nbsp;was one of the pioneer technical schools which helped prepare young Singaporeans for industrialization. It was also the first to admit female students to its technical courses.&nbsp;&nbsp;On the other hand, New Town Secondary School was founded in 1965, the same year Singapore gained its independence. It was one of the first schools in Singapore to provide bilingual education to its pupils. Together, both schools have a collective history of close to 120 years.</p>
+<p>Both Tanglin and New Town Secondary schools have rich histories. Tanglin Secondary School was one of the pioneer technical schools which helped prepare young Singaporeans for industrialization. It was also the first to admit female students to its technical courses. On the other hand, New Town Secondary School was founded in 1965, the same year Singapore gained its independence. It was one of the first schools in Singapore to provide bilingual education to its pupils. Together, both schools have a collective history of close to 120 years.</p>
 
 <p>While the two schools have a number of similarities, each school has its own unique strengths. The merger will give us an opportunity to leverage on the strengths of each school to bring about positive outcomes based on our belief that <b>everyone is unique and that all can succeed</b>. But for all these to happen, we must respect each other, practice inclusivity and demonstrate empathy.</p>
 
