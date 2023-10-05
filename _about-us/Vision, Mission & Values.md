@@ -14,9 +14,16 @@ description: ""
 <b>Confident Learners and Caring Leaders for a Better Tomorrow
 
 <br><h3><u>Mission</u></h3>
-<b>Nurture Talents. Transform Minds. Strive for success. Serve the Community.
+<b>Nurture Talents
+<br><b>Transform Minds
+<br><b>Strive for success
+<br><b>Serve the Community.
 
 <br><h3><u>Core Values</u></h3>
-<img src="/images/iscare-711x1024.jpg">
+<b>Respect
+<br><b>Integrity
+<br><b>Care
+<br><b>Resilience
+<br><b>Self-Discipline
 </b></b></b></b>
-</center>
+</b></b></b></b></b></b></b></b></center>
