@@ -13,7 +13,7 @@ description: ""
     
 3.  In support of national initiative to steer commuters towards adopting e-payments in transitticketing, top up at Passenger Services Centre is progressively ceased. However PSCs will continue to assist in the activation of concession card for MOE students. To avoid being turned away, students are advised to inform the PSC staff that they would like to activate their concession card. The minimum top-up value is $5.  
     
-4.  The primary school concessionary card will stop functioning on30 April 2018. Students and Parents can call the TransitLink Hotline at 1800–2255 663 for more information.  
+4.  The primary school concessionary card will stop functioning on30 April 2024. Students and Parents can call the TransitLink Hotline at 1800–2255 663 for more information.  
     
 
   
