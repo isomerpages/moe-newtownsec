@@ -17,7 +17,7 @@ description: ""
 <b>Nurture Talents
 <br><b>Transform Minds
 <br><b>Strive for success
-<br><b>Serve the Community.
+<br><b>Serve the Community
 
 <br><h3><u>Core Values</u></h3>
 <b>Respect
