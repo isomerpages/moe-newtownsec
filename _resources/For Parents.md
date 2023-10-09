@@ -3,6 +3,9 @@ title: For Parents
 permalink: /quick-links/for-parents/
 description: ""
 ---
+
+* [Sec  2 & 3 (2024) Appeal for Transfer to New Town Secondary School](https://form.gov.sg/651f5ca534442500124340fd)
+
 * [School Letters](/about-us/links/parents/school-letters)
 *   [School Newsletters](/about-us/links/parents/school-newsletters)
 *   [Class Timetable 2023](/others/announcements/class-timetable-2023)
