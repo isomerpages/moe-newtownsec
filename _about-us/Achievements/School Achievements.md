@@ -15,7 +15,7 @@ third_nav_title: Achievements
 
 <tr><td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:7px 7px;text-align:center;vertical-align:middle;word-break:normal"><span style="font-weight:bold">Mathematics</span></td>
 <td style="width:50%;background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:7px 7px;text-align:left;vertical-align:middle;word-break:normal"><span style="font-weight:bold">Singapore Mathematical Olympiad 2023</span></td>
-<td style="width:50%;background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:0px 0px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Honourable Mention</span>
+<td style="width:50%;background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:7px 7px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Honourable Mention</span>
 	<br><br>Ng Yan Hou (2-01)
 	<br>Ee Xuan Hui (2-03)
 	<br>Chong Yu De (3-01)
@@ -23,7 +23,7 @@ third_nav_title: Achievements
 	<br>Phylis Tan Pei Li (3-05)
 </td></tr><tr>
 	
-<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:7px 7px;text-align:center;vertical-align:middle;word-break:normal">Humanities</td><td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:7px 7px;text-align:left;vertical-align:middle;word-break:normal">POA Quest 2023 – organised by Deyi Secondary School</td><td style="width:50%;background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:0px 0px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">1st Runner Up</span>
+<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:7px 7px;text-align:center;vertical-align:middle;word-break:normal">Humanities</td><td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:7px 7px;text-align:left;vertical-align:middle;word-break:normal">POA Quest 2023 – organised by Deyi Secondary School</td><td style="width:50%;background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:7px 7px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">1st Runner Up</span>
 	<br><br>Jerine Tan Yu Lin (S4-04)
 	<br>Valencia Amora Chua Lie Cia (S4-06)
 	<br>Ko Hung You Jeremy (S4-06)
