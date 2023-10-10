@@ -3,7 +3,7 @@ title: School Achievements (Test site)
 permalink: /permalink/
 description: ""
 ---
-<table width="525" style="height: 744px;" class="NTSS">
+<table width="700" style="height: 744px;" class="NTSS">
 <thead>
 <tr>
 <th>CURRICULUM</th>
