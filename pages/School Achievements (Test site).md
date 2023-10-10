@@ -5,7 +5,7 @@ description: ""
 ---
 <style>
 	.ntss-achievements  {
-		overflow: auto;
+		overflow: fixed;
 		width: 100%;
 	}
 	.ntss-achievements table {
