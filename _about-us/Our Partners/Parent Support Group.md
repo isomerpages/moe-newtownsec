@@ -32,8 +32,8 @@ third_nav_title: Our Partners
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Ms Winny Kwok </span><br></td>
   </tr>
   <tr>
-    <td class="tg-3jxu">Secretary</td>
-    <td class="tg-3jxu">Ms <span style="font-weight:400;font-style:normal">Catherine Yap</span></td>
+    <td class="tg-ku5w">Secretary</td>
+    <td class="tg-ku5w">Ms <span style="font-weight:400;font-style:normal">Catherine Yap</span></td>
   </tr>
   <tr>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Assistant Secretary</span><span style="font-weight:bold;color:black"> </span></td>
