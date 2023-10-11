@@ -179,10 +179,10 @@ description: ""
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-rj1p{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-bvia{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-w9w3{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-rj1p{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-bvia{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-w9w3{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
 <thead>
