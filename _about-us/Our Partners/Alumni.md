@@ -24,55 +24,55 @@ third_nav_title: Our Partners
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">President:</span><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">President</span><br></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Allan Lieu</span><br></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Honorary Advisors: </span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Honorary Advisors</span></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Dr Teo Ho Pin </span><br></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Honorary Advisors: </span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Honorary Advisors</span></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr James Chia </span><br></td>
   </tr>
 <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Honorary Advisors: </span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Honorary Advisors</span></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Alan Chua </span><br></td>
   </tr>
   <tr>
-    <td class="tg-3jxu">Vice-President (Collaboration): </td>
-    <td class="tg-3jxu"> <span style="font-weight:400;font-style:normal">Ms Wilna Tan</span></td>
+    <td class="tg-ku5w">Vice-President (Collaboration)</td>
+    <td class="tg-ku5w"> <span style="font-weight:400;font-style:normal">Ms Wilna Tan</span></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Vice-President (Events): </span><span style="font-weight:bold;color:black"> </span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Vice-President (Events)</span><span style="font-weight:bold;color:black"> </span></td>
     <td class="tg-ii8k">Mr Jimmy Lim</td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Vice-President (Membership): </span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Vice-President (Membership)</span></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Seng Chun Guan</span><br></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">  Secretary:  </span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">  Secretary</span></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Steve Soon</span><br></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Treasurer: </span><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Treasurer</span><br></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Ms Agnes Ho</span></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Membership Development Vice Chairman:  </span><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Membership Development Vice Chairman</span><br></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Ms Jean Tan</span></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">ExCo Member:  </span><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">ExCo Member</span><br></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Mr Lew Kwan Koon</span></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">ExCo Member:  </span><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">ExCo Member</span><br></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Mr Wong Kan Kee</span></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">ExCo Member:  </span><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">ExCo Member</span><br></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Mr Daniel Lam</span></td>
   </tr>
 </tbody>
