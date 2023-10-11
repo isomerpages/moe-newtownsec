@@ -14,8 +14,8 @@ description: ""
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
 .tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
@@ -179,8 +179,8 @@ description: ""
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
-.tg .tg-rj1p{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-rj1p{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-bvia{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:middle}
 .tg .tg-w9w3{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
 </style>
@@ -238,7 +238,7 @@ description: ""
 <thead>
   <tr>
     <th class="tg-djlw">S1-1</th>
-    <th class="tg-6cvf">Ms Chew Ying Ying </th>
+    <th class="tg-6cvf">Ms Chew Ying Ying</th>
     <th class="tg-hvl7"><span style="color:#222;background-color:#EAEAEA">chew_ying_ying_a@moe.edu.sg</span><br><span style="color:#222;background-color:#EAEAEA"> </span></th>
   </tr>
 </thead>
@@ -255,7 +255,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-hvl7"><span style="color:#222;background-color:#EAEAEA"> </span></td>
-    <td class="tg-hvl7"><span style="color:#222;background-color:#EAEAEA">Ms Chua Zi Hui Samanthan</span><br><br></td>
+    <td class="tg-hvl7"><span style="color:#222;background-color:#EAEAEA">Ms Chua Zi Hui Samanthan</span><b><br></b></td>
     <td class="tg-hvl7"><span style="color:#222;background-color:#EAEAEA">chua_zi_hui_samanthan@moe.edu.sg</span><br><span style="color:#222;background-color:#EAEAEA"> </span></td>
   </tr>
   <tr>
@@ -265,7 +265,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-djlw"> </td>
-    <td class="tg-6cvf">Mr Joel Chan </td>
+    <td class="tg-6cvf">Mr Joel Chan</td>
     <td class="tg-hvl7"><span style="color:#222;background-color:#EAEAEA"> Joel_chan_jie_hao@moe.edu.sg</span><br><br></td>
   </tr>
   
