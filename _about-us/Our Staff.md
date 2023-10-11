@@ -661,37 +661,37 @@ description: ""
   <tr>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Subbiah Ramesh</span></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">ICT Manager</span></td>
-    <td class="tg-6069"><a href="mailto:subbiah_ramesh@moe.edu.sg">subbiah_ramesh@moe.edu.sg</a></td>
+    <td class="tg-6069">subbiah_ramesh@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Ms Lim Yuan</span></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Senior SEN Officer</span></td>
-    <td class="tg-6069"><a href="mailto:lim_yuan@moe.edu.sg">lim_yuan@moe.edu.sg</a></td>
+    <td class="tg-6069">lim_yuan@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Ms Susanti Salim</span></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> SEN Officer</span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">susanti_salim@schools.gov.sg</span></td>
+    <td class="tg-6069">susanti_salim@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Ms Rafiza Binte Naser</span></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> School Counsellor</span></td>
-    <td class="tg-6069"><a href="mailto:rafiza_naser@moe.edu.sg">rafiza_naser@moe.edu.sg</a></td>
+    <td class="tg-6069">rafiza_naser@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Ms Yvonne Lee</span></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">School Counsellor</span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">yvonne_lee@moe.edu.sg</span></td>
+    <td class="tg-6069"><span style="color:#222;background-color:#EAEAEA">yvonne_lee@moe.edu.sg</span></td>
   </tr>
   <tr>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Ms Ng Lay Lay</span></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Student Welfare Officer </span></td>
-    <td class="tg-6069"><a href="mailto:ng_lay_lay@moe.edu.sg">ng_lay_lay@moe.edu.sg</a></td>
+    <td class="tg-6069">ng_lay_lay@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Mr Teng Swee Hoe</span></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">ECG Counsellor </span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">teng_swee_hoe@schools.gov.sg</span></td>
+    <td class="tg-6069"><span style="color:#222;background-color:#EAEAEA">teng_swee_hoe@schools.gov.sg</span></td>
   </tr>
 </tbody>
 </table>
