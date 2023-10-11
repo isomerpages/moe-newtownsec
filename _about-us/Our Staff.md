@@ -36,7 +36,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-ku5w"><span style="font-weight:bold;color:#222;background-color:#EAEAEA"> </span><span style="font-weight:bold">Vice-Principal (Admin)</span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Dalbir Singh </span></td>
+    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Mr Dalbir Singh </span></td>
   </tr>
 </tbody>
 </table>
