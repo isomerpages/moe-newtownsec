@@ -49,17 +49,17 @@ description: ""
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-n4qt{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle;font-weight:bold}
 .tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
-.tg .tg-j0e3{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-j0e3{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
 .tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
 <thead>
   <tr>
     <th class="tg-n4qt">Year Head</th>
-    <th class="tg-ii8k">Mr Yue Sien Wee, Eric<span style="color:#222;background-color:#EAEAEA"> </span></th>
-    <th class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">yue_sien_wee@moe.edu.sg </span></th>
+    <th class="tg-ii8k">Mr Yue Sien Wee, Eric</th>
+    <th class="tg-ku5w">yue_sien_wee@moe.edu.sg</th>
   </tr>
 </thead>
 <tbody>
