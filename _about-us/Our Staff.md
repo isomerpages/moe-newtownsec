@@ -239,7 +239,7 @@ description: ""
   <tr>
     <th class="tg-djlw">S1-1</th>
     <th class="tg-6cvf">Ms Chew Ying Ying</th>
-    <th class="tg-hvl7"><span style="color:#222;background-color:#EAEAEA">chew_ying_ying_a@moe.edu.sg</span><br><br><span style="color:#222;background-color:#EAEAEA"> </span></th>
+    <th class="tg-hvl7"><span style="color:#222;background-color:#EAEAEA">chew_ying_ying_a@moe.edu.sg</span><br><span style="color:#222;background-color:#EAEAEA"> </span></th>
   </tr>
 </thead>
 <tbody>
@@ -292,7 +292,7 @@ description: ""
 	<tr>
     <td class="tg-djlw"> </td>
     <td class="tg-6cvf">Mr Dan Yeo Jiunn Hou</td>
-    <td class="tg-hvl7"><span style="color:#222;background-color:#EAEAEA">yeo_jiunn_hou@moe.edu.sg</span><br><br></td>
+    <td class="tg-hvl7"><span style="color:#222;background-color:#EAEAEA">yeo_jiunn_hou@moe.edu.sg</span><br></td>
   </tr>
   <tr>
     <td class="tg-djlw">S1-6</td>
@@ -301,7 +301,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-hvl7"><span style="color:#222;background-color:#EAEAEA"> </span><br><br></td>
-    <td class="tg-hvl7"><span style="color:#222;background-color:#EAEAEA"> Ms Joyce Gayathri </span><br><br></td>
+    <td class="tg-hvl7"><span style="color:#222;background-color:#EAEAEA"> Ms Joyce Gayathri </span><br></td>
     <td class="tg-hvl7"><span style="color:#222;background-color:#EAEAEA">gayathri_devadas@moe.edu.sg</span><br><span style="color:#222;background-color:#EAEAEA"> </span></td>
   </tr>
   <tr>
@@ -322,7 +322,7 @@ description: ""
   <tr>
     <td class="tg-djlw"> </td>
     <td class="tg-6cvf">Ms Lu Jing<br></td>
-    <td class="tg-hvl7"><span style="color:#222;background-color:#EAEAEA"> lu_jing@moe.edu.sg</span><br><br></td>
+    <td class="tg-hvl7"><span style="color:#222;background-color:#EAEAEA"> lu_jing@moe.edu.sg</span><br></td>
   </tr>
   <tr>
     <td class="tg-djlw">S2-3</td>
