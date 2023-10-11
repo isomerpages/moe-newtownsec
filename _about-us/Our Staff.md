@@ -631,8 +631,8 @@ description: ""
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
-.tg .tg-6069{background-color:#EAEAEA;color:#050505;text-align:center;vertical-align:top}
-.tg .tg-gx7r{background-color:#EAEAEA;color:#050505;text-align:center;text-decoration:underline;vertical-align:top}
+.tg .tg-6069{background-color:#EAEAEA;color:#050505;text-align:center;vertical-align:middle}
+.tg .tg-gx7r{background-color:#EAEAEA;color:#050505;text-align:center;text-decoration:underline;vertical-align:middle}
 </style>
 <table class="tg">
 <thead>
