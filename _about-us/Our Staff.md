@@ -49,8 +49,8 @@ description: ""
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
 .tg .tg-j0e3{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
 </style>
@@ -230,8 +230,8 @@ description: ""
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-hvl7{background-color:#EAEAEA;border-color:inherit;color:#222;text-align:center;vertical-align:middle}
-.tg .tg-djlw{background-color:#EAEAEA;border-color:inherit;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-6cvf{background-color:#EAEAEA;border-color:inherit;color:#222;text-align:center;vertical-align:top}
+.tg .tg-djlw{background-color:#EAEAEA;border-color:inherit;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-6cvf{background-color:#EAEAEA;border-color:inherit;color:#222;text-align:center;vertical-align:middle}
 .tg .tg-a4x0{background-color:#EAEAEA;border-color:inherit;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
@@ -285,7 +285,7 @@ description: ""
     <td class="tg-hvl7"><span style="color:#222;background-color:#EAEAEA"> low_mian_jiun@moe.edu.sg</span><br><br></td>
   </tr>
   <tr>
-    <td class="tg-djlw"> </td>
+    <td class="tg-djlw"></td>
     <td class="tg-6cvf">Ms Renuka Selva Rajoo</td>
     <td class="tg-hvl7"><span style="color:#222;background-color:#EAEAEA">renuka_selva_rajoo@moe.edu.sg</span><br><br></td>
   </tr>
