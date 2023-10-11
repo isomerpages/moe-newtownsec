@@ -239,12 +239,12 @@ description: ""
   <tr>
     <th class="tg-djlw">S1-1</th>
     <th class="tg-6cvf">Ms Chew Ying Ying</th>
-    <th class="tg-hvl7"><span style="color:#222;background-color:#EAEAEA">chew_ying_ying_a@moe.edu.sg</span><br><span style="color:#222;background-color:#EAEAEA"> </span></th>
+    <th class="tg-hvl7"><span style="color:#222;background-color:#EAEAEA">chew_ying_ying_a@moe.edu.sg</span><br><br><span style="color:#222;background-color:#EAEAEA"> </span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-djlw"> </td>
+    <td class="tg-djlw"></td>
     <td class="tg-6cvf">Ms Mohgana Thiagarajan</td>
     <td class="tg-hvl7"><span style="color:#222;background-color:#EAEAEA">mohgana_ap_thiagarajan@moe.edu.sg</span><br><span style="color:#222;background-color:#EAEAEA"> </span></td>
   </tr>
@@ -266,13 +266,13 @@ description: ""
   <tr>
     <td class="tg-djlw"> </td>
     <td class="tg-6cvf">Mr Joel Chan</td>
-    <td class="tg-hvl7"><span style="color:#222;background-color:#EAEAEA"> Joel_chan_jie_hao@moe.edu.sg</span><br><br></td>
+    <td class="tg-hvl7"><span style="color:#222;background-color:#EAEAEA"> Joel_chan_jie_hao@moe.edu.sg</span><br></td>
   </tr>
   
   <tr>
     <td class="tg-djlw">S1-4</td>
     <td class="tg-6cvf">Mrs Tricia Ong </td>
-    <td class="tg-hvl7"><span style="color:#222;background-color:#EAEAEA"> lim_tock_boon_tricia@moe.edu.sg</span><br><br></td>
+    <td class="tg-hvl7"><span style="color:#222;background-color:#EAEAEA"> lim_tock_boon_tricia@moe.edu.sg</span><br></td>
   </tr>
   <tr>
     <td class="tg-djlw"> </td>
@@ -282,12 +282,12 @@ description: ""
   <tr>
     <td class="tg-djlw">S1-5</td>
     <td class="tg-6cvf">Ms Low Mian Jiun </td>
-    <td class="tg-hvl7"><span style="color:#222;background-color:#EAEAEA"> low_mian_jiun@moe.edu.sg</span><br><br></td>
+    <td class="tg-hvl7"><span style="color:#222;background-color:#EAEAEA"> low_mian_jiun@moe.edu.sg</span><br></td>
   </tr>
   <tr>
     <td class="tg-djlw"></td>
     <td class="tg-6cvf">Ms Renuka Selva Rajoo</td>
-    <td class="tg-hvl7"><span style="color:#222;background-color:#EAEAEA">renuka_selva_rajoo@moe.edu.sg</span><br><br></td>
+    <td class="tg-hvl7"><span style="color:#222;background-color:#EAEAEA">renuka_selva_rajoo@moe.edu.sg</span><br></td>
   </tr>
 	<tr>
     <td class="tg-djlw"> </td>
