@@ -565,7 +565,7 @@ description: ""
     <td class="tg-hvl7"><span style="color:#222;background-color:#EAEAEA">nazreen_abdul_latiff@moe.edu.sg</span><br><span style="color:#222;background-color:#EAEAEA"> </span></td>
   </tr>
   <tr>
-    <td class="tg-a4x0"><span style="color:#222;background-color:#EAEAEA"> </span>S4-9<br><br></td>
+    <td class="tg-a4x0"><span style="color:#222;background-color:#EAEAEA"> </span>S4-9<br></td>
     <td class="tg-hvl7"><span style="color:#222;background-color:#EAEAEA">Mdm Sutinah Suid</span><br><span style="color:#222;background-color:#EAEAEA"> </span></td>
     <td class="tg-hvl7"><span style="color:#222;background-color:#EAEAEA">sutinah_suid@moe.edu.sg</span><br><span style="color:#222;background-color:#EAEAEA"> </span></td>
   </tr>
@@ -617,7 +617,7 @@ description: ""
   <tr>
     <td class="tg-a4x0"><span style="color:#222;background-color:#EAEAEA"> </span>S5-1</td>
     <td class="tg-hvl7"><span style="color:#222;background-color:#EAEAEA"> Mdm Chan Jin Fen</span><br></td>
-    <td class="tg-hvl7"><span style="color:#222;background-color:#EAEAEA"> chan_jin_fen@moe.edu.sg</span><br><br></td>
+    <td class="tg-hvl7"><span style="color:#222;background-color:#EAEAEA"> chan_jin_fen@moe.edu.sg</span><br></td>
   </tr>
   <tr>
     <td class="tg-6cvf"></td>
