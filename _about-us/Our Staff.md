@@ -387,7 +387,7 @@ description: ""
   <tr>
     <td class="tg-djlw">S3-3</td>
     <td class="tg-6cvf">Ms Wendy Koh </td>
-    <td class="tg-hvl7"><span style="color:#222;background-color:#EAEAEA"> koh_wendy@moe.edu.sg</span><br><br></td>
+    <td class="tg-hvl7"><span style="color:#222;background-color:#EAEAEA"> koh_wendy@moe.edu.sg</span><br></td>
   </tr>
   <tr>
     <td class="tg-djlw"> </td>
@@ -397,12 +397,12 @@ description: ""
   <tr>
     <td class="tg-djlw">S3-4</td>
     <td class="tg-6cvf">Mr Tay Chong Guan </td>
-    <td class="tg-hvl7"><span style="color:#222;background-color:#EAEAEA"> tay_chong_guan@moe.edu.sg</span><br><br></td>
+    <td class="tg-hvl7"><span style="color:#222;background-color:#EAEAEA"> tay_chong_guan@moe.edu.sg</span><br></td>
   </tr>
   <tr>
     <td class="tg-6cvf"> </td>
     <td class="tg-6cvf">Ms Tang Wai Yin </td>
-    <td class="tg-hvl7"><span style="color:#222;background-color:#EAEAEA"> tang_wai_yin@moe.edu.sg</span><br><br></td>
+    <td class="tg-hvl7"><span style="color:#222;background-color:#EAEAEA"> tang_wai_yin@moe.edu.sg</span><br></td>
   </tr>
   <tr>
     <td class="tg-djlw">S3-5</td>
