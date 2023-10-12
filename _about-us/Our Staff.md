@@ -357,7 +357,7 @@ description: ""
   <tr>
     <td class="tg-djlw">S2-6</td>
     <td class="tg-6cvf">Mr Nur Azman</td>
-    <td class="tg-hvl7"><span style="color:#222;background-color:#EAEAEA"> muhammad_nur_azman_shah@moe.edu.sg</span><br><br></td>
+    <td class="tg-hvl7"><span style="color:#222;background-color:#EAEAEA"> muhammad_nur_azman_shah@moe.edu.sg</span><br></td>
   </tr>
   <tr>
     <td class="tg-djlw"> </td>
