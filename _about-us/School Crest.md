@@ -1,5 +1,5 @@
 ---
-title: School Crest & Song
+title: School Crest
 permalink: /about-us/school-information/school-crest-n-song/
 description: ""
 ---
