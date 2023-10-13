@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero Banner/2023 ntss open house banner_edited bold lines.jpg
+      background: /images/Hero Banner/2023 ntss open house hero banner (resized).png
   - infopic:
       title: Applied Learning (ALP)
       subtitle: School Distinctive Programmes
