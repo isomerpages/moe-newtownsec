@@ -67,7 +67,7 @@ NCC has eight Core Values:
 * Silver Award for Best Unit Competition 2014
 
 ### EXTERNAL LINK
-https://www.facebook.com/sgncc.hq/
+[National Cadet Corps (Singapore) Facebook Page](https://www.facebook.com/sgncc.hq/)
 
 ### PHOTO GALLERY
 
