@@ -84,7 +84,7 @@ New Town NPCC has achieved at least 20 GOLD Awards since 1996. We have performed
 
 ### EXTERNAL LINK
 
-https://www.instagram.com/ntss_npcc/
+[NTSS NPCC Instagram Page](https://www.instagram.com/ntss_npcc/)
 
 
 ### PHOTO GALLERY
