@@ -112,6 +112,6 @@ Students will be given learning opportunities through Tier 1 and 2 programmes to
 
 
 <figure>
-<img src="/images/ALP2023.png">
+<img src="/images/School%20Distinctive%20Programmes/ALP2023.png">
 <figcaption>Students applying skills learned (e.g. composition techniques) outside the classroom</figcaption>
 </figure>

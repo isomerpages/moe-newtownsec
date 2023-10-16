@@ -7,7 +7,20 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero Banner/2023 ntss open house hero banner (resized).png
+      background: /images/Hero Banner/ntss philosophy hero banner 1920x720px static.jpg
+      key_highlights:
+        - title: Upcoming Events
+          description: ""
+          url: https://www.newtownsec.moe.edu.sg/openhouse2023
+  - infopic:
+      title: 2023 Open House
+      id: infopic
+      button: More Details
+      url: https://www.newtownsec.moe.edu.sg/openhouse2023/
+      image: /images/Hero
+        Banner/2023_ntss_open_house_banner_website_copy_downsized.png
+      alt: Image alt text
+      subtitle: Happening Soon!
   - infopic:
       title: Applied Learning (ALP)
       subtitle: School Distinctive Programmes
