@@ -4,6 +4,6 @@ permalink: /permalink/
 description: ""
 ---
 <center>
-	<h1>foundations are rock-solid, and so are our values
-	
-	Stay tuned.</h1></center>
+	<h1>foundations are rock-solid, and so are our values</h1>
+	<b>Stay tuned.</b>
+</center>
