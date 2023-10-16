@@ -12,7 +12,7 @@ sections:
       title: 2023 Open House
       id: infopic
       button: More Details
-      url: /permalink/
+      url: /openhouse2023/
       image: /images/Hero
         Banner/2023_ntss_open_house_banner_website_copy_downsized.png
       alt: Image alt text
