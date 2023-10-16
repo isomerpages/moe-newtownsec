@@ -27,3 +27,4 @@ The school supports student learning and experience for students with special ne
 
 The school supports and integrates international students and permanent residents into the school community through the ISPR Committee. Induction and Integration programmes are organised by the committee to help ISPRs enjoy a smooth transition and integration into the country / school culture, and at the same time, allow them to form genuine and long-lasting friendships with local students.
 
+![](/images/cce%20curriculum%20frame%20oct%202023.png)
