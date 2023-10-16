@@ -2,4 +2,4 @@ collections:
   upcoming-events:
     output: true
     order:
-      - Open House 2023.md
+      - 2023 Open House.md
