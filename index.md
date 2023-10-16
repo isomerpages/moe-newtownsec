@@ -8,7 +8,10 @@ notification: ""
 sections:
   - hero:
       background: /images/Hero Banner/school philosophy photo collage (1920 × 720px).png
-      url: /upcomingevents/
+      key_highlights:
+        - title: Upcoming Events
+          description: ""
+          url: /upcomingevents/
   - infopic:
       title: 2023 Open House
       id: infopic
