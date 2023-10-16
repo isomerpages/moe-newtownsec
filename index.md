@@ -11,16 +11,16 @@ sections:
       key_highlights:
         - title: Upcoming Events
           description: ""
-          url: https://www.newtownsec.moe.edu.sg/upcoming-events/openhouse2023/
+          url: https://www.newtownsec.moe.edu.sg/openhouse2023/
   - infopic:
       title: 2023 Open House
       id: infopic
       button: More Details
-      url: https://www.newtownsec.moe.edu.sg/upcoming-events/openhouse2023/
+      url: https://www.newtownsec.moe.edu.sg/openhouse2023/
       image: /images/Hero
         Banner/2023_ntss_open_house_banner_website_copy_downsized.png
       alt: Image alt text
-      subtitle: Happening Soon!
+      subtitle: Come and experience New Town!
   - infopic:
       title: Applied Learning (ALP)
       subtitle: School Distinctive Programmes

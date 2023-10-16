@@ -76,7 +76,7 @@ The initials of the GGS motto, “Be Prepared”, also happens to be our Founder
 
 ### EXTERNAL LINK
 
-https://www.girlguides.org.sg
+[Girl Guides Singapore](https://www.girlguides.org.sg)
 
 ### PHOTO GALLERY
 
