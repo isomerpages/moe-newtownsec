@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero Banner/school philosophy photo collage (1920 × 720px).png
+      background: /images/Hero Banner/ntss philosophy hero banner 1920x720px static.jpg
       key_highlights:
         - title: Upcoming Events
           description: ""
