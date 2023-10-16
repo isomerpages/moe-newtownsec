@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/Hero Banner/ntss philosophy hero banner 1920x720px static.jpg
       key_highlights:
-        - title: Happening Soon!
+        - title: Upcoming Events
           description: ""
           url: /openhouse2023/
   - infopic:
