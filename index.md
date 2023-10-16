@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Upcoming Events
           description: ""
-          url: https://www.newtownsec.moe.edu.sg/upcoming-events/
+          url: https://www.newtownsec.moe.edu.sg/upcoming-events/openhouse2023
   - infopic:
       title: 2023 Open House
       id: infopic
