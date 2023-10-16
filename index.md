@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero Banner/2023 ntss open house hero banner (resized).png
+      background: /images/School Premise/school_school drop off point_03.png
   - infopic:
       title: New Town Open House 2023
       id: infopic
