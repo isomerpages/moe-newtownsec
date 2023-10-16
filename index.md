@@ -9,6 +9,16 @@ sections:
   - hero:
       background: /images/Hero Banner/2023 ntss open house hero banner (resized).png
   - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      url: More details
+      image: /images/Hero
+        Banner/2023_ntss_open_house_banner_website_copy_downsized.png
+      alt: Image alt text
+  - infopic:
       title: Applied Learning (ALP)
       subtitle: School Distinctive Programmes
       id: infopic
