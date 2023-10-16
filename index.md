@@ -9,11 +9,9 @@ sections:
   - hero:
       background: /images/Hero Banner/2023 ntss open house hero banner (resized).png
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: New Town Open House 2023
       id: infopic
-      description: Infopic description
-      button: Button Text
+      button: More Details
       url: More details
       image: /images/Hero
         Banner/2023_ntss_open_house_banner_website_copy_downsized.png
