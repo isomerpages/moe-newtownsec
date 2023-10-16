@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero Banner/hero banner school premise (front).png
+      background: /images/Hero Banner/school philosophy photo collage (1920 × 720px).png
   - infopic:
       title: 2023 Open House
       id: infopic
