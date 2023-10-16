@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/Hero Banner/hero banner school premise (front).png
   - infopic:
-      title: Open House 2023
+      title: 2023 Open House
       id: infopic
       button: More Details
       url: /permalink/
