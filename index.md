@@ -7,9 +7,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/School Premise/school_school drop off point_03.png
+      background: /images/Hero Banner/hero banner school premise (front).png
   - infopic:
-      title: New Town Open House 2023
+      title: Open House 2023
       id: infopic
       button: More Details
       url: More details
