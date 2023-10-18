@@ -3,7 +3,7 @@ title: School Canteen
 permalink: /quick-links/school-canteen/
 description: ""
 ---
-**Post 1**
+**School Canteen Advertisement 1**
 
 <table style="border-collapse:
  collapse;width:617pt" width="821" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:9581;width:197pt" width="262"> <col style="mso-width-source:userset;mso-width-alt:11008;width:226pt" width="301"> <col style="mso-width-source:userset;mso-width-alt:9435;width:194pt" width="258"></colgroup><tbody><tr style="height:20.25pt" height="27"><td style="height:20.25pt;width:197pt" width="262" class="xl67" height="27"><b>Type of Stall<span style="mso-spacerun:yes">&nbsp;</span></b></td><td style="border-left:none;width:226pt" width="301" class="xl68"><b>Closing Date</b></td><td style="border-left:none;width:194pt" width="258" class="xl69"><span style="font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;
@@ -66,7 +66,7 @@ Contact Person: **Mdm Rohaidah (CSO)/Mr Chia Yuen Teck (Operations Mgr)/Ms Chan 
 
 *Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*
 
-**Post 2**
+**School Canteen Advertisement 2**
 
 <table style="border-collapse:
  collapse;width:617pt" width="821" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:9581;width:197pt" width="262"> <col style="mso-width-source:userset;mso-width-alt:11008;width:226pt" width="301"> <col style="mso-width-source:userset;mso-width-alt:9435;width:194pt" width="258"></colgroup><tbody><tr style="height:20.25pt" height="27"><td style="height:20.25pt;width:197pt" width="262" class="xl67" height="27"><b>Type of Stall<span style="mso-spacerun:yes">&nbsp;</span></b></td><td style="border-left:none;width:226pt" width="301" class="xl68"><b>Closing Date</b></td><td style="border-left:none;width:194pt" width="258" class="xl69"><span style="font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;
