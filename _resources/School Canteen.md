@@ -10,9 +10,9 @@ description: ""
   widows: 2;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;
   text-decoration-style: initial;text-decoration-color: initial"><b>Requirements</b></span></td></tr><tr style="mso-height-source:userset;height:18.75pt" height="25"><td style="height:18.75pt" class="xl65" height="25"><span style="font-variant-ligatures: normal;
   font-variant-caps: normal;orphans: 2;widows: 2;-webkit-text-stroke-width: 0px;
-  text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial">Western Food Stall (Halal)</span></td><td style="border-left:none" class="xl66"><span style="font-variant-ligatures: normal;
+  text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial">Halal Food Stall (Halal)</span></td><td style="border-left:none" class="xl66"><span style="font-variant-ligatures: normal;
   font-variant-caps: normal;orphans: 2;widows: 2;-webkit-text-stroke-width: 0px;
-  text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial">18 August 2023</span></td><td style="border-left:none" class="xl66"><span style="font-variant-ligatures: normal;
+  text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial">31 Oct 2023</span></td><td style="border-left:none" class="xl66"><span style="font-variant-ligatures: normal;
   font-variant-caps: normal;orphans: 2;widows: 2;-webkit-text-stroke-width: 0px;
   text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial">NIL</span></td></tr></tbody></table>
 	
@@ -51,8 +51,9 @@ Contact Person: **Mdm Rohaidah (CSO)/Mr Chia Yuen Teck (Operations Mgr)/Ms Chan 
 * Bus number: 196 and 33 - 3 minutes walking distance
 
 **Interest applicants must meet the following criteria:**
+
 * Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
-* Able to provide good service and quality food with prices determined in consultation with the school. (at most $3.20 for a set meal of rice, meat, vegetable &amp; fruit).  Proposed menu with price list must be attached to the application form for our consideration.
+* Able to provide good service and quality food with prices determined in consultation with the school. (at most $3.40 for a set meal of rice, meat, vegetable &amp; fruit).  Proposed menu with price list must be attached to the application form for our consideration.
 * Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see [link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).
 * Able to maintain high standard of food safety and personal hygiene.
 * Healthy and fit to operate the stall.
@@ -72,9 +73,9 @@ Contact Person: **Mdm Rohaidah (CSO)/Mr Chia Yuen Teck (Operations Mgr)/Ms Chan 
   widows: 2;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;
   text-decoration-style: initial;text-decoration-color: initial"><b>Requirements</b></span></td></tr><tr style="mso-height-source:userset;height:18.75pt" height="25"><td style="height:18.75pt" class="xl65" height="25"><span style="font-variant-ligatures: normal;
   font-variant-caps: normal;orphans: 2;widows: 2;-webkit-text-stroke-width: 0px;
-  text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial">Stall Vacancy for Quick Bites (Halal)</span></td><td style="border-left:none" class="xl66"><span style="font-variant-ligatures: normal;
+  text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial">Food Stall (Non Halal) </span></td><td style="border-left:none" class="xl66"><span style="font-variant-ligatures: normal;
   font-variant-caps: normal;orphans: 2;widows: 2;-webkit-text-stroke-width: 0px;
-  text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial">18 August 2023</span></td><td style="border-left:none" class="xl66"><span style="font-variant-ligatures: normal;
+  text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial">31 Oct 2023  </span></td><td style="border-left:none" class="xl66"><span style="font-variant-ligatures: normal;
   font-variant-caps: normal;orphans: 2;widows: 2;-webkit-text-stroke-width: 0px;
   text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial">NIL</span></td></tr></tbody></table>
 	
@@ -113,8 +114,9 @@ Contact Person: **Mdm Rohaidah (CSO)/Mr Chia Yuen Teck (Operations Mgr)/Ms Chan 
 * Bus number: 196 and 33 - 3 minutes walking distance
 
 **Interested applicants must meet the following criteria:**
+
 * Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
-* Able to provide good service and quality food with prices determined in consultation with the school. (at most $2.80 for a set meal of burger (meat/fish), vegetable &amp; fruit).  Proposed menu with price list must be attached to the application form for our consideration.
+* Able to provide good service and quality food with prices determined in consultation with the school. (at most $3.40 for a set meal of rice, meat, vegetable &amp; fruit).  Proposed menu with price list must be attached to the application form for our consideration.
 * Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see [link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).
 * Able to maintain high standard of food safety and personal hygiene.
 * Healthy and fit to operate the stall.
