@@ -2,7 +2,7 @@ collections:
   resources:
     output: true
     order:
-      - School Canteen.md
       - For Students.md
       - For Parents.md
       - For Staff.md
+      - School Canteen.md
