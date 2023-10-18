@@ -10,7 +10,7 @@ description: ""
   widows: 2;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;
   text-decoration-style: initial;text-decoration-color: initial"><b>Requirements</b></span></td></tr><tr style="mso-height-source:userset;height:18.75pt" height="25"><td style="height:18.75pt" class="xl65" height="25"><span style="font-variant-ligatures: normal;
   font-variant-caps: normal;orphans: 2;widows: 2;-webkit-text-stroke-width: 0px;
-  text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial">Halal Food Stall (Halal)</span></td><td style="border-left:none" class="xl66"><span style="font-variant-ligatures: normal;
+  text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial">Halal Food Stall </span></td><td style="border-left:none" class="xl66"><span style="font-variant-ligatures: normal;
   font-variant-caps: normal;orphans: 2;widows: 2;-webkit-text-stroke-width: 0px;
   text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial">31 Oct 2023</span></td><td style="border-left:none" class="xl66"><span style="font-variant-ligatures: normal;
   font-variant-caps: normal;orphans: 2;widows: 2;-webkit-text-stroke-width: 0px;
