@@ -37,4 +37,7 @@ third_nav_title: Achievements
 </td></tr>
 
 <tr><td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:7px 7px;text-align:center;vertical-align:middle;word-break:normal">Programme for Active Learning (PAL)</td><td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:7px 7px;text-align:left;vertical-align:middle;word-break:normal">B Division Handball Tournament 2023</td><td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:regular;overflow:hidden;padding:7px 7px;text-align:center;vertical-align:middle;word-break:normal">
+	<b>2nd Place in Tournament</b>
+	<img align="middle" style="width:100%;margin-top:5px" src="/images/School%20Achievements/PALS/b%20division%20handball%20tournament%202023_02.jpeg">
+	<img align="middle" style="width:100%;margin-top:5px" src="/images/School%20Achievements/PALS/b%20division%20handball%20tournament%202023_03.jpeg">
 </td></tr></tbody></table>
