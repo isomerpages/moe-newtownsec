@@ -9,17 +9,17 @@ third_nav_title: Achievements
 <tbody><tr>
 	<td style="width:10%;background-color:#0c2340;border-color:#efefef;border-style:solid;border-width:1px;color:#fff;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:top;word-break:normal">CURRICULUM</td>
 
-<td style="width:10%;background-color:#0c2340;border-color:#efefef;border-style:solid;border-width:1px;color:#fff;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:top;word-break:normal">EVENT</td>
+<td style="width:30%;background-color:#0c2340;border-color:#efefef;border-style:solid;border-width:1px;color:#fff;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:top;word-break:normal">EVENT</td>
 
-<td style="width:100%;background-color:#0c2340;border-color:#efefef;border-style:solid;border-width:1px;color:#fff;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:top;word-break:normal">ACHIEVEMENT</td>
+<td style="width:45%;background-color:#0c2340;border-color:#efefef;border-style:solid;border-width:1px;color:#fff;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:top;word-break:normal">ACHIEVEMENT</td>
 	
 <td style="width:100%;background-color:#0c2340;border-color:#efefef;border-style:solid;border-width:1px;color:#fff;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:top;word-break:normal">PHOTO</td>
 </tr>
 	
 <tr>
 	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;text-align:center;vertical-align:middle;word-break:normal"><span style="font-weight:bold">Mathematics</span></td>
-	<td style="width:50%;background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;text-align:left;vertical-align:middle;word-break:normal"><span style="font-weight:bold">Singapore Mathematical Olympiad 2023</span></td>
-	<td style="width:50%;background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:13px;overflow:hidden;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Honourable Mention</span>
+	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;text-align:left;vertical-align:middle;word-break:normal"><span style="font-weight:bold">Singapore Mathematical Olympiad 2023</span></td>
+	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:13px;overflow:hidden;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Honourable Mention</span>
 	<br><br>Ng Yan Hou (2-01)
 	<br>Ee Xuan Hui (2-03)
 	<br>Chong Yu De (3-01)
@@ -32,7 +32,7 @@ third_nav_title: Achievements
 <tr>
 	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:middle;word-break:normal">Humanities</td>
 	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:left;vertical-align:middle;word-break:normal">POA Quest 2023 – organised by Deyi Secondary School</td>
-	<td style="width:50%;background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:13px;overflow:hidden;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">1st Runner Up</span>
+	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:13px;overflow:hidden;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">1st Runner Up</span>
 	<br><br>Jerine Tan Yu Lin (S4-04)
 	<br>Valencia Amora Chua Lie Cia (S4-06)
 	<br>Ko Hung You Jeremy (S4-06)
@@ -57,8 +57,8 @@ third_nav_title: Achievements
 	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:7px 7px;text-align:left;vertical-align:middle;word-break:normal">B Division Handball Tournament 2023</td>
 	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:13px;font-weight:regular;overflow:hidden;text-align:center;vertical-align:middle;word-break:normal">
 	<b>2nd Place in Tournament</b>
-	</td><td style="height:100%;width:100%;background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:middle;word-break:normal"><img align="middle" style="width:100%;margin-top:0px" src="/images/School%20Achievements/PALS/b%20division%20handball%20tournament%202023_02.jpeg">
-		<img align="middle" style="width:100%;margin-top:5px" src="/images/School%20Achievements/PALS/b%20division%20handball%20tournament%202023_03.jpeg">
+	</td><td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:middle;word-break:normal"><img align="middle" style="margin-top:0px" src="/images/School%20Achievements/PALS/b%20division%20handball%20tournament%202023_02.jpeg">
+		<img align="middle" style="margin-top:5px" src="/images/School%20Achievements/PALS/b%20division%20handball%20tournament%202023_03.jpeg">
 	</td>
 </tr>
 	
