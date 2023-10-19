@@ -34,4 +34,7 @@ third_nav_title: Achievements
 	<br>Lee Kai Wei (S4-08)
 	<br><br><b>Bronze Medal</b>
 	<br>Bremen Meir Hwang (S4-04)
+</td></tr>
+
+<tr><td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:7px 7px;text-align:center;vertical-align:middle;word-break:normal">Humanities</td><td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:7px 7px;text-align:left;vertical-align:middle;word-break:normal">NUS Geography Challenge 2023 – organised by NUS</td><td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:regular;overflow:hidden;padding:7px 7px;text-align:center;vertical-align:middle;word-break:normal">
 </td></tr></tbody></table>
