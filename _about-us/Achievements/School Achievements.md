@@ -25,7 +25,8 @@ third_nav_title: Achievements
 	<br>Wynn Lee Hong Zhe (3-01)
 	<br>Phylis Tan Pei Li (3-05)
 	</td>
-</tr>	
+	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:7px 7px;text-align:center;vertical-align:middle;word-break:normal">
+</td></tr>	
 		
 <tr>
 	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:7px 7px;text-align:center;vertical-align:middle;word-break:normal">Humanities</td>
@@ -36,7 +37,8 @@ third_nav_title: Achievements
 	<br>Ko Hung You Jeremy (S4-06)
 	<br>Chiam Kai Yuan (S4-11)	
 	</td>
-</tr>	
+	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:7px 7px;text-align:center;vertical-align:middle;word-break:normal">
+</td></tr>	
 
 <tr>
 	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:7px 7px;text-align:center;vertical-align:middle;word-break:normal">Humanities</td>
@@ -46,14 +48,15 @@ third_nav_title: Achievements
 	<br><br><b>Bronze Medal</b>
 	<br>Bremen Meir Hwang (S4-04)
 	</td>
-</tr>
+	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:7px 7px;text-align:center;vertical-align:middle;word-break:normal">
+</td></tr>
 
 <tr>
 	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:7px 7px;text-align:center;vertical-align:middle;word-break:normal">Persevere And Learn through Sports (PALS)</td>
 	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:7px 7px;text-align:left;vertical-align:middle;word-break:normal">B Division Handball Tournament 2023</td>
 	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:13px;font-weight:regular;overflow:hidden;padding:7px 7px;text-align:center;vertical-align:middle;word-break:normal">
 	<b>2nd Place in Tournament</b>
-	</td><td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:7px 7px;text-align:center;vertical-align:middle;word-break:normal"><img align="middle" style="width:100%;margin-top:5px" src="/images/School%20Achievements/PALS/b%20division%20handball%20tournament%202023_02.jpeg">
+	</td><td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:7px 7px;text-align:center;vertical-align:middle;word-break:normal"><img align="middle" style="width:100%;margin-top:0px" src="/images/School%20Achievements/PALS/b%20division%20handball%20tournament%202023_02.jpeg">
 		<img align="middle" style="width:100%;margin-top:5px" src="/images/School%20Achievements/PALS/b%20division%20handball%20tournament%202023_03.jpeg">
 	</td>
 </tr>
