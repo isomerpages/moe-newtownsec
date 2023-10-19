@@ -11,6 +11,9 @@ third_nav_title: Achievements
 <th style="background-color:#0c2340;border-color:#efefef;border-style:solid;border-width:1px;color:#fff;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding: 7px 7px;text-align:center;vertical-align:top;word-break:normal">EVENT</th>
 
 <th style="background-color:#0c2340;border-color:#efefef;border-style:solid;border-width:1px;color:#fff;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:7px 60px;text-align:center;vertical-align:top;word-break:normal">ACHIEVEMENT</th>
+</tr>
+
+<tr><th style="background-color:#0c2340;border-color:#efefef;border-style:solid;border-width:1px;color:#fff;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:7px 60px;text-align:center;vertical-align:top;word-break:normal">PHOTO</th>
 </tr></thead><tbody>
 
 <tr><td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:7px 7px;text-align:center;vertical-align:middle;word-break:normal"><span style="font-weight:bold">Mathematics</span></td>
