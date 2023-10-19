@@ -4,15 +4,15 @@ permalink: /permalink/
 description: School Achievements
 third_nav_title: Achievements
 ---
-<table class="tg" style="border-collapse:collapse;border-color:#aaa;border-spacing:0;margin:0px fixed">
+<table class="tg" style="border-collapse:collapse;table-layout:auto;width:100%;border-color:#aaa;border-spacing:0;margin:0px;fixed">
 
-<thead><tr><th style="background-color:#0c2340;border-color:#efefef;border-style:solid;border-width:1px;color:#fff;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:7px 7px;text-align:center;vertical-align:top;word-break:normal">CURRICULUM</th>
+<thead><tr><th style="width:10%;background-color:#0c2340;border-color:#efefef;border-style:solid;border-width:1px;color:#fff;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:top;word-break:normal">CURRICULUM</th>
 	
-<th style="background-color:#0c2340;border-color:#efefef;border-style:solid;border-width:1px;color:#fff;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding: 7px 7px;text-align:center;vertical-align:top;word-break:normal">EVENT</th>
+<th style="width:10%;background-color:#0c2340;border-color:#efefef;border-style:solid;border-width:1px;color:#fff;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:top;word-break:normal">EVENT</th>
 
-<th style="background-color:#0c2340;border-color:#efefef;border-style:solid;border-width:1px;color:#fff;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:7px 7px;text-align:center;vertical-align:top;word-break:normal">ACHIEVEMENT</th>
+<th style="width:100%;background-color:#0c2340;border-color:#efefef;border-style:solid;border-width:1px;color:#fff;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:top;word-break:normal">ACHIEVEMENT</th>
 	
-<th style="background-color:#0c2340;border-color:#efefef;border-style:solid;border-width:1px;color:#fff;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:7px 7px;text-align:center;vertical-align:top;word-break:normal">PHOTO</th>
+<th style="width:100%;background-color:#0c2340;border-color:#efefef;border-style:solid;border-width:1px;color:#fff;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:top;word-break:normal">PHOTO</th>
 </tr></thead><tbody>
 	
 <tr>
