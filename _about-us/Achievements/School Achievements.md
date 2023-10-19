@@ -4,17 +4,17 @@ permalink: /permalink/
 description: School Achievements
 third_nav_title: Achievements
 ---
-<table class="tg" style="width:100px;border-collapse:collapse;table-layout:auto;border-color:#aaa;border-spacing:0;margin:0px;fixed">
+<table class="tg" style="width:100%;border-collapse:collapse;table-layout:auto;border-color:#aaa;border-spacing:0;margin:0px;fixed">
 
-<thead><tr>
-	<th style="width:10%;background-color:#0c2340;border-color:#efefef;border-style:solid;border-width:1px;color:#fff;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:top;word-break:normal">CURRICULUM</th>
-	
-<th style="width:10%;background-color:#0c2340;border-color:#efefef;border-style:solid;border-width:1px;color:#fff;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:top;word-break:normal">EVENT</th>
+<tbody><tr>
+	<td style="width:10%;background-color:#0c2340;border-color:#efefef;border-style:solid;border-width:1px;color:#fff;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:top;word-break:normal">CURRICULUM</td>
 
-<th style="width:100%;background-color:#0c2340;border-color:#efefef;border-style:solid;border-width:1px;color:#fff;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:top;word-break:normal">ACHIEVEMENT</th>
+<td style="width:10%;background-color:#0c2340;border-color:#efefef;border-style:solid;border-width:1px;color:#fff;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:top;word-break:normal">EVENT</td>
+
+<td style="width:100%;background-color:#0c2340;border-color:#efefef;border-style:solid;border-width:1px;color:#fff;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:top;word-break:normal">ACHIEVEMENT</td>
 	
-<th style="width:100%;background-color:#0c2340;border-color:#efefef;border-style:solid;border-width:1px;color:#fff;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:top;word-break:normal">PHOTO</th>
-</tr></thead><tbody>
+<td style="width:100%;background-color:#0c2340;border-color:#efefef;border-style:solid;border-width:1px;color:#fff;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:top;word-break:normal">PHOTO</td>
+</tr>
 	
 <tr>
 	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;text-align:center;vertical-align:middle;word-break:normal"><span style="font-weight:bold">Mathematics</span></td>
