@@ -4,16 +4,16 @@ permalink: /permalink/
 description: School Achievements
 third_nav_title: Achievements
 ---
-<table class="tg" style="width:100%;border-collapse:collapse;table-layout:auto;border-color:#aaa;border-spacing:0;margin:0px;fixed">
+<table class="tg" style="width:800px;border-collapse:collapse;table-layout:auto;border-color:#aaa;border-spacing:0;margin:0px;fixed">
 
 <tbody><tr>
-	<td style="width:10%;background-color:#0c2340;border-color:#efefef;border-style:solid;border-width:1px;color:#fff;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:top;word-break:normal">CURRICULUM</td>
+	<td style="width:100px;background-color:#0c2340;border-color:#efefef;border-style:solid;border-width:1px;color:#fff;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:top;word-break:normal">CURRICULUM</td>
 
-<td style="width:30%;background-color:#0c2340;border-color:#efefef;border-style:solid;border-width:1px;color:#fff;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:top;word-break:normal">EVENT</td>
+<td style="width:150px;background-color:#0c2340;border-color:#efefef;border-style:solid;border-width:1px;color:#fff;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:top;word-break:normal">EVENT</td>
 
-<td style="width:45%;background-color:#0c2340;border-color:#efefef;border-style:solid;border-width:1px;color:#fff;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:top;word-break:normal">ACHIEVEMENT</td>
+<td style="width:250px;background-color:#0c2340;border-color:#efefef;border-style:solid;border-width:1px;color:#fff;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:top;word-break:normal">ACHIEVEMENT</td>
 	
-<td style="width:100%;background-color:#0c2340;border-color:#efefef;border-style:solid;border-width:1px;color:#fff;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:top;word-break:normal">PHOTO</td>
+<td style="background-color:#0c2340;border-color:#efefef;border-style:solid;border-width:1px;color:#fff;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:top;word-break:normal">PHOTO</td>
 </tr>
 	
 <tr>
@@ -55,7 +55,7 @@ third_nav_title: Achievements
 <tr>
 	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:middle;word-break:normal">Persevere And Learn through Sports (PALS)</td>
 	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:7px 7px;text-align:left;vertical-align:middle;word-break:normal">B Division Handball Tournament 2023</td>
-	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:13px;font-weight:regular;overflow:hidden;text-align:center;vertical-align:middle;word-break:normal">
+	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:regular;overflow:hidden;text-align:center;vertical-align:middle;word-break:normal">
 	<b>2nd Place in Tournament</b>
 	</td><td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:middle;word-break:normal"><img align="middle" style="margin-top:0px" src="/images/School%20Achievements/PALS/b%20division%20handball%20tournament%202023_02.jpeg">
 		<img align="middle" style="margin-top:5px" src="/images/School%20Achievements/PALS/b%20division%20handball%20tournament%202023_03.jpeg">
