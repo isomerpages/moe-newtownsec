@@ -62,4 +62,15 @@ third_nav_title: Achievements
 	</td>
 </tr>
 	
+<tr>
+	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;text-align:center;vertical-align:middle;word-break:normal"><span style="font-weight:bold">Chemistry</span></td>
+	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;text-align:left;vertical-align:middle;word-break:normal"><span style="font-weight:bold">Singapore Junior Chemistry Olympiad 2023</span></td>
+	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:13px;overflow:hidden;text-align:center;vertical-align:top;word-break:normal"><b>Gold</b>
+	<br>Lee Kai Wei (S4-08)
+	<br><br><b>Merit</b>
+	<br>Del Mundo Samuel Aguila (S4-08)
+	</td>
+	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:middle;word-break:normal">
+</td></tr>
+	
 </tbody></table>
