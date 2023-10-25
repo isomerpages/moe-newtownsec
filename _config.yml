@@ -52,7 +52,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d2or6b3ngngjp5.amplifyapp.com/
 prod: https://master.d2or6b3ngngjp5.amplifyapp.com/
-shareicon: /images/isomer-logo.svg
+shareicon: /images/School Crest/ntss crest (transparent bg).png
 is_government: true
 facebook-pixel: ""
 google_analytics: ""

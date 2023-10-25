@@ -11,11 +11,21 @@ third_nav_title: Achievements
 
 <td style="width:150px;background-color:#0c2340;border-color:#efefef;border-style:solid;border-width:1px;color:#fff;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:top;word-break:normal">EVENT</td>
 
-<td style="width:250px;background-color:#0c2340;border-color:#efefef;border-style:solid;border-width:1px;color:#fff;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:top;word-break:normal">ACHIEVEMENT</td>
+<td style="width:280px;background-color:#0c2340;border-color:#efefef;border-style:solid;border-width:1px;color:#fff;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:top;word-break:normal">ACHIEVEMENT</td>
 	
 <td style="background-color:#0c2340;border-color:#efefef;border-style:solid;border-width:1px;color:#fff;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:top;word-break:normal">PHOTO</td>
 </tr>
-	
+
+<tr>
+	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:middle;word-break:normal">Persevere And Learn through Sports (PALS)</td>
+	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:7px 7px;text-align:left;vertical-align:middle;word-break:normal">B Division Handball Tournament 2023</td>
+	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:regular;overflow:hidden;text-align:center;vertical-align:middle;word-break:normal">
+	<b>2nd Place in Tournament</b>
+	</td><td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:middle;word-break:normal"><img align="middle" style="margin-top:0px" src="/images/School%20Achievements/PALS/b%20division%20handball%20tournament%202023_02.jpeg">
+		<img align="middle" style="margin-top:5px" src="/images/School%20Achievements/PALS/b%20division%20handball%20tournament%202023_03.jpeg">
+	</td>
+</tr>	
+
 <tr>
 	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;text-align:center;vertical-align:middle;word-break:normal"><span style="font-weight:bold">Mathematics</span></td>
 	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;text-align:left;vertical-align:middle;word-break:normal"><span style="font-weight:bold">Singapore Mathematical Olympiad 2023</span></td>
@@ -51,15 +61,60 @@ third_nav_title: Achievements
 	</td>
 	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:middle;word-break:normal">
 </td></tr>
+	
+<tr>
+	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;text-align:center;vertical-align:middle;word-break:normal"><span style="font-weight:bold">Chemistry</span></td>
+	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;text-align:left;vertical-align:middle;word-break:normal"><span style="font-weight:bold">Singapore Junior Chemistry Olympiad 2023</span></td>
+	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:13px;overflow:hidden;text-align:center;vertical-align:top;word-break:normal"><b>Gold</b>
+	<br>Lee Kai Wei (S4-08)
+	<br><br><b>Merit</b>
+	<br>Del Mundo Samuel Aguila (S4-08)
+	</td>
+	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:middle;word-break:normal">
+</td></tr>
 
 <tr>
-	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:middle;word-break:normal">Persevere And Learn through Sports (PALS)</td>
-	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:7px 7px;text-align:left;vertical-align:middle;word-break:normal">B Division Handball Tournament 2023</td>
-	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:regular;overflow:hidden;text-align:center;vertical-align:middle;word-break:normal">
-	<b>2nd Place in Tournament</b>
-	</td><td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:middle;word-break:normal"><img align="middle" style="margin-top:0px" src="/images/School%20Achievements/PALS/b%20division%20handball%20tournament%202023_02.jpeg">
-		<img align="middle" style="margin-top:5px" src="/images/School%20Achievements/PALS/b%20division%20handball%20tournament%202023_03.jpeg">
+	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;text-align:center;vertical-align:middle;word-break:normal"><span style="font-weight:bold">Biology</span></td>
+	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;text-align:left;vertical-align:middle;word-break:normal"><span style="font-weight:bold">8th Singapore Junior Biology Olympiad 2023</span></td>
+	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:13px;overflow:hidden;text-align:center;vertical-align:top;word-break:normal"><b>Silver</b>
+	<br>Alexandra Isabelle Lisondra Aguilar (S4-03)
+	<br>Vrendy Yeo Zong Yi (S4-03)
+	<br>Lee Kai Wei (S4-08)
+	<br><br><b>Bronze</b>
+	<br>Charlene Kong (S4-03)
+	<br>Chong Rei Yi Danielle (S4-03)
+	<br>Matthew Phua Hng Erng (S4-03)
+	<br>Raphael Tjahjono Pan<br>(Pan Zhong Xun) (S4-08)
+	<br><br><b>Honorable Mention</b>
+	<br>Archana D/O Chandrasegaran (S4-03)
+	<br>Netania Tiong Jeng Sheen (S4-03)
+	<br>Feng Yanzhi (S4-08)
 	</td>
-</tr>
+	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:middle;word-break:normal">
+</td></tr>
+
+<tr>
+	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;text-align:center;vertical-align:middle;word-break:normal"><span style="font-weight:bold">Physics</span></td>
+	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;text-align:left;vertical-align:middle;word-break:normal"><span style="font-weight:bold">16th Singapore Junior Physics Olympiad 2023</span></td>
+	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:13px;overflow:hidden;text-align:center;vertical-align:top;word-break:normal"><b>Physics Olympiad</b>
+	<br><b>Bronze</b>
+	<br>Guan Sixuan (S4-08)
+	<br><br><b>Honorable Mention</b>
+	<br>Joshua Singkaek (S4-01)
+	<br>Aung Kyaw Myat (S4-01)
+	<br>Rayden Loh Zuo An (S4-01)
+	<br>Benjamin Kang Zhi Heng (S4-01)
+	<br>Goh Sze Bin (S4-10)
+	<br><br><b>Physics League</b>
+	<br><b>Bronze</b>
+	<br>Guan Sixuan (S4-08)
+	<br><br><b>Honorable Mention</b>
+	<br>Joshua Singkaek (S4-01)
+	<br>Aung Kyaw Myat (S4-01)
+	<br>Eden Wong Tian Le (S4-01)
+	<br>Yeo Tian En, Kaden (S4-01)
+	</td>
+	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:middle;word-break:normal">
+</td></tr>
 	
 </tbody></table>
