@@ -75,7 +75,7 @@ third_nav_title: Achievements
 
 <tr>
 	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;text-align:center;vertical-align:middle;word-break:normal"><span style="font-weight:bold">Biology</span></td>
-	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;text-align:left;vertical-align:middle;word-break:normal"><span style="font-weight:bold">8th Singapore Biology Olympiad 2023</span></td>
+	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;text-align:left;vertical-align:middle;word-break:normal"><span style="font-weight:bold">8th Singapore Junior Biology Olympiad 2023</span></td>
 	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:13px;overflow:hidden;text-align:center;vertical-align:top;word-break:normal"><b>Silver</b>
 	<br>Alexandra Isabelle Lisondra Aguilar (S4-03)
 	<br>Vrendy Yeo Zong Yi (S4-03)
@@ -89,6 +89,30 @@ third_nav_title: Achievements
 	<br>Archana D/O Chandrasegaran (S4-03)
 	<br>Netania Tiong Jeng Sheen (S4-03)
 	<br>Feng Yanzhi (S4-08)
+	</td>
+	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:middle;word-break:normal">
+</td></tr>
+
+<tr>
+	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;text-align:center;vertical-align:middle;word-break:normal"><span style="font-weight:bold">Biology</span></td>
+	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;text-align:left;vertical-align:middle;word-break:normal"><span style="font-weight:bold">16th Singapore Junior Physics Olympiad 2023</span></td>
+	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:13px;overflow:hidden;text-align:center;vertical-align:top;word-break:normal"><b>Physics Olympiad</b>
+	<br><b>Bronze</b>
+	<br>Guan Sixuan (S4-08)
+	<br><br><b>Honorable Mention</b>
+	<br>Joshua Singkaek (S4-01)
+	<br>Aung Kyaw Myat (S4-01)
+	<br>Rayden Loh Zuo An (S4-01)
+	<br>Benjamin Kang Zhi Heng (S4-01)
+	<br>Goh Sze Bin (S4-10)
+	<br><br><b>Physics League</b>
+	<br><b>Bronze</b>
+	<br>Guan Sixuan (S4-08)
+	<br><br><b>Honorable Mention</b>
+	<br>Joshua Singkaek (S4-01)
+	<br>Aung Kyaw Myat (S4-01)
+	<br>Eden Wong Tian Le (S4-01)
+	<br>Yeo Tian En, Kaden (S4-01)
 	</td>
 	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:middle;word-break:normal">
 </td></tr>
