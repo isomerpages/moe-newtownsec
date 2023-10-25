@@ -94,7 +94,7 @@ third_nav_title: Achievements
 </td></tr>
 
 <tr>
-	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;text-align:center;vertical-align:middle;word-break:normal"><span style="font-weight:bold">Biology</span></td>
+	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;text-align:center;vertical-align:middle;word-break:normal"><span style="font-weight:bold">Physics</span></td>
 	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;text-align:left;vertical-align:middle;word-break:normal"><span style="font-weight:bold">16th Singapore Junior Physics Olympiad 2023</span></td>
 	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:13px;overflow:hidden;text-align:center;vertical-align:top;word-break:normal"><b>Physics Olympiad</b>
 	<br><b>Bronze</b>
