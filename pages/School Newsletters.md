@@ -5,6 +5,8 @@ description: ""
 ---
 **School Newsletters 2023**
 
+* [New Town Sec Newsletter, Sep 2023](https://go.gov.sg/ntss-newsletter-issue-2)
+
 * [New Town Sec Newsletter, May 2023](/files/ntss%20newsletter%20may%202023.pdf)
 
 **School Newsletters 2022**
