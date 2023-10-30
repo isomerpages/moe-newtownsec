@@ -21,5 +21,4 @@ B1-03, 144 Upper Bukit Timah Road<br>
 Singapore 588 177<br>
 Tel:  6466 5697
 
-
 Online Shop :&nbsp;[https://finestuniform.com/collections/new-town-secondary-school](https://finestuniform.com/collections/new-town-secondary-school)
