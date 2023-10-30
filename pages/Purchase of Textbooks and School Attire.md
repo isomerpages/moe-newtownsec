@@ -7,11 +7,10 @@ description: ""
 
 **Overseas Associates Pte Ltd** <br>  
 Physical Shop : New Town Secondary School  
-Booklist:  [Full Booklist 2023.pdf  
-](/files/Full%20Booklist%202023.pdf)
-Online Shop : [www.oapl.sg](http://www.oapl.sg/)
+Booklist:&nbsp;&nbsp; [Booklist (2024)](/files/booklist%20(2024).pdf) 
+ Online Shop :&nbsp;[www.oapl.sg](http://www.oapl.sg/)
 
-### School Uniform & PE Attire
+### School Uniform &amp; PE Attire
 
 **Finest Fashion Centre**
 
@@ -22,4 +21,4 @@ Beauty World Centre
 Singapore 588177  
 
 
-Online Shop : [https://finestuniform.com/collections/new-town-secondary-school](https://finestuniform.com/collections/new-town-secondary-school)
+Online Shop :&nbsp;[https://finestuniform.com/collections/new-town-secondary-school](https://finestuniform.com/collections/new-town-secondary-school)
