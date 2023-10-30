@@ -7,7 +7,7 @@ description: ""
 
 **Overseas Associates Pte Ltd** <br>  
 Physical Shop : New Town Secondary School  
-Booklist:&nbsp;&nbsp; [Booklist (2024)](/files/booklist%20(2024).pdf) 
+Booklist:&nbsp;&nbsp;[Booklist (2024)](/files/booklist%20(2024).pdf) 
  Online Shop :&nbsp;[www.oapl.sg](http://www.oapl.sg/)
 
 ### School Uniform &amp; PE Attire
