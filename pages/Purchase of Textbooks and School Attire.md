@@ -14,7 +14,7 @@ Booklist:&nbsp;&nbsp;[Booklist (2024)](/files/booklist%20(2024).pdf)
 
 **Finest Fashion Centre**
 
-Retail Shop : <br>
+Retail Shop:
 
 Beauty World Centre<br>
 B1-03, 144 Upper Bukit Timah Road<br>
