@@ -14,11 +14,12 @@ Booklist:&nbsp;&nbsp;[Booklist (2024)](/files/booklist%20(2024).pdf)
 
 **Finest Fashion Centre**
 
-Retail Shop :
+Retail Shop : <br>
 
-Beauty World Centre
-
-Singapore 588177  
+Beauty World Centre<br>
+B1-03, 144 Upper Bukit Timah Road<br>
+Singapore 588 177<br>
+Tel:  6466 5697
 
 
 Online Shop :&nbsp;[https://finestuniform.com/collections/new-town-secondary-school](https://finestuniform.com/collections/new-town-secondary-school)
