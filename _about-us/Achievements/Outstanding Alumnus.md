@@ -6,12 +6,14 @@ third_nav_title: Achievements
 ---
 <table class="tg" style="width:800px;border-collapse:collapse;table-layout:auto;border-color:#aaa;border-spacing:0;margin:0px;fixed">
 
-<tbody>
-	<tr><td style="width:100px;background-color:#0c2340;border-color:#efefef;border-style:solid;border-width:1px;color:#fff;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:top;word-break:normal">CURRICULUM</td>
+<tbody><tr>
+	<td style="width:400px;background-color:#0c2340;border-color:#efefef;border-style:solid;border-width:1px;color:#fff;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:top;word-break:normal">Alumnus</td>
 
-<td style="width:150px;background-color:#0c2340;border-color:#efefef;border-style:solid;border-width:1px;color:#fff;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:top;word-break:normal">EVENT</td>	
-</tr><tr>
-	<td style="width:400px;background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:middle;word-break:normal">
+<td style="background-color:#0c2340;border-color:#efefef;border-style:solid;border-width:1px;color:#fff;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:top;word-break:normal">Achievements</td>	
+</tr>
+	
+<tr>
+	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:middle;word-break:normal">
 		<img align="middle" style="margin-top:0px" src="/images/Outstanding%20Alumnus/230928%20sahfizzan%20bin%20jamil%20oa.png">
 	</td>
 	<td style="background-color:#fff;border-color:#efefef;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:15px;font-weight:normal;overflow:hidden;text-align:center;vertical-align:middle;word-break:normal">
