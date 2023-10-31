@@ -4,7 +4,7 @@ permalink: /about-us/permalink/
 description: ""
 third_nav_title: Achievements
 ---
-<table class="tg" style="width:800px;border-collapse:collapse;table-layout:auto;border-color:#aaa;border-spacing:0;margin:0px;fixed">
+<table class="tg" style="width:950px;border-collapse:collapse;table-layout:auto;border-color:#aaa;border-spacing:0;margin:0px;fixed">
 
 <tbody><tr>
 	<td style="width:400px;background-color:#0c2340;border-color:#efefef;border-style:solid;border-width:1px;color:#fff;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:top;word-break:normal">Alumnus</td>
@@ -31,8 +31,8 @@ third_nav_title: Achievements
 		<b style="font-size:20px">Lee Wen Wei</b>
 		<br><br>An alumnus of <b>New Town Secondary School</b>, who was a recipient of Lee Kuan Yew scholarship a few years ago, was recently made the Valedictorian of NTU.  He was the President of Garage @ EEE, and the organizer of ESCENDO.
 		<br><br>Links to his information/story:
-		<a>https://www.ntu.edu.sg/convocation/about-convocation/valedictorian
+		<br><a>https://www.ntu.edu.sg/convocation/about-convocation/valedictorian
 		</a>
-		<a>https://stomp.straitstimes.com/singapore-seen/sp-graduate-who-won-5-prestigious-awards-now-managing-his-own-business
+		<br><a>https://stomp.straitstimes.com/singapore-seen/sp-graduate-who-won-5-prestigious-awards-now-managing-his-own-business
 		</a></td>
 </tr></tbody></table>
