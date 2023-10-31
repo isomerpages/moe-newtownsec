@@ -4,10 +4,10 @@ permalink: /about-us/permalink/
 description: ""
 third_nav_title: Achievements
 ---
-<table class="tg" style="width:950px;border-collapse:collapse;table-layout:auto;border-color:#aaa;border-spacing:0;margin:0px;fixed">
+<table class="tg" style="width:900px;border-collapse:collapse;table-layout:auto;border-color:#aaa;border-spacing:0;margin:0px;fixed">
 
 <tbody><tr>
-	<td style="width:400px;background-color:#0c2340;border-color:#efefef;border-style:solid;border-width:1px;color:#fff;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:top;word-break:normal">Alumnus</td>
+	<td style="width:300px;background-color:#0c2340;border-color:#efefef;border-style:solid;border-width:1px;color:#fff;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:top;word-break:normal">Alumnus</td>
 
 <td style="background-color:#0c2340;border-color:#efefef;border-style:solid;border-width:1px;color:#fff;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;text-align:center;vertical-align:top;word-break:normal">Achievements</td>	
 </tr>
