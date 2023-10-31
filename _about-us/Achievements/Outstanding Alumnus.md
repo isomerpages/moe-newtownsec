@@ -27,6 +27,7 @@ third_nav_title: Achievements
 		<br><br>An alumnus of <b>New Town Secondary School</b>, who was a recipient of Lee Kuan Yew scholarship a few years ago, was recently made the Valedictorian of NTU.  He was the President of Garage @ EEE, and the organizer of ESCENDO.
 		<br><br>Links to his information/story:
 		<a>https://www.ntu.edu.sg/convocation/about-convocation/valedictorian
-		</a><a>https://stomp.straitstimes.com/singapore-seen/sp-graduate-who-won-5-prestigious-awards-now-managing-his-own-business
+		</a>
+		<a>https://stomp.straitstimes.com/singapore-seen/sp-graduate-who-won-5-prestigious-awards-now-managing-his-own-business
 		</a></td>
 </tr></tbody></table>
