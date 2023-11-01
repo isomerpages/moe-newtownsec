@@ -39,56 +39,96 @@ To engage students in the learning of Mathematics through the development of con
 
 * Math Clinic Sessions
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-color:#aaa;border-spacing:0;margin:0px auto;}
-.tg td{background-color:#fff;border-color:#aaa;border-style:solid;border-width:1px;color:#333;
-  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:7px 7px;word-break:normal;}
-.tg th{background-color:#f38630;border-color:#aaa;border-style:solid;border-width:1px;color:#fff;
-  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:7px 7px;word-break:normal;}
-.tg .tg-a6ng{border-color:#efefef;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-a5ip{border-color:#efefef;font-size:14px;text-align:center;vertical-align:top}
-.tg .tg-qrst{background-color:#0c2340;border-color:#efefef;color:#ffffff;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-li6d{border-color:#efefef;text-align:center;vertical-align:top}
-.tg .tg-5w03{background-color:#0c2340;border-color:#efefef;color:#ffffff;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-f397{border-color:#efefef;text-align:center;vertical-align:middle}
-.tg .tg-jb83{border-color:#efefef;text-align:left;vertical-align:middle}
-.tg .tg-kuoy{border-color:#efefef;font-weight:bold;text-align:left;vertical-align:middle}
+<style>
+table.GeneratedTable {
+  width: 100%;
+  background-color: #ffffff;
+  border-collapse: collapse;
+  border-width: 1px;
+  border-color: #ffffff;
+  border-style: solid;
+  color: #000000;
+}
+
+table.GeneratedTable td, table.GeneratedTable th {
+  border-width: 1px;
+  border-color: #0;
+  border-style: solid;
+  padding: 7px;
+}
+
+table.GeneratedTable thead {
+  background-color: #ffffff;
+}
 </style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-5w03">CURRICULUM</th>
-    <th class="tg-qrst">EVENT</th>
-    <th class="tg-qrst">ACHIEVEMENT</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-f397"><span style="font-weight:bold">Mathematics</span></td>
-    <td class="tg-jb83"><span style="font-weight:bold">Singapore Mathematical Olympiad 2023</span></td>
-    <td class="tg-a5ip"><span style="font-weight:bold">Honourable Mention</span><br><br>Ng Yan Hou (2-01)<br>Ee Xuan Hui (2-03)</td>
-  </tr>
-  <tr>
-    <td class="tg-a6ng">Humanities</td>
-    <td class="tg-kuoy">POA Quest 2023 – organised by Deyi Secondary School</td>
-    <td class="tg-li6d"><span style="font-weight:bold">1st Runner Up</span></td>
-  </tr>
-  <tr>
-    <td class="tg-a6ng">Humanities</td>
-    <td class="tg-kuoy">NUS Geography Challenge 2023 – organised by NUS</td>
-    <td class="tg-a6ng">Silver Medal</td>
-  </tr>
-</tbody>
+<table class="GeneratedTable">
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+				<figure>
+					<img style="max-width: 50%;" src="/images/Mathematics/financial%20literacy%20workshop%20photograph%201_the%20beginning%20of%20fun%20and%20learning.jpg">
+					<figcaption>Learning about financial literacy through games
+					</figcaption>
+				</figure></td>
+      <td>
+				<figure>
+					<img style="max-width: 100%;" src="/images/Mathematics/financial%20literacy%20workshop%20photograph%206_making%20a%20choice.jpg">
+					<figcaption>Discussing and making choices
+					</figcaption>
+				</figure></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
 </table>
-
-<figure>
-		<img style="max-width: 50%;" src="/images/Mathematics/financial%20literacy%20workshop%20photograph%201_the%20beginning%20of%20fun%20and%20learning.jpg">
-		<figcaption>Learning about financial literacy through games
-		</figcaption>
-</figure>
-
-<figure>
-		<img style="max-width: 50%;" src="/images/Mathematics/financial%20literacy%20workshop%20photograph%206_making%20a%20choice.jpg">
-		<figcaption>Discussing and making choices
-		</figcaption>
-</figure>
