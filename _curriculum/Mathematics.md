@@ -52,7 +52,7 @@ table.GeneratedTable {
 
 table.GeneratedTable td, table.GeneratedTable th {
   border-width: 1px;
-  border-color: #0;
+  border-color: #ffffff;
   border-style: solid;
   padding: 7px;
 }
