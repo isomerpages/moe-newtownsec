@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - General Information.md
-      - General Information/.keep
       - Uniformed Group/.keep
       - Uniformed Group/Girl Guides.md
       - Uniformed Group/National Cadet Corps (NCC)(Land).md
