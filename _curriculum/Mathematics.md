@@ -54,7 +54,7 @@ border:1px solid black;
 					</figcaption>
 				</figure> 
 </td> 
-<td style="width: 50%">  
+	<td style="width: 100%">  
 <figure>
 					<img style="width:100%;height: 100%" src="/images/Mathematics/financial%20literacy%20workshop%20photograph%206_making%20a%20choice.jpg">
 					<figcaption>Discussing and making choices
