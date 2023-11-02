@@ -11,7 +11,7 @@ border:1px solid black;
 }  
 </style>
 <div class="container">
-	<table style="width:110%;height: 100%" class="table">
+	<table style="width:100%;height: 100%" class="table">
 		<tbody>
 			<tr>
 				<td style="width: 50%">
