@@ -109,6 +109,8 @@ Students will be given learning opportunities through Tier 1 and 2 programmes to
 </tbody>
 </table>
 
+### Snapshots of our Programme
+
 <style>  
 .table td{  
 border:1px solid black;  
