@@ -77,14 +77,16 @@ border:1px solid black;
 				<td style="width: 50%">
 					<figure>
 						<img style="width:100%;height: 100%" src="/images/School%20Distinctive%20Programmes/LLP/ntkd%20photograph%201%20-%20peer%20support%20leaders%20leading%20their%20classes%20in%20the%20ntkd%20programme.jpg">
-						<figcaption>Peer Support Leaders (PSLs) lead their classes in the New Town Kindness Day Programme
+						<figcaption><b>New Town Kindness Week</b>
+							<br>Peer Support Leaders (PSLs) lead their classes in the New Town Kindness Day Programme
 						</figcaption>
 					</figure>
 				</td>
 				<td style="width: 50%">
 					<figure>
 						<img style="width:100%;height: 100%" src="/images/School%20Distinctive%20Programmes/LLP/ntkd%20photograph%204%20-%20engaging%20classes%20in%20our%20ntkd%20recess%20activity.JPG">
-						<figcaption>Engaging classes in our New Town Kindness Day recess activity
+						<figcaption><b>New Town Kindness Week</b>
+							<br>Engaging classes in our New Town Kindness Day recess activity
 						</figcaption>
 					</figure>
 				</td>
@@ -93,14 +95,16 @@ border:1px solid black;
 				<td style="width: 50%">
 					<figure>
 						<img style="width:100%;height: 100%" src="/images/School%20Distinctive%20Programmes/LLP/ntkd%20photograph%203%20-%20find%20my%20pair%20activity.jpg">
-						<figcaption>Find My Pair activity
+						<figcaption><b>New Town Kindness Week</b>
+							<br>Find My Pair activity
 						</figcaption>
 					</figure>
 				</td>
 				<td style="width: 50%">
 					<figure>
 						<img style="width:55%;height: 100%" src="/images/School%20Distinctive%20Programmes/LLP/ntkd%20photograph%207%20-%20dedicating%20papercranes%20w%20their%20heartfelt%20msg%20to%20their%20peers,%20teachers%20&amp;%20ntstaff.JPG">
-						<figcaption>Dedicating paper cranes with heartfelt messages to their peers, teachers, and non-teaching staffs
+						<figcaption><b>New Town Kindness Week</b>
+							<br>Dedicating paper cranes with heartfelt messages to their peers, teachers, and non-teaching staffs
 						</figcaption>
 					</figure>
 				</td>
@@ -109,14 +113,16 @@ border:1px solid black;
 				<td style="width: 50%">
 					<figure>
 						<img style="width:100%;height: 100%" src="/images/School%20Distinctive%20Programmes/LLP/kcb%201b%20appreciation%20for%20their%20form%20teachers.jpeg">
-						<figcaption>Appreciating our Form Teachers
+						<figcaption><b>Kampong Class Bingo</b>
+							<br>Appreciating our Form Teachers
 						</figcaption>
 					</figure>
 				</td>
 				<td style="width: 50%">
 					<figure>
 						<img style="width:100%;height: 100%" src="/images/School%20Distinctive%20Programmes/LLP/kcb%202%20appreciation%20for%20our%20security%20guard.jpeg">
-						<figcaption>Showing appreciation for our security guard
+						<figcaption><b>Kampong Class Bingo</b>
+							<br>Showing appreciation for our security guard
 						</figcaption>
 					</figure>
 				</td>
@@ -125,14 +131,16 @@ border:1px solid black;
 				<td style="width: 50%">
 					<figure>
 						<img style="width:100%;height: 100%" src="/images/School%20Distinctive%20Programmes/LLP/kcb%203a%20s1-02_s%20creative%20ntss%20encouragement%20postcard.jpeg">
-						<figcaption>1-02's creative NTSS Encouragement Postcard
+						<figcaption><b>Kampong Class Bingo</b>
+							<br>1-02's creative NTSS Encouragement Postcard
 						</figcaption>
 					</figure>
 				</td>
 				<td style="width: 50%">
 					<figure>
 						<img style="width:100%;height: 100%" src="/images/School%20Distinctive%20Programmes/LLP/kcb%204a%20s2-05_s%20showcasing%20their%20version%20of%20mbs.jpg">
-						<figcaption>2-05 showcasing their solidarity
+						<figcaption><b>Kampong Class Bingo</b>
+							<br>2-05 showcasing their solidarity
 						</figcaption>
 					</figure>
 				</td>
@@ -141,14 +149,16 @@ border:1px solid black;
 				<td style="width: 50%">
 					<figure>
 						<img style="width:100%;height: 100%" src="/images/School%20Distinctive%20Programmes/LLP/cyberwellness%20photograph%203%20-%20our%20psls%20introducing%20the%20fake%20model.png">
-						<figcaption>Our PSLs introducing the F.A.K.E model
+						<figcaption><b>Cyberwellness Day</b>
+							<br>Our PSLs introducing the F.A.K.E model
 						</figcaption>
 					</figure>
 				</td>
 				<td style="width: 50%">
 					<figure>
 						<img style="width:100%;height: 100%" src="/images/School%20Distinctive%20Programmes/LLP/cyberwellness%20photograph%202%20-%20students%20discussing%20to%20investigate%20on%20the%20culprit%20of%20the%20mystery%20case.jpg">
-						<figcaption>Students discussing the culprit of the Mystery Case
+						<figcaption><b>Cyberwellness Day</b>
+							<br>Students discussing the culprit of the Mystery Case
 						</figcaption>
 					</figure>
 				</td>
@@ -157,14 +167,16 @@ border:1px solid black;
 				<td style="width: 50%">
 					<figure>
 						<img style="width:100%;height: 100%" src="/images/School%20Distinctive%20Programmes/LLP/cyberwellness%20photograph%205%20-%20students%20discussing%20on%20the%20‘ikea%20ice%20cream%20hack’%20case%20study.jpg">
-						<figcaption>Discussing the "IKEA Ice Cream Hack" case study
+						<figcaption><b>Cyberwellness Day</b>
+							<br>Discussing the "IKEA Ice Cream Hack" case study
 						</figcaption>
 					</figure>
 				</td>
 				<td style="width: 50%">
 					<figure>
 						<img style="width:100%;height: 100%" src="/images/School%20Distinctive%20Programmes/LLP/cyberwellness%20photograph%204%20-%20students%20applying%20the%20fake%20model%20to%20analyse%20the%20case%20studies%20on%20padlet.jpg">
-						<figcaption>Analysing the case studies on Padlet
+						<figcaption><b>Cyberwellness Day</b>
+							<br>Analysing the case studies on Padlet
 						</figcaption>
 					</figure>
 				</td>
