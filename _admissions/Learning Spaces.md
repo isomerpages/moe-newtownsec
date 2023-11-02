@@ -3,11 +3,7 @@ title: Learning Spaces
 permalink: /admissions/permalink/
 description: ""
 ---
-||||
-|--------|--------|--------|
-|**Amphitheatre**<br>![School Amphitheatre](/images/School%20Premise/school_amphitheatre.png)|**Basketball Court**<br>![School Basketball Court](/images/School%20Premise/school_basketball%20court_02.png)|
-**Oasis**<br>![School Oasis](/images/School%20Premise/school_oasis_02.png)|**AVA**<br>![School AVA](/images/School%20Premise/school_ava_01.png)|
-**School Field**<br>![School Field](/images/School%20Premise/school_field_01.png)|**Indoor Sports Hall**<br>![School ISH](/images/School%20Premise/school_ish_02.png)|
+### 
 
 <style>  
 .table td{  
@@ -38,7 +34,7 @@ border:1px solid black;
 				<td style="width: 50%">
 					<figure>
 						<img style="width:100%;height: 100%" src="/images/School%20Premise/school_amphitheatre.png">
-						<figcaption><b></b>
+						<figcaption><b>Amphitheatre</b>
 							<br>
 						</figcaption>
 					</figure>
@@ -46,7 +42,7 @@ border:1px solid black;
 				<td style="width: 50%">
 					<figure>
 						<img style="width:100%;height: 100%" src="/images/School%20Premise/school_basketball%20court_02.png">
-						<figcaption><b></b>
+						<figcaption><b>Basketball Court</b>
 							<br>
 						</figcaption>
 					</figure>
