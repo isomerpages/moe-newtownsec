@@ -130,7 +130,7 @@ border:1px solid black;
 				<td style="width: 50%">
 					<figure>
 						<img style="width:100%;height: 100%" src="/images/School%20Distinctive%20Programmes/ALP/alp%20photograph%202.jpeg">
-						<figcaption>Going trhough a photography workshop during their ALP lesson
+						<figcaption>Going through a photography workshop during their ALP lesson
 						</figcaption>
 					</figure>
 				</td>
