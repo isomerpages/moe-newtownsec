@@ -39,96 +39,28 @@ To engage students in the learning of Mathematics through the development of con
 
 * Math Clinic Sessions
 
-<style>
-table.GeneratedTable {
-  width: 100%;
-  background-color: #ffffff;
-  border-collapse: collapse;
-  border-width: 1px;
-  border-color: #ffffff;
-  border-style: solid;
-  color: #000000;
-}
-
-table.GeneratedTable td, table.GeneratedTable th {
-  border-width: 1px;
-  border-color: #ffffff;
-  border-style: solid;
-  padding: 7px;
-}
-
-table.GeneratedTable thead {
-  background-color: #ffffff;
-}
-</style>
-<table class="GeneratedTable">
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-				<figure>
-					<img style="max-width: 50%;" src="/images/Mathematics/financial%20literacy%20workshop%20photograph%201_the%20beginning%20of%20fun%20and%20learning.jpg">
+<style>  
+.table td{  
+border:1px solid black;  
+}  
+</style> 
+<div class="container">
+<table style="width:100%;height: 100%" class="table">
+<tbody><tr>  
+<td style="width: 50%">  
+<figure>
+					<img style="max-width: 100%;" src="/images/Mathematics/financial%20literacy%20workshop%20photograph%201_the%20beginning%20of%20fun%20and%20learning.jpg">
 					<figcaption>Learning about financial literacy through games
 					</figcaption>
-				</figure></td>
-      <td>
-				<figure>
-					<img style="max-width: 100%;" src="/images/Mathematics/financial%20literacy%20workshop%20photograph%206_making%20a%20choice.jpg">
+				</figure> 
+</td> 
+<td style="width: 50%">  
+<figure>
+					<img style="width:100%;height: 100%" src="/images/Mathematics/financial%20literacy%20workshop%20photograph%206_making%20a%20choice.jpg">
 					<figcaption>Discussing and making choices
 					</figcaption>
-				</figure></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
+				</figure>
+</td> 
+</tr>
+</tbody></table> 
+</div>
