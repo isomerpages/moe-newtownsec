@@ -39,6 +39,8 @@ To engage students in the learning of Mathematics through the development of con
 
 * Math Clinic Sessions
 
+### Snapshots of Curriculum
+
 <style>  
 .table td{  
 border:1px solid black;  
