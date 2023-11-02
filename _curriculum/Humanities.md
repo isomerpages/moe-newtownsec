@@ -53,14 +53,16 @@ border:1px solid black;
 				<td style="width: 50%">
 					<figure>
 						<img style="width:100%;height: 100%" src="/images/Humanitites/sec%201%20gi%20photograph%201.jpg">
-						<figcaption>Testing the Berlayer Creek water samples
+						<figcaption><b>Sec 1 Geographical Investigation</b>
+							<br>Testing the Berlayer Creek water samples
 						</figcaption>
 					</figure>
 				</td>
 				<td style="width: 50%">
 					<figure>
 						<img style="width:100%;height: 100%" src="/images/Humanitites/sec%201%20gi%20photograph%202.jpg">
-						<figcaption>Studying the mangrove landscape
+						<figcaption><b>Sec 1 Geographical Investigation</b>
+							<br>Studying the mangrove landscape
 						</figcaption>
 					</figure>
 				</td>
@@ -69,7 +71,8 @@ border:1px solid black;
 				<td style="width: 50%">
 					<figure>
 						<img style="width:75%;height: 100%" src="/images/Humanitites/sec%201%20gi%20photograph%204.JPG">
-						<figcaption>Group photo with the supportive NParks officers
+						<figcaption><b>Sec 1 Geographical Investigation</b>
+							<br>Group photo with the supportive NParks officers
 						</figcaption>
 					</figure>
 				</td>
