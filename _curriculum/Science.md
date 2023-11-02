@@ -83,3 +83,45 @@ e.&nbsp;&nbsp;&nbsp;&nbsp;Differentiated programmes to cater to varied interests
 **Support Programme**
 
 * Afternoon Sign-up Learning to close learning gaps and clarify doubts
+
+### Snapshots of Curriculum
+
+<style>  
+.table td{  
+border:1px solid black;  
+}  
+</style>
+<div class="container">
+	<table style="width:100%;height: 100%" class="table">
+		<tbody>
+			<tr>
+				<td style="width: 50%">
+					<figure>
+						<img style="width:100%;height: 100%" src="/images/Science/solar%20oven%20-%201%20testing%20of%20solar%20oven.jpg">
+						<figcaption><b>Building Our Own Solar Ovens</b>
+							<br>Testing their solar oven
+						</figcaption>
+					</figure>
+				</td>
+				<td style="width: 50%">
+					<figure>
+						<img style="width:75%;height: 100%" src="/images/Science/solar%20oven%20-%202%20testing%20how%20much%20chocolate%20would%20melt.jpg">
+						<figcaption><b>Building Our Own Solar Ovens</b>
+							<br>Testing how much chocolate would melt
+						</figcaption>
+					</figure>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 50%">
+					<figure>
+						<img style="width:75%;height: 100%" src="/images/Science/water%20filtration%20photo%206%20-%20a%20creative%20water%20filtration%20system.jpg">
+						<figcaption><b>Building Our Own Water Filtration System</b>
+							<br>A creative water filtration system
+						</figcaption>
+					</figure>
+				</td>
+			</tr>
+		</tbody>
+	</table> 
+</div>

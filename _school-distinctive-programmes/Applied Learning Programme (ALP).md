@@ -109,9 +109,41 @@ Students will be given learning opportunities through Tier 1 and 2 programmes to
 </tbody>
 </table>
 
+### Snapshots of our Programme
 
-
-<figure>
-<img src="/images/School%20Distinctive%20Programmes/ALP2023.png">
-<figcaption>Students applying skills learned (e.g. composition techniques) outside the classroom</figcaption>
-</figure>
+<style>  
+.table td{  
+border:1px solid black;  
+}  
+</style>
+<div class="container">
+	<table style="width:100%;height: 100%" class="table">
+		<tbody>
+			<tr>
+				<td style="width: 50%">
+					<figure>
+						<img style="width:100%;height: 100%" src="/images/School%20Distinctive%20Programmes/ALP/alp%20photograph%203.PNG">
+						<figcaption>Exploring various topics for the animation competition
+						</figcaption>
+					</figure>
+				</td>
+				<td style="width: 50%">
+					<figure>
+						<img style="width:100%;height: 100%" src="/images/School%20Distinctive%20Programmes/ALP/alp%20photograph%202.jpeg">
+						<figcaption>Going trhough a photography workshop during their ALP lesson
+						</figcaption>
+					</figure>
+				</td>
+				</tr>
+			<tr>
+				<td style="width: 50%">
+					<figure>
+						<img style="width:100%;height: 100%" src="/images/School%20Distinctive%20Programmes/ALP/alp%20photograph%205.png">
+						<figcaption>A student's perspective of the geometry of the school's architecture
+						</figcaption>
+					</figure>
+				</td>
+			</tr>
+		</tbody>
+	</table> 
+</div>

@@ -15,7 +15,7 @@ description: ""
 
 ### Programmes
 
-**ENRICHMENT PROGRAMMES & ACTIVITIES (As planned for 2023)**
+**ENRICHMENT PROGRAMMES &amp; ACTIVITIES (As planned for 2023)**
 
 **Core Programme**
 
@@ -38,3 +38,33 @@ To engage students in the learning of Mathematics through the development of con
 * Afternoon Sign-Up Learning (ASL)
 
 * Math Clinic Sessions
+
+### Snapshots of Curriculum
+
+<style>  
+.table td{  
+border:1px solid black;  
+}  
+</style> 
+<div class="container">
+<table style="width:100%;height: 100%" class="table">
+<tbody><tr>  
+<td style="width: 50%">  
+<figure>
+					<img style="width:100%;height: 100%" src="/images/Mathematics/financial%20literacy%20workshop%20photograph%201_the%20beginning%20of%20fun%20and%20learning.jpg">
+					<figcaption><b>Sec 2 Financial Literacy Workshop</b>
+							<br>Learning about financial literacy through games
+					</figcaption>
+				</figure> 
+</td> 
+	<td style="width: 100%">  
+<figure>
+					<img style="width:100%;height: 100%" src="/images/Mathematics/financial%20literacy%20workshop%20photograph%206_making%20a%20choice.jpg">
+					<figcaption><b>Sec 2 Financial Literacy Workshop</b>
+							<br>Discussing and making choices
+					</figcaption>
+				</figure>
+</td> 
+</tr>
+</tbody></table> 
+</div>
