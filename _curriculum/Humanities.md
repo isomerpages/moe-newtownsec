@@ -39,6 +39,8 @@ In&nbsp;**Geography**, students will learn about the relationships between envir
 
 Students who demonstrate an aptitude and passion for the Humanities subjects may be invited and mentored to participate in local Humanities competitions / events (e.g. NUS Geography Challenge) to deepen their growth and interest in the subjects.
 
+### Snapshots of Curriculum
+
 <style>  
 .table td{  
 border:1px solid black;  
@@ -66,7 +68,7 @@ border:1px solid black;
 			<tr>
 				<td style="width: 50%">
 					<figure>
-						<img style="width:100%;height: 100%" src="/images/Humanitites/sec%201%20gi%20photograph%204.JPG">
+						<img style="width:75%;height: 100%" src="/images/Humanitites/sec%201%20gi%20photograph%204.JPG">
 						<figcaption>Group photo with the supportive NParks officers
 						</figcaption>
 					</figure>
