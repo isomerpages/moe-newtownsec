@@ -49,7 +49,7 @@ border:1px solid black;
 <tbody><tr>  
 <td style="width: 50%">  
 <figure>
-					<img style="max-width: 100%;" src="/images/Mathematics/financial%20literacy%20workshop%20photograph%201_the%20beginning%20of%20fun%20and%20learning.jpg">
+					<img style="width:100%;height: 100%" src="/images/Mathematics/financial%20literacy%20workshop%20photograph%201_the%20beginning%20of%20fun%20and%20learning.jpg">
 					<figcaption>Learning about financial literacy through games
 					</figcaption>
 				</figure> 
