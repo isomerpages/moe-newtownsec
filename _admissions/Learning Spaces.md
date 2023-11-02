@@ -52,7 +52,7 @@ border:1px solid black;
 				<td style="width: 50%">
 					<figure>
 						<img style="width:100%;height: 100%" src="/images/School%20Premise/school_oasis_02.png">
-						<figcaption><b></b>
+						<figcaption><b>Oasis</b>
 							<br>
 						</figcaption>
 					</figure>
