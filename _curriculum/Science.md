@@ -104,7 +104,7 @@ border:1px solid black;
 				</td>
 				<td style="width: 50%">
 					<figure>
-						<img style="width:100%;height: 100%" src="/images/Science/solar%20oven%20-%202%20testing%20how%20much%20chocolate%20would%20melt.jpg">
+						<img style="width:75%;height: 100%" src="/images/Science/solar%20oven%20-%202%20testing%20how%20much%20chocolate%20would%20melt.jpg">
 						<figcaption>Testing how much chocolate would melt
 						</figcaption>
 					</figure>
@@ -113,7 +113,7 @@ border:1px solid black;
 			<tr>
 				<td style="width: 50%">
 					<figure>
-						<img style="width:100%;height: 100%" src="/images/Science/water%20filtration%20photo%206%20-%20a%20creative%20water%20filtration%20system.jpg">
+						<img style="width:75%;height: 100%" src="/images/Science/water%20filtration%20photo%206%20-%20a%20creative%20water%20filtration%20system.jpg">
 						<figcaption>A creative water filtration system
 						</figcaption>
 					</figure>
