@@ -45,14 +45,16 @@ border:1px solid black;
 				<td style="width: 50%">
 					<figure>
 						<img style="width:55%;height: 100%" src="/images/School%20Distinctive%20Programmes/EAP/eap%20photo%201.jpg">
-						<figcaption>Critique session at the end of the day to consolidate learning from the masterclass
+						<figcaption><b>Masterclass with Mr. Melvyn Goh</b>
+							<br>Critique session at the end of the day to consolidate learning from the masterclass
 						</figcaption>
 					</figure>
 				</td>
 				<td style="width: 50%">
 					<figure>
 						<img style="width:100%;height: 100%" src="/images/School%20Distinctive%20Programmes/EAP/eap%20photo%202.jpg">
-						<figcaption>Group photo taken with the Pathfinder
+						<figcaption><b>Masterclass with Mr. Melvyn Goh</b>
+							<br>Group photo taken with the Pathfinder
 						</figcaption>
 					</figure>
 				</td>
