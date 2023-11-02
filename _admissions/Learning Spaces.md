@@ -3,7 +3,7 @@ title: Learning Spaces
 permalink: /admissions/permalink/
 description: ""
 ---
-### 
+### Photos of Learning Spaces
 
 <style>  
 .table td{  
