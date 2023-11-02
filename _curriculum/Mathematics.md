@@ -52,14 +52,16 @@ border:1px solid black;
 <td style="width: 50%">  
 <figure>
 					<img style="width:100%;height: 100%" src="/images/Mathematics/financial%20literacy%20workshop%20photograph%201_the%20beginning%20of%20fun%20and%20learning.jpg">
-					<figcaption>Learning about financial literacy through games
+					<figcaption><b>Sec 2 Financial Literacy Workshop</b>
+							<br>Learning about financial literacy through games
 					</figcaption>
 				</figure> 
 </td> 
 	<td style="width: 100%">  
 <figure>
 					<img style="width:100%;height: 100%" src="/images/Mathematics/financial%20literacy%20workshop%20photograph%206_making%20a%20choice.jpg">
-					<figcaption>Discussing and making choices
+					<figcaption><b>Sec 2 Financial Literacy Workshop</b>
+							<br>Discussing and making choices
 					</figcaption>
 				</figure>
 </td> 
