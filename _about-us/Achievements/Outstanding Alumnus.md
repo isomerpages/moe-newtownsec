@@ -31,7 +31,7 @@ third_nav_title: Achievements
 		<b style="font-size:20px">Lee Wen Wei</b>
 		<br><br>An alumnus of <b>New Town Secondary School</b>, who was a recipient of Lee Kuan Yew scholarship a few years ago, was recently made the Valedictorian of NTU.  He was the President of Garage @ EEE, and the organizer of ESCENDO.
 		<br><br>Links to his information/story:
-		<br><a>https://www.ntu.edu.sg/convocation/about-convocation/valedictorian</a>
-		<br><a>https://stomp.straitstimes.com/singapore-seen/sp-graduate-who-won-5-prestigious-awards-now-managing-his-own-business
-		</a></td>
+		<br><a href="https://www.ntu.edu.sg/convocation/about-convocation/valedictorian">1. Valedictorian</a>
+		<br><a href="https://stomp.straitstimes.com/singapore-seen/sp-graduate-who-won-5-prestigious-awards-now-managing-his-own-business">2. SP graduate who won 5 prestigious awards now managing his own business</a>
+			</td>
 </tr></tbody></table>
