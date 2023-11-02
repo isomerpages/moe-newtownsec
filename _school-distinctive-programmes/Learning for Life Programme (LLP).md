@@ -61,4 +61,114 @@ The leadership training model is based on&nbsp;**Kouzes and Posner’s Five Prac
 * Teachers and Staff Appreciation Day Celebration
 * NE Events
 * Service-Learning Projects
-* Student-initiated and student-led activities during various school events&nbsp;_(e.g. Kindness Week, Cyberwellness, Kampung Class Bingo, Exam Encouragement Week, etc)._
+* Student-initiated and student-led activities during various school events&nbsp;_(e.g. Kindness Week, Cyberwellness, Kampung Class Bingo, Exam Encouragement Week, etc).
+
+### Snapshots of our Programme
+
+<style>  
+.table td{  
+border:1px solid black;  
+}  
+</style>
+<div class="container">
+	<table style="width:100%;height: 100%" class="table">
+		<tbody>
+			<tr>
+				<td style="width: 50%">
+					<figure>
+						<img style="width:100%;height: 100%" src="">
+						<figcaption>
+						</figcaption>
+					</figure>
+				</td>
+				<td style="width: 50%">
+					<figure>
+						<img style="width:100%;height: 100%" src="">
+						<figcaption>
+						</figcaption>
+					</figure>
+				</td>
+				</tr>
+			<tr>
+				<td style="width: 50%">
+					<figure>
+						<img style="width:100%;height: 100%" src="">
+						<figcaption>
+						</figcaption>
+					</figure>
+				</td>
+				<td style="width: 50%">
+					<figure>
+						<img style="width:100%;height: 100%" src="">
+						<figcaption>
+						</figcaption>
+					</figure>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 50%">
+					<figure>
+						<img style="width:100%;height: 100%" src="">
+						<figcaption>
+						</figcaption>
+					</figure>
+				</td>
+				<td style="width: 50%">
+					<figure>
+						<img style="width:100%;height: 100%" src="">
+						<figcaption>
+						</figcaption>
+					</figure>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 50%">
+					<figure>
+						<img style="width:100%;height: 100%" src="">
+						<figcaption>
+						</figcaption>
+					</figure>
+				</td>
+				<td style="width: 50%">
+					<figure>
+						<img style="width:100%;height: 100%" src="">
+						<figcaption>
+						</figcaption>
+					</figure>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 50%">
+					<figure>
+						<img style="width:100%;height: 100%" src="">
+						<figcaption>
+						</figcaption>
+					</figure>
+				</td>
+				<td style="width: 50%">
+					<figure>
+						<img style="width:100%;height: 100%" src="">
+						<figcaption>
+						</figcaption>
+					</figure>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 50%">
+					<figure>
+						<img style="width:100%;height: 100%" src="">
+						<figcaption>
+						</figcaption>
+					</figure>
+				</td>
+				<td style="width: 50%">
+					<figure>
+						<img style="width:100%;height: 100%" src="">
+						<figcaption>
+						</figcaption>
+					</figure>
+				</td>
+			</tr>
+		</tbody>
+	</table> 
+</div>
