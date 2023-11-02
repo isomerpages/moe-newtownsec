@@ -84,6 +84,8 @@ e.&nbsp;&nbsp;&nbsp;&nbsp;Differentiated programmes to cater to varied interests
 
 * Afternoon Sign-up Learning to close learning gaps and clarify doubts
 
+### Snapshots of Curriculum
+
 <style>  
 .table td{  
 border:1px solid black;  
