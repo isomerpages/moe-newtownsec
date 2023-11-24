@@ -32,7 +32,7 @@ Our motto is Nil Satis Nisi Optimum, “Nothing but the Best”. Through softbal
 <tbody>
   <tr>
     <td class="tg-n4qt">Training Venue</td>
-    <td class="tg-ii8k">School Field and School premises </td>
+    <td class="tg-ii8k">School Field and Blk F level 2 classrooms (S2-02 &amp; S2-03) </td>
   </tr>
 </tbody>
 </table>
