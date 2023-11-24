@@ -31,7 +31,7 @@ New Town Concert Band (formerly a military band) was formed in 1967 and has been
 <tbody>
   <tr>
     <td class="tg-n4qt"> Venue</td>
-    <td class="tg-ii8k">Music Room and School premises</td>
+    <td class="tg-ii8k">Music Room and Blk G level 3 &amp; 4 classrooms (S1-01 to S1-06)</td>
   </tr>
 </tbody>
 </table>
