@@ -3,6 +3,7 @@ title: Softball
 permalink: /cca/sports-and-games/softball/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 ![Group Photo](/images/group%203.jpeg)
 
@@ -41,9 +42,8 @@ Our motto is Nil Satis Nisi Optimum, “Nothing but the Best”. Through softbal
 ### TEACHERS IN-CHARGE
 
 *   Mdm Low Hui Ming (1st i/c)
-*   Ms Tracy Ng Siew Siew (2nd i/c)
-*   Ms Toh Hui Min
-*   Ms Tamil Alagi Manian
+*   Ms Tamil Alagi Manian (2nd i/c)
+*   Ms Tracy Ng Siew Siew
 
 
 ### COACHES
