@@ -3,6 +3,7 @@ title: Basketball
 permalink: /cca/sports-and-games/basketball/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 ![](/images/Main-1.jpg)
 
@@ -64,12 +65,11 @@ A reminder to Basketballers to give nothing but the best in attitude, mind and p
 
 ### TEACHERS-IN-CHARGE
 
-*   Ms&nbsp;Yap Sze Hui, Stella (1st i/c)
-*   Mdm Valli d/o Sundaram (2nd i/c)
+*   Mdm Valli D/O Sundaram (1st i/c)
+*   Mr Loh Yong Qi (2nd i/c)
 *   Mdm Aidashikin Bte Solikin
-*   Mr Loh Yong Qi  
 *   Ms En Yeng Teng
-*   Mr Joel Chan
+*   Mr Joel Chan Jie Hao
 
 ### COACHES
 
