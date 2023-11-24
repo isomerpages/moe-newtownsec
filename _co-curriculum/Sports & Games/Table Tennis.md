@@ -3,6 +3,7 @@ title: Table Tennis
 permalink: /cca/sports-and-games/table-tennis/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 ![](/images/TT1.jpg)
 # INTRODUCTION
@@ -42,7 +43,7 @@ Promote an opportunity to experience the sport at a competitive level.
 ### TEACHERS-IN-CHARGE
 
 *   Mr Goh Soon Hua (1st i/c)
-*   Mr James Koh Chee Yong (2nd i/c)
+*   Ms Tang Anqiong (2nd i/c)
 *   Ms Shannon Yap Tuan Chong
 
 
