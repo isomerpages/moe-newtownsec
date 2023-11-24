@@ -21,7 +21,7 @@ The initials of the GGS motto, “Be Prepared”, also happens to be our Founder
 
 **Day/Time**: Every Friday – 3:15pm to 6:00pm
 
-**Venue**: Girl Guides Room, Deep Learning Lab or School premises
+**Venue**: School premises e.g. open space between classroom blocks and Blk F level 2 classroom (S2-01 &amp; S3-01)
 
 ### TEACHERS-IN-CHARGE
 
