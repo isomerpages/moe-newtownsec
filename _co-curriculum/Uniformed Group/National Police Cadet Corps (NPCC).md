@@ -3,6 +3,7 @@ title: National Police Cadet Corps (NPCC)
 permalink: /cca/uniformed-group/national-police-cadet-corps-npcc/
 description: ""
 third_nav_title: Uniformed Group
+variant: markdown
 ---
 ![](/images/NPCC%20Unit%201%20(1).jpg)
 # INTRODUCTION
@@ -12,7 +13,7 @@ New Town NPCC has achieved at least 20 GOLD Awards since 1996. We have performed
 
 ### TRAINING SCHEDULE:
 
-**Day/Time**: Every Friday – 2.30pm - 5.30pm
+**Day/Time**: Every Friday – 3:15pm to 6:00pm
 
 **Venue**: NPCC Room or School premises
 
