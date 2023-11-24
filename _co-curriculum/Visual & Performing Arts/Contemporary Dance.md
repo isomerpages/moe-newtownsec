@@ -25,7 +25,7 @@ Contemporary Dance is one of the school’s visual and performing arts CCAs wher
 <thead>
   <tr>
     <th class="tg-n4qt">Date / Time</th>
-    <th class="tg-ii8k">Every Tuesday : 3.30pm – 6.00pm<br>Every Friday: 1.30pm – 4.00pm</th>
+    <th class="tg-ii8k">Tuesdays : 3.15pm – 6.00pm<br>Fridays: 1.30pm – 4.00pm</th>
   </tr>
 </thead>
 <tbody>
