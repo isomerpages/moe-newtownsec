@@ -3,6 +3,7 @@ title: Fencing
 permalink: /cca/sports-n-games/fencing/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 # INTRODUCTION 
 
@@ -37,8 +38,8 @@ Fencing is one of the main sports Co-Curricular Activities (CCAs) offered to our
 ### TEACHERS-IN-CHARGE
 
 *   Mdm Tan Soon May (1st i/c)
-*   Mdm Wahidah Bte Salamon (2nd i/c)
-*   Ms Chan Wen Xin
+*   Ms Wahidah Binte Salamon (2nd i/c)
+*   Ms Ding Chao (Term 2 onwards)
 
 ### COACHES
 
