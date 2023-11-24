@@ -3,6 +3,7 @@ title: Arts and Crafts
 permalink: /cca/visual-n-performing-arts/arts-and-crafts/
 description: ""
 third_nav_title: Visual & Performing Arts
+variant: markdown
 ---
 ![](/images/Header.jpg)
 # INTRODUCTION
@@ -23,10 +24,10 @@ To nurture artistic talent and develop leaders who are confident ambassadors of 
 
 ### TEACHERS IN-CHARGE
 
-*   Mr Kalidass s/o Jayaraman (1st i/c)
-*   Ms Grace Pushparani (2nd i/c)
-*   Ms Pang Jia Mien
+*   Mdm Pang Jia Mien (1st i/c)
+*   Ms Grace Pushparani d/o William (2nd i/c)
 *   Ms Lai Xue Fen
+*   Mr Kalidass s/o Jayaraman
 
 ### INSTRUCTORS
 
