@@ -3,6 +3,7 @@ title: Contemporary Dance
 permalink: /cca/visual-n-performing-arts/contemporary-dance/
 description: ""
 third_nav_title: Visual & Performing Arts
+variant: markdown
 ---
 ![](/images/contemporary%20dance%2001.jpeg)
 # INTRODUCTION
@@ -37,10 +38,9 @@ Contemporary Dance is one of the school’s visual and performing arts CCAs wher
 
 ### TEACHERS IN-CHARGE
 
-*   Ms Tang Wai Yin (1st i/c)
-*   Ms Amanda Sarah Chin Yong Hui (2nd i/c)
-*   Mrs Jane Chng  
-*   Ms Cheong Wan Ting
+*   Ms Nurul Aisyah Binte Rosli (1st i/c)
+*   Mrs Dolly Thong Ai Eng (2nd i/c)
+*   Ms Joyce Gayathri
 
 ### INSTRUCTORS
 
