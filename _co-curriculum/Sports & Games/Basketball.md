@@ -53,7 +53,7 @@ A reminder to Basketballers to give nothing but the best in attitude, mind and p
 <tbody>
   <tr>
     <td class="tg-n4qt">Training Venue</td>
-    <td class="tg-ii8k">School Indoor Sports Hall (Level 1), Outdoor Basketball Court and School premises </td>
+    <td class="tg-ii8k">School Indoor Sports Hall Level 1 and Outdoor Basketball Court and/orBlk E level 4 classrooms (S4-03 &amp; S4-04) </td>
   </tr>
 </tbody>
 </table>
