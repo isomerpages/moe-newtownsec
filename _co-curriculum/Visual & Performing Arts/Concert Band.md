@@ -25,7 +25,7 @@ New Town Concert Band (formerly a military band) was formed in 1967 and has been
 <thead>
   <tr>
     <th class="tg-n4qt">Date / Time</th>
-    <th class="tg-ii8k">Tuesdays : 3.15pm – 6.00pm<br> Fridays: 2.30pm – 5.30pm</th>
+    <th class="tg-ii8k">Tuesdays : 3.15pm – 6.00pm<br>Fridays : 1.15pm/2.30pm - 5.30pm</th>
   </tr>
 </thead>
 <tbody>
