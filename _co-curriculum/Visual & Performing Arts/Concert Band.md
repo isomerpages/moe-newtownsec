@@ -38,11 +38,9 @@ New Town Concert Band (formerly a military band) was formed in 1967 and has been
 
 ### TEACHERS IN-CHARGE
 
-*   Ms Yong Li Ping (1st i/c)
-*   Mr Muhammad Nur Azman Shah (2nd i/c)
+*   Mr Muhammad Nur Azman Shah (1st i/c)
+*   Mdm Song Ziyan (2nd i/c) (Term 2 onwards)
 *   Ms Lu Jing
-*   Ms Anita Bte Mohamed Salleh
-*   Ms Nurul Aisyah Bte Rosli
 
 ### CONDUCTORS/TUTORS
 
