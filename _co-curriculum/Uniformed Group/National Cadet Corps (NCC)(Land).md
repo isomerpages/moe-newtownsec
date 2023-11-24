@@ -3,6 +3,7 @@ title: National Cadet Corps (NCC)(Land)
 permalink: /cca/uniformed-group/national-cadet-corps-ncc-land/
 description: ""
 third_nav_title: Uniformed Group
+variant: markdown
 ---
 ![](/images/IMG_9844.jpg)
 
@@ -24,7 +25,7 @@ NCC has eight Core Values:
 
 ### TRAINING SCHEDULE:
 
-**Day/Time**: Every Friday – 2.30pm - 5.30pm
+**Day/Time**: Every Friday – 3:15pm to 6:00pm
 
 **Venue**: NCC Room or School premises
 
