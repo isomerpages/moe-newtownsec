@@ -44,7 +44,7 @@ The objectives of our activities are to:
   none;border-bottom:solid #2A2A2A 1.0pt;border-right:solid #2A2A2A 1.0pt;
   mso-border-top-alt:solid #2A2A2A .75pt;mso-border-left-alt:solid #2A2A2A .75pt;
   mso-border-alt:solid #2A2A2A .75pt;background:#EBEBEB;padding:3.75pt 3.75pt 3.75pt 3.75pt" valign="top" width="216"><p style="margin-bottom:7.5pt;text-align:center;
-  line-height:18.0pt" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Soccer Field</span></p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes"><td style="width:109.7pt;border:solid #2A2A2A 1.0pt;
+  line-height:18.0pt" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">School Field or External venue (e.g. Clementi Stadium) and Blk F level 3 classrooms (S3-04 &amp; S3-05)</span></p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes"><td style="width:109.7pt;border:solid #2A2A2A 1.0pt;
   border-top:none;mso-border-top-alt:solid #2A2A2A .75pt;mso-border-alt:solid #2A2A2A .75pt;
   background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
   242;padding:3.75pt 3.75pt 3.75pt 3.75pt" valign="top" width="146"><p style="margin-bottom:7.5pt;text-align:center;
@@ -58,7 +58,7 @@ The objectives of our activities are to:
   mso-border-top-alt:solid #2A2A2A .75pt;mso-border-left-alt:solid #2A2A2A .75pt;
   mso-border-alt:solid #2A2A2A .75pt;background:#F2F2F2;mso-background-themecolor:
   background1;mso-background-themeshade:242;padding:3.75pt 3.75pt 3.75pt 3.75pt" valign="top" width="216"><p style="margin-bottom:7.5pt;text-align:center;
-  line-height:18.0pt" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Soccer Field</span></p></td></tr></tbody></table>
+  line-height:18.0pt" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">School Field or External venue (e.g. Clementi Stadium) and Blk F level 3 classrooms (S3-04 &amp; S3-05)</span></p></td></tr></tbody></table>
 
 ### TEACHERS-IN-CHARGE
 
