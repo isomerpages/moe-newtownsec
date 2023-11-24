@@ -18,12 +18,12 @@ New Town NPCC has achieved at least 20 GOLD Awards since 1996. We have performed
 **Venue**: NPCC Room or School premises
 
 ### TEACHERS-IN-CHARGE
-*   Mrs Keira Seow (1st i/c)
-*   Ms Lai Chiu Shuan (2nd i/c)
-*   Mdm Ong Hwee Hian  
+*   Ms Lai Chiu Shuan (1st i/c)
+*   Ms Renuka Selva Rajoo (2nd i/c)
 *   Ms Kalai Vani Sivam
 *   Mr Alex Chan Kwan Meng
-*   Ms Alisha Lim Qing Chen
+*   Ms Alisha Lim Qing Wen
+*   Mrs Keira Seow (Sem 1 only)
 
 ### CADET INSPECTORS
 
