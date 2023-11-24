@@ -30,7 +30,7 @@ Netball is a CCA that inculcates the importance of sportsmanship, teamwork and r
 <tbody>
   <tr>
     <td class="tg-n4qt">Training Venue</td>
-    <td class="tg-ii8k">Outdoor Netball Court and School premises</td>
+    <td class="tg-ii8k">Outdoor Netball Court and Blk E level 3 corridor</td>
   </tr>
 </tbody>
 </table>
