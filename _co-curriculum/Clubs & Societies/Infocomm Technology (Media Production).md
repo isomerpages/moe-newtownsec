@@ -12,7 +12,7 @@ Infocomm Technology (Media Production) was established in 2018, tapping on the s
 
 ### TRAINING SCHEDULE: 
 
-**Day/Time:** Every Tuesday – 3.15pm - 6.00pm
+**Day/Time:** Tuesdays – 3.15pm - 6.00pm
 
 **Venue:** Computer Labs, ALP Room &amp; School premises
 
