@@ -25,10 +25,9 @@ The initials of the GGS motto, “Be Prepared”, also happens to be our Founder
 
 ### TEACHERS-IN-CHARGE
 
-*   Ms Nur Syahirah Bte Nahadi&nbsp;(1st i/c)
-*   Ms Renuka Selva Rajoo (2nd i/c)
-*   Ms Chua Zi Hui Samanthan&nbsp;  
-*   Mdm Zhuo Jinrong
+* Ms Nur Syahirah Binte Nahadi (1st i/c)
+* Ms Chua Zi Hui Samanthan (2nd i/c)
+* Mdm Zhuo Jinrong
 
 ### ACTIVITIES FOR THE YEAR
 
