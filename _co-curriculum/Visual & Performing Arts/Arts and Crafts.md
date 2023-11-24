@@ -18,7 +18,7 @@ To nurture artistic talent and develop leaders who are confident ambassadors of 
 
 ### PRACTICE SCHEDULE:
 
-**Day/Time:** Every Tuesday – 3.30pm - 6.00pm
+**Day/Time:** Tuesdays – 3.30pm - 6.00pm
 
 **Venue:** Art Rooms 1 &amp; 2 and Blk G level 3 classroom (Sp Rm 3A &amp; S1-07)
 
