@@ -14,7 +14,7 @@ Infocomm Technology (Media Production) was established in 2018, tapping on the s
 
 **Day/Time:** Every Tuesday – 3.15pm - 6.00pm
 
-**Venue:** Computer labs
+**Venue:** Computer Labs, ALP Room &amp; School premises
 
 
 ### TEACHERS IN-CHARGE
