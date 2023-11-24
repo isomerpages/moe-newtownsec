@@ -24,7 +24,7 @@ Netball is a CCA that inculcates the importance of sportsmanship, teamwork and r
 <thead>
   <tr>
     <th class="tg-n4qt">Training Time</th>
-    <th class="tg-ii8k">Every Tuesday : 3.30pm – 6.00pm<br>Every Friday: 1.00pm – 3.30pm</th>
+    <th class="tg-ii8k">Tuesdays : 3.15pm – 6.00pm<br>Fridays : 1.15pm/2.30pm - 5.30pm</th>
   </tr>
 </thead>
 <tbody>
