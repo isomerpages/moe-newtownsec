@@ -3,6 +3,7 @@ title: Infocomm Technology (Media Production)
 permalink: /cca/clubs-n-societies/infocomm-technology-media-production/
 description: ""
 third_nav_title: Clubs & Societies
+variant: markdown
 ---
 ![](/images/infocomm%20tech.jpg)
 # INTRODUCTION
@@ -17,11 +18,10 @@ Infocomm Technology (Media Production) was established in 2018, tapping on the s
 
 
 ### TEACHERS IN-CHARGE
-*   Ms Zoe Chan Zhong Yi&nbsp; (1st i/c)  
-*   Ms Hannah Cheng (2nd i/c)
-*   Mr Loganadhan Prathap  
+*   Mr Yong Wei Hoong (1st i/c)
+*   Ms Hannah Cheng Woan Woon (2nd i/c)
 *   Ms Chew Ying Ying
-*   Ms Joyce Gayathri
+*   Mr Loganadhan Prathap
 *   Mr Xu Yiming
 
 ### INSTRUCTORS
