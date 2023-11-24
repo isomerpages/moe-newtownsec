@@ -3,6 +3,7 @@ title: Football
 permalink: /cca/sports-and-games/football/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 ![Photo 1 Football 2023](/images/photo%201%20football%202023.JPG)
 # INTRODUCTION
@@ -61,13 +62,9 @@ The objectives of our activities are to:
 
 ### TEACHERS-IN-CHARGE
 
-*   Ms Sheeja V Pillai (1st i/c)  
-    
-*   Mr Ang Xiang Rui (2nd i/c) 
-    
-*   Mdm Nazreen Bte Abdul Latiff  
-    
-*   Mr Yong Wei Hoong 
+*   Ms Sheeja V Pillai (1st i/c)
+*   Mr Ang Xiang Rui (2nd i/c)
+*   Mdm Nazreen Binte Abdul Latif
 
 ### STUDENT LEADERS
 
