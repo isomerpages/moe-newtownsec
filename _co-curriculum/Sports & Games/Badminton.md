@@ -3,6 +3,7 @@ title: Badminton
 permalink: /cca/sports-and-games/badminton/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS6MjSpr9fPi4NaEtnx7BEZkaY94AVVGwwbc8PrwYOu1HG-HbOCBx4o-z2v1ZypxSFdwxUlyI8tg8kt/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
@@ -42,12 +43,11 @@ The team trains on a weekly basis, under the guidance of experienced Coaches and
 
 ### TEACHERS-IN-CHARGE
 
-*   Ms Teo Mei Chia&nbsp; (1st i/c)
-*   Ms Teng Shumin (2nd i/c)&nbsp;
-*   Mrs Manjula Shanmuganathan&nbsp;
+*   Mr James Koh Chee Yong (1st i/c)
+*   Ms Yong Li Ping (2nd i/c)
+*   Mdm Manjula Shanmuganathan
 *   Mr Sim Ik Fong
-*   Ms Caley Ng Yuet Wan
-*   Mr Chan Kee Cheong
+*   Ms Teng Shumin (Sem 1 only)
 
 ### COACHES
 
