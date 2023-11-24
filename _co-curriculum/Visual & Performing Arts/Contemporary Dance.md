@@ -31,7 +31,7 @@ Contemporary Dance is one of the school’s visual and performing arts CCAs wher
 <tbody>
   <tr>
     <td class="tg-n4qt"> Venue</td>
-    <td class="tg-ii8k">Amphitheatre and Dance Studio</td>
+    <td class="tg-ii8k">Amphitheatre / Dance Studio</td>
   </tr>
 </tbody>
 </table>
