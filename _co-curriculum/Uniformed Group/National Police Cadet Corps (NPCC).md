@@ -13,7 +13,7 @@ New Town NPCC has achieved at least 20 GOLD Awards since 1996. We have performed
 
 ### TRAINING SCHEDULE:
 
-**Day/Time**: Every Friday – 3:15pm to 6:00pm
+**Day/Time**: Tuesdays – 3:15pm to 6:00pm
 
 **Venue**: School premises e.g. open space between classroom blocks and Blk F level 4 classrooms (S4-11, S5-01, S3-06 &amp; S3-07)
 
