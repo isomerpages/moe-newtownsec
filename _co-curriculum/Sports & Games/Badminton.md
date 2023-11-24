@@ -34,7 +34,7 @@ The team trains on a weekly basis, under the guidance of experienced Coaches and
 <tbody>
   <tr>
     <td class="tg-n4qt">Training Venue</td>
-    <td class="tg-ii8k">School Indoor Sports Hall (Level 2), School Hall, External venue (Clementi Sports Hall / Community Centres) and School premises </td>
+    <td class="tg-ii8k">School Indoor Sports Hall Level 2, Part of School Hall, External venue (e.g. NUS High School or Clementi Sports Hall) and/or Blk F level 3 classrooms (S4-07 &amp; S4-08) </td>
   </tr>
 </tbody>
 </table>
