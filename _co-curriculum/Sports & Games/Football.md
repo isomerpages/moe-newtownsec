@@ -40,7 +40,7 @@ The objectives of our activities are to:
   none;border-bottom:solid #2A2A2A 1.0pt;border-right:solid #2A2A2A 1.0pt;
   mso-border-top-alt:solid #2A2A2A .75pt;mso-border-left-alt:solid #2A2A2A .75pt;
   mso-border-alt:solid #2A2A2A .75pt;background:#EBEBEB;padding:3.75pt 3.75pt 3.75pt 3.75pt" valign="top" width="214"><p style="margin-bottom:7.5pt;text-align:center;
-  line-height:18.0pt" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">3.30 pm – 6.00 pm</span></p></td><td style="width:161.95pt;border-top:none;border-left:
+  line-height:18.0pt" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">3.15 pm – 6.00 pm</span></p></td><td style="width:161.95pt;border-top:none;border-left:
   none;border-bottom:solid #2A2A2A 1.0pt;border-right:solid #2A2A2A 1.0pt;
   mso-border-top-alt:solid #2A2A2A .75pt;mso-border-left-alt:solid #2A2A2A .75pt;
   mso-border-alt:solid #2A2A2A .75pt;background:#EBEBEB;padding:3.75pt 3.75pt 3.75pt 3.75pt" valign="top" width="216"><p style="margin-bottom:7.5pt;text-align:center;
@@ -53,7 +53,7 @@ The objectives of our activities are to:
   mso-border-top-alt:solid #2A2A2A .75pt;mso-border-left-alt:solid #2A2A2A .75pt;
   mso-border-alt:solid #2A2A2A .75pt;background:#F2F2F2;mso-background-themecolor:
   background1;mso-background-themeshade:242;padding:3.75pt 3.75pt 3.75pt 3.75pt" valign="top" width="214"><p style="margin-bottom:7.5pt;text-align:center;
-  line-height:18.0pt" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">2.30 pm – 5.30 pm</span></p></td><td style="width:161.95pt;border-top:none;border-left:
+  line-height:18.0pt" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">1.15pm/2.30pm - 5.30pm</span></p></td><td style="width:161.95pt;border-top:none;border-left:
   none;border-bottom:solid #2A2A2A 1.0pt;border-right:solid #2A2A2A 1.0pt;
   mso-border-top-alt:solid #2A2A2A .75pt;mso-border-left-alt:solid #2A2A2A .75pt;
   mso-border-alt:solid #2A2A2A .75pt;background:#F2F2F2;mso-background-themecolor:
