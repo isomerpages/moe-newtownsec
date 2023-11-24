@@ -35,7 +35,7 @@ Promote an opportunity to experience the sport at a competitive level.
 <tbody>
   <tr>
     <td class="tg-n4qt">Training Venue</td>
-    <td class="tg-ii8k">School Hall</td>
+    <td class="tg-ii8k">Part of School Hall</td>
   </tr>
 </tbody>
 </table>
