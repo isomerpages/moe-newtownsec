@@ -3,6 +3,7 @@ title: Girl Guides
 permalink: /cca/uniformed-group/girl-guides/
 description: ""
 third_nav_title: Uniformed Group
+variant: markdown
 ---
 ![](/images/main.jpg)
 
@@ -18,7 +19,7 @@ The initials of the GGS motto, “Be Prepared”, also happens to be our Founder
 
 ### TRAINING SCHEDULE:
 
-**Day/Time**: Every Friday – 1.30pm - 4.30pm
+**Day/Time**: Every Friday – 3:15pm to 6:00pm
 
 **Venue**: Girl Guides Room, Deep Learning Lab or School premises
 
