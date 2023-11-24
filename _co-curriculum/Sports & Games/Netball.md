@@ -3,6 +3,7 @@ title: Netball
 permalink: /cca/sports-n-games/netball/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 # INTRODUCTION
 
@@ -36,9 +37,10 @@ Netball is a CCA that inculcates the importance of sportsmanship, teamwork and r
 
 ### TEACHERS-IN-CHARGE
 
-*   Mdm Nurdayan Mohd Noor (1st i/c)
+*   Ms Serene Tay Seok Hean (1st i/c)
 *   Mrs Tricia Ong (2nd i/c)
-*   Ms Mohgana Thiagarajan
+*   Ms Toh Hui Min (Sem 1 only)
+*   Ms Fazylah Bte Rahman (Term 3 onwards)
 
 ### COACHES
 
