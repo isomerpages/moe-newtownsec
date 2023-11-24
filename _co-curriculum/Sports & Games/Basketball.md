@@ -47,7 +47,7 @@ A reminder to Basketballers to give nothing but the best in attitude, mind and p
 <thead>
   <tr>
     <th class="tg-n4qt">Training Time*</th>
-    <th class="tg-ii8k">Every Tuesday : 3.30pm – 5.30pm<br>Every Friday: 2.30pm – 5.30pm</th>
+    <th class="tg-ii8k">Tuesdays : 3.15pm – 6.00pm<br>Fridays : 1.15pm/2.30pm - 5.30pm</th>
   </tr>
 </thead>
 <tbody>
