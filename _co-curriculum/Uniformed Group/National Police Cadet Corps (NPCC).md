@@ -15,7 +15,7 @@ New Town NPCC has achieved at least 20 GOLD Awards since 1996. We have performed
 
 **Day/Time**: Every Friday – 3:15pm to 6:00pm
 
-**Venue**: NPCC Room or School premises
+**Venue**: School premises e.g. open space between classroom blocks and Blk F level 4 classrooms (S4-11, S5-01, S3-06 &amp; S3-07)
 
 ### TEACHERS-IN-CHARGE
 *   Ms Lai Chiu Shuan (1st i/c)
