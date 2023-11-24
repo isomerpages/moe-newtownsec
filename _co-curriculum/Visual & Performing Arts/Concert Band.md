@@ -3,6 +3,7 @@ title: Concert Band
 permalink: /cca/visual-n-performing-arts/concert-band/
 description: ""
 third_nav_title: Visual & Performing Arts
+variant: markdown
 ---
 ![Band Group Photo](/images/band%20group%20photo.jpg)
 # INTRODUCTION
@@ -45,9 +46,9 @@ New Town Concert Band (formerly a military band) was formed in 1967 and has been
 
 ### CONDUCTORS/TUTORS
 
-*   Mr Tan Thiam Hock Erik
-*   Mr Chang Tat Fai Edmund
-*   Mr Gordon Tan Li Chuan
+*   Mr Muhammad Nur Azman Shah (1st i/c)
+*   Mdm Song Ziyan (2nd i/c) (Term 2 onwards)
+*   Ms Lu Jing
 
 ### STUDENT LEADERS
 *   Band Major -&nbsp;Sharlene Neo Yi Ning
