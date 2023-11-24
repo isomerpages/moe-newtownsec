@@ -27,7 +27,7 @@ NCC has eight Core Values:
 
 **Day/Time**: Every Friday – 3:15pm to 6:00pm
 
-**Venue**: NCC Room or School premises
+**Venue**: School premises e.g. open space between classroom blocks and Blk G level 2 classrooms (S2-04 &amp; S2-05)
 
 ### TEACHERS-IN-CHARGE
 
