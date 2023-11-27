@@ -3,6 +3,7 @@ title: Girl Guides
 permalink: /cca/uniformed-group/girl-guides/
 description: ""
 third_nav_title: Uniformed Group
+variant: markdown
 ---
 ![](/images/main.jpg)
 
@@ -18,16 +19,15 @@ The initials of the GGS motto, “Be Prepared”, also happens to be our Founder
 
 ### TRAINING SCHEDULE:
 
-**Day/Time**: Every Friday – 1.30pm - 4.30pm
+**Day/Time**: Tuesdays – 3:15pm to 6:00pm
 
-**Venue**: Girl Guides Room, Deep Learning Lab or School premises
+**Venue**: School premises e.g. open space between classroom blocks and Blk F level 2 classroom (S2-01 &amp; S3-01)
 
 ### TEACHERS-IN-CHARGE
 
-*   Ms Nur Syahirah Bte Nahadi&nbsp;(1st i/c)
-*   Ms Renuka Selva Rajoo (2nd i/c)
-*   Ms Chua Zi Hui Samanthan&nbsp;  
-*   Mdm Zhuo Jinrong
+* Ms Nur Syahirah Binte Nahadi (1st i/c)
+* Ms Chua Zi Hui Samanthan (2nd i/c)
+* Mdm Zhuo Jinrong
 
 ### ACTIVITIES FOR THE YEAR
 

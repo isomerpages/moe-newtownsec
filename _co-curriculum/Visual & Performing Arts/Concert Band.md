@@ -3,6 +3,7 @@ title: Concert Band
 permalink: /cca/visual-n-performing-arts/concert-band/
 description: ""
 third_nav_title: Visual & Performing Arts
+variant: markdown
 ---
 ![Band Group Photo](/images/band%20group%20photo.jpg)
 # INTRODUCTION
@@ -24,24 +25,22 @@ New Town Concert Band (formerly a military band) was formed in 1967 and has been
 <thead>
   <tr>
     <th class="tg-n4qt">Date / Time</th>
-    <th class="tg-ii8k">Every Tuesday : 3.30pm – 5.30pm<br>Every Friday : 2.30pm – 5.30pm</th>
+    <th class="tg-ii8k">Tuesdays : 3.15pm – 6.00pm<br>Fridays : 1.15pm/2.30pm - 5.30pm</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-n4qt"> Venue</td>
-    <td class="tg-ii8k">Music Room and School premises</td>
+    <td class="tg-ii8k">Music Room and Blk G level 3 &amp; 4 classrooms (S1-01 to S1-06)</td>
   </tr>
 </tbody>
 </table>
 
 ### TEACHERS IN-CHARGE
 
-*   Ms Yong Li Ping (1st i/c)
-*   Mr Muhammad Nur Azman Shah (2nd i/c)
+*   Mr Muhammad Nur Azman Shah (1st i/c)
+*   Mdm Song Ziyan (2nd i/c) (Term 2 onwards)
 *   Ms Lu Jing
-*   Ms Anita Bte Mohamed Salleh
-*   Ms Nurul Aisyah Bte Rosli
 
 ### CONDUCTORS/TUTORS
 

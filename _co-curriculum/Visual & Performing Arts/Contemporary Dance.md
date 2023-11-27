@@ -3,6 +3,7 @@ title: Contemporary Dance
 permalink: /cca/visual-n-performing-arts/contemporary-dance/
 description: ""
 third_nav_title: Visual & Performing Arts
+variant: markdown
 ---
 ![](/images/contemporary%20dance%2001.jpeg)
 # INTRODUCTION
@@ -24,23 +25,22 @@ Contemporary Dance is one of the school’s visual and performing arts CCAs wher
 <thead>
   <tr>
     <th class="tg-n4qt">Date / Time</th>
-    <th class="tg-ii8k">Every Tuesday : 3.30pm – 6.00pm<br>Every Friday: 1.30pm – 4.00pm</th>
+    <th class="tg-ii8k">Tuesdays : 3.15pm – 6.00pm<br>Fridays : 1.15pm/2.30pm - 5.30pm</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-n4qt"> Venue</td>
-    <td class="tg-ii8k">Amphitheatre and Dance Studio</td>
+    <td class="tg-ii8k">Amphitheatre / Dance Studio</td>
   </tr>
 </tbody>
 </table>
 
 ### TEACHERS IN-CHARGE
 
-*   Ms Tang Wai Yin (1st i/c)
-*   Ms Amanda Sarah Chin Yong Hui (2nd i/c)
-*   Mrs Jane Chng  
-*   Ms Cheong Wan Ting
+*   Ms Nurul Aisyah Binte Rosli (1st i/c)
+*   Mrs Dolly Thong Ai Eng (2nd i/c)
+*   Ms Joyce Gayathri
 
 ### INSTRUCTORS
 

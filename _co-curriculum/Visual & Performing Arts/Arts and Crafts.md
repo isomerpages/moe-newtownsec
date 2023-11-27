@@ -3,6 +3,7 @@ title: Arts and Crafts
 permalink: /cca/visual-n-performing-arts/arts-and-crafts/
 description: ""
 third_nav_title: Visual & Performing Arts
+variant: markdown
 ---
 ![](/images/Header.jpg)
 # INTRODUCTION
@@ -17,16 +18,16 @@ To nurture artistic talent and develop leaders who are confident ambassadors of 
 
 ### PRACTICE SCHEDULE:
 
-**Day/Time:** Every Tuesday – 3.30pm - 6.00pm
+**Day/Time:** Tuesdays – 3.30pm - 6.00pm
 
-**Venue:** Art Rooms &amp; Spare Room G3A
+**Venue:** Art Rooms 1 &amp; 2 and Blk G level 3 classroom (Sp Rm 3A &amp; S1-07)
 
 ### TEACHERS IN-CHARGE
 
-*   Mr Kalidass s/o Jayaraman (1st i/c)
-*   Ms Grace Pushparani (2nd i/c)
-*   Ms Pang Jia Mien
+*   Mdm Pang Jia Mien (1st i/c)
+*   Ms Grace Pushparani d/o William (2nd i/c)
 *   Ms Lai Xue Fen
+*   Mr Kalidass s/o Jayaraman
 
 ### INSTRUCTORS
 

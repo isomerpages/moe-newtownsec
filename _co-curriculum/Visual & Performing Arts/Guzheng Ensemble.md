@@ -3,6 +3,7 @@ title: Guzheng Ensemble
 permalink: /cca/visual-n-performing-arts/guzheng-ensemble/
 description: ""
 third_nav_title: Visual & Performing Arts
+variant: markdown
 ---
 ![](/images/guzheng%2002.jpeg)
 
@@ -25,7 +26,7 @@ The Guzheng Ensemble has been the pride and glory of New Town Secondary School. 
 <thead>
   <tr>
     <th class="tg-n4qt">Date / Time</th>
-    <th class="tg-ii8k">Every Tuesday : 3.30pm – 6.00pm<br>Every Friday : 1.15pm – 4.15pm</th>
+    <th class="tg-ii8k">Tuesdays : 3.15pm – 6.00pm<br>Fridays : 1.15pm/2.30pm - 5.30pm</th>
   </tr>
 </thead>
 <tbody>

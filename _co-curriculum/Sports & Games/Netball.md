@@ -3,6 +3,7 @@ title: Netball
 permalink: /cca/sports-n-games/netball/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 # INTRODUCTION
 
@@ -23,22 +24,23 @@ Netball is a CCA that inculcates the importance of sportsmanship, teamwork and r
 <thead>
   <tr>
     <th class="tg-n4qt">Training Time</th>
-    <th class="tg-ii8k">Every Tuesday : 3.30pm – 6.00pm<br>Every Friday: 1.00pm – 3.30pm</th>
+    <th class="tg-ii8k">Tuesdays : 3.15pm – 6.00pm<br>Fridays : 1.15pm/2.30pm - 5.30pm</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-n4qt">Training Venue</td>
-    <td class="tg-ii8k">Outdoor Netball Court and School premises</td>
+    <td class="tg-ii8k">Outdoor Netball Court and Blk E level 3 corridor</td>
   </tr>
 </tbody>
 </table>
 
 ### TEACHERS-IN-CHARGE
 
-*   Mdm Nurdayan Mohd Noor (1st i/c)
+*   Ms Serene Tay Seok Hean (1st i/c)
 *   Mrs Tricia Ong (2nd i/c)
-*   Ms Mohgana Thiagarajan
+*   Ms Toh Hui Min (Sem 1 only)
+*   Ms Fazylah Bte Rahman (Term 3 onwards)
 
 ### COACHES
 

@@ -3,6 +3,7 @@ title: Badminton
 permalink: /cca/sports-and-games/badminton/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS6MjSpr9fPi4NaEtnx7BEZkaY94AVVGwwbc8PrwYOu1HG-HbOCBx4o-z2v1ZypxSFdwxUlyI8tg8kt/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
@@ -27,13 +28,13 @@ The team trains on a weekly basis, under the guidance of experienced Coaches and
 <thead>
   <tr>
     <th class="tg-n4qt">Training Time*</th>
-    <th class="tg-ii8k">Every Tuesday : 3.30pm – 5.30pm<br>Every Friday: 2.30pm – 5.30pm</th>
+    <th class="tg-ii8k">Tuesdays : 3.15pm – 6.00pm<br>Fridays : 1.15pm/2.30pm - 5.30pm</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-n4qt">Training Venue</td>
-    <td class="tg-ii8k">School Indoor Sports Hall (Level 2), School Hall, External venue (Clementi Sports Hall / Community Centres) and School premises </td>
+    <td class="tg-ii8k">School Indoor Sports Hall Level 2, Part of School Hall, External venue (e.g. NUS High School or Clementi Sports Hall) and/or Blk F level 3 classrooms (S4-07 &amp; S4-08) </td>
   </tr>
 </tbody>
 </table>
@@ -42,12 +43,11 @@ The team trains on a weekly basis, under the guidance of experienced Coaches and
 
 ### TEACHERS-IN-CHARGE
 
-*   Ms Teo Mei Chia&nbsp; (1st i/c)
-*   Ms Teng Shumin (2nd i/c)&nbsp;
-*   Mrs Manjula Shanmuganathan&nbsp;
+*   Mr James Koh Chee Yong (1st i/c)
+*   Ms Yong Li Ping (2nd i/c)
+*   Mdm Manjula Shanmuganathan
 *   Mr Sim Ik Fong
-*   Ms Caley Ng Yuet Wan
-*   Mr Chan Kee Cheong
+*   Ms Teng Shumin (Sem 1 only)
 
 ### COACHES
 

@@ -3,6 +3,7 @@ title: Basketball
 permalink: /cca/sports-and-games/basketball/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 ![](/images/Main-1.jpg)
 
@@ -46,13 +47,13 @@ A reminder to Basketballers to give nothing but the best in attitude, mind and p
 <thead>
   <tr>
     <th class="tg-n4qt">Training Time*</th>
-    <th class="tg-ii8k">Every Tuesday : 3.30pm – 5.30pm<br>Every Friday: 2.30pm – 5.30pm</th>
+    <th class="tg-ii8k">Tuesdays : 3.15pm – 6.00pm<br>Fridays : 1.15pm/2.30pm - 5.30pm</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-n4qt">Training Venue</td>
-    <td class="tg-ii8k">School Indoor Sports Hall (Level 1), Outdoor Basketball Court and School premises </td>
+    <td class="tg-ii8k">School Indoor Sports Hall Level 1 and Outdoor Basketball Court and/orBlk E level 4 classrooms (S4-03 &amp; S4-04) </td>
   </tr>
 </tbody>
 </table>
@@ -64,12 +65,11 @@ A reminder to Basketballers to give nothing but the best in attitude, mind and p
 
 ### TEACHERS-IN-CHARGE
 
-*   Ms&nbsp;Yap Sze Hui, Stella (1st i/c)
-*   Mdm Valli d/o Sundaram (2nd i/c)
+*   Mdm Valli D/O Sundaram (1st i/c)
+*   Mr Loh Yong Qi (2nd i/c)
 *   Mdm Aidashikin Bte Solikin
-*   Mr Loh Yong Qi  
 *   Ms En Yeng Teng
-*   Mr Joel Chan
+*   Mr Joel Chan Jie Hao
 
 ### COACHES
 

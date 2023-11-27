@@ -3,6 +3,7 @@ title: Softball
 permalink: /cca/sports-and-games/softball/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 ![Group Photo](/images/group%203.jpeg)
 
@@ -25,13 +26,13 @@ Our motto is Nil Satis Nisi Optimum, “Nothing but the Best”. Through softbal
 <thead>
   <tr>
     <th class="tg-n4qt">Training Time*</th>
-    <th class="tg-ii8k">Every Tuesday : 3.30pm – 5.30pm<br>Every Friday: 1.15pm – 4.15pm</th>
+    <th class="tg-ii8k">Tuesdays : 3.15pm – 6.00pm<br>Fridays : 1.15pm/2.30pm - 5.30pm</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-n4qt">Training Venue</td>
-    <td class="tg-ii8k">School Field and School premises </td>
+    <td class="tg-ii8k">School Field and Blk F level 2 classrooms (S2-02 &amp; S2-03) </td>
   </tr>
 </tbody>
 </table>
@@ -41,9 +42,8 @@ Our motto is Nil Satis Nisi Optimum, “Nothing but the Best”. Through softbal
 ### TEACHERS IN-CHARGE
 
 *   Mdm Low Hui Ming (1st i/c)
-*   Ms Tracy Ng Siew Siew (2nd i/c)
-*   Ms Toh Hui Min
-*   Ms Tamil Alagi Manian
+*   Ms Tamil Alagi Manian (2nd i/c)
+*   Ms Tracy Ng Siew Siew
 
 
 ### COACHES

@@ -3,6 +3,7 @@ title: Football
 permalink: /cca/sports-and-games/football/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 ![Photo 1 Football 2023](/images/photo%201%20football%202023.JPG)
 # INTRODUCTION
@@ -39,11 +40,11 @@ The objectives of our activities are to:
   none;border-bottom:solid #2A2A2A 1.0pt;border-right:solid #2A2A2A 1.0pt;
   mso-border-top-alt:solid #2A2A2A .75pt;mso-border-left-alt:solid #2A2A2A .75pt;
   mso-border-alt:solid #2A2A2A .75pt;background:#EBEBEB;padding:3.75pt 3.75pt 3.75pt 3.75pt" valign="top" width="214"><p style="margin-bottom:7.5pt;text-align:center;
-  line-height:18.0pt" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">3.30 pm – 6.00 pm</span></p></td><td style="width:161.95pt;border-top:none;border-left:
+  line-height:18.0pt" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">3.15 pm – 6.00 pm</span></p></td><td style="width:161.95pt;border-top:none;border-left:
   none;border-bottom:solid #2A2A2A 1.0pt;border-right:solid #2A2A2A 1.0pt;
   mso-border-top-alt:solid #2A2A2A .75pt;mso-border-left-alt:solid #2A2A2A .75pt;
   mso-border-alt:solid #2A2A2A .75pt;background:#EBEBEB;padding:3.75pt 3.75pt 3.75pt 3.75pt" valign="top" width="216"><p style="margin-bottom:7.5pt;text-align:center;
-  line-height:18.0pt" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Soccer Field</span></p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes"><td style="width:109.7pt;border:solid #2A2A2A 1.0pt;
+  line-height:18.0pt" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">School Field or External venue (e.g. Clementi Stadium) and Blk F level 3 classrooms (S3-04 &amp; S3-05)</span></p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes"><td style="width:109.7pt;border:solid #2A2A2A 1.0pt;
   border-top:none;mso-border-top-alt:solid #2A2A2A .75pt;mso-border-alt:solid #2A2A2A .75pt;
   background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
   242;padding:3.75pt 3.75pt 3.75pt 3.75pt" valign="top" width="146"><p style="margin-bottom:7.5pt;text-align:center;
@@ -52,22 +53,18 @@ The objectives of our activities are to:
   mso-border-top-alt:solid #2A2A2A .75pt;mso-border-left-alt:solid #2A2A2A .75pt;
   mso-border-alt:solid #2A2A2A .75pt;background:#F2F2F2;mso-background-themecolor:
   background1;mso-background-themeshade:242;padding:3.75pt 3.75pt 3.75pt 3.75pt" valign="top" width="214"><p style="margin-bottom:7.5pt;text-align:center;
-  line-height:18.0pt" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">2.30 pm – 5.30 pm</span></p></td><td style="width:161.95pt;border-top:none;border-left:
+  line-height:18.0pt" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">1.15pm/2.30pm - 5.30pm</span></p></td><td style="width:161.95pt;border-top:none;border-left:
   none;border-bottom:solid #2A2A2A 1.0pt;border-right:solid #2A2A2A 1.0pt;
   mso-border-top-alt:solid #2A2A2A .75pt;mso-border-left-alt:solid #2A2A2A .75pt;
   mso-border-alt:solid #2A2A2A .75pt;background:#F2F2F2;mso-background-themecolor:
   background1;mso-background-themeshade:242;padding:3.75pt 3.75pt 3.75pt 3.75pt" valign="top" width="216"><p style="margin-bottom:7.5pt;text-align:center;
-  line-height:18.0pt" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Soccer Field</span></p></td></tr></tbody></table>
+  line-height:18.0pt" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">School Field or External venue (e.g. Clementi Stadium) and Blk F level 3 classrooms (S3-04 &amp; S3-05)</span></p></td></tr></tbody></table>
 
 ### TEACHERS-IN-CHARGE
 
-*   Ms Sheeja V Pillai (1st i/c)  
-    
-*   Mr Ang Xiang Rui (2nd i/c) 
-    
-*   Mdm Nazreen Bte Abdul Latiff  
-    
-*   Mr Yong Wei Hoong 
+*   Ms Sheeja V Pillai (1st i/c)
+*   Mr Ang Xiang Rui (2nd i/c)
+*   Mdm Nazreen Binte Abdul Latif
 
 ### STUDENT LEADERS
 

@@ -3,6 +3,7 @@ title: National Police Cadet Corps (NPCC)
 permalink: /cca/uniformed-group/national-police-cadet-corps-npcc/
 description: ""
 third_nav_title: Uniformed Group
+variant: markdown
 ---
 ![](/images/NPCC%20Unit%201%20(1).jpg)
 # INTRODUCTION
@@ -12,17 +13,17 @@ New Town NPCC has achieved at least 20 GOLD Awards since 1996. We have performed
 
 ### TRAINING SCHEDULE:
 
-**Day/Time**: Every Friday – 2.30pm - 5.30pm
+**Day/Time**: Tuesdays – 3:15pm to 6:00pm
 
-**Venue**: NPCC Room or School premises
+**Venue**: School premises e.g. open space between classroom blocks and Blk F level 4 classrooms (S4-11, S5-01, S3-06 &amp; S3-07)
 
 ### TEACHERS-IN-CHARGE
-*   Mrs Keira Seow (1st i/c)
-*   Ms Lai Chiu Shuan (2nd i/c)
-*   Mdm Ong Hwee Hian  
+*   Ms Lai Chiu Shuan (1st i/c)
+*   Ms Renuka Selva Rajoo (2nd i/c)
 *   Ms Kalai Vani Sivam
 *   Mr Alex Chan Kwan Meng
-*   Ms Alisha Lim Qing Chen
+*   Ms Alisha Lim Qing Wen
+*   Mrs Keira Seow (Sem 1 only)
 
 ### CADET INSPECTORS
 

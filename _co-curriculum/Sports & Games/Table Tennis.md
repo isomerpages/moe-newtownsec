@@ -3,6 +3,7 @@ title: Table Tennis
 permalink: /cca/sports-and-games/table-tennis/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 ![](/images/TT1.jpg)
 # INTRODUCTION
@@ -28,13 +29,13 @@ Promote an opportunity to experience the sport at a competitive level.
 <thead>
   <tr>
     <th class="tg-n4qt">Training Time</th>
-    <th class="tg-ii8k">Every Tuesday: 3.30pm – 5.30pm<br>Every Friday: 1.30pm – 4.00pm</th>
+    <th class="tg-ii8k">Tuesdays : 3.15pm – 6.00pm<br>Fridays : 1.15pm/2.30pm - 5.30pm</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-n4qt">Training Venue</td>
-    <td class="tg-ii8k">School Hall</td>
+    <td class="tg-ii8k">Part of School Hall</td>
   </tr>
 </tbody>
 </table>
@@ -42,7 +43,7 @@ Promote an opportunity to experience the sport at a competitive level.
 ### TEACHERS-IN-CHARGE
 
 *   Mr Goh Soon Hua (1st i/c)
-*   Mr James Koh Chee Yong (2nd i/c)
+*   Ms Tang Anqiong (2nd i/c)
 *   Ms Shannon Yap Tuan Chong
 
 

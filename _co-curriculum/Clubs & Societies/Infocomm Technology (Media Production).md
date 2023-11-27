@@ -3,6 +3,7 @@ title: Infocomm Technology (Media Production)
 permalink: /cca/clubs-n-societies/infocomm-technology-media-production/
 description: ""
 third_nav_title: Clubs & Societies
+variant: markdown
 ---
 ![](/images/infocomm%20tech.jpg)
 # INTRODUCTION
@@ -11,17 +12,16 @@ Infocomm Technology (Media Production) was established in 2018, tapping on the s
 
 ### TRAINING SCHEDULE: 
 
-**Day/Time:** Every Tuesday – 3.15pm - 6.00pm
+**Day/Time:** Tuesdays – 3.15pm - 6.00pm
 
-**Venue:** Computer labs
+**Venue:** Computer Labs, ALP Room &amp; School premises
 
 
 ### TEACHERS IN-CHARGE
-*   Ms Zoe Chan Zhong Yi&nbsp; (1st i/c)  
-*   Ms Hannah Cheng (2nd i/c)
-*   Mr Loganadhan Prathap  
+*   Mr Yong Wei Hoong (1st i/c)
+*   Ms Hannah Cheng Woan Woon (2nd i/c)
 *   Ms Chew Ying Ying
-*   Ms Joyce Gayathri
+*   Mr Loganadhan Prathap
 *   Mr Xu Yiming
 
 ### INSTRUCTORS

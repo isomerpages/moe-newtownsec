@@ -2,7 +2,6 @@
 title: Chinese Dance
 permalink: /cca/visual-n-performing-arts/chinese-dance/
 description: ""
-third_nav_title: Visual & Performing Arts
 ---
 ![](/images/chinese%20dance%2001.jpeg)
 # Introduction

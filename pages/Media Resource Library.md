@@ -2,7 +2,6 @@
 title: Media Resource Library
 permalink: /cca/clubs-n-societies/media-resource-library/
 description: ""
-third_nav_title: Clubs & Societies
 ---
 ![](/images/profile%20picture%201.jpg)
 # INTRODUCTION

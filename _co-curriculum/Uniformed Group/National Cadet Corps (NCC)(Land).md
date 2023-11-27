@@ -3,6 +3,7 @@ title: National Cadet Corps (NCC)(Land)
 permalink: /cca/uniformed-group/national-cadet-corps-ncc-land/
 description: ""
 third_nav_title: Uniformed Group
+variant: markdown
 ---
 ![](/images/IMG_9844.jpg)
 
@@ -24,13 +25,13 @@ NCC has eight Core Values:
 
 ### TRAINING SCHEDULE:
 
-**Day/Time**: Every Friday – 2.30pm - 5.30pm
+**Day/Time**: Tuesdays – 3:15pm to 6:00pm
 
-**Venue**: NCC Room or School premises
+**Venue**: School premises e.g. open space between classroom blocks and Blk G level 2 classrooms (S2-04 &amp; S2-05)
 
 ### TEACHERS-IN-CHARGE
 
-*   Mr Jackson Goh&nbsp;(1st i/c)
+*   Mr Jackson Goh Sheng Bao (1st i/c)
 *   Mr Tay Chong Guan (2nd i/c)
 *   Mr Randall Lim Wei Chun
 
