@@ -2,12 +2,13 @@
 title: Purchase of Textbooks and School Attire
 permalink: /about-us/links/parents/purchase-of-textbooks-and-school-attire/
 description: ""
+variant: markdown
 ---
 ### School Bookshop
 
 **Overseas Associates Pte Ltd** <br>  
 Physical Shop : New Town Secondary School  
-Booklist:&nbsp;&nbsp;[Booklist (2024)](/files/booklist%20(2024).pdf) 
+Booklist:&nbsp;&nbsp;[Booklist (2024)]([2024 Booklist](/files/Booklist/Booklist_2024_NTS_All_Levels.pdf)) 
  Online Shop :&nbsp;[www.oapl.sg](http://www.oapl.sg/)
 
 ### School Uniform &amp; PE Attire
