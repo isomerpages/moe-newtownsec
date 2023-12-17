@@ -2,10 +2,6 @@
 title: General Information
 permalink: /cca/general-information/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-*  **[CCA Schedule 2024](/files/CCA/2024_CCA_Schedule_141123__For_PDF__Student_version_for_sch_website.pdf)**
-
-*   **[Teachers-In-Charge and Training Venues](/files/CCA/2024_CCA_Deployment_081123__For_sch_website_.pdf)**
-
-*   **[CCA LEAPS 2.0](/files/LEAPS%202.pdf)**
+<ul><li><p><strong><a href="/files/CCA/2024_CCA_Schedule_141123__For_PDF__Student_version_for_sch_website.pdf" rel="noopener noreferrer nofollow" target="_blank">CCA Schedule 2024</a></strong></p></li><li><p><strong><a href="/files/CCA/2024_CCA_Deployment_081123__For_sch_website_.pdf" rel="noopener noreferrer nofollow" target="_blank">Teachers-In-Charge and Training Venues</a></strong></p></li><li><p><strong><a href="/files/LEAPS%202.pdf" rel="noopener noreferrer nofollow" target="_blank">CCA LEAPS 2.0</a></strong></p></li></ul><p></p>
