@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Upcoming Events
           description: ""
-          url: https://www.newtownsec.moe.edu.sg/openhouse2023/
+          url: https://www.newtownsec.moe.edu.sg/sec1ccaopenhouseandccaselections/
         - title: Secondary one posting
           description: ""
           url: /secondary-one-posting/sec1posting/
