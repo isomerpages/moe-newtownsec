@@ -2,7 +2,7 @@ collections:
   secondary-one-posting:
     output: true
     order:
-      - Appeal to Transfer to NTSS.md
-      - Medical Transfer to Other Schools.md
       - Sec 1 Registration.md
       - Purchase of Uniform and Textbooks.md
+      - Medical Transfer to Other Schools.md
+      - Appeal to Transfer to NTSS.md
