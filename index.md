@@ -12,6 +12,9 @@ sections:
         - title: Upcoming Events
           description: ""
           url: https://www.newtownsec.moe.edu.sg/openhouse2023/
+        - title: Secondary one posting
+          description: ""
+          url: //upcoming-events/sec1posting
   - infopic:
       title: Secondary One Posting
       subtitle: Add an image and text
