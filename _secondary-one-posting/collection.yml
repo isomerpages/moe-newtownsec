@@ -1,5 +1,4 @@
 collections:
   secondary-one-posting:
     output: true
-    order:
-      - Sec 1 Appeal to Transfer to NTSS.md
+    order: []
