@@ -2,7 +2,6 @@ collections:
   secondary-one-posting:
     output: true
     order:
-      - CCA Open House & CCA Selections.md
       - Sec 1 Registration.md
       - Purchase of Uniform and Textbooks.md
       - Medical Transfer to Other Schools.md
