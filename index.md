@@ -19,7 +19,7 @@ sections:
       title: Secondary One Posting
       subtitle: NTSS Welcomes You!
       id: infopic
-      description: Information on Secondary One posting, registration, or other matters.
+      description: Information on Secondary One posting, registration, and other matters.
       button: More Details
       url: /upcoming-events/sec1posting
       image: /images/Sec 1 Dance 1.jpg
