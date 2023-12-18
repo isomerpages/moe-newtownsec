@@ -2,4 +2,4 @@ collections:
   secondary-one-posting:
     output: true
     order:
-      - Secondary One Registration.md
+      - Sec 1 Registration.md
