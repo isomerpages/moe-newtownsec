@@ -2,6 +2,5 @@ collections:
   upcoming-events:
     output: true
     order:
-      - Secondary One Posting/Secondary One Posting.md
       - Secondary One Posting/.keep
       - 2023 Open House.md
