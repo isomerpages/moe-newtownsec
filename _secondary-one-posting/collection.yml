@@ -2,4 +2,5 @@ collections:
   secondary-one-posting:
     output: true
     order:
+      - Example Title.md
       - Sec 1 Registration.md
