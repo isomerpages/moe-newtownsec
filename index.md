@@ -17,7 +17,7 @@ sections:
           url: //upcoming-events/sec1posting
   - infopic:
       title: Secondary One Posting
-      subtitle: NTSS Welcomes You
+      subtitle: NTSS Welcomes You!
       id: infopic
       description: Information on Secondary One posting, registration, or other matters.
       button: More Details
