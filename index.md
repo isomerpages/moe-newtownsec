@@ -14,7 +14,7 @@ sections:
           url: https://www.newtownsec.moe.edu.sg/openhouse2023/
         - title: Secondary one posting
           description: ""
-          url: //upcoming-events/sec1posting
+          url: /secondary-one-posting/sec1posting/
   - infopic:
       title: Secondary One Posting
       subtitle: NTSS Welcomes You!
