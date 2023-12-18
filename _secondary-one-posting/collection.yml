@@ -1,0 +1,4 @@
+collections:
+  secondary-one-posting:
+    output: true
+    order: []
