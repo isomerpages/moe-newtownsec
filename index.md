@@ -21,7 +21,7 @@ sections:
       id: infopic
       description: Information on Secondary One posting, registration, and other matters.
       button: More Details
-      url: /upcoming-events/sec1posting
+      url: /secondary-one-posting/sec1posting/
       image: /images/Sec 1 Dance 1.jpg
       alt: Image alt text
   - infopic:
