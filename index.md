@@ -24,6 +24,12 @@ sections:
       url: /secondary-one-posting/sec1posting/
       image: /images/Sec 1 Dance 1.jpg
       alt: Image alt text
+  - infobar:
+      title: Sec 1 CCA Open House & CCA Selections
+      subtitle: Attention Parents!
+      id: infobar
+      button: More Details
+      url: https://www.newtownsec.moe.edu.sg/files/CCA/School_Website_Information_on_S1_CCA_Selection.pdf
   - infopic:
       title: Applied Learning (ALP)
       subtitle: School Distinctive Programmes
