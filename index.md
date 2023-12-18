@@ -13,6 +13,15 @@ sections:
           description: ""
           url: https://www.newtownsec.moe.edu.sg/openhouse2023/
   - infopic:
+      title: Secondary One Posting
+      subtitle: Add an image and text
+      id: infopic
+      description: Information on Secondary One posting, registration, or other matters.
+      button: More Details
+      url: /upcoming-events/sec1posting
+      image: /images/Sec 1 Dance 1.jpg
+      alt: Image alt text
+  - infopic:
       title: Applied Learning (ALP)
       subtitle: School Distinctive Programmes
       id: infopic
