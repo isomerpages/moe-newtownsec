@@ -4,4 +4,4 @@ permalink: /sec1ccaopenhouseandccaselections/
 variant: tiptap
 description: ""
 ---
-<h4><strong><a href="/files/CCA/School_Website_Information_on_S1_CCA_Selection.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 CCA Open House &amp; CCA Selections</a></strong></h4><p></p>
+<h4><strong><a href="/files/CCA/School_Website_Information_on_S1_CCA_Selection.pdf" rel="noopener noreferrer nofollow" target="_blank">More Details Here</a></strong></h4><p></p>
