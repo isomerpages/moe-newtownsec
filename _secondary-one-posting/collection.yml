@@ -1,4 +1,5 @@
 collections:
   secondary-one-posting:
     output: true
-    order: []
+    order:
+      - Secondary One Posting.md
