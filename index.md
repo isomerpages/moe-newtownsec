@@ -16,12 +16,12 @@ sections:
           description: ""
           url: /secondary-one-posting/sec1posting/
   - infopic:
-      title: Secondary One Posting
+      title: Sec 1 Registration
       subtitle: NTSS Welcomes You!
       id: infopic
-      description: Information on Secondary One posting, registration, and other matters.
+      description: Information on Secondary 1 posting, registration, and other matters.
       button: More Details
-      url: /secondary-one-posting/sec1posting/
+      url: /sec1reg/permalink/
       image: /images/Sec 1 Dance 1.jpg
       alt: Image alt text
   - infobar:
