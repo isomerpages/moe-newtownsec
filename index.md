@@ -14,7 +14,7 @@ sections:
           url: https://www.newtownsec.moe.edu.sg/sec1ccaopenhouseandccaselections/
         - title: Sec 1 Registration
           description: ""
-          url: /sec1reg/permalink/
+          url: /admissions/sec-1-registration/permalink
   - infopic:
       title: Sec 1 Registration
       subtitle: NTSS Welcomes You!
