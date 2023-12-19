@@ -21,7 +21,7 @@ sections:
       id: infopic
       description: Information on Secondary 1 posting, registration, and other matters.
       button: More Details
-      url: /sec1reg/permalink/
+      url: /admissions/sec-1-registration/permalink
       image: /images/Sec 1 Dance 1.jpg
       alt: Image alt text
   - infobar:
