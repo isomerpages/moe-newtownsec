@@ -12,9 +12,9 @@ sections:
         - title: Upcoming Events
           description: ""
           url: https://www.newtownsec.moe.edu.sg/sec1ccaopenhouseandccaselections/
-        - title: Secondary one posting
+        - title: Sec 1 Registration
           description: ""
-          url: /secondary-one-posting/sec1posting/
+          url: /sec1reg/permalink/
   - infopic:
       title: Sec 1 Registration
       subtitle: NTSS Welcomes You!
