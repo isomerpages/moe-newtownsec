@@ -2,6 +2,7 @@
 title: Science
 permalink: /department/science-2023/
 description: ""
+variant: markdown
 ---
 ### Key Focus
 To nurture effective problem solvers and confident Science communicators who are resilient, inquisitive, creative and ethical through a curriculum that promotes scientific literacy, inquiry and innovation.
@@ -36,7 +37,7 @@ The Science Department aims to leverage on a variety of pedagogical approaches a
 </thead>
 <tbody>
   <tr>
-    <td class="tg-9rpc">General Science (Express)<br>General Science (NA)<br>General Science (NT)</td>
+    <td class="tg-9rpc">General Science<br><br></td>
     <td class="tg-citn"><span style="color:#333">Science (Phy/Chem)</span><br><span style="color:#333">Science (Chem/Bio)  </span><br><span style="color:#333">Science Syllabus (T)</span></td>
     <td class="tg-citn"><span style="color:#333">Pure Biology</span><br><span style="color:#333">Pure Chemistry</span><br><span style="color:#333">Pure Physics</span><br><span style="color:#333">Science (Phy/Chem)</span><br><span style="color:#333">Science (Chem/Bio)</span></td>
   </tr>
