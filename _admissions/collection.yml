@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Sec 1 Registration/.keep
-      - Sec 1 Registration/Sec 1 Purchase of Uniform and Textbooks.md
       - Sec 1 Registration/Sec 1 Medical Transfer to Other Schools.md
       - Sec 1 Registration/Sec 1 Appeal to Transfer to NTSS.md
       - Direct School Admission/.keep
