@@ -7,29 +7,17 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero Banner/ntss philosophy hero banner 1920x720px static.jpg
+      background: /images/Hero Banner/2024_NTSS_Philosophy_Hero_Banner_1920x720px.png
       key_highlights:
         - title: Upcoming Events
           description: ""
           url: https://www.newtownsec.moe.edu.sg/sec1ccaopenhouseandccaselections/
-        - title: Sec 1 Registration
-          description: ""
-          url: /admissions/sec-1-registration/registration
   - infobar:
       title: Sec 1 CCA Open House & CCA Selections
       subtitle: Attention Parents!
       id: infobar
       button: More Details
       url: https://www.newtownsec.moe.edu.sg/files/CCA/School_Website_Information_on_S1_CCA_Selection.pdf
-  - infopic:
-      title: Sec 1 Registration
-      subtitle: NTSS Welcomes You!
-      id: infopic
-      description: Information on Secondary 1 posting, registration, and other matters.
-      button: More Details
-      url: /admissions/sec-1-registration/registration
-      image: /images/Sec 1 Dance 1.jpg
-      alt: Image alt text
   - infopic:
       title: Applied Learning (ALP)
       subtitle: School Distinctive Programmes
