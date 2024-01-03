@@ -1,0 +1,9 @@
+collections:
+  resources:
+    output: true
+    order:
+      - Publicity Consent.md
+      - For Students.md
+      - For Parents.md
+      - For Staff.md
+      - School Canteen.md

@@ -1,0 +1,17 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal's Message.md
+      - Vision, Mission & Values.md
+      - School Crest.md
+      - School History.md
+      - Our Staff.md
+      - Our Partners/.keep
+      - Our Partners/School Advisory Committee.md
+      - Our Partners/Parent Support Group.md
+      - Our Partners/Alumni.md
+      - Achievements/School Achievements.md
+      - Achievements/.keep
+      - Achievements/Outstanding Alumnus.md
+      - Contact Us.md

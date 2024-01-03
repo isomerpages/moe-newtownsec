@@ -1,0 +1,14 @@
+logo: /images/School Crest/ntss crest with full name ver2.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Curriculum
+    collection: curriculum
+  - title: Co-curriculum
+    collection: co-curriculum
+  - title: Distinctive Programmes
+    collection: school-distinctive-programmes
+  - title: Admissions
+    collection: admissions
+  - title: Resources
+    collection: resources

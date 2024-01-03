@@ -1,0 +1,13 @@
+collections:
+  curriculum:
+    output: true
+    order:
+      - English & Literature.md
+      - Mother Tongue Language.md
+      - Mathematics.md
+      - Science.md
+      - Humanities.md
+      - Craft & Technology.md
+      - Physical Education (PE).md
+      - Character and Citizenship Education (CCE).md
+      - Information and Communications Technology.md
