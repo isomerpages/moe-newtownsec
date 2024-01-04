@@ -45,8 +45,7 @@ The Guzheng Ensemble has been the pride and glory of New Town Secondary School. 
 
 ### COACH
 
-*   Mr Indra Chen Shanhui
-*   Mr Kok Xu Rong
+*   Ms Indra Chen Shanhui
 
 ### ACTIVITIES FOR THE YEAR
 
