@@ -2,17 +2,6 @@
 title: For Staff
 permalink: /quick-links/for-staff/
 description: ""
+variant: tiptap
 ---
-*   [**MIMS Portal**](https://idp.mims.moe.gov.sg/nidp/saml2/sso)
-*   [**Student Learning Space (SLS)**](https://vle.learning.moe.edu.sg/)
-*   [**SC Mobile**](https://scmobile.moe.edu.sg/)
-*   [**Resource Booking System**](https://rbs.avero-tech.com/)
-*   [**iCON 2.0**](https://workspace.google.com/dashboard)
-*   [**HRP**](https://www.hrp.gov.sg/)
-*   [**School Cockpit**](https://schoolcockpit.moe.gov.sg/)
-*   [**MOE Intranet**](https://intranet.moe.gov.sg/)
-*   [**HR Online**](http://intranet.moe.gov.sg/hronline/Pages/Home.aspx)
-*   [**iExams**](https://iexams.seab.gov.sg/)
-*   [**OPAL 2.0**](https://www.opal2.moe.edu.sg/)
-*   [**SSOE 2 Portal**](https://ssoe2.moe.edu.sg/)
-*   [**MOE Sports and Recreation Club**](https://www.mesrc.net/)
+<ul data-tight="true" class="tight"><li><p><strong><a href="https://idp.mims.moe.gov.sg/nidp/saml2/sso" rel="noopener noreferrer nofollow" target="_blank">MIMS Portal</a></strong></p></li><li><p><strong><a href="https://vle.learning.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a></strong></p></li><li><p><strong><a href="https://scmobile.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">SC Mobile</a></strong></p></li><li><p><strong><a href="https://rbs.avero-tech.com/" rel="noopener noreferrer nofollow" target="_blank">Resource Booking System</a></strong></p></li><li><p><strong><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">iCON 2.0</a></strong></p></li><li><p><strong><a href="https://www.hrp.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">HRP</a></strong></p></li><li><p><strong><a href="https://schoolcockpit.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">School Cockpit</a></strong></p></li><li><p><strong><a href="https://intranet.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MOE Intranet</a></strong></p></li><li><p><strong><a href="http://intranet.moe.gov.sg/hronline/Pages/Home.aspx" rel="noopener noreferrer nofollow" target="_blank">HR Online</a></strong></p></li><li><p><strong><a href="https://iexams.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">iExams</a></strong></p></li><li><p><strong><a href="https://www.opal2.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">OPAL 2.0</a></strong></p></li><li><p><strong><a href="https://ssoe2.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">SSOE 2 Portal</a></strong></p></li><li><p><strong><a href="https://www.mesrc.net/" rel="noopener noreferrer nofollow" target="_blank">MOE Sports and Recreation Club</a></strong></p></li></ul><p></p>
