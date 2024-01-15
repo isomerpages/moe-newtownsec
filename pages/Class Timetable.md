@@ -1,6 +1,6 @@
 ---
 title: Class Timetable
-permalink: /others/announcements/class-timetable-2023/
+permalink: /others/announcements/class-timetable/
 description: ""
 variant: tiptap
 ---
