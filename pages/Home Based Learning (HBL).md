@@ -2,14 +2,15 @@
 title: Home Based Learning (HBL)
 permalink: /about-us/links/students/home-based-learning-hbl/
 description: ""
+variant: markdown
 ---
 Home Based Learning (HBL)
 =========================
 
   
-### 16 August 2023 
+### 24 January 2024 
 **1. HBL Timetable and Learning Task**   
-   (Click on your respective level) \[Link will be accessible on 16 August\]  
+   (Click on your respective level) \[Link will be accessible on 24 Jan\]  
 	 
 
 | [Sec 1](https://docs.google.com/spreadsheets/d/1zGEOqHQVcILynmcF-WUQht7iSlkii0UAxdohk7PmcLQ/edit#gid=14012182)     | [Sec 2](https://docs.google.com/spreadsheets/d/1DGTrujGlnUFd-PECo8XZDF-EFt9Y9fcjo9Arz7z3-vc/edit#gid=14012182)     | [Sec 3](https://docs.google.com/spreadsheets/d/1st3rW7S7vqqYEM14z74Gobv80IiqeTG2V8yAiGINbUc/edit#gid=14012182)    |
