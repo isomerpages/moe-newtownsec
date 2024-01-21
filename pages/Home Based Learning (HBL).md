@@ -32,7 +32,7 @@ For any technical issue, please refer to the following:
 
 *   User guide for Students and SLS Login troubleshooting
 
-     [https://www.learning.moe.edu.sg/sls/students/index.html](https://www.learning.moe.edu.sg/sls/students/index.html)  
+[https://www.learning.moe.edu.sg/login-troubleshooting/authentication/index/](https://www.learning.moe.edu.sg/login-troubleshooting/authentication/index/)
   
 
 *   SLS Email address
