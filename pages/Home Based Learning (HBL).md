@@ -2,39 +2,6 @@
 title: Home Based Learning (HBL)
 permalink: /about-us/links/students/home-based-learning-hbl/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-Home Based Learning (HBL)
-=========================
-
-  
-### 24 January 2024 
-**1. HBL Timetable and Learning Task**   
-   (Click on your respective level) \[Link will be accessible on 24 Jan\]  
-	 
-
-| [Sec 1](https://docs.google.com/spreadsheets/d/1zGEOqHQVcILynmcF-WUQht7iSlkii0UAxdohk7PmcLQ/edit#gid=14012182)     | [Sec 2](https://docs.google.com/spreadsheets/d/1DGTrujGlnUFd-PECo8XZDF-EFt9Y9fcjo9Arz7z3-vc/edit#gid=14012182)     | [Sec 3](https://docs.google.com/spreadsheets/d/1st3rW7S7vqqYEM14z74Gobv80IiqeTG2V8yAiGINbUc/edit#gid=14012182)    |
-
-
-**2. Student Initiated Learning (SIL)**
-
-*   Select one SIL topic of your choice from the various SLS modules assigned to you.
-*   Follow the task instructions and complete the SIL reflection Padlet using the guiding questions provided. (Padlet link is in your google classroom Form Class Admin page)
-
-Have a great day learning!  
-  
-Technical Support  
-For any technical issue, please refer to the following:  
-
-*   NTSS School-based helpline
-
-    Tel: 6775 4140
-
-*   User guide for Students and SLS Login troubleshooting
-
-     [https://www.learning.moe.edu.sg/sls/students/index.html](https://www.learning.moe.edu.sg/sls/students/index.html)  
-  
-
-*   SLS Email address
-
-     [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com)
+<h1>Home Based Learning (HBL)</h1><h3><strong>24 January 2024</strong></h3><p><strong>1.&nbsp;HBL Timetable and Learning Task</strong>&nbsp;<br>&nbsp; &nbsp;(Click on your respective level)&nbsp;[Link will be accessible on <strong>24 Jan</strong>]</p><table><tbody><tr><th rowspan="1" colspan="1"><p><a href="https://docs.google.com/spreadsheets/d/1C9pZtOKFG472xfDpQK-OiJArfVOPr3YZ/edit#gid=453913113" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a></p></th><th rowspan="1" colspan="1"><p><strong><a href="https://docs.google.com/spreadsheets/d/1rTT8WUlrrJJDY5qlnu3kwJeNSrntitST/edit#gid=480288370" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a></strong></p></th></tr><tr><td rowspan="1" colspan="1"><p><strong><a href="https://docs.google.com/spreadsheets/d/1C9pZtOKFG472xfDpQK-OiJArfVOPr3YZ/edit#gid=453913113" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a></strong></p></td><td rowspan="1" colspan="1"><p><strong><a href="https://docs.google.com/spreadsheets/d/1__KJhiRqxUpDNc_FcTBwzFcwi02i7QGr/edit#gid=1865333830" rel="noopener noreferrer nofollow" target="_blank">Sec 4/5</a></strong></p></td></tr></tbody></table><p><strong>2.&nbsp;ASPIRE! Programme</strong></p><p>Follow the instructions in your class ASPIRE! Padlet and complete the task assigned.<br>[Refer to google classoom(Form Class) for the Padlet link]</p><h4>Have a great day learning!</h4><p>Technical Support<br>For any technical issue, please refer to the following:</p><ul data-tight="true" class="tight"><li><p>NTSS School-based helpline<br>Tel: <strong>6775 4140</strong></p></li><li><p>User guide for Students and SLS Login troubleshooting<br><a href="https://www.learning.moe.edu.sg/login-troubleshooting/authentication/index/" rel="noopener noreferrer nofollow" target="_blank">https://www.learning.moe.edu.sg/login-troubleshooting/authentication/index/</a></p></li><li><p>SLS Email address<br><a href="mailto:helpdesk@sls.ufinity.com" rel="noopener noreferrer nofollow" target="_blank">helpdesk@sls.ufinity.com</a></p></li></ul><p></p>
