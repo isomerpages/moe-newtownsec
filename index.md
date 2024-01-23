@@ -12,6 +12,9 @@ sections:
         - title: Upcoming Events
           description: ""
           url: https://www.newtownsec.moe.edu.sg/sec1ccaopenhouseandccaselections/
+        - title: Home-Based Learning
+          description: ""
+          url: Home-Based Learning
   - infobar:
       title: Sec 1 CCA Open House & CCA Selections
       subtitle: Attention Parents!
