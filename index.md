@@ -14,7 +14,7 @@ sections:
           url: https://www.newtownsec.moe.edu.sg/sec1ccaopenhouseandccaselections/
         - title: Home-Based Learning
           description: ""
-          url: Home-Based Learning
+          url: /about-us/links/students/home-based-learning-hbl/
   - infobar:
       title: Sec 1 CCA Open House & CCA Selections
       subtitle: Attention Parents!
