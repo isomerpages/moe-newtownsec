@@ -9,12 +9,12 @@ sections:
   - hero:
       background: /images/Hero Banner/2024_NTSS_Philosophy_Hero_Banner_1920x720px.png
       key_highlights:
-        - title: Upcoming Events
-          description: ""
-          url: https://www.newtownsec.moe.edu.sg/sec1ccaopenhouseandccaselections/
         - title: Home-Based Learning
           description: ""
           url: https://www.newtownsec.moe.edu.sg/about-us/links/students/home-based-learning-hbl/
+        - title: Upcoming Events
+          description: ""
+          url: https://www.newtownsec.moe.edu.sg/sec1ccaopenhouseandccaselections/
   - infobar:
       title: Sec 1 CCA Open House & CCA Selections
       subtitle: Attention Parents!
