@@ -14,7 +14,7 @@ sections:
           url: https://www.newtownsec.moe.edu.sg/about-us/links/students/home-based-learning-hbl/
         - title: Upcoming Events
           description: ""
-          url: https://www.newtownsec.moe.edu.sg/upcoming-events/
+          url: https://www.newtownsec.moe.edu.sg/upcoming-events/savethedates/
   - infobar:
       title: Sec 1 CCA Open House & CCA Selections
       subtitle: Attention Parents!
