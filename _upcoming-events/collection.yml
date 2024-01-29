@@ -2,4 +2,5 @@ collections:
   upcoming-events:
     output: true
     order:
+      - Save the Dates!.md
       - Sec 1 CCA Open House & CCA Selections.md
