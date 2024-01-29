@@ -141,21 +141,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24</p>
+<p>24th April, Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Home-Based Learning</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -163,10 +152,21 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>26th April, Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>School 59th Commendation Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3:00pm to 5:00pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8th May, Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Home-Based Learning</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -174,10 +174,44 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>10th May, Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>School Annual Cross-Country</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8:00am to 12:00nn</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24th May, Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parent Teacher Conversation (PTC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8:00am to 2:00pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2nd July, Tuesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 2 Music Experience (Performing Arts-Based Learning)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1:00pm to 4:00pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3rd July, Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 to 3
+<br>Home-Based Learning</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -185,40 +219,29 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>10th July, Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sec 1 to 3 Class Committee Training</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>2:30pm to 5:30pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>8th August, Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>School National Day Celebrations</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>8:00am to 11:00am</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>25th October</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -252,4 +275,4 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<p></p>
+<p>th</p>
