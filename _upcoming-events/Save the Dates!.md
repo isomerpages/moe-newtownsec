@@ -241,10 +241,22 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>25th October</p>
+<p>25th October, Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Parent Teacher Conversation (PTC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8:00am to 2:00pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4th November, Monday to
+<br>6th November, Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 2 Cohort Overseas Trip</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -252,27 +264,16 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>16th November, Saturday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>School Open House 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>8:00am to 12:00nn</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p>th</p>
+<p>th,</p>
