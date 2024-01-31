@@ -12,21 +12,21 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><a href="https://docs.google.com/spreadsheets/d/18xFXEJTm0gszH_J9u-4rBclwUlrjQQXp5pEPaS2A1xM/edit#gid=1170881626" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>
+<p><a href="https://docs.google.com/spreadsheets/d/1VfpGWUnaIvY2oI43ixqEdKVKRdBDdgA71Zwx2c2xJKY/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong><a href="https://docs.google.com/spreadsheets/d/1rTT8WUlrrJJDY5qlnu3kwJeNSrntitST/edit#gid=480288370" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a></strong>
+<p><strong><a href="https://docs.google.com/spreadsheets/d/1tnpmy5qpCxoypttooVqdRvwpIVVlnFSp/edit?usp=sharing&amp;ouid=111918605529837501284&amp;rtpof=true&amp;sd=true" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a></strong>
 </p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://docs.google.com/spreadsheets/d/1C9pZtOKFG472xfDpQK-OiJArfVOPr3YZ/edit#gid=453913113" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a></strong>
+<p><strong><a href="https://docs.google.com/spreadsheets/d/1O602xZNLazh029cl4DrLlxnTqUaEa0Hy/edit?usp=sharing&amp;ouid=111918605529837501284&amp;rtpof=true&amp;sd=true" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://docs.google.com/spreadsheets/d/1__KJhiRqxUpDNc_FcTBwzFcwi02i7QGr/edit#gid=1865333830" rel="noopener noreferrer nofollow" target="_blank">Sec 4/5</a></strong>
+<p><strong><a href="https://docs.google.com/spreadsheets/d/1cY6d7nOItPNHvzLHgoUxGCUbrLmkWVB-/edit?usp=sharing&amp;ouid=111918605529837501284&amp;rtpof=true&amp;sd=true" rel="noopener noreferrer nofollow" target="_blank">Sec 4/5</a></strong>
 </p>
 </td>
 </tr>
