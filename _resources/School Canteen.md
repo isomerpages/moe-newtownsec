@@ -61,7 +61,7 @@ of all food handlers</p>
 via email OR to the School's General Office.</p>
 <p>Address: <strong>New Town Sec School, 1020 Dover Road, Singapore 139657</strong>
 </p>
-<p>Contact No: <strong>67754140</strong>
+<p>Contact No: <strong>67754140</strong> 
 <br>Email: <strong>ntss@moe.edu.sg</strong>
 </p>
 <p>Contact Person: <strong>Mdm Rohaidah (CSO)/Mr Chia Yuen Teck (Operations Mgr)</strong>
