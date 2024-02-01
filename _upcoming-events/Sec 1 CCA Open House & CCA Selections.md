@@ -1,6 +1,6 @@
 ---
 title: Sec 1 CCA Open House & CCA Selections
-permalink: /sec1ccaopenhouseandccaselections/
+permalink: /upcoming-events/sec1ccaopenhouseandccaselections/
 variant: tiptap
 description: ""
 ---
