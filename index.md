@@ -14,7 +14,7 @@ sections:
           url: https://www.newtownsec.moe.edu.sg/about-us/links/students/home-based-learning-hbl/
         - title: Upcoming Events
           description: ""
-          url: https://www.newtownsec.moe.edu.sg/upcoming-events/sec1ccaopenhouseandccaselections/
+          url: https://www.newtownsec.moe.edu.sg/upcoming-events/savethedates/
   - infopic:
       title: Applied Learning (ALP)
       subtitle: School Distinctive Programmes
