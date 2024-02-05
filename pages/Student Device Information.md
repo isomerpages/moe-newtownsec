@@ -7,4 +7,4 @@ variant: markdown
 ---
 * [Student Device Information Kit](/files/Student_Device_Information_Kit___11_Jan_2024.pdf)
 
-* [DMA After-School Parent Options](/files/dma%20after-school%20parent%20options.pdf)
+* 
