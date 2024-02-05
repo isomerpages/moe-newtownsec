@@ -8,3 +8,5 @@ variant: markdown
 * [Student Device Information Kit](/files/Student_Device_Information_Kit___11_Jan_2024.pdf)
 
 * [DMA After-School Parent Options](/files/DMA_Infographic_And_After_School_Parent_Options_5_Feb_2024.pdf)
+* [Parent Handbook (I) on learning with a PLD](/files/IP2___Parent_Handbook__I__2024_FINAL.pdf)
+* [Parent Handbook (II) on learning with a PLD](/files/IP3___Parent_Handbook__II__2024_FINAL.pdf)
