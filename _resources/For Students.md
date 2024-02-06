@@ -26,6 +26,10 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="/files/Student_Helpdesk___Library.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Helpdesk @ Library</a>
+</p>
+</li>
+<li>
 <p><a href="https://newtownsec.moe.edu.sg/others/announcements/class-timetable" rel="noopener noreferrer nofollow" target="_blank">Class Timetable</a>
 </p>
 </li>

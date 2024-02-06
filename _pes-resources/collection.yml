@@ -1,0 +1,6 @@
+collections:
+  pes-resources:
+    output: true
+    order:
+      - 2024 Sec 1 PES.md
+      - 2024 Sec 2 to 5 PES.md
