@@ -1,4 +1,5 @@
 collections:
   pes-resources:
     output: true
-    order: []
+    order:
+      - Parents Engagement Session Resources.md
