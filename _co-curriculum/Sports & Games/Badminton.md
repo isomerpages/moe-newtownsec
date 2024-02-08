@@ -28,18 +28,19 @@ The team trains on a weekly basis, under the guidance of experienced Coaches and
 <thead>
   <tr>
     <th class="tg-n4qt">Training Time*</th>
-    <th class="tg-ii8k">Tuesdays : 3.15pm – 6.00pm<br>Fridays : 1.15pm/2.30pm - 5.30pm</th>
+    <th class="tg-ii8k">Tuesday: 3.30 pm to 5.30 pm<br>Friday: 1.30 pm to 4.30 pm (Girls only), 2.30 pm to 5.30 pm (Boys only)</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-n4qt">Training Venue</td>
-    <td class="tg-ii8k">School Indoor Sports Hall Level 2, Part of School Hall, External venue (e.g. NUS High School or Clementi Sports Hall) and/or Blk F level 3 classrooms (S4-07 &amp; S4-08) </td>
+    <td class="tg-ii8k">NTSS School Indoor Sports Hall Level 2, Blk E or F Classrooms  
+External Venues (E.g. NUS High School/Clementi Sports Hall)</td>
   </tr>
 </tbody>
 </table>
 
-* Extra Weekly &amp; Holiday Trainings before the Competition Season
+* Extra weekly and holidays trainings to be conducted before the competition season.
 
 ### TEACHERS-IN-CHARGE
 
