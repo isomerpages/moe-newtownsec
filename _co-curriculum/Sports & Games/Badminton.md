@@ -28,10 +28,10 @@ the value of sportsmanship and teamwork.</p>
 <p>Training Time*</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Tuesday: 3.30 pm to 5.30 pm
+<p>Tuesday: 3.30pm to 5.30pm
 <br>Friday:
-<br>1.30 pm to 4.30 pm (Girls only)
-<br>2.30 pm to 5.30 pm (Boys only)</p>
+<br>1.30pm to 4.30pm (Girls only)
+<br>2.30pm to 5.30pm (Boys only)</p>
 </th>
 </tr>
 <tr>
@@ -46,12 +46,8 @@ Hall)</p>
 </tr>
 </tbody>
 </table>
-<ul data-tight="true" class="tight">
-<li>
-<p>Extra weekly and holidays trainings to be conducted before the competition
-season.</p>
-</li>
-</ul>
+<p><strong>*Extra weekly and holidays trainings to be conducted before the competition season.</strong>
+</p>
 <h3>TEACHERS-IN-CHARGE</h3>
 <ul data-tight="true" class="tight">
 <li>
