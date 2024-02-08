@@ -5,8 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h1>Home Based Learning (HBL)</h1>
-<h3><strong>7 February 2024</strong></h3>
-<p><strong>1.&nbsp;HBL Timetable and Learning Task</strong>&nbsp;
+<h3><strong>6 March 2024</strong></h3>
+<p><strong>1.&nbsp;HBL Timetable and Learning Task</strong>
 <br>&nbsp; &nbsp;Click on your respective level</p>
 <table>
 <tbody>
