@@ -794,7 +794,7 @@ variant: tiptap
 <p>Ms Alisha Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>alisha_lim_qing_chen@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
