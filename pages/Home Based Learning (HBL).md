@@ -6,27 +6,27 @@ variant: tiptap
 ---
 <h1>Home Based Learning (HBL)</h1>
 <h3><strong>6 March 2024</strong></h3>
-<p><strong>1.&nbsp;HBL Timetable and Learning Task</strong>
+<p><strong>1.&nbsp;HBL Timetable and Learning Task</strong> 
 <br>&nbsp; &nbsp;Click on your respective level</p>
 <table>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><a href="https://docs.google.com/spreadsheets/d/1VfpGWUnaIvY2oI43ixqEdKVKRdBDdgA71Zwx2c2xJKY/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>
+<p><a href="https://docs.google.com/spreadsheets/d/12-oFxnsXRszV2fmykix99WOZMaMuP4-MtKZhiun64D0/edit?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong><a href="https://docs.google.com/spreadsheets/d/1tnpmy5qpCxoypttooVqdRvwpIVVlnFSp/edit?usp=sharing&amp;ouid=111918605529837501284&amp;rtpof=true&amp;sd=true" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a></strong>
+<p><strong><a href="https://docs.google.com/spreadsheets/d/1a7Se_p_09DrEcTrKhl7FUa8RP8f3BsnW/edit?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a></strong>
 </p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://docs.google.com/spreadsheets/d/1O602xZNLazh029cl4DrLlxnTqUaEa0Hy/edit?usp=sharing&amp;ouid=111918605529837501284&amp;rtpof=true&amp;sd=true" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a></strong>
+<p><strong><a href="https://docs.google.com/spreadsheets/d/1XdMbfdFXofeaAUBgzoK4MvvXyWL8ipC9/edit?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://docs.google.com/spreadsheets/d/1cY6d7nOItPNHvzLHgoUxGCUbrLmkWVB-/edit?usp=sharing&amp;ouid=111918605529837501284&amp;rtpof=true&amp;sd=true" rel="noopener noreferrer nofollow" target="_blank">Sec 4/5</a></strong>
+<p><strong><a href="https://docs.google.com/spreadsheets/d/1xI-3yX8aIPgybEzNeiIX1bvRHm0HZ59L/edit?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Sec 4/5</a></strong>
 </p>
 </td>
 </tr>
