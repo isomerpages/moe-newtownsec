@@ -69,7 +69,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>个人优胜奖</strong>
+<p><strong>个人优胜奖</strong> 
 <br><strong>Individual Merit Award</strong>
 </p>
 <p></p>
@@ -91,7 +91,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2023年度中学生现场华文创作比赛</strong>
+<p><strong>2023年度中学生现场华文创作比赛</strong> 
 <br><strong>2023 National on the Spot Chinese Essay Writing Competition</strong>
 </p>
 </td>
@@ -101,6 +101,32 @@ variant: tiptap
 <p>Fiona Yap 葉欣儀
 <br>Ng Zhi Yu, Jayden 黄志昱
 <br>Jeneil Chia Min Yu 谢敏钰</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Achievements/MTL/MTL_2023_National_on_the_Spot_Chinese_Essay_Writing_Competition_P01.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Achievements/MTL/MTL_2023_National_on_the_Spot_Chinese_Essay_Writing_Competition_P03.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Achievements/MTL/MTL_2023_National_on_the_Spot_Chinese_Essay_Writing_Competition_P02.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -279,4 +305,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
