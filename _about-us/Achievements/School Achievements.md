@@ -27,6 +27,32 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Mother Tongue</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2023年全国中学编采比赛 </strong>
+<br><strong>Create Your Own Newspaper Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>低年级组一等奖&amp;深度报道奖</strong>
+<br><strong>Lower Sec First Prize &amp; In-depth Reporting Award</strong>
+</p>
+<p></p>
+<p>Fiona Yap 葉欣儀
+<br>Ng Zhi Yu, Jayden 黄志昱
+<br>Ng Yan Hou 黄衍豪
+<br>Wang Zihao 王子豪
+<br>Phebe Teo 赵佳慧<strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Persevere And Learn through Sports (PALS)</strong>
 </p>
 </td>
