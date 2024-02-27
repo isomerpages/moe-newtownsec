@@ -36,7 +36,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>低年级组一等奖&amp;深度报道奖</strong>
+<p><strong>低年级组一等奖&amp;深度报道奖</strong> 
 <br><strong>Lower Sec First Prize &amp; In-depth Reporting Award</strong>
 </p>
 <p></p>
@@ -46,6 +46,32 @@ variant: tiptap
 <br>Wang Zihao 王子豪
 <br>Phebe Teo 赵佳慧<strong>&nbsp;</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Achievements/MTL/MTL_Create_Your_Own_Newspaper_Competition_P02.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Achievements/MTL/MTL_Create_Your_Own_Newspaper_Competition_P01.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Achievements/MTL/MTL_Create_Your_Own_Newspaper_Competition_P03.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
