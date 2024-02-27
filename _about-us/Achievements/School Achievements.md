@@ -27,7 +27,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mother Tongue</strong>
+<p><strong>Mother Tongue Language</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -59,19 +59,48 @@ variant: tiptap
 </div>
 </td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Mother Tongue Language</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>2023 年第十六届全国中学翻译比赛<br>16th National Secondary Schools Translation Competition 2023</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>个人优胜奖</strong>
+<br><strong>Individual Merit Award</strong>
+</p>
 <p></p>
+<p>Fiona Yap 葉欣儀
+<br>Ong Yi Jie 王艺洁</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Achievements/MTL/MTL_16th_National_Secondary_Schools_Translation_Competition_2023_P01.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Achievements/MTL/MTL_16th_National_Secondary_Schools_Translation_Competition_2023_P02.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mother Tongue Language</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2023年度中学生现场华文创作比赛</strong>
+<br><strong>2023 National on the Spot Chinese Essay Writing Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>佳作奖<br>Merit Award</strong>
+</p>
+<p>Fiona Yap 葉欣儀
+<br>Ng Zhi Yu, Jayden 黄志昱
+<br>Jeneil Chia Min Yu 谢敏钰</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
