@@ -57,14 +57,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice-President (Events)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Jimmy Lim</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Vice-President (Membership)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -85,6 +77,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Agnes Ho</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Membership Development Chairman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ivy Soh</p>
 </td>
 </tr>
 <tr>
