@@ -63,7 +63,10 @@ Hall)</p>
 <p>Mr Sim Ik Fong</p>
 </li>
 <li>
-<p>Ms Teng Shumin (Sem 1 only)</p>
+<p>Ms Teng Shumin</p>
+</li>
+<li>
+<p>Ms Gao Chen Ivy</p>
 </li>
 </ul>
 <h3>COACHES</h3>
