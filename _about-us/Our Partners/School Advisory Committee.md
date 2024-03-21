@@ -3,63 +3,98 @@ title: School Advisory Committee
 permalink: /about-us/our-partners/school-advisory-committee-2023/
 description: ""
 third_nav_title: Our Partners
+variant: tiptap
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-dwlh{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Appointment</span></th>
-    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Name</span></th>
-  </tr>
-</thead>
+<table>
 <tbody>
-  <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Chairman</span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Dr Tay Chor Ter</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Member</span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Dr Wong Woon Kwong   </span></td>
-  </tr>
-  <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Member</span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Mr Foong Weng Loong (Ralph) </span></td>
-  </tr>
-  <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Member</span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Sim Chuan San  </span></td>
-  </tr>
-  <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Member</span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Dr Toh Kwai Mui </span></td>
-  </tr>
-  <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Member</span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Mr Ng Keng Boon</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Member</span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Ms Lam Mei San Michelle</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Member</span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Mr Cheah Kok Keong </span></td>
-  </tr>
-  <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Member</span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Mr Lee Zongdao, Alex </span></td>
-  </tr>
-  <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Member</span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Ms Adelene Tan Choon Yan</span></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Appointment</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chairman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Tay Chor Ter</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Wong Woon Kwong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Foong Weng Loong (Ralph)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Sim Chuan San</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Toh Kwai Mui</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Keng Boon</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lam Mei San Michelle</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Cheah Kok Keong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Zongdao, Alex</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Adelene Tan Choon Yan</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
