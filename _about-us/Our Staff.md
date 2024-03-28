@@ -1190,17 +1190,6 @@ variant: tiptap
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kang Cheong Hee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>kang_cheong_hee@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operations Manager</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Chia Yuen Teck</p>
 </td>
 <td rowspan="1" colspan="1">
