@@ -1193,7 +1193,7 @@ variant: tiptap
 <p>Ms Fauziah Zainal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>fauziah_zainal@moe.edud.sg</p>
+<p>fauziah_zainal@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
