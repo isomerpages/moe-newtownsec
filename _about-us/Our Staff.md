@@ -1187,13 +1187,13 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operations Manager</p>
+<p>Admin Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kang Cheong Hee</p>
+<p>Ms Fauziah Zainal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>kang_cheong_hee@moe.edu.sg</p>
+<p>fauziah_zainal@moe.edud.sg</p>
 </td>
 </tr>
 <tr>
