@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h1>School Crest</h1>
 <div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/School%20Crest/ntss%20crest%20(transparent%20bg).png">
+<img style="width: 37%;" height="auto" width="100%" src="/images/School%20Crest/ntss%20crest%20(transparent%20bg).png">
 </div>
 <p><strong><em>创造美好生活</em></strong> 
 <br><strong><em>TO FORGE A BETTER LIFE</em></strong>
