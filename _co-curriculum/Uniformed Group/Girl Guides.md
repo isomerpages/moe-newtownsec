@@ -20,7 +20,6 @@ leaders of tomorrow.</p>
 responsible citizens of the world.</p>
 <h4><u>Our Motto</u></h4>
 <p>Be Prepared</p>
-<p>&nbsp;</p>
 <h3><strong>TRAINING SCHEDULE/PRACTICE SESSIONS</strong></h3>
 <p><strong>Day:</strong> Tuesdays
 <br><strong>Time:</strong> 3.20PM – 5.30PM</p>
@@ -112,5 +111,5 @@ responsible citizens of the world.</p>
 </li>
 </ul>
 <p></p>
-<h4><strong>PHOTO GALLERY</strong><br></h4>
+<h3><strong>PHOTO GALLERY</strong><br></h3>
 <p></p>
