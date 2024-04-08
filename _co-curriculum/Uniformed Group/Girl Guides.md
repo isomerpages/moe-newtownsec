@@ -87,8 +87,6 @@ responsible citizens of the world.</p>
 <p>1 Star Kayaking Certification</p>
 </li>
 </ul>
-<p><strong>&nbsp;</strong>
-</p>
 <h4><strong>ACHIEVEMENTS</strong></h4>
 <p><u>2022</u>
 </p>
