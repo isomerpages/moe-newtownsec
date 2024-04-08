@@ -106,7 +106,6 @@ responsible citizens of the world.</p>
 <p>West Division Day Competition (Bag it Home) – 3<sup>rd</sup> Place</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p><u>2021</u>
 </p>
 <ul data-tight="true" class="tight">
