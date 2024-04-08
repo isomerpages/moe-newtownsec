@@ -3,81 +3,117 @@ title: Girl Guides
 permalink: /cca/uniformed-group/girl-guides/
 description: ""
 third_nav_title: Uniformed Group
-variant: markdown
+variant: tiptap
 ---
-![](/images/main.jpg)
-
-# INTRODUCTION
-<u>Mission</u><br>
-To enable girls and young women to develop their fullest potential as responsible citizens of the world.
-
-<u>Vision</u><br>
-We are a growing worldwide Movement ~ the voice of girls and young women who influence issues they care about and build a better world.
-
-<u>The Guide Motto “Be Prepared”</u><br>
-The initials of the GGS motto, “Be Prepared”, also happens to be our Founder’s initials and is a practical reminder of the purpose of Girl Guiding which is to always be prepared for any eventuality. We carry out many activities that encompass the five modules in guiding – social and personal development, home, outdoor, knowledge of community and international. We also strive to be proficient in specific life skills that enable us to be prepared for the future.
-
-### TRAINING SCHEDULE:
-
-**Day/Time**: Tuesdays – 3:15pm to 6:00pm
-
-**Venue**: School premises e.g. open space between classroom blocks and Blk F level 2 classroom (S2-01 &amp; S3-01)
-
-### TEACHERS-IN-CHARGE
-
-* Ms Nur Syahirah Binte Nahadi (1st i/c)
-* Ms Chua Zi Hui Samanthan (2nd i/c)
-* Mdm Zhuo Jinrong
-
-### ACTIVITIES FOR THE YEAR
-
-* Puan Noor Aishah Award
-* Free Being Me Workshop
-* World Thinking Day 2022
-* West Division Day 2022 
-* West Division Learning Day 2022
-* First Aid Course
-* Singapore Cancer Society's Smoke Free Programme
-* West Division Campfire 
-* Annual NTSS Girl Guides Camp
-
-### ACHIEVEMENTS
-
-<u>2021</u>
-
-* West Division Day - Caption The Moment Competition (Participation)
-* West Division Day - Get Creative with Tik Tok Competition (Bronze Award)
-* West Division Day - Solve the Mystery Competition (Participation)
-* West Division Day - All about Girl Guide Quizizz Competition (Participation)
-* West Division Campfire (13th August) - Emcees
-
-<u>2019</u>
-
-* Puan Noor Aishah (PNA) Gold Award
-* West Division Day – Poster Design – Bronze
-* West Division Day – Save the Fishes – Gold 
-
-<u>2018</u>
-
-* Puan Noor Aishah (PNA) Gold Award
-
-* West Division Day – Recyclables Craft -Bronze
-
-
-
-<u>2017</u>
-
-* Puan Noor Aishah (PNA) Gold Award
-
-* World Thinking Day – Most Creative Picnic Setup 
-
-* West Division Day – Artic Explorers – Bronze
-
-
-### EXTERNAL LINK
-
-[Girl Guides Singapore](https://www.girlguides.org.sg)
-
-### PHOTO GALLERY
-
-<iframe allowfullscreen="true" height="500" width="500" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRolY5cnEIwByzC2Hj1hGgF7r0hTpaynH3kI-0vWWYGZk6RN0PpohUYG4HHA6F_UlVTxIKL3GkjbwWZ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/main.jpg">
+</div>
+<h3><strong>INTRODUCTION</strong></h3>
+<p>In Girl Guides, our girls embark on a journey of sisterhood, leadership,
+and fun. Through engaging activities and outdoor adventures, we impart
+life skills and empower girls to become confident, capable, and compassionate
+leaders of tomorrow.</p>
+<h4><u>Our Vision</u></h4>
+<p>All girls are valued and take action to change the world.&nbsp;</p>
+<h4><u>Our Mission</u></h4>
+<p>To enable girls and young women to develop their fullest potential as
+responsible citizens of the world.</p>
+<h4><u>Our Motto</u></h4>
+<p>Be Prepared</p>
+<p>&nbsp;</p>
+<h3><strong>TRAINING SCHEDULE/PRACTICE SESSIONS</strong></h3>
+<p><strong>Day:</strong> Tuesdays
+<br><strong>Time:</strong> 3.20PM – 5.30PM</p>
+<p></p>
+<h4><strong>TEACHERS IN-CHARGE</strong>&nbsp;</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Nur Syahirah Binte Nahadi (1st i/c)</p>
+</li>
+<li>
+<p>Ms Chua Zi Hui Samanthan (2nd i/c)</p>
+</li>
+<li>
+<p>Mdm Zhuo Jinrong</p>
+</li>
+</ul>
+<p></p>
+<h4><strong>STUDENT LEADERS</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Jeneil Chia Min Yu, 3-Care (Company Leader)</p>
+</li>
+<li>
+<p>Lim Xin Rui, 3-Care (Assistant Company Leader)</p>
+</li>
+</ul>
+<p></p>
+<h4><strong>ACTIVITIES FOR THE YEAR 2024</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>World Thinking Day Commemoration</p>
+</li>
+<li>
+<p>West Division Day</p>
+</li>
+<li>
+<p>West Division Learning Day</p>
+</li>
+<li>
+<p>Annual Unit Camp</p>
+</li>
+<li>
+<p>NTSS Uniformed Groups Integration Day</p>
+</li>
+<li>
+<p>Free Being Me Programme</p>
+</li>
+<li>
+<p>Mental Health Advocacy Badge Programme</p>
+</li>
+<li>
+<p>AETOS Self-Defense Workshop</p>
+</li>
+<li>
+<p>SANA Anti-Drug &amp; Inhalant Abuse Badge Programme</p>
+</li>
+<li>
+<p>Patrol Leaders’ Training Course</p>
+</li>
+<li>
+<p>First Aid Course</p>
+</li>
+<li>
+<p>1 Star Kayaking Certification</p>
+</li>
+</ul>
+<p><strong>&nbsp;</strong>
+</p>
+<h4><strong>ACHIEVEMENTS</strong></h4>
+<p><u>2022</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Puan Noor Aishah Award – Gold</p>
+</li>
+<li>
+<p>West Division Day Competition (Poets for Peace) – 1<sup>st</sup> Place</p>
+</li>
+<li>
+<p>West Division Day Competition (Catapult Jeopardy) – 1<sup>st</sup> Place</p>
+</li>
+<li>
+<p>West Division Day Competition (Bag it Home) – 3<sup>rd</sup> Place</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p><u>2021</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>West Division Day Competition (Get Creative with TikTok) – Bronze</p>
+</li>
+</ul>
+<p></p>
+<h4><strong>PHOTO GALLERY</strong><br></h4>
+<p></p>
