@@ -30,7 +30,7 @@ and nurturing talents for the betterment of self and country.</p>
 <br>She seeks to instil all to lead with their hearts
 <br>This journey, a vision so bright</p>
 <p>[Pre-chorus]
-<br>As we stay on this ride
+<br>As we start on this ride
 <br>This journey of life With passionate hearts
 <br>Our dreams will take flight</p>
 <p>[Chorus]
