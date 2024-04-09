@@ -31,7 +31,8 @@ and nurturing talents for the betterment of self and country.</p>
 <br>This journey, a vision so bright</p>
 <p>[Pre-chorus]
 <br>As we start on this ride
-<br>This journey of life With passionate hearts
+<br>This journey of life
+<br>With passionate hearts
 <br>Our dreams will take flight</p>
 <p>[Chorus]
 <br>Here is to New Town a school where we belong
@@ -46,7 +47,8 @@ and nurturing talents for the betterment of self and country.</p>
 <br>That our long years may bring Just one thought will gladden the heart</p>
 <p>[Pre-chorus]
 <br>As we stay on this ride
-<br>This journey of life With passionate hearts
+<br>This journey of life
+<br>With passionate hearts
 <br>Our dreams will take flight</p>
 <p>[Chorus]
 <br>Here is to New Town a school where we belong
