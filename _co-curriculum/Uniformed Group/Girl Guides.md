@@ -111,5 +111,8 @@ responsible citizens of the world.</p>
 </li>
 </ul>
 <p></p>
-<h3><strong>PHOTO GALLERY</strong><br></h3>
+<h3><strong>PHOTO GALLERY</strong></h3>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS7u05Ct3p1uOO6hMgeBHikvcz9TY85JgnJJz71MpZY7e0lZyLOVqO61zmoS0WCRbOrnkzM0LcDIct3/embed?start=false&amp;loop=false&amp;delayms=3000 frameborder="></iframe>
+</div>
 <p></p>
