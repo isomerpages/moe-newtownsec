@@ -91,7 +91,7 @@ to learn and to build character through competitive sports. The CCA also
 strives to develop in students, greater competency in the areas of self-management,
 mental resilience, responsible decision-making, social awareness and relationship
 management.</p>
-<p>&nbsp;</p>
+<p></p>
 </td>
 </tr>
 <tr>
