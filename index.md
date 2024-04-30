@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: NTSS Annual Cross Country
           description: ""
-          url: ""
+          url: 2024_NTSS_Cross_Country_Directional___Route_Maps_compressed
         - title: Home-Based Learning
           description: ""
           url: https://www.newtownsec.moe.edu.sg/about-us/links/students/home-based-learning-hbl/
