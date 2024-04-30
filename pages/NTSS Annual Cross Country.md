@@ -4,6 +4,9 @@ permalink: /ntss-annual-cross-country/
 variant: tiptap
 description: ""
 ---
+<h2>10 May 2024 (Friday)<br>8.00am – 12.00 pm<br>@West Coast Park</h2>
+<h3><a href="/files/2024/2024_NTSS_Cross_Country_Directional___Route_Maps_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">NTSS CC Directional &amp; Route Maps</a></h3>
+<p></p>
 <table>
 <tbody>
 <tr>
@@ -23,6 +26,4 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h2>10 May 2024 (Friday)<br>8.00am – 12.00 pm<br>@West Coast Park</h2>
-<h3><a href="/files/2024/2024_NTSS_Cross_Country_Directional___Route_Maps_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">NTSS CC Directional &amp; Route Maps</a></h3>
 <p></p>
