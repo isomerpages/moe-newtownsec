@@ -9,6 +9,9 @@ sections:
   - hero:
       background: /images/Hero Banner/2024_NTSS_Philosophy_Hero_Banner_1920x720px.png
       key_highlights:
+        - title: NTSS Annual Cross Country
+          description: ""
+          url: ""
         - title: Home-Based Learning
           description: ""
           url: https://www.newtownsec.moe.edu.sg/about-us/links/students/home-based-learning-hbl/
