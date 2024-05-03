@@ -132,6 +132,10 @@ responsible decision-making and relationship management.</p>
 </p>
 </li>
 </ol>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2024 DSA Schedule Overview" src="/images/Direct School Admission/2024_DSA_Schedule_Overview.png">
+</div>
 <p>Parents and students are encouraged to choose schools wisely based on
 the student’s aptitudes and strengths, bearing in mind the schools’ academic
 and non-academic requirements, and the programmes available to develop
