@@ -4,79 +4,136 @@ permalink: /direct-school-admission-secondary-dsa-sec-exercise-2023/application-
 description: ""
 variant: tiptap
 ---
-**1.**&nbsp;&nbsp; **Application Process**
-
-The 4-stage Application Process is as follows:
-
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:double windowtext 4.5pt;
- mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes"><td width="430" valign="top" style="width:322.4pt;border:double windowtext 4.5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center"><b style="mso-bidi-font-weight:normal"><span lang="EN-SG" style="font-size:14.0pt;
-  line-height:115%;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-bidi-font-family:
-  Arial">Stage 1 – Application</span></b></p><p class="MsoNormal" align="center" style="text-align:center"><b style="mso-bidi-font-weight:normal"><span lang="EN-SG" style="font-size:14.0pt;
-  line-height:115%;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-bidi-font-family:
-  Arial">(4 May 2023, 11.00am to 31 May 2023, 3.00pm)</span></b><b style="mso-bidi-font-weight:normal"><span lang="EN-SG" style="font-size:12.0pt;
-  line-height:115%;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-bidi-font-family:
-  Arial"></span></b></p></td></tr></tbody></table>
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students from MOE primary schools: Login to DSA Portal via parent’s SingPass or apply through primary school from 4 May 2023 to 31 May 2023 (3.00 pm).
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fill in all relevant information in the DSA-Sec portal. Verify all information and submit application through the website.
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Non-mainstream school students: Parents should apply online for a Registration Number through DSA Portal. This can be done through an online form via MOE DSA Website: [www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).
-
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:double windowtext 4.5pt;
- mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes"><td width="378" valign="top" style="width:10.0cm;border:double windowtext 4.5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center"><b style="mso-bidi-font-weight:normal"><span lang="EN-SG" style="font-size:14.0pt;
-  line-height:115%;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-bidi-font-family:
-  Arial">Stage 2 – Interview</span></b></p><p class="MsoNormal" align="center" style="text-align:center"><b style="mso-bidi-font-weight:normal"><span lang="EN-SG" style="font-size:14.0pt;
-  line-height:115%;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-bidi-font-family:
-  Arial">(31 July to 25 August 2023)</span></b><b style="mso-bidi-font-weight:
-  normal"><span lang="EN-SG" style="font-size:12.0pt;line-height:115%;font-family:
-  &quot;Source Sans Pro&quot;,sans-serif;mso-bidi-font-family:Arial"></span></b></p></td></tr></tbody></table>
-
-&nbsp;Shortlisted applicants will be informed and scheduled for an interview:
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For **Leadership**, applicants will need to provide evidence of leadership capabilities.
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For **Visual Arts**, applicants will be required to provide evidence of their level of aptitude in art.
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For **Fencing**, applicants will be required to provide evidence of their sporting qualities, either through demonstration of Fencing abilities or equivalent sporting ability.
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For **Basketball**, applicants will be required to provide evidence of their sporting qualities, either through demonstration of Basketball abilities or equivalent sporting ability.
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For **Guzheng**, applicants will be required to provide evidence of their level of aptitude in music.
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The interview panel would also be looking for evidence of positive attitude and commitment through a conversation with the candidate.
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Shortlisted applicants** will be notified by the school on the interview date by **24 July 2023**.
-
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:double windowtext 4.5pt;
- mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes"><td width="378" valign="top" style="width:10.0cm;border:double windowtext 4.5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center"><b style="mso-bidi-font-weight:normal"><span lang="EN-SG" style="font-size:14.0pt;
-  line-height:115%;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-bidi-font-family:
-  Arial">Stage 3 – Result Notification</span></b></p><p class="MsoNormal" align="center" style="text-align:center"><b style="mso-bidi-font-weight:normal"><span lang="EN-SG" style="font-size:14.0pt;
-  line-height:115%;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-bidi-font-family:
-  Arial">(By 11 September 2023)</span></b><b style="mso-bidi-font-weight:normal"><span lang="EN-SG" style="font-size:12.0pt;line-height:115%;font-family:&quot;Source Sans Pro&quot;,sans-serif;
-  mso-bidi-font-family:Arial"></span></b></p></td></tr></tbody></table>
-
-Applicants will be notified by post if they have been:
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; given a Confirmed Offer or
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; put on the Waiting List or if the school is unable to offer them a place.
-
-Those given a Confirmed Offer are guaranteed a place in the school in a course which the student is eligible for, based on the PSLE results obtained.
-
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:double windowtext 4.5pt;
- mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes"><td width="445" valign="top" style="width:333.45pt;border:double windowtext 4.5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center"><b style="mso-bidi-font-weight:normal"><span lang="EN-SG" style="font-size:14.0pt;
-  line-height:115%;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-bidi-font-family:
-  Arial">Stage 4 – School Preference Submission</span></b></p><p class="MsoNormal" align="center" style="text-align:center"><b style="mso-bidi-font-weight:normal"><span lang="EN-SG" style="font-size:14.0pt;
-  line-height:115%;font-family:&quot;Source Sans Pro&quot;,sans-serif;mso-bidi-font-family:
-  Arial">(23 October to 27 October 2023)</span></b><b style="mso-bidi-font-weight:
-  normal"><span lang="EN-SG" style="font-size:12.0pt;line-height:115%;font-family:
-  &quot;Source Sans Pro&quot;,sans-serif;mso-bidi-font-family:Arial"></span></b></p></td></tr></tbody></table>
-
-Applicants with Confirmed Offer or on Waiting List will receive a School Preference Form on 23 October 2023 from their primary school. Applicants must submit the school preferences via the MOE DSA-Sec online portal.
-
-The School Preference Submission will end on 27 October 2023.
+<h1><strong>2.&nbsp;&nbsp; Application Process</strong></h1>
+<h3>The 4-stage Application Process is as follows:</h3>
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>Stage 1 – Application</strong><br><strong>(7 May 2024, 11am to 3 June 2024, 3pm)</strong></h4>
+</td>
+</tr>
+</tbody>
+</table>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Students from MOE mainstream primary schools</strong>: Login to
+DSA-Sec Portal via parent’s SingPass or apply through primary school from
+7 May 2024 to 3 June 2024 (3pm).</p>
+</li>
+<li>
+<p>Fill in all relevant information in the DSA-Sec portal. Verify all information
+and submit application through the website.</p>
+</li>
+<li>
+<p><strong>Non-mainstream school students</strong>: Parents should apply
+online for a Registration Number through DSA-Sec Portal. This can be done
+through an online form via MOE website: <a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
+</p>
+</li>
+</ul>
+<p>
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>Stage 2 – Interview</strong><br><strong>(29 July to 23 August 2024)</strong></h4>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Shortlisted applicants will be informed and scheduled for an interview:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>For <strong>Leadership</strong>, applicants will need to provide evidence
+of leadership capabilities.</p>
+</li>
+<li>
+<p>For <strong>Visual Arts</strong>, applicants will be required to provide
+evidence of their level of aptitude in art.</p>
+</li>
+<li>
+<p>For <strong>Fencing</strong>, applicants will be required to provide evidence
+of their sporting qualities, either through demonstration of Fencing abilities
+or equivalent sporting ability.</p>
+</li>
+<li>
+<p>For <strong>Basketball</strong>, applicants will be required to provide
+evidence of their sporting qualities, either through demonstration of Basketball
+abilities or equivalent sporting ability.</p>
+</li>
+<li>
+<p>For <strong>Guzheng</strong>, applicants will be required to provide evidence
+of their level of aptitude in music.</p>
+</li>
+<li>
+<p>The interview panel would also be looking for evidence of positive attitude,
+commitment and/or good communication skills through a conversation with
+the candidate.</p>
+</li>
+<li>
+<p><strong><u>Shortlisted applicants</u></strong> will be notified by the
+school on the interview date by <strong>22 July 2024</strong>.</p>
+</li>
+</ul>
+<p>
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>Stage 3 – Result Notification</strong><br><strong>(By 9 September 2024)</strong></h4>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Applicants will be notified by email if they have been:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>given a Confirmed Offer <u>or</u>
+</p>
+</li>
+<li>
+<p>put on the Waiting List <u>or</u>
+</p>
+</li>
+<li>
+<p>if the school is unable to offer them a place.</p>
+</li>
+</ul>
+<p>Students who are given a Confirmed Offer are guaranteed a place in the
+school, provided they accept the offer and qualify for an academic Posting
+Group offered by the school based on their PSLE results.</p>
+<p>
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>Stage 4 – School Preference Submission</strong><br><strong>(21 October 2024, 9am to 25 October 2024, 3pm)</strong></h4>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Students with Confirmed Offer or on Waiting List will receive email and
+SMS notification via <a href="https://postman.gov.sg/login" rel="noopener noreferrer nofollow" target="_blank">Postman.gov.sg</a> on the School Preference
+Submission around mid-Oct 2024. Both parents are required to login to the
+DSA-Sec Portal using their Singpass to submit the school preferences.</p>
+<p>The School Preference Submission will end on 25 October 2024, 3pm.</p>
