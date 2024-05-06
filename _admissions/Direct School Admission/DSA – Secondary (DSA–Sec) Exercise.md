@@ -1,5 +1,5 @@
 ---
-title: Direct School Admission – Secondary (DSA–Sec) Exercise
+title: DSA – Secondary (DSA–Sec) Exercise
 permalink: /direct-school-admission-secondary-dsa-sec-exercise/
 description: ""
 third_nav_title: Direct School Admission
@@ -16,7 +16,10 @@ achievements.</p>
 in <strong>Leadership, Visual Arts, Fencing, Basketball</strong> and/or <strong>Guzheng</strong> for
 admission to Secondary One in 2025.</p>
 <p></p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -114,6 +117,28 @@ responsible decision-making and relationship management.</p>
 </tr>
 </tbody>
 </table>
-<p>The selection criteria and process for the talent areas <strong>will be updated from early-May</strong>.
-For more information on DSA-Sec, please refer to the MOE website at <strong><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">http://www.moe.gov.sg/dsa-sec</a>.</strong>
+<p>Please refer to the following regarding:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Selection Criteria</strong>
+</p>
+</li>
+<li>
+<p><strong>Application Process</strong>
+</p>
+</li>
+<li>
+<p><strong>Application Key Dates</strong>
+</p>
+</li>
+</ol>
+<p></p>
+<p>Parents and students are encouraged to choose schools wisely based on
+the student’s aptitudes and strengths, bearing in mind the schools’ academic
+and non-academic requirements, and the programmes available to develop
+the area of talent. Students who are successfully admitted to the school
+via DSA are expected to honour their commitment to the school, and participate
+in the activities related to the talent they are selected for from year
+1-4.</p>
+<p>For more information on DSA-Sec, please refer to the MOE website at <strong><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">http://www.moe.gov.sg/dsa-sec</a>.</strong>
 </p>

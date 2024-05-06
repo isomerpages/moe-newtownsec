@@ -3,6 +3,9 @@ collections:
     output: true
     order:
       - Direct School Admission/.keep
-      - Direct School Admission/Direct School Admission – Secondary (DSA–Sec)
-        Exercise.md
+      - Direct School Admission/DSA – Secondary (DSA–Sec) Exercise.md
+      - Direct School Admission/DSA Schedule Overview.md
+      - "Direct School Admission/1: Selection Criteria.md"
+      - "Direct School Admission/2: Application Process.md"
+      - "Direct School Admission/3: Application Key Dates.md"
       - Learning Spaces.md

@@ -1,7 +1,8 @@
 ---
-title: School Achievements (Test site)
+title: "Test site: School Achievements"
 permalink: /permalink/
 description: ""
+variant: tiptap
 ---
 <table class="tg" style="border-collapse:collapse;border-color:#aaa;border-spacing:0;margin:0px fixed">
 
