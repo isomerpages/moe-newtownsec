@@ -17,7 +17,7 @@ sections:
           url: https://www.newtownsec.moe.edu.sg/about-us/links/students/home-based-learning-hbl/
         - title: Upcoming Events
           description: ""
-          url: https://www.newtownsec.moe.edu.sg/upcoming-events/savethedates/
+          url: https://www.newtownsec.moe.edu.sg/mtl-intensive-programme/
   - infopic:
       title: Applied Learning (ALP)
       subtitle: School Distinctive Programmes
