@@ -2,4 +2,5 @@ collections:
   upcoming-events:
     output: true
     order:
+      - MTL Intensive Programme.md
       - Save the Dates.md
