@@ -130,16 +130,35 @@ Teamwork, Skills and Fitness</p>
 </li>
 </ul>
 <h3>PHOTO GALLERY</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo%201%2029%20june%202023.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo%202%2029%20june%202023.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo%203%2029%20june%202023.jpeg">
-</div>
-<div class="iframe-wrapper">
-<iframe height="500" width="500" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRcPcFonSBlb2OlZ0d-UqYT_o8I4GGyS6yygBocexalSeZ2VlwyC_lgJhW8bRlVOQFfb8It2ScTkY6U/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
