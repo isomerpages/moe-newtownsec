@@ -14,7 +14,11 @@ we hope to inculcate the 3 values of thinking, athletic and resilient in
 each member, and to build up these four aspects of the team: Character,
 Teamwork, Skills and Fitness</p>
 <h3>TRAINING SCHEDULE:</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -22,7 +26,7 @@ Teamwork, Skills and Fitness</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Tuesdays : 3.15pm – 6.00pm
-<br>Fridays : 1.15pm/2.30pm - 5.30pm</p>
+<br>Fridays : 1.15pm - 4.30pm</p>
 </th>
 </tr>
 <tr>
@@ -42,7 +46,7 @@ Teamwork, Skills and Fitness</p>
 <p>Mdm Low Hui Ming (1st i/c)</p>
 </li>
 <li>
-<p>Ms Tamil Alagi Manian (2nd i/c)</p>
+<p>Ms Tamil Alagi (2nd i/c)</p>
 </li>
 <li>
 <p>Ms Tracy Ng Siew Siew</p>
@@ -57,10 +61,7 @@ Teamwork, Skills and Fitness</p>
 <p>Mr Ngiam Swee Kee</p>
 </li>
 <li>
-<p>Miss Charmaine Chua</p>
-</li>
-<li>
-<p>Misss Adelia Koh</p>
+<p>Miss Adelia Koh</p>
 </li>
 </ul>
 <h3>STUDENT LEADERS</h3>
@@ -68,47 +69,64 @@ Teamwork, Skills and Fitness</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Captain – Lam Zhi Hui, Pearly</p>
+<p>Captain – Nur Humairah Binte Mohd Amin</p>
 </li>
 <li>
-<p>Vice Captains – Thanya D/O Kathiravan and Giselle Goh Chia Hsuan</p>
+<p>Vice Captains – Luo Minyu, Debbie Goh Riki</p>
 </li>
 <li>
-<p>Head of Logistics - Seraphina Ng Jia Yi (Wu Jiayi)</p>
+<p>Head of Logistics – Rebecca Neo Ming Ming</p>
 </li>
 </ul>
 <p><strong>C Division</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Captain – Debbie Goh Riki</p>
+<p>Captain – Celeste Goh Zi Xuan</p>
 </li>
 <li>
-<p>Vice Captains – Luo Minyu, Nur Humairah Binte Mohd Amin</p>
+<p>Vice Captain – Aliya Natasha Binte Rosli</p>
 </li>
 <li>
-<p>Head of Logistics – Rebecca Neo Ming Ming</p>
+<p>Head of Logistics - Sarah Ong</p>
 </li>
 </ul>
 <h3>ACTIVITIES FOR THE YEAR</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>‘B’ &amp; ‘C’ Girls National Inter-School Softball Championships</p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p>‘B’ Girls (Term 1: End Jan – March)</p>
 </li>
 <li>
 <p>‘C’ Girls (Term 3: July - Aug)</p>
 </li>
+</ul>
+</li>
+<li>
+<p>SRC Inter-School Softball Carnival (March Holidays)</p>
+</li>
+<li>
+<p>Softball Outreach Programme with Alexandra Primary School (Term 2)</p>
+</li>
 <li>
 <p>New Town Inter-School Softball Carnival (June Holidays)</p>
 </li>
 <li>
-<p>Service Learning Activity (November)</p>
+<p>2D1N Softball Camp (June Holidays)</p>
 </li>
 <li>
-<p>Softball Camp (November)</p>
+<p>NTSS Softball Alumni Friendly Matches (Term 2/June Holidays)</p>
+</li>
+<li>
+<p>Softball Day Camp (November)</p>
+</li>
+</ul>
+<h3>ACHIEVEMENTS</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>2023 ‘C’ Division NSG Competition – Top 8</p>
 </li>
 </ul>
 <h3>PHOTO GALLERY</h3>
