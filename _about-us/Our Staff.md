@@ -6,7 +6,11 @@ variant: tiptap
 ---
 <h1>School Management Committee</h1>
 <h3>School Leaders</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -43,7 +47,12 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Head of Departments and Subject/Level Heads</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -281,7 +290,12 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Teacher Leaders</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -373,7 +387,12 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Academic Staff</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1183,7 +1202,12 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Executive and Administrative Staff</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1201,10 +1225,10 @@ variant: tiptap
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chia Yuen Teck</p>
+<p>Mr Sam Meng Chong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chia_yuen_teck@moe.edu.sg</p>
+<p>sam_meng_chong@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1212,7 +1236,7 @@ variant: tiptap
 <p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Subbiah Ramesh</p>
+<p>Mr Ramesh S</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>subbiah_ramesh@moe.edu.sg</p>
