@@ -5,10 +5,11 @@ description: ""
 third_nav_title: Visual & Performing Arts
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Band Group Photo" src="/images/band%20group%20photo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Concert Band/Asia_Pacific_Band_Festival_2024_Our_proud_New_Towners_.jpg">
 </div>
-<h1>INTRODUCTION</h1>
+<h2>INTRODUCTION</h2>
 <p><strong>New Town Concert Band: A Legacy of Musical Excellence</strong>
 </p>
 <p>Since its inception in 1967, the New Town Concert Band has embarked on
