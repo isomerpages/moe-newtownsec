@@ -40,7 +40,8 @@ variant: tiptap
 <p>Asia Pacific Band Festival 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gold Award</p>
+<p><strong>Gold Award</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
