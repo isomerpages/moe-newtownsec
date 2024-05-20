@@ -58,16 +58,6 @@ variant: tiptap
 </div>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mother Tongue Language</strong>
@@ -155,16 +145,6 @@ variant: tiptap
 </div>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Persevere And Learn through Sports (PALS)</strong>
