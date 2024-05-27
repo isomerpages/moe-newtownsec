@@ -5,7 +5,13 @@ description: School Achievements
 third_nav_title: Achievements
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -27,13 +33,39 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Concert Band</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Asia Pacific Band Festival 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Gold Award</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Concert Band/Asia_Pacific_Band_Festival_2024_Our_proud_New_Towners_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Concert Band/Asia_Pacific_Band_Festival_2024_1__Our_journey_to_the_APBF_begins_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Concert Band/Asia_Pacific_Band_Festival_2024_2__Harmonising_in_the_holding_room_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Concert Band/Asia_Pacific_Band_Festival_2024_3__Striking_the_right_chord_at_SOTA_concert_hall.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Mother Tongue Language</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2023年全国中学编采比赛 </strong>
-<br><strong>Create Your Own Newspaper Competition</strong>
-</p>
+<p>2023年全国中学编采比赛
+<br>Create Your Own Newspaper Competition</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>低年级组一等奖&amp;深度报道奖</strong> 
@@ -65,8 +97,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2023 年第十六届全国中学翻译比赛<br>16th National Secondary Schools Translation Competition 2023</strong>
-</p>
+<p>2023 年第十六届全国中学翻译比赛
+<br>16th National Secondary Schools Translation Competition 2023</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>个人优胜奖</strong> 
@@ -91,9 +123,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2023年度中学生现场华文创作比赛</strong> 
-<br><strong>2023 National on the Spot Chinese Essay Writing Competition</strong>
-</p>
+<p>2023年度中学生现场华文创作比赛
+<br>2023 National on the Spot Chinese Essay Writing Competition</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>佳作奖<br>Merit Award</strong>
@@ -114,32 +145,13 @@ variant: tiptap
 </div>
 </td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Persevere And Learn through Sports (PALS)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>B Division Handball Tournament 2023</strong>
-</p>
+<p>B Division Handball Tournament 2023</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2nd Place in Tournament</strong>
@@ -160,8 +172,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Singapore Mathematical Olympiad 2023</strong>
-</p>
+<p>Singapore Mathematical Olympiad 2023</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Honourable Mention</strong> 
@@ -182,8 +193,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>POA Quest 2023 – organised by Deyi Secondary School</strong>
-</p>
+<p>POA Quest 2023 – organised by Deyi Secondary School</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>1st Runner Up</strong> 
@@ -203,8 +213,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>NUS Geography Challenge 2023 – organised by NUS</strong>
-</p>
+<p>NUS Geography Challenge 2023 – organised by NUS</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Silver Medal</strong> 
@@ -223,8 +232,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Singapore Junior Chemistry Olympiad 2023</strong>
-</p>
+<p>Singapore Junior Chemistry Olympiad 2023</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Gold</strong> 
@@ -243,8 +251,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>8th Singapore Junior Biology Olympiad 2023</strong>
-</p>
+<p>8th Singapore Junior Biology Olympiad 2023</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Silver</strong> 
@@ -274,8 +281,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>16th Singapore Junior Physics Olympiad 2023</strong>
-</p>
+<p>16th Singapore Junior Physics Olympiad 2023</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Physics Olympiad</strong> 
