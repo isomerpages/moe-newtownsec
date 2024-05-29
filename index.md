@@ -48,4 +48,11 @@ sections:
       url: https://www.newtownsec.moe.edu.sg/holistic-education/school-distinctive-programmes/enhanced-art-eap/
       alt: Image alt text
       image: /images/eap_group03.jpg
+  - infopic:
+      title: TGIF Sharing
+      subtitle: confident learners
+      id: infopic
+      button: Watch now!
+      url: https
+      alt: Image alt text
 ---
