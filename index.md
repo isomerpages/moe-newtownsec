@@ -53,6 +53,6 @@ sections:
       subtitle: confident learners
       id: infopic
       button: Watch now!
-      url: https
+      url: https://www.newtownsec.moe.edu.sg/tgif-sharing/
       alt: Image alt text
 ---
