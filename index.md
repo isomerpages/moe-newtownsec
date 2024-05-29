@@ -55,4 +55,5 @@ sections:
       button: Watch now!
       url: https://www.newtownsec.moe.edu.sg/tgif-sharing/
       alt: Image alt text
+      image: /images/20240517_074913.jpg
 ---
