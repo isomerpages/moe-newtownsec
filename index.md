@@ -49,11 +49,14 @@ sections:
       alt: Image alt text
       image: /images/eap_group03.jpg
   - infopic:
-      title: TGIF Sharing
-      subtitle: confident learners
+      title: TGIF! Programme
+      subtitle: confident learner
       id: infopic
       button: Watch now!
-      url: https://www.newtownsec.moe.edu.sg/tgif-sharing/
+      url: https://www.newtownsec.moe.edu.sg/tgif-programme/
       alt: Image alt text
       image: /images/20240517_074913.jpg
+      description: NTSS’s TGIF, which stands for ‘Thankful and Grateful It’s
+        (Inspirational) Friday!’, is a space that allows greater student voice
+        and agency.
 ---
