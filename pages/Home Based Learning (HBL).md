@@ -5,10 +5,14 @@ description: ""
 variant: tiptap
 ---
 <h1>Home Based Learning (HBL)</h1>
-<h3><strong>8 MAY 2024</strong></h3>
+<h3><strong>3 JUL 2024</strong></h3>
 <p><strong>1.&nbsp;HBL Timetable and Learning Task</strong> 
 <br>&nbsp; &nbsp;Click on your respective level</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -26,7 +30,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://docs.google.com/spreadsheets/d/1htt3IOm8d-ey4iUyj36k_JplPsHHgfwd/edit?usp=drive_link&amp;ouid=111918605529837501284&amp;rtpof=true&amp;sd=true" rel="noopener noreferrer nofollow" target="_blank">Sec 4 &amp; 5</a></strong>
+<p><strong><s><a href="nil" rel="noopener noreferrer nofollow" target="_blank">Sec 4 &amp; 5</a></s></strong>
 </p>
 </td>
 </tr>
