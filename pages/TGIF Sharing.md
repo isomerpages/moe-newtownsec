@@ -4,6 +4,15 @@ permalink: /tgif-sharing/
 variant: tiptap
 description: ""
 ---
+<p>New Town Secondary School’s TGIF, which stands for ‘Thankful and Grateful
+It’s (Inspirational) Friday!’, is a space that allows greater student voice
+and agency. Every Friday, students share their personal and school experiences
+about their learning and growth through the various opportunities given
+to them; CCE, Values-in-action, National Education, CCA &amp; leadership
+experiences, as well as their academic experiences. Students also use this
+platform to share gratitude stories. From the sharing of the students,
+it inspires a sense of motivation and resilience among the student population,
+in fulfilling the school’s vision of a Confident Learner and a Caring Leader.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
