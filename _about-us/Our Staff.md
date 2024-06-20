@@ -918,6 +918,7 @@ variant: tiptap
 <tr>
 <td rowspan="2" colspan="1">
 <p></p>
+<p></p>
 <p>S4-02</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -937,6 +938,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
+<p></p>
 <p></p>
 <p>S4-03</p>
 </td>
@@ -958,6 +960,7 @@ variant: tiptap
 <tr>
 <td rowspan="2" colspan="1">
 <p></p>
+<p></p>
 <p>S4-04</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -977,6 +980,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
+<p></p>
 <p></p>
 <p>S4-05</p>
 </td>
@@ -998,6 +1002,7 @@ variant: tiptap
 <tr>
 <td rowspan="2" colspan="1">
 <p></p>
+<p></p>
 <p>S4-06</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1017,6 +1022,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
+<p></p>
 <p></p>
 <p>S4-07</p>
 </td>
