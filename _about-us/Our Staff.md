@@ -889,6 +889,7 @@ variant: tiptap
 <tr>
 <td rowspan="3" colspan="1">
 <p></p>
+<p></p>
 <p>S4-01</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1075,8 +1076,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1">
 <p>S4-10</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1084,22 +1084,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>chia_chin_pean@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Teng Shumin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>teng_shumin@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Adora Tan&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_su_yan_adora@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
