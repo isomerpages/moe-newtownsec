@@ -1035,7 +1035,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p></p>
 <p>S4-08</p>
 </td>
@@ -1044,14 +1044,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>song_ziyan@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms En Yeng Teng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>yeng_teng_en@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
