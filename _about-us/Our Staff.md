@@ -1266,6 +1266,17 @@ variant: tiptap
 <p>teng_swee_hoe@schools.gov.sg</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ECG Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Suriender Kaur</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>surinder_kaur@schools.gov.sg</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
