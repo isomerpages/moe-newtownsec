@@ -585,18 +585,10 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
 <p>S2-01</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Ms Shannon Yap</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>shannon_yap_tuan_chong@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Chew Ying Ying</p>
 </td>
@@ -625,15 +617,15 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p></p>
 <p>S2-03</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Toh Hui Min</p>
+<p>Mdm Ong Hwee Hien</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>toh_hui_min_a@moe.edu.sg</p>
+<p>ong_hwee_hien@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -642,14 +634,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Joel_chan_jie_hao@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Ong Hwee Hien</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ong_hwee_hien@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
