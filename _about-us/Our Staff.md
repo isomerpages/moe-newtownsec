@@ -767,10 +767,10 @@ variant: tiptap
 <p>S3-Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Jenny Wee</p>
+<p>Ms Adora Tan Su Yan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>wee_jenny@moe.edu.sg</p>
+<p>tan_su_yan_adora@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
