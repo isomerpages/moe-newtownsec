@@ -586,7 +586,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <p>S2-01</p>
 </td>
 <td rowspan="1" colspan="1">
