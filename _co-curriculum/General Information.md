@@ -10,7 +10,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong><a href="/files/CCA/2024_CCA_Deployment_180324__For_sch_website_.pdf" rel="noopener noreferrer nofollow" target="_blank">Teachers-In-Charge and Training Venues</a></strong>
+<p><strong><a href="/files/CCA/2024_CCA_Teachers___Venues__Sem_2__200624__For_sch_website_.pdf" rel="noopener noreferrer nofollow" target="_blank">Teachers-In-Charge and Training Venues</a></strong>
 </p>
 </li>
 <li>
