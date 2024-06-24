@@ -15,7 +15,11 @@ The Table Tennis team aims to:</p>
 Promote appreciation for the sport and attain basic skills. Promote an
 opportunity to experience the sport at a competitive level.</p>
 <h3>TRAINING SCHEDULE:</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -45,7 +49,7 @@ opportunity to experience the sport at a competitive level.</p>
 <p>Ms Tang Anqiong (2nd i/c)</p>
 </li>
 <li>
-<p>Ms Shannon Yap Tuan Chong</p>
+<p>Ms Fazylah Bte Rahman</p>
 </li>
 </ul>
 <h3>COACHES</h3>
