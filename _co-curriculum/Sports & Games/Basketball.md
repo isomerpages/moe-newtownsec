@@ -39,7 +39,11 @@ officials and self and staying true to our belief in sports. It is about
 helping your teammates through their life journey because, what happens
 to your teammates matters to you.</p>
 <h3>TRAINING SCHEDULE:</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -72,9 +76,6 @@ E level 4 classrooms (S4-03 &amp; S4-04)</p>
 </li>
 <li>
 <p>Mdm Aidashikin Bte Solikin</p>
-</li>
-<li>
-<p>Ms En Yeng Teng</p>
 </li>
 <li>
 <p>Mr Joel Chan Jie Hao</p>
