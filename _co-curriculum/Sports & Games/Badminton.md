@@ -21,7 +21,11 @@ player into self-driven, self-disciplined and resilient individuals. The
 team aspires to play to the best of their abilities while emphasising on
 the value of sportsmanship and teamwork.</p>
 <h3>TRAINING SCHEDULE</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -61,9 +65,6 @@ Hall)</p>
 </li>
 <li>
 <p>Mr Sim Ik Fong</p>
-</li>
-<li>
-<p>Ms Teng Shumin</p>
 </li>
 <li>
 <p>Ms Gao Chen Ivy</p>
