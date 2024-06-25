@@ -4,15 +4,8 @@ permalink: /quick-links/for-students/
 description: ""
 variant: tiptap
 ---
+<h3>Academic Links</h3>
 <ul>
-<li>
-<p><a href="/files/1_pld%20dma%20uninstallation%20schedule%20and%20instructions%20(for%20graduating%20students%202023).pdf" rel="noopener noreferrer nofollow" target="_blank">PLD DMA Uninstallation Schedule and Instructions (for Graduating Students 2023)</a>
-</p>
-</li>
-<li>
-<p><a href="/files/for_graduating_students%202023_google_takeout_guide_for_student_icon.pdf" rel="noopener noreferrer nofollow" target="_blank">For Graduating Students 2023 - Google Takeout Guide to Back up Student iCON Data.</a>
-</p>
-</li>
 <li>
 <p><a href="https://staging.d2or6b3ngngjp5.amplifyapp.com/about-us/links/students/home-based-learning-hbl/" rel="noopener noreferrer nofollow" target="_blank">Home-Based Learning (HBL)</a>
 </p>
@@ -22,7 +15,14 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Student_Device_Information_Kit___11_Jan_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Device Information Kit</a>
+<p><a href="https://newtownsec.moe.edu.sg/others/announcements/class-timetable" rel="noopener noreferrer nofollow" target="_blank">Class Timetable</a>
+</p>
+</li>
+</ul>
+<h3>ICT Links</h3>
+<ul>
+<li>
+<p><a href="https://newtownsec.moe.edu.sg/about-us/links/parents/school-newsletters" rel="noopener noreferrer nofollow" target="_blank">School Newsletters</a>
 </p>
 </li>
 <li>
@@ -30,12 +30,17 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://newtownsec.moe.edu.sg/others/announcements/class-timetable" rel="noopener noreferrer nofollow" target="_blank">Class Timetable</a>
+<p><a href="/files/Student_Device_Information_Kit___11_Jan_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Device Information Kit</a>
 </p>
 </li>
 <li>
-<p><a href="https://newtownsec.moe.edu.sg/about-us/links/parents/school-newsletters" rel="noopener noreferrer nofollow" target="_blank">School Newsletters</a>
+<p><a href="/files/1_pld%20dma%20uninstallation%20schedule%20and%20instructions%20(for%20graduating%20students%202023).pdf" rel="noopener noreferrer nofollow" target="_blank">PLD DMA Uninstallation Schedule and Instructions (for Graduating Students 2023)</a>
 </p>
+</li>
+<li>
+<p><a href="/files/for_graduating_students%202023_google_takeout_guide_for_student_icon.pdf" rel="noopener noreferrer nofollow" target="_blank">For Graduating Students 2023 - Google Takeout Guide to Back up Student iCON Data</a>
+</p>
+<p></p>
 </li>
 </ul>
 <p></p>

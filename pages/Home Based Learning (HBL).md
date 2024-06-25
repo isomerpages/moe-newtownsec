@@ -30,8 +30,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><s><a href="nil" rel="noopener noreferrer nofollow" target="_blank">Sec 4 &amp; 5</a></s></strong>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>

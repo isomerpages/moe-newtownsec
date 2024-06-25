@@ -41,9 +41,6 @@ blocks and Blk F level 4 classrooms (S4-11, S5-01, S3-06 &amp; S3-07)</p>
 <li>
 <p>Ms Alisha Lim Qing Wen</p>
 </li>
-<li>
-<p>Mrs Keira Seow</p>
-</li>
 </ul>
 <h3>CADET INSPECTORS</h3>
 <ul data-tight="true" class="tight">

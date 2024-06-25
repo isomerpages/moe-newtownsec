@@ -73,6 +73,84 @@ the ITE College West Graduation Ceremony earlier this year.
 <br>Sahfizzan is currently pursuing a <strong>Diploma in Mechanical Engineering at Singapore Polytechnic</strong>.</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Outstanding Alumnus/2023_RP_Outstanding_Graduates_Page_6.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Bjorn Tin Kar G</strong>
+<br>
+<br>An alumnus of <strong>Tanglin Secondary School</strong>, attained a <strong>Diploma in Information Technology with Merit</strong> at
+the Republic Polytechnic Graduation Ceremony 2023.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Outstanding Alumnus/2023_RP_Outstanding_Graduates_Page_5.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Seah Ke Wei</strong>
+<br>
+<br>An alumnus of <strong>New Town Secondary School</strong>, attained a <strong>Diploma in Integrated Events Management with Merit</strong> at
+the Republic Polytechnic Graduation Ceremony 2023.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Outstanding Alumnus/2023_RP_Outstanding_Graduates_Page_4.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Zhao Junyu</strong>
+<br>
+<br>An alumnus of <strong>New Town Secondary School</strong>, attained a <strong>Diploma in Biomedical Science with Merit</strong> at
+the Republic Polytechnic Graduation Ceremony 2023.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Outstanding Alumnus/2023_RP_Outstanding_Graduates_Page_3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Alicia Kong Si Rui</strong>
+<br>
+<br>An alumnus of <strong>New Town Secondary School</strong>, attained a <strong>Diploma in Industrial &amp; Operations Management with Merit</strong> at
+the Republic Polytechnic Graduation Ceremony 2023.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Outstanding Alumnus/2023_RP_Outstanding_Graduates_Page_1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Joey Wee Jing Xuan</strong>
+<br>
+<br>An alumnus of <strong>New Town Secondary School</strong>, attained a <strong>Diploma in Mass Communication with Merit</strong> at
+the Republic Polytechnic Graduation Ceremony 2023.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Outstanding Alumnus/2023_RP_Outstanding_Graduates_Page_2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Tan Aik Hsuen</strong>
+<br>
+<br>An alumnus of <strong>New Town Secondary School</strong>, attained a <strong>Diploma in Business with Merit</strong> at
+the Republic Polytechnic Graduation Ceremony 2023.</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>

@@ -14,7 +14,11 @@ for players to develop their leadership and life skills. In addition, they
 will also forge long lasting friendships both within the team and with
 the alumni. &nbsp;&nbsp;</p>
 <h3>TRAINING SCHEDULE:</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -44,10 +48,7 @@ the alumni. &nbsp;&nbsp;</p>
 <p>Mrs Tricia Ong (2nd i/c)</p>
 </li>
 <li>
-<p>Ms Toh Hui Min (Sem 1 only)</p>
-</li>
-<li>
-<p>Ms Fazylah Bte Rahman (Term 3 onwards)</p>
+<p>Mdm Ong Hwee Hien</p>
 </li>
 </ul>
 <h3>COACHES</h3>
@@ -81,7 +82,13 @@ the alumni. &nbsp;&nbsp;</p>
 </li>
 </ul>
 <h3>ACHIEVEMENTS</h3>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
