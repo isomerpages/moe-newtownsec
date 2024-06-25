@@ -15,6 +15,9 @@ sections:
         - title: Upcoming Events
           description: ""
           url: https://www.newtownsec.moe.edu.sg/upcoming-events/savethedates/
+        - title: Sec 4&5 Exam Timetable
+          description: ""
+          url: https://www.newtownsec.moe.edu.sg/exam-timetable/
   - infopic:
       title: Applied Learning (ALP)
       subtitle: School Distinctive Programmes
