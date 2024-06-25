@@ -4,7 +4,7 @@ permalink: /quick-links/for-parents/
 description: ""
 variant: tiptap
 ---
-<h3>Administration Links</h3>
+<h3><strong>Administration Links</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/about-us/links/parents/group-personal-accident-gpa-insurance-plan-for-students" rel="noopener noreferrer nofollow" target="_blank">Group Personal Accident (GPA) Insurance Plan for Students</a>
@@ -35,7 +35,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h3>Academic Links</h3>
+<h3><strong>Academic Links</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/about-us/links/parents/school-letters" rel="noopener noreferrer nofollow" target="_blank">School Letters</a>
@@ -54,7 +54,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h3>ICT Links</h3>
+<h3><strong>ICT Links</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.newtownsec.moe.edu.sg/student-device-information/" rel="noopener noreferrer nofollow" target="_blank">Student Device Information</a>
