@@ -4,7 +4,7 @@ permalink: /quick-links/for-students/
 description: ""
 variant: tiptap
 ---
-<h3>Academic Links</h3>
+<h3><strong>Academic Links</strong></h3>
 <ul>
 <li>
 <p><a href="https://staging.d2or6b3ngngjp5.amplifyapp.com/about-us/links/students/home-based-learning-hbl/" rel="noopener noreferrer nofollow" target="_blank">Home-Based Learning (HBL)</a>
@@ -18,8 +18,12 @@ variant: tiptap
 <p><a href="https://newtownsec.moe.edu.sg/others/announcements/class-timetable" rel="noopener noreferrer nofollow" target="_blank">Class Timetable</a>
 </p>
 </li>
+<li>
+<p><a href="https://www.newtownsec.moe.edu.sg/exam-timetable/" rel="noopener noreferrer nofollow" target="_blank">Sec 4&amp;5 Exam Timetable</a>
+</p>
+</li>
 </ul>
-<h3>ICT Links</h3>
+<h3><strong>ICT Links</strong></h3>
 <ul>
 <li>
 <p><a href="https://newtownsec.moe.edu.sg/about-us/links/parents/school-newsletters" rel="noopener noreferrer nofollow" target="_blank">School Newsletters</a>
