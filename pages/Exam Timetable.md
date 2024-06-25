@@ -6,11 +6,11 @@ description: ""
 ---
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2024/Exam Timetable/2024_Sec_4T_Preliminary_Exam_Timetable_updated_22_Jun.pdf" rel="noopener noreferrer nofollow" target="_blank">4T Preliminary Exam Timetable</a>
+<p><a href="/files/2024/Exam Timetable/2024_Sec_4T_Preliminary_Exam_Timetable_updated_22_Jun.pdf" rel="noopener noreferrer nofollow" target="_blank">4NT Preliminary Exam Timetable</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2024/Exam Timetable/2024_Sec_4N_Preliminary_Exam_Timetable_updated_22_Jun.pdf" rel="noopener noreferrer nofollow" target="_blank">4N Preliminary Exam Timeable</a>
+<p><a href="/files/2024/Exam Timetable/2024_Sec_4N_Preliminary_Exam_Timetable_updated_22_Jun.pdf" rel="noopener noreferrer nofollow" target="_blank">4NA Preliminary Exam Timeable</a>
 </p>
 </li>
 <li>
