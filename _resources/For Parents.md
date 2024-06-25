@@ -60,8 +60,5 @@ variant: tiptap
 <p><a href="https://newtownsec.moe.edu.sg/about-us/links/parents/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">MOE Sexuality Education</a>
 </p>
 </li>
-<li>
-<p></p>
-</li>
 </ul>
 <p></p>
