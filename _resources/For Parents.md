@@ -35,13 +35,6 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h3>ICT Links</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.newtownsec.moe.edu.sg/student-device-information/" rel="noopener noreferrer nofollow" target="_blank">Student Device Information</a>
-</p>
-</li>
-</ul>
 <h3>Academic Links</h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -58,6 +51,13 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://newtownsec.moe.edu.sg/about-us/links/parents/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">MOE Sexuality Education</a>
+</p>
+</li>
+</ul>
+<h3>ICT Links</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.newtownsec.moe.edu.sg/student-device-information/" rel="noopener noreferrer nofollow" target="_blank">Student Device Information</a>
 </p>
 </li>
 </ul>
