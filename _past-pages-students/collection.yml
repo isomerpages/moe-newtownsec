@@ -1,5 +1,5 @@
 collections:
-  student:
+  past-pages-students:
     output: true
     order:
       - 2021.md
