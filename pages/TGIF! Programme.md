@@ -26,7 +26,9 @@ in fulfilling the school’s vision of a Confident Learner and a Caring Leader.<
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/0dkV6zoljHc?si=vspX8Sqn3Vk7X7OW"></iframe>
+</div>
 </td>
 </tr>
 <tr>
