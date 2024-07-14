@@ -2,6 +2,7 @@
 title: Principal's Message
 permalink: /about-us/principals-message-2023/
 description: ""
+variant: markdown
 ---
 <center>
 <p><img align="right" style="width:50%;margin-left:15px;margin-right:15px;" src="/images/principal%20mr%20ari_144dpi.jpg">

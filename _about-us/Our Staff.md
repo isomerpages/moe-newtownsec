@@ -276,17 +276,6 @@ variant: tiptap
 <p>tan_su_yan_adora@moe.edu.sg</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Subject Head/PE &amp; CCA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Chan Jin Fen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chan_jin_fen@moe.edu.sg</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h3>Teacher Leaders</h3>
@@ -1229,7 +1218,7 @@ variant: tiptap
 <p>Ms Susanti Salim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>susanti_salim@schools.gov.sg</p>
+<p>susanti_salim@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1273,7 +1262,7 @@ variant: tiptap
 <p>Mr Teng Swee Hoe</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>teng_swee_hoe@schools.gov.sg</p>
+<p>teng_swee_hoe@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1284,7 +1273,7 @@ variant: tiptap
 <p>Mdm Surinder Kaur</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>surinder_kaur@schools.gov.sg</p>
+<p>surinder_kaur@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
