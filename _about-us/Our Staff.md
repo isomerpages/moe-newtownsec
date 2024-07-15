@@ -1262,7 +1262,7 @@ variant: tiptap
 <p>Mr Teng Swee Hoe</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>teng_swee_hoe@moe.edu.sg</p>
+<p>teng_swee_hoe@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
