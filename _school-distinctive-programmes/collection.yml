@@ -2,7 +2,7 @@ collections:
   school-distinctive-programmes:
     output: true
     order:
-      - TGIF! Programme.md
       - Applied Learning Programme (ALP).md
       - Learning for Life Programme (LLP).md
       - Enhanced Art Programme (EAP).md
+      - TGIF! Programme.md
