@@ -1190,6 +1190,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Azman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>azman_hassan@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
