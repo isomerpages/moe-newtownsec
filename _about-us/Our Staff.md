@@ -1196,8 +1196,7 @@ variant: tiptap
 <p>Mr Azman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="azman_hassan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">azman_hassan@schools.gov.sg</a>
-</p>
+<p>azman_hassan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
