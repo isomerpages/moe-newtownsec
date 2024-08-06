@@ -1270,17 +1270,6 @@ variant: tiptap
 <p>ECG Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Teng Swee Hoe</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>teng_swee_hoe@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ECG Counsellor</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Surinder Kaur</p>
 </td>
 <td rowspan="1" colspan="1">
