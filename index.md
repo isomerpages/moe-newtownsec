@@ -18,6 +18,9 @@ sections:
         - title: Sec 4&5 Exam Timetable
           description: ""
           url: https://www.newtownsec.moe.edu.sg/exam-timetable/
+        - title: Sec 1 to 3 End-of-Year Exam Timetable
+          description: ""
+          url: https://www.newtownsec.moe.edu.sg/s1to3-end-of-year-examinations/
   - infopic:
       title: Applied Learning (ALP)
       subtitle: School Distinctive Programmes
