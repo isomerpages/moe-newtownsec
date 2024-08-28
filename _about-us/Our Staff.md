@@ -135,17 +135,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/Humanities</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Muhammad Firdaus Zainal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>muhammad_firdaus_zainal@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>HOD/Craft &amp; Technology</p>
 </td>
 <td rowspan="1" colspan="1">
