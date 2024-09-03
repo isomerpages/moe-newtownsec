@@ -262,7 +262,7 @@ description: ""
 <br>6th November, Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 2 Cohort Overseas Trip</p>
+<p>Sec 2 Internationalisation Experience (Virtual)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
