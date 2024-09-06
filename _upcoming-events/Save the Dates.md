@@ -254,7 +254,7 @@ description: ""
 <p>Sec 2 Online Internationlisation Experience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>8:00am to 12:30pm</p>
 </td>
 </tr>
 <tr>
