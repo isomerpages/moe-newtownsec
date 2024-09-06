@@ -247,17 +247,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>18th October, Friday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 2 Online Internationlisation Experience</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p>18th October, Friday &amp;</p>
 <p>23rd October, Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -276,18 +266,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>8:00am to 2:00pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>18th October, Monday to
-<br>6th November, Wednesday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 2 Online Internationlisation Experience</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
