@@ -247,8 +247,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>18th October, Friday &amp;</p>
-<p>23rd October, Wednesday</p>
+<p>18th October, Friday &amp;
+<br>23rd October, Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 2 Online Internationlisation Experience</p>
