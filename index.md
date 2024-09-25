@@ -18,9 +18,6 @@ sections:
         - title: Sec 1 to 3 End-of-Year Exam Timetable
           description: ""
           url: https://www.newtownsec.moe.edu.sg/s1to3-end-of-year-examinations/
-        - title: Sec 4&5 Exam Timetable
-          description: ""
-          url: https://www.newtownsec.moe.edu.sg/exam-timetable/
   - infopic:
       title: 2024 Open House
       subtitle: Beat FOMO—Come visit us!
