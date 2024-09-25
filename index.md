@@ -29,6 +29,7 @@ sections:
       button: Programme Overview
       url: https://www.newtownsec.moe.edu.sg/2024-open-house/
       alt: Image alt text
+      image: /images/Open House/2024_NTSS_Open_House_Card_p1.png
   - infopic:
       title: Applied Learning (ALP)
       subtitle: School Distinctive Programmes
