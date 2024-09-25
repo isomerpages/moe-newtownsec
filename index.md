@@ -22,6 +22,14 @@ sections:
           description: ""
           url: https://www.newtownsec.moe.edu.sg/exam-timetable/
   - infopic:
+      title: 2024 Open House
+      subtitle: Beat FOMO—Come visit us!
+      id: infopic
+      description: 16 November 2024 (Saturday) 8.00am to 12.30pm
+      button: Programme Overview
+      url: https://www.newtownsec.moe.edu.sg/2024-open-house/
+      alt: Image alt text
+  - infopic:
       title: Applied Learning (ALP)
       subtitle: School Distinctive Programmes
       id: infopic
