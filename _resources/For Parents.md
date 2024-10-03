@@ -30,10 +30,6 @@ variant: tiptap
 <p><a href="/about-us/links/parents/purchase-of-textbooks-and-school-attire" rel="noopener noreferrer nofollow" target="_blank">Purchase of Textbooks and School Attire</a>
 </p>
 </li>
-<li>
-<p><a href="https://form.gov.sg/651f5ca534442500124340fd" rel="noopener noreferrer nofollow" target="_blank">Sec 2 &amp; 3 (2024) Appeal for Transfer to New Town Secondary School</a>
-</p>
-</li>
 </ul>
 <h3><strong>Academic Links</strong></h3>
 <ul data-tight="true" class="tight">
