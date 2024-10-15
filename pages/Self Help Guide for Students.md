@@ -12,7 +12,8 @@ description: ""
 </p>
 </li>
 <li>
-<p></p>
+<p><a href="/files/Guide__Backup_to_Cloud_Storage__iCloud__OneDrive_and_Google_Drive_.pdf" rel="noopener nofollow" target="_blank">[Guide] Backup to Cloud Storage (iCloud, OneDrive and Google Drive)</a>
+</p>
 </li>
 <li>
 <p></p>
