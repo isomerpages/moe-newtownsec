@@ -38,12 +38,8 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/1_pld%20dma%20uninstallation%20schedule%20and%20instructions%20(for%20graduating%20students%202023).pdf" rel="noopener noreferrer nofollow" target="_blank">PLD DMA Uninstallation Schedule and Instructions (for Graduating Students 2023)</a>
-</p>
-</li>
-<li>
-<p><a href="/files/for_graduating_students%202023_google_takeout_guide_for_student_icon.pdf" rel="noopener noreferrer nofollow" target="_blank">For Graduating Students 2023 - Google Takeout Guide to Back up Student iCON Data</a>
-</p>
+<p></p>
+<p></p>
 <p></p>
 </li>
 </ul>
