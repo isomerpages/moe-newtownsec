@@ -6,7 +6,12 @@ variant: tiptap
 ---
 <p><strong>School Canteen Advertisement</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -27,7 +32,7 @@ variant: tiptap
 <p>Halal Food Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>06 Mar 2024&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>06 Mar 2024 [CLOSED]&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NIL</p>
