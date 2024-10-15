@@ -38,7 +38,8 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p></p>
+<p><a href="https://www.newtownsec.moe.edu.sg/self-help-guide-for-students/" rel="noopener nofollow" target="_blank">Self Help Guide For Students</a>
+</p>
 <p></p>
 <p></p>
 </li>
