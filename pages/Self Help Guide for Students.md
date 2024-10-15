@@ -20,5 +20,10 @@ description: ""
 </li>
 </ol>
 <h4><strong>[PLD Support Guide]</strong></h4>
-<p></p>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/Guide_for_Manage_Apple_ID__MAID__Login_and_Enable_iCloud_Backup.pdf" rel="noopener nofollow" target="_blank">Guide for Manage Apple ID (MAID) Login and Enable iCloud Backup</a>
+</p>
+</li>
+</ol>
 <p></p>
