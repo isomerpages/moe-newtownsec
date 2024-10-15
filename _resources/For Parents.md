@@ -56,5 +56,9 @@ variant: tiptap
 <p><a href="https://www.newtownsec.moe.edu.sg/student-device-information/" rel="noopener noreferrer nofollow" target="_blank">Student Device Information</a>
 </p>
 </li>
+<li>
+<p><a href="https://www.newtownsec.moe.edu.sg/self-help-guide-for-students/" rel="noopener nofollow" target="_blank">Self Help Guide for Students</a>
+</p>
+</li>
 </ul>
 <p></p>
