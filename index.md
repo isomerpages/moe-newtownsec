@@ -20,7 +20,7 @@ sections:
           url: https://www.newtownsec.moe.edu.sg/s1to3-end-of-year-examinations/
   - infopic:
       title: 2024 Open House
-      subtitle: Beat FOMO—Come visit us!
+      subtitle: Come visit us!
       id: infopic
       description: 16 November 2024 (Saturday) 8.00am to 12.30pm
       button: Programme Overview
