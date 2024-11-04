@@ -60,10 +60,10 @@ the alumni. &nbsp;&nbsp;</p>
 <h3>ACTIVITIES FOR THE YEAR</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>National School Games for B Division Table Tennis Championships&nbsp;</p>
+<p>National School Games for B Division Netball Championships&nbsp;</p>
 </li>
 <li>
-<p>National School Games for C Division Table Tennis Championship</p>
+<p>National School Games for C Division Netball Championship</p>
 </li>
 <li>
 <p>‘B’ &amp; ‘C’ Girls Zonal Inter-School Netball Championships</p>

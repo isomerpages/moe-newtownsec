@@ -7,11 +7,11 @@ variant: tiptap
 ---
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/student_device_information_kit___24_may_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Device Information Kit</a>
+<p><a href="/files/This_page_will_be_updated_soon.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Device Information Kit</a>
 </p>
 </li>
 <li>
-<p><a href="/files/DMA_Infographic_And_After_School_Parent_Options_5_Feb_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">DMA After-School Parent Options</a>
+<p><a href="/files/This_page_will_be_updated_soon.pdf" rel="noopener noreferrer nofollow" target="_blank">DMA After-School Parent Options</a>
 </p>
 </li>
 <li>
