@@ -4,13 +4,17 @@ permalink: /about-us/links/parents/purchase-of-textbooks-and-school-attire/
 description: ""
 variant: tiptap
 ---
-<h3>School Bookshop</h3>
-<p><strong>Overseas Associates Pte Ltd</strong> 
-<br>
-<br>Physical Shop : New Town Secondary School
-<br>Booklist: <a href="/files/Booklist/Booklist_2024_NTS_All_Levels.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Booklist</a>Online
-Shop: <a href="http://www.oapl.sg/" rel="noopener noreferrer nofollow" target="_blank">www.oapl.sg</a>
+<h2>School Bookshop</h2>
+<p><strong>Overseas Associates Pte Ltd</strong>
+<br><strong>Physical Shop:</strong>  <a href="https://www.newtownsec.moe.edu.sg/about-us/contact-us/" rel="noopener nofollow" target="_blank">New Town Secondary School</a>
+<br><strong>Online Shop:</strong>  <a href="http://www.oapl.sg/" rel="noopener noreferrer nofollow" target="_blank">www.oapl.sg</a>
+<br><strong>Booklist:</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ul>
 <h3>School Uniform &amp; PE Attire</h3>
 <p><strong>Finest Fashion Centre</strong>
 </p>
