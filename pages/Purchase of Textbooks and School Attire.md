@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h2>School Bookshop</h2>
 <p><strong>Overseas Associates Pte Ltd</strong>
-<br><strong>Physical Shop:</strong>  <a href="https://www.newtownsec.moe.edu.sg/about-us/contact-us/" rel="noopener nofollow" target="_blank">New Town Secondary School</a>
+<br><strong>Retail Shop:</strong>  <a href="https://www.newtownsec.moe.edu.sg/about-us/contact-us/" rel="noopener nofollow" target="_blank">New Town Secondary School</a>
 <br><strong>Online Shop:</strong>  <a href="http://www.oapl.sg/" rel="noopener noreferrer nofollow" target="_blank">www.oapl.sg</a>
 <br><strong>Booklist:</strong>
 </p>
@@ -15,11 +15,10 @@ variant: tiptap
 <p></p>
 </li>
 </ul>
-<h3>School Uniform &amp; PE Attire</h3>
+<h2>School Uniform &amp; PE Attire</h2>
 <p><strong>Finest Fashion Centre</strong>
-</p>
-<p>Retail Shop:</p>
-<p>Beauty World Centre
+<br><strong>Retail Shop:</strong>
+<br>Beauty World Centre
 <br>B1-03, 144 Upper Bukit Timah Road
 <br>Singapore 588 177
 <br>Tel: 6466 5697</p>
