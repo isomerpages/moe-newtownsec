@@ -4,7 +4,7 @@ permalink: /appeal-to-transfer-to-ntss/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Appeal to Transfer to NTSS</strong></h3>
+<h3><strong>Appeal for Transfer to NTSS</strong></h3>
 <p>If you would like to apply to transfer your child/ward to New Town Secondary
 School, please fill in the online form below. The school will get in touch
 with you shortly.
