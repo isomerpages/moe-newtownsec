@@ -19,15 +19,6 @@ sections:
           description: ""
           url: https://www.newtownsec.moe.edu.sg/s1to3-end-of-year-examinations/
   - infopic:
-      title: 2024 Open House
-      subtitle: Come visit us!
-      id: infopic
-      description: 16 November 2024 (Saturday) 8.00am to 12.30pm
-      button: Programme Overview
-      url: https://www.newtownsec.moe.edu.sg/2024-open-house/
-      alt: Image alt text
-      image: /images/Open House/2024_NTSS_Open_House_Card_p1.png
-  - infopic:
       title: Applied Learning (ALP)
       subtitle: School Distinctive Programmes
       id: infopic
