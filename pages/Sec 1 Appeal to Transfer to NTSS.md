@@ -25,7 +25,7 @@ school by 19 December 12pm.</p>
 as follows:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Posting Group 3: AL 20</p>
+<p>Posting Group 3: AL 21</p>
 </li>
 <li>
 <p>Posting Group 2: AL 25</p>
