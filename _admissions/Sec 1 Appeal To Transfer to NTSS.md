@@ -1,6 +1,6 @@
 ---
-title: Sec 1 Appeal to Transfer to NTSS
-permalink: /admissions/sec-1-registration/appealtransfer/
+title: Sec 1 Appeal To Transfer to NTSS
+permalink: /sec-1-appeal/
 variant: tiptap
 description: ""
 ---
@@ -33,7 +33,5 @@ as follows:</p>
 </ul>
 </li>
 </ol>
-<p></p>
-<p></p>
 <p></p>
 <p></p>
