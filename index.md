@@ -19,6 +19,15 @@ sections:
           description: ""
           url: https://www.newtownsec.moe.edu.sg/s1to3-end-of-year-examinations/
   - infopic:
+      title: Sec 1 Registration
+      subtitle: NTSS WELCOMES YOU
+      id: infopic
+      description: Information on Secondary 1 posting, registration, and the other matters
+      button: MORE DETAILS
+      url: https://cms.isomer.gov.sg/sites/moe-newtownsec/homepage
+      image: /images/CCAs/NTSS_Website___Main.jpg
+      alt: Image alt text
+  - infopic:
       title: Applied Learning (ALP)
       subtitle: School Distinctive Programmes
       id: infopic
@@ -51,13 +60,4 @@ sections:
       url: https://www.newtownsec.moe.edu.sg/holistic-education/school-distinctive-programmes/enhanced-art-eap/
       alt: Image alt text
       image: /images/eap_group03.jpg
-  - infopic:
-      title: Sec 1 Registration
-      subtitle: NTSS WELCOMES YOU
-      id: infopic
-      description: Information on Secondary 1 posting, registration, and the other matters
-      button: MORE DETAILS
-      url: https://cms.isomer.gov.sg/sites/moe-newtownsec/homepage
-      image: /images/CCAs/NTSS_Website___Main.jpg
-      alt: Image alt text
 ---
