@@ -6,11 +6,11 @@ variant: tiptap
 ---
 <ul>
 <li>
-<p><strong><a href="/files/CCA/2024_CCA_Schedule_141123__For_PDF__Student_version_for_sch_website.pdf" rel="noopener noreferrer nofollow" target="_blank">CCA Schedule 2024</a></strong>
+<p><strong><a href="/files/CCA/2025_CCA_Schedule__Tue___Fri__v6201124_Student_version_for_sch_website.pdf" rel="noopener noreferrer nofollow" target="_blank">CCA Schedule 2025</a></strong>
 </p>
 </li>
 <li>
-<p><strong><a href="/files/CCA/2024_CCA_Teachers___Venues__Sem_2__200624__For_sch_website_.pdf" rel="noopener noreferrer nofollow" target="_blank">Teachers-In-Charge and Training Venues</a></strong>
+<p><strong><a href="/files/CCA/2025_CCA_Teacher___venues__For_Sch_website_.pdf" rel="noopener noreferrer nofollow" target="_blank">Teachers-In-Charge and Training Venues</a></strong>
 </p>
 </li>
 <li>
