@@ -127,12 +127,26 @@ build confidence, and embody the values of diligence and perseverance.</p>
 </ul>
 <h3>Photo Gallery</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/guzheng%2001.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Guzheng Ensemble/Guzheng_Photo_1___for_2025.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/guzheng%2002.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Guzheng Ensemble/Guzheng_Photo_2_for_2025.jpg">
 </div>
-<div class="iframe-wrapper">
-<iframe height="500" width="500" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRRJm1gvIeeQRFMKawzfS2LBE7lYERfiC-XPVGTuiS4WQuWuvkMEbMcBMqMtMwiD1CwrObKdY3C7l11/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Guzheng Ensemble/Guzheng_Photo_3_for_2025.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Guzheng Ensemble/Guzheng_Photo_4_for_2025.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Guzheng Ensemble/Guzheng_Photo_5_for_2025.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Guzheng Ensemble/Guzheng_Photo_6_for_2025.jpg">
 </div>
 <p></p>
