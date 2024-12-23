@@ -33,7 +33,7 @@ sections:
       id: infopic
       button: MORE DETAILS
       alt: Image alt text
-      url: https://cms.isomer.gov.sg/sites/moe-newtownsec/homepage
+      url: https://www.newtownsec.moe.edu.sg/sec-1-2025-cca-open-house-cca-selections/
   - infopic:
       title: Applied Learning (ALP)
       subtitle: School Distinctive Programmes
