@@ -62,9 +62,9 @@ sections:
       image: /images/eap_group03.jpg
   - infopic:
       title: Sec 1 CCA Open House & CCA Selections
-      subtitle: Add an image and text
+      subtitle: ATTENTION PARENTS!
       id: infopic
-      description: Infopic description
-      button: Button Text
+      button: MORE DETAILS
       alt: Image alt text
+      url: https://cms.isomer.gov.sg/sites/moe-newtownsec/homepage
 ---
