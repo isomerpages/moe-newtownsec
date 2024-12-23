@@ -60,4 +60,11 @@ sections:
       url: https://www.newtownsec.moe.edu.sg/holistic-education/school-distinctive-programmes/enhanced-art-eap/
       alt: Image alt text
       image: /images/eap_group03.jpg
+  - infopic:
+      title: Sec 1 CCA Open House & CCA Selections
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
