@@ -3,68 +3,136 @@ title: Guzheng Ensemble
 permalink: /cca/visual-n-performing-arts/guzheng-ensemble/
 description: ""
 third_nav_title: Visual & Performing Arts
-variant: markdown
+variant: tiptap
 ---
-![](/images/guzheng%2002.jpeg)
-
-# INTRODUCTION
-
-The Guzheng Ensemble has been the pride and glory of New Town Secondary School. The Ensemble was established in May and has since become an integral part of the school’s aesthetics programme. It not only trains the students in finger coordination and mental concentration but more importantly, the spirit of teamwork. Members grow to realise and appreciate that hard work is an indispensable part of achievement. These attributes will be the assets that the performers possess. The Guzheng Ensemble gives students numerous opportunities to perform in school events to showcase their talents. It also develops their musicality and boosting their confidence. 
-
-### PRACTICE SCHEDULE:
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-n4qt">Date / Time</th>
-    <th class="tg-ii8k">Tuesdays : 3.15pm – 6.00pm<br>Fridays : 1.15pm/2.30pm - 5.30pm</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-n4qt"> Venue</td>
-    <td class="tg-ii8k">AVA Room</td>
-  </tr>
-</tbody>
-</table>
-
-### TEACHERS IN-CHARGE
-
-*   Mrs Yong-Teh Laik Cheng (1st i/c)
-*   Ms Low Mian Jiun (2nd i/c)
-*   Ms Wee Shu Ying
-
-### COACH
-
-*   Ms Indra Chen Shanhui
-
-### ACTIVITIES FOR THE YEAR
-
-* CCA Open House 
-* Performance Chinese New Year Concert 
-* Commendation Day
-* Guzheng Bonding Camp 
-* VIA Programme 
-
-
-### ACHIEVEMENTS
-* SYF Arts Presentation 2023 (Certificate of Distinction)
-* SYF Arts Presentation 2021 (Certificate of Distinction)
-* SYF Arts Presentation 2019 (Certificate of Distinction)
-* SYF Arts Presentation 2017 (Certificate of Distinction) 
-
-### Photo Gallery
-![](/images/guzheng%2001.jpeg)
-
-![](/images/guzheng%2002.jpeg)
-
-<iframe allowfullscreen="true" height="500" width="500" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRRJm1gvIeeQRFMKawzfS2LBE7lYERfiC-XPVGTuiS4WQuWuvkMEbMcBMqMtMwiD1CwrObKdY3C7l11/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/guzheng%2002.jpeg">
+</div>
+<h1>INTRODUCTION</h1>
+<p>The Guzheng Ensemble, an integral part of New Town Secondary School's
+aesthetics programme, nurtures students' musicality, teamwork, and resilience.
+By learning to play the Guzheng, members develop essential skills such
+as finger coordination, mental focus, and effective communication while
+fostering empathy and audience engagement. Through various performance
+opportunities at school and community events, students showcase their talents,
+build confidence, and embody the values of diligence and perseverance.</p>
+<h3><strong>TRAINING TIME</strong></h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Tuesdays: </strong>3.30pm – 5.30pm</p>
+</li>
+<li>
+<p><strong>Fridays: </strong>1.30pm - 4.30pm</p>
+</li>
+</ul>
+<p></p>
+<h3><strong>TRAINING VENUE(S)</strong></h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>AVA room</strong>
+</p>
+</li>
+</ul>
+<p></p>
+<h3>TEACHERS IN-CHARGE</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mrs Yong-Teh Laik Cheng (1st i/c)</p>
+</li>
+<li>
+<p>Ms Low Mian Jiun (2nd i/c)</p>
+</li>
+<li>
+<p>Ms Wee Shu Ying</p>
+</li>
+</ul>
+<h3><strong>COACHES/INSTRUCTORS</strong></h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Chen Shanhui Indra</p>
+</li>
+</ul>
+<p></p>
+<h3><strong>STUDENT LEADERS</strong></h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Fiona Yap (Chairperson)</p>
+</li>
+<li>
+<p>Ng Xiang Ting (Vice-Chairperson)</p>
+</li>
+<li>
+<p>Tay Jia Xuan (Vice-Chairperson)</p>
+</li>
+<li>
+<p>Sofea Sherryza Bin Hasli</p>
+</li>
+<li>
+<p>Tan Kah Him</p>
+</li>
+<li>
+<p>Rainie Yeo Xuan Wen</p>
+</li>
+<li>
+<p>Tham An Ting Hayley</p>
+</li>
+<li>
+<p>Poon Heem Han</p>
+</li>
+</ul>
+<h3>ACTIVITIES FOR THE YEAR 2025</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>CCA Open House Performance</p>
+</li>
+<li>
+<p>Chinese New Year Performance</p>
+</li>
+<li>
+<p>2025 Singapore Youth Festival Arts Presentation for Guzheng Ensemble</p>
+</li>
+<li>
+<p>Commendation Day Performance</p>
+</li>
+<li>
+<p>Outreach to Community / VIA Programme</p>
+</li>
+<li>
+<p>NTSS Open House Performance</p>
+</li>
+<li>
+<p>Guzheng Camp</p>
+</li>
+<li>
+<p>Farewell Party for Graduating Members</p>
+</li>
+<li>
+<p>Teacher/Instructor Appreciation Day</p>
+</li>
+</ul>
+<h3>ACHIEVEMENTS</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>SYF Arts Presentation 2023 (Certificate of Distinction)</p>
+</li>
+<li>
+<p>SYF Arts Presentation 2021 (Certificate of Distinction)</p>
+</li>
+<li>
+<p>SYF Arts Presentation 2019 (Certificate of Distinction)</p>
+</li>
+<li>
+<p>SYF Arts Presentation 2017 (Certificate of Distinction)</p>
+</li>
+</ul>
+<h3>Photo Gallery</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/guzheng%2001.jpeg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/guzheng%2002.jpeg">
+</div>
+<div class="iframe-wrapper">
+<iframe height="500" width="500" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRRJm1gvIeeQRFMKawzfS2LBE7lYERfiC-XPVGTuiS4WQuWuvkMEbMcBMqMtMwiD1CwrObKdY3C7l11/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p></p>
