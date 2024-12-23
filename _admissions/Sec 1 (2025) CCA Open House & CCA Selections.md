@@ -12,10 +12,10 @@ will have to take part in <strong>one school-based</strong> CCA which he/she
 should commit to for 4 years in New Town Secondary School.</p>
 <p>At New Town Secondary School, CCAs are conducted after school dismissal
 on Tuesdays, from 3.15 pm to 5.30pm and/or Fridays, from 2.30 pm to 5.30pm
-(latest). Refer to <strong><u>CCA Schedule (2025)</u></strong>. For additional
-CCA days to prepare students for competition or events, parents/guardians
-will be informed via <strong><em>Parents Gateway</em></strong> by respective
-CCA teachers.</p>
+(latest). Refer to <strong><a href="/files/CCA/2025_CCA_Schedule__Tue___Fri__v6201124_Student_version_for_sch_website.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CCA Schedule (2025)</u></a></strong>.
+For additional CCA days to prepare students for competition or events,
+parents/guardians will be informed via <strong><em>Parents Gateway</em></strong> by
+respective CCA teachers.</p>
 <p>&nbsp;</p>
 <table style="minWidth: 75px">
 <colgroup>
