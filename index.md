@@ -28,6 +28,13 @@ sections:
       image: /images/CCAs/NTSS_Website___Main.jpg
       alt: Image alt text
   - infopic:
+      title: Sec 1 CCA Open House & CCA Selections
+      subtitle: ATTENTION PARENTS!
+      id: infopic
+      button: MORE DETAILS
+      alt: Image alt text
+      url: https://cms.isomer.gov.sg/sites/moe-newtownsec/homepage
+  - infopic:
       title: Applied Learning (ALP)
       subtitle: School Distinctive Programmes
       id: infopic
@@ -60,11 +67,4 @@ sections:
       url: https://www.newtownsec.moe.edu.sg/holistic-education/school-distinctive-programmes/enhanced-art-eap/
       alt: Image alt text
       image: /images/eap_group03.jpg
-  - infopic:
-      title: Sec 1 CCA Open House & CCA Selections
-      subtitle: ATTENTION PARENTS!
-      id: infopic
-      button: MORE DETAILS
-      alt: Image alt text
-      url: https://cms.isomer.gov.sg/sites/moe-newtownsec/homepage
 ---
