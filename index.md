@@ -15,9 +15,9 @@ sections:
         - title: Upcoming Events
           description: ""
           url: https://www.newtownsec.moe.edu.sg/upcoming-events/savethedates/
-        - title: Sec 1 to 3 End-of-Year Exam Timetable
+        - title: SEC 1 REGISTRATION
           description: ""
-          url: https://www.newtownsec.moe.edu.sg/s1to3-end-of-year-examinations/
+          url: https://cms.isomer.gov.sg/sites/moe-newtownsec/homepage
   - infopic:
       title: Sec 1 Registration
       subtitle: NTSS WELCOMES YOU
