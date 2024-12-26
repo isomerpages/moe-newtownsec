@@ -34,6 +34,7 @@ sections:
       button: MORE DETAILS
       alt: Image alt text
       url: https://www.newtownsec.moe.edu.sg/sec-1-2025-cca-open-house-cca-selections/
+      image: /images/CCAs/NTSS_Website___Main.jpg
   - infopic:
       title: Applied Learning (ALP)
       subtitle: School Distinctive Programmes
