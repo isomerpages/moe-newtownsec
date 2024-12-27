@@ -14,16 +14,21 @@ training to our cadets with emphasis on quality leadership development
 and character building. This is echoed by the Unit’s Motto – Nurturing
 Potential, Cultivating Characters.</p>
 <p>New Town NPCC has achieved at least 20 GOLD Awards since 1996. We have
-performed consistently well in all of NPCC HQ Inter-Unit Competitions:
-Campcraft Competition, .22 Revolver Shooting Competition and Inter-Unit
-Drill Competition. We are also involved in community services both locally
-and overseas. To date, New Town NPCC have conducted adventure, community
-service and education trips to Malaysia, Indonesia, Thailand, Nepal, Hong
-Kong and Australia.</p>
-<h3>TRAINING SCHEDULE:</h3>
-<p><strong>Day/Time</strong>: Tuesdays – 3:15pm to 6:00pm</p>
-<p><strong>Venue</strong>: School premises e.g. open space between classroom
-blocks and Blk F level 4 classrooms (S4-11, S5-01, S3-06 &amp; S3-07)</p>
+performed consistently well in NPCC HQ Inter-Unit Competitions: Campcraft
+Competition, .22 Revolver Shooting Competition and Inter-Unit Drill Competition.</p>
+<h3><strong>TRAINING TIME</strong></h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tuesdays: 3.30pm – 5.30pm</p>
+</li>
+</ul>
+<h3><strong>TRAINING VENUE(S)</strong></h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Open space between classroom blocks and Blk F level 4 classrooms (S4-11,
+Spare room F4A, S3-Confidence, S3-Success)</p>
+</li>
+</ul>
 <h3>TEACHERS-IN-CHARGE</h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -38,45 +43,60 @@ blocks and Blk F level 4 classrooms (S4-11, S5-01, S3-06 &amp; S3-07)</p>
 <li>
 <p>Mr Alex Chan Kwan Meng</p>
 </li>
-<li>
-<p>Ms Alisha Lim Qing Wen</p>
-</li>
 </ul>
 <h3>CADET INSPECTORS</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mervyn Yar Hong Yu</p>
-</li>
-<li>
-<p>Choo Cheng Yu Jaden</p>
-</li>
-<li>
-<p>Paulraj Helen</p>
-</li>
-<li>
 <p>Jaden Thoe Jun Koi</p>
 </li>
 <li>
-<p>Issac Tok Jie Xun</p>
+<p>Helen Paulraj</p>
 </li>
 <li>
-<p>Pek Bing Zheng Jordan</p>
+<p>Lim Man Zi</p>
 </li>
 </ul>
-<h3>ACTIVITIES FOR THE YEAR</h3>
+<h3><strong>BADGE COURSES &amp; ACTIVITIES FOR THE YEAR 2025</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Police Procedures, Basic Law, Crime Scene Investigation &amp; Singapore
-Anti-Narcotics Association courses</p>
+<p>Police Procedures, Total Defence (Bronze), SGSecure, Road Safety, Crime
+Prevention, Anti-Corruption, 3<sup>rd</sup> Class Drill</p>
 </li>
 <li>
-<p>.22 Pistol Live Shooting</p>
+<p>Basic Law, Total Defence (Silver), Singapore Anti-Narcotics Association,
+Basic Crime Scene Investigation, Community Safety and Security Programme,
+Unarmed Tactics, Civil Defence, 2<sup>nd</sup> Class Drill</p>
 </li>
 <li>
-<p>Team-building activities</p>
+<p>Leadership Mentoring Skills Course, Homefront Security, Enhanced Crime
+Scene Investigation, Cybercrime Prevention, Police Youth Ambassador, 1<sup>st</sup> Class
+Drill</p>
+</li>
+<li>
+<p>Neighbourhood Polie Centre visit, Police Heritage Centre visit, Home Team
+Gallery visit, sports enrichment activity, outreach programme,</p>
 </li>
 </ul>
 <h3>ACHIEVEMENTS</h3>
+<p><strong>2024</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Unit Overall Proficiency Award (2024) – Gold</p>
+</li>
+<li>
+<p>SPF-NPCC Badge Awardee – Schuen Tan Yi Xuan</p>
+</li>
+<li>
+<p>SPF-NPCC Badge Awardee – Sophie Yan Tugnao Go</p>
+</li>
+<li>
+<p>SPF-NPCC Badge Awardee – Chee Shin Lee, Breanne</p>
+</li>
+<li>
+<p>Area 15 Drill Competition – Top 2 teams</p>
+</li>
+</ul>
 <p><strong>2023</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -180,21 +200,29 @@ Hao, 4N5)</p>
 <p>Unit Overall Proficiency Award (2015) – Gold</p>
 </li>
 </ul>
-<p><strong>2014</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>UOPA Gold for 2014</p>
-</li>
-<li>
-<p>Unit Overall Proficiency Award (2014) – Gold</p>
-</li>
-</ul>
+<p></p>
 <h3>EXTERNAL LINK</h3>
 <p><a href="https://www.instagram.com/ntss_npcc/" rel="noopener noreferrer nofollow" target="_blank">NTSS NPCC Instagram Page</a>
 </p>
 <h3>PHOTO GALLERY</h3>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT-6QziQFYCXsnlzDMRAmoxJ1Duj-F8-OB433lC0elBCYLVAMeLlZhG_SdYRKjvnKecgnYURvdMQqgj/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NPCC/Picture1_for_2025.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NPCC/Picture2_for_2025.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NPCC/Picture3_for_2025.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NPCC/Picture4_for_2025.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NPCC/Picture5_for_2025.jpg">
 </div>
 <p></p>

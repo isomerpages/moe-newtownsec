@@ -15,9 +15,26 @@ sections:
         - title: Upcoming Events
           description: ""
           url: https://www.newtownsec.moe.edu.sg/upcoming-events/savethedates/
-        - title: Sec 1 to 3 End-of-Year Exam Timetable
+        - title: SEC 1 REGISTRATION
           description: ""
-          url: https://www.newtownsec.moe.edu.sg/s1to3-end-of-year-examinations/
+          url: https://cms.isomer.gov.sg/sites/moe-newtownsec/homepage
+  - infopic:
+      title: Sec 1 Registration
+      subtitle: NTSS WELCOMES YOU
+      id: infopic
+      description: Information on Secondary 1 posting, registration, and the other matters
+      button: MORE DETAILS
+      url: https://cms.isomer.gov.sg/sites/moe-newtownsec/homepage
+      image: /images/CCAs/NTSS_Website___Main.jpg
+      alt: Image alt text
+  - infopic:
+      title: Sec 1 CCA Open House & CCA Selections
+      subtitle: ATTENTION PARENTS!
+      id: infopic
+      button: MORE DETAILS
+      alt: Image alt text
+      url: https://www.newtownsec.moe.edu.sg/sec-1-2025-cca-open-house-cca-selections/
+      image: /images/CCAs/NTSS_Website___Main.jpg
   - infopic:
       title: Applied Learning (ALP)
       subtitle: School Distinctive Programmes
@@ -51,15 +68,4 @@ sections:
       url: https://www.newtownsec.moe.edu.sg/holistic-education/school-distinctive-programmes/enhanced-art-eap/
       alt: Image alt text
       image: /images/eap_group03.jpg
-  - infopic:
-      title: TGIF! Programme
-      subtitle: confident learner
-      id: infopic
-      button: Watch now!
-      url: https://www.newtownsec.moe.edu.sg/tgif-programme/
-      alt: Image alt text
-      image: /images/20240517_074913.jpg
-      description: NTSS’s TGIF, which stands for ‘Thankful and Grateful It’s
-        (Inspirational) Friday!’, is a space that allows greater student voice
-        and agency.
 ---
