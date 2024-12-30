@@ -456,18 +456,18 @@ variant: tiptap
 <p>S1-Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yong Liping</p>
+<p>Ms Tracy Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yong_li_ping@moe.edu.sg</p>
+<p>ng_siew_siew_tracy@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Nur Azman</p>
+<p>Ms Kokila Athinamilagi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>muhammad_nur_azman_shah@moe.edu.sg</p>
+<p>athinamilagi_kokila@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
