@@ -547,10 +547,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Vemalathevey Manikiam</p>
+<p>Ms Wee Shuying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>vemalathevey_manikiam@moe.edu.sg</p>
+<p>wee_shu_ying@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
