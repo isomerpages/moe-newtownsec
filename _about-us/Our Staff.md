@@ -680,10 +680,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Renuka Selva Rajoo</p>
+<p>Ms Amy Ng Chin Shan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>renuka_selva_rajoo@moe.edu.sg</p>
+<p>ng_chin_shan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
