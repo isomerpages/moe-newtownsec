@@ -629,13 +629,13 @@ variant: tiptap
 <tr>
 <td rowspan="2" colspan="1">
 <p></p>
-<p>S2-03</p>
+<p>S2-Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ong Hwee Hien</p>
+<p>Mdm Valli Sundaram</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ong_hwee_hien@moe.edu.sg</p>
+<p>valli_sundaram@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
