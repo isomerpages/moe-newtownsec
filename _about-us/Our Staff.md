@@ -649,21 +649,21 @@ variant: tiptap
 <tr>
 <td rowspan="2" colspan="1">
 <p></p>
-<p>S2-04</p>
+<p>S2-Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Loh Yong Qi</p>
+<p>Mr Nur Azman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>loh_yong_qi@moe.edu.sg</p>
+<p>muhammad_nur_azman_shah@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Tricia Ong</p>
+<p>Mr Joel Chan Jie Hao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lim_tock_boon_tricia@moe.edu.sg</p>
+<p>Joel_chan_jie_hao@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
