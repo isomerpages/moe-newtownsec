@@ -709,26 +709,6 @@ variant: tiptap
 <tr>
 <td rowspan="2" colspan="1">
 <p></p>
-<p>S2-Confidence</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Kalai Vani Sivam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>kalai_vani_sivam@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Zhuo Jinrong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>zhuo_jinrong@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p></p>
 <p>S2-Success</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -744,6 +724,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>fazylah_abd_rahman@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
