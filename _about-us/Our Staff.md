@@ -259,7 +259,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/Student Management</p>
+<p>Subject Head/Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tracy Ng</p>
