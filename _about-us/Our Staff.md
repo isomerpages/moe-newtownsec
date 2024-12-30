@@ -997,10 +997,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Serene Choy</p>
+<p>Mr Alex Chan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tay_seok_hean_serene@moe.edu.sg</p>
+<p>chan_kwan_meng_alex@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
