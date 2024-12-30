@@ -589,13 +589,13 @@ variant: tiptap
 <td rowspan="2" colspan="1">
 <p></p>
 <p></p>
-<p>S2-01</p>
+<p>S2-Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Low Mian Jiun</p>
+<p>Ms Kasumawati Bte Wansi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>low_mian_jiun@moe.edu.sg</p>
+<p>kasumawati_wansi@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
