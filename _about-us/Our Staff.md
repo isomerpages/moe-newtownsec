@@ -36,14 +36,6 @@ variant: tiptap
 <p>Ms Elissa Goh</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice-Principal (Admin)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Dalbir Singh</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h3>Head of Departments and Subject/Level Heads</h3>
@@ -59,10 +51,10 @@ variant: tiptap
 <p>Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Yue Sien Wee, Eric</p>
+<p>Mr Ng Meng Yong Evan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yue_sien_wee@moe.edu.sg</p>
+<p>ng_meng_yong_evan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -124,13 +116,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/Science</p>
+<p>HOD/Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Meng Yong Evan</p>
+<p>Ms Adora Tan Su Yan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ng_meng_yong_evan@moe.edu.sg</p>
+<p>tan_su_yan_adora@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
