@@ -268,6 +268,17 @@ variant: tiptap
 <p>ng_siew_siew_tracy@moe.edu.sg</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>Teacher Leaders</h3>
@@ -363,6 +374,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>chia_chin_pean@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -914,13 +936,13 @@ variant: tiptap
 <td rowspan="3" colspan="1">
 <p></p>
 <p></p>
-<p>S4-01</p>
+<p>S4-Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Teh Laik Cheng</p>
+<p>Mdm Tan Soon May</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>teh_laik_cheng@moe.edu.sg</p>
+<p>tan_soon_may@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
