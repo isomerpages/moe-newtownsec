@@ -497,18 +497,18 @@ variant: tiptap
 <p>S1-Confidence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Kalai Vani Sivam</p>
+<p>Mrs Tricia Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>kalai_vani_sivam@moe.edu.sg</p>
+<p>lim_tock_boon_tricia@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Zhuo Jinrong</p>
+<p>Mr Ong Nai Ah Noah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>zhuo_jinrong@moe.edu.sg</p>
+<p>ong_nai_ah@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
