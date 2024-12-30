@@ -752,6 +752,20 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 3 Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Form Teacher</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="2" colspan="1">
 <p></p>
 <p>S3-Care</p>
