@@ -669,13 +669,13 @@ variant: tiptap
 <tr>
 <td rowspan="2" colspan="1">
 <p></p>
-<p>S2-05</p>
+<p>S2-Self-Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Low Mian Jiun</p>
+<p>Ms Siow Xing Yu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>low_mian_jiun@moe.edu.sg</p>
+<p>siow_xing_yu@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
