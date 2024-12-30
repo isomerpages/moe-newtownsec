@@ -640,10 +640,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Joel Chan Jie Hao</p>
+<p>Ms Nur Syahirah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Joel_chan_jie_hao@moe.edu.sg</p>
+<p>nur_syahirah_nahadi@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
