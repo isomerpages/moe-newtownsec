@@ -803,10 +803,10 @@ variant: tiptap
 <p>S3-Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nazreen</p>
+<p>Mdm Teh Laik Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nazreen_abdul_latiff@moe.edu.sg</p>
+<p>teh_laik_cheng@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
