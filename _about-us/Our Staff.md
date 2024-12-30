@@ -740,6 +740,26 @@ variant: tiptap
 <tr>
 <td rowspan="2" colspan="1">
 <p></p>
+<p>S3-Care</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Loganadhan Prathap</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>loganadhan_prathap@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Sky Phua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>phua_kok_chuan@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p></p>
 <p>S3-Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
