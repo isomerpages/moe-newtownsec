@@ -1028,13 +1028,13 @@ variant: tiptap
 <td rowspan="2" colspan="1">
 <p></p>
 <p></p>
-<p>S4-05</p>
+<p>S4-Self-Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lai Chiu Shuan</p>
+<p>Mr Jackson Goh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lai_chiu_shuan@moe.edu.sg</p>
+<p>jackson_goh_sheng_bao@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
