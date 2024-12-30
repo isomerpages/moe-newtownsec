@@ -783,18 +783,18 @@ variant: tiptap
 <p>S3-Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Adora Tan Su Yan</p>
+<p>Ms Sheeja Pillai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_su_yan_adora@moe.edu.sg</p>
+<p>sheeja_v_pillai@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Alex Chan</p>
+<p>Mdm Sutinah Suid</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chan_kwan_meng_alex@moe.edu.sg</p>
+<p>sutinah_suid@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
