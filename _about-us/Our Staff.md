@@ -986,13 +986,13 @@ variant: tiptap
 <td rowspan="2" colspan="1">
 <p></p>
 <p></p>
-<p>S4-03</p>
+<p>S4-Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Wendy Koh&nbsp;</p>
+<p>Mdm Wee Jenny&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>koh_wendy@moe.edu.sg</p>
+<p>wee_jenny@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
