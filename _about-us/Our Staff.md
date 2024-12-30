@@ -484,10 +484,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Amy Ng Chin Shan</p>
+<p>Mr Ong Nai Ah Noah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ng_chin_shan@moe.edu.sg</p>
+<p>ong_nai_ah@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
