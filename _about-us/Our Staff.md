@@ -600,10 +600,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chua Zi Hui Samanthan</p>
+<p>Ms Hannah Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chua_zi_hui_samanthan@moe.edu.sg</p>
+<p>cheng_woan_woon@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
