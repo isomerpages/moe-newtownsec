@@ -858,26 +858,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
-<p></p>
-<p>S3-Success</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Kalidass</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>kalidass_jayaraman@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Wahidah Salamon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>wahidah_salamon@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
