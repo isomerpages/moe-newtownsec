@@ -823,18 +823,18 @@ variant: tiptap
 <p>S3-Self-Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jackson Goh</p>
+<p>Mr Loh Yong Qi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>jackson_goh_sheng_bao@moe.edu.sg</p>
+<p>loh_yong_qi@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tamil Alagi</p>
+<p>Mr Lucas Chia Chin Pean</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tamil_alagi_manian@moe.edu.sg</p>
+<p>chia_chin_pean@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
