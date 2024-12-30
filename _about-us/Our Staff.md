@@ -518,18 +518,18 @@ variant: tiptap
 <p>S1-Success</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Yong Wei Hoong</p>
+<p>Ms Chew Ying Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yong_wei_hoong@moe.edu.sg</p>
+<p>chew_ying_ying_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Aidashikin</p>
+<p>Ms Vemalathevey Manikiam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>aidashikin_solikin@moe.edu.sg</p>
+<p>vemalathevey_manikiam@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
