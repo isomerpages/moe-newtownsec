@@ -707,40 +707,35 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p></p>
+<p>S2-Confidence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Kalai Vani Sivam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>kalai_vani_sivam@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Sec 3 Class</strong>
-</p>
+<p>Ms Zhuo Jinrong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Form Teacher</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Email</strong>
-</p>
+<p>zhuo_jinrong@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
 <p></p>
-<p>S3-Care</p>
+<p>S2-Success</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Soon May</p>
+<p>Mr Yong Wei Hoong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_soon_may@moe.edu.sg</p>
+<p>yong_wei_hoong@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
