@@ -1039,10 +1039,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Xu Yiming</p>
+<p>Ms Tamil Alagi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>xu_yiming@moe.edu.sg</p>
+<p>tamil_alagi_manian@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
