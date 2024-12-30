@@ -834,7 +834,7 @@ variant: tiptap
 <p>Mr Lucas Chia Chin Pean</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chia_chin_pean@moe.edu.sg</p>
+<p>m@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -843,18 +843,18 @@ variant: tiptap
 <p>S3-Confidence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Goh Soon Hua</p>
+<p>Ms Joyce Gayathri</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>goh_soon_hua@moe.edu.sg</p>
+<p>gayathri_devadas@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Low Hui Ming</p>
+<p>Mr Lucas Chia Chin Pean</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>low_hui_ming@moe.edu.sg</p>
+<p>Mr Lucas Chia Chin Pean@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
