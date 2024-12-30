@@ -560,18 +560,18 @@ variant: tiptap
 <p>S1-Harmony</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Tricia Ong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lim_tock_boon_tricia@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Low Mian Jiun</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>low_mian_jiun@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chua Zi Hui Samanthan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chua_zi_hui_samanthan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
