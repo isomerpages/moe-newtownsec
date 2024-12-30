@@ -609,13 +609,13 @@ variant: tiptap
 <tr>
 <td rowspan="2" colspan="1">
 <p></p>
-<p>S2-02</p>
+<p>S2-Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sheeja Pillai</p>
+<p>Ms Lu Jing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sheeja_v_pillai@moe.edu.sg</p>
+<p>lu_jing@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
