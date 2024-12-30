@@ -590,10 +590,10 @@ variant: tiptap
 <p>S2-01</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chew Ying Ying</p>
+<p>Ms Kasumawati Bte Wansi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chew_ying_ying_a@moe.edu.sg</p>
+<p>kasumawati_wansi@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
