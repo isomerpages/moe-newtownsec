@@ -533,28 +533,24 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p></p>
+<p></p>
+<p>S1-Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Dolly Teo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>thong_ai_eng_dolly@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Sec 2 Class</strong>
-</p>
+<p>Ms Vemalathevey Manikiam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Form Teacher</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Email</strong>
-</p>
+<p>vemalathevey_manikiam@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
