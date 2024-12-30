@@ -1018,10 +1018,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Loganadhan Prathap</p>
+<p>Mrs Serene Choy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>loganadhan_prathap@moe.edu.sg</p>
+<p>tay_seok_hean_serene@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
