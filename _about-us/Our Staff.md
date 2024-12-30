@@ -435,18 +435,18 @@ variant: tiptap
 <p>S1-Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Valli Sundaram</p>
+<p>Mdm Pang Jia Mien</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>valli_sundaram@moe.edu.sg</p>
+<p>pang_jia_mien@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Dan Yeo Jiunn Hou</p>
+<p>Ms Kok Han Ni</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yeo_jiunn_hou@moe.edu.sg</p>
+<p>kok_han_ni@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
