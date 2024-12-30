@@ -415,18 +415,18 @@ variant: tiptap
 <p>S1-Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Kian Guan</p>
+<p>Ms Jocelyn Teo Ching Fang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lim_kian_guan@moe.edu.sg</p>
+<p>teo_ching_fang_jocelyn@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lu Jing</p>
+<p>Mr Sim Ik Fong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lu_jing@moe.edu.sg</p>
+<p>sim_ik_fong@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
