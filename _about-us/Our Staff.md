@@ -1224,17 +1224,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Counsellor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Yvonne Lee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>yvonne_lee@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Student Welfare Officer</p>
 </td>
 <td rowspan="1" colspan="1">
