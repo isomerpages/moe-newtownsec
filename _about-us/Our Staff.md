@@ -1088,77 +1088,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
-<p></p>
-<p>S4-08</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Song Ziyan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>song_ziyan@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Manjula</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>shanmuganathan_manjula@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p></p>
-<p>S4-09</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Randall Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lim_wei_chun_randall@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Tracy Ng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ng_siew_siew_tracy@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>S4-10</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lucas Chia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chia_chin_pean@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p></p>
-<p>S4-11</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Dolly Teo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>thong_ai_eng_dolly@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Nurul Aisyah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>nurul_aisyah_rosli@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -1184,23 +1113,15 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
-<p>S5-01</p>
+<p>S5-Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jocelyn Teo (SH/Chem)</p>
+<p>Mr Ang Xiang Rui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>teo_ching_fang_jocelyn@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Grace William</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>grace_pushparani_william@moe.edu.sg</p>
+<p>ang_xiang_rui@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
