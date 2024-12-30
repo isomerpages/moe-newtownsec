@@ -763,10 +763,10 @@ variant: tiptap
 <p>S3-Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr James Koh</p>
+<p>Ms Lai Chiu Shuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>james_koh_chee_yong@moe.edu.sg</p>
+<p>lai_chiu_shuan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
