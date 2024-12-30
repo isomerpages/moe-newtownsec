@@ -476,10 +476,10 @@ variant: tiptap
 <p>S1-Self-Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Siow Xing Yu</p>
+<p>Mrs Tricia Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>siow_xing_yu@moe.edu.sg</p>
+<p>lim_tock_boon_tricia@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
