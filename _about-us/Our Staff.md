@@ -586,14 +586,24 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
+<p></p>
+<p></p>
 <p>S2-01</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Kasumawati Bte Wansi</p>
+<p>Ms Low Mian Jiun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>kasumawati_wansi@moe.edu.sg</p>
+<p>low_mian_jiun@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chua Zi Hui Samanthan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chua_zi_hui_samanthan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
