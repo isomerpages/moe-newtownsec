@@ -1049,21 +1049,21 @@ variant: tiptap
 <td rowspan="2" colspan="1">
 <p></p>
 <p></p>
-<p>S4-06</p>
+<p>S4-Confidence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sutinah Suid</p>
+<p>Mr Goh Soon Hua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sutinah_suid@moe.edu.sg</p>
+<p>goh_soon_hua@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Pang Jia Mien</p>
+<p>Ms Low Hui Ming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>pang_jia_mien@moe.edu.sg</p>
+<p>low_hui_ming@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
