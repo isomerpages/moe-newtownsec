@@ -771,10 +771,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tang Anqiong</p>
+<p>Mr Sky Phua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tang_anqiong@moe.edu.sg</p>
+<p>phua_kok_chuan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
