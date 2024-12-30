@@ -450,7 +450,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p></p>
 <p></p>
 <p>S1-Respect</p>
@@ -468,14 +468,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>athinamilagi_kokila@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Gao Chen Ivy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>gao_chen_ivy@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
