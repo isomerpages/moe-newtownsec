@@ -476,18 +476,18 @@ variant: tiptap
 <p>S1-Self-Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Tricia Ong</p>
+<p>Ms Renuka Selva Rajoo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lim_tock_boon_tricia@moe.edu.sg</p>
+<p>renuka_selva_rajoo@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ong Nai Ah Noah</p>
+<p>Mr Randall Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ong_nai_ah@moe.edu.sg</p>
+<p>lim_wei_chun_randall@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
