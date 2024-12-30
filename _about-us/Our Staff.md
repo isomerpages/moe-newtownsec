@@ -403,10 +403,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Hannah Cheng</p>
+<p>Ms Gao Chen Ivy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>cheng_woan_woon@moe.edu.sg</p>
+<p>gao_chen_ivy@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
