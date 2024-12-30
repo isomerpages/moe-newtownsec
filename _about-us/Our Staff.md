@@ -811,10 +811,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Alisha Lim</p>
+<p>Mdm Sutinah Suid</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>alisha_lim_qing_chen@moe.edu.sg</p>
+<p>sutinah_suid@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
