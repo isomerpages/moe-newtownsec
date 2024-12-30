@@ -554,6 +554,38 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="2" colspan="1">
+<p></p>
+<p></p>
+<p>S1-Harmony</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Tricia Ong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_tock_boon_tricia@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Low Mian Jiun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>low_mian_jiun@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>S2-01</p>
 </td>
