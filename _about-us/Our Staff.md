@@ -248,13 +248,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head/History</p>
+<p>Subject Head/ICT &amp; Data Mgt</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Adora Tan Su Yan</p>
+<p>Ms Kalai Vani Sivam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_su_yan_adora@moe.edu.sg</p>
+<p>kalai_vani_sivam@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
