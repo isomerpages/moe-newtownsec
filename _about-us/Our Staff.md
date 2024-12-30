@@ -965,13 +965,13 @@ variant: tiptap
 <td rowspan="2" colspan="1">
 <p></p>
 <p></p>
-<p>S4-02</p>
+<p>S4-Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sim Ik Fong</p>
+<p>Mr James Koh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sim_ik_fong@moe.edu.sg</p>
+<p>james_koh_chee_yong@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
