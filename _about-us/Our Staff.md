@@ -1081,10 +1081,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ang Xiang Rui</p>
+<p>Mr Kalidass</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ang_xiang_rui@moe.edu.sg</p>
+<p>kalidass_jayaraman@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
