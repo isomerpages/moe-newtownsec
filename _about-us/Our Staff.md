@@ -689,21 +689,21 @@ variant: tiptap
 <tr>
 <td rowspan="2" colspan="1">
 <p></p>
-<p>S2-06</p>
+<p>S2-Confidence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sky Phua</p>
+<p>Ms Kalai Vani Sivam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>phua_kok_chuan@moe.edu.sg</p>
+<p>kalai_vani_sivam@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Joyce Gayathri</p>
+<p>Ms Zhuo Jinrong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>gayathri_devadas@moe.edu.sg</p>
+<p>zhuo_jinrong@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
