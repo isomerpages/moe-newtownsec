@@ -834,7 +834,7 @@ variant: tiptap
 <p>Mr Lucas Chia Chin Pean</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>m@moe.edu.sg</p>
+<p>chia_chin_pean@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -854,7 +854,7 @@ variant: tiptap
 <p>Mr Lucas Chia Chin Pean</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lucas Chia Chin Pean@moe.edu.sg</p>
+<p>chia_chin_pean@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
