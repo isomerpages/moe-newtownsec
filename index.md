@@ -19,15 +19,6 @@ sections:
           description: ""
           url: https://cms.isomer.gov.sg/sites/moe-newtownsec/homepage
   - infopic:
-      title: Sec 1 Registration
-      subtitle: NTSS WELCOMES YOU
-      id: infopic
-      description: Information on Secondary 1 posting, registration, and the other matters
-      button: MORE DETAILS
-      url: https://cms.isomer.gov.sg/sites/moe-newtownsec/homepage
-      image: /images/CCAs/NTSS_Website___Main.jpg
-      alt: Image alt text
-  - infopic:
       title: Sec 1 CCA Open House & CCA Selections
       subtitle: ATTENTION PARENTS!
       id: infopic
