@@ -376,17 +376,6 @@ variant: tiptap
 <p>chia_chin_pean@moe.edu.sg</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <h3>Academic Staff</h3>
@@ -1114,7 +1103,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <p>S5-Care</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1122,17 +1110,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>ang_xiang_rui@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
