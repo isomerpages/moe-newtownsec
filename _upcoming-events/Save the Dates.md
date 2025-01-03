@@ -39,30 +39,30 @@ description: ""
 <p>8 January 2025, Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1 Orientation Programme <br>[Uniformed Group Engagement Programme (UGEP)]</p>
+<p>Sec 1 Uniformed Group Engagement Programme (UGEP)</p>
 </td>
 <td rowspan="1" colspan="1">
-	<p>2:00pm to 5:30pm
-</p><p></p>
+	<p>2:00pm to 5:30pm</p>
+	<p></p>
 </td>
+</tr>
+	<tr>
+<td rowspan="1" colspan="1">
+<p>10 January 2025, Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 Sports &amp; Games Engagement Programme (SGEP)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1:30pm to 5:00pm
+</p></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9th February, Friday</p>
+<p>10 - 14 January 2025, Friday to Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chinese New Year Celebrations</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8:00am to 10:30am</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>15th February, Thursday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Total Defence Day</p>
+<p>O-Level Results Release (Tentative)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -70,14 +70,24 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>19th February, Monday to
-<br>23rd February, Friday</p>
+<p>11 January 2025, Saturday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cohort Experience Week</p>
+<p>Sec 1 PES &amp; CCA Open House</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>8:30am to 11:30am</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13 January 2025, Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 Phototaking</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2:00pm to 4:00pm</p>
 </td>
 </tr>
 <tr>
