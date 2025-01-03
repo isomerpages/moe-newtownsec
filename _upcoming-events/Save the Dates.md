@@ -43,7 +43,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 	<p>2:00pm to 5:30pm</p>
-	<p></p>
 </td>
 </tr>
 	<tr>
@@ -59,10 +58,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10 - 14 January 2025, Friday to Tuesday</p>
+<p>10 January 2025, Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>O-Level Results Release (Tentative)</p>
+<p>O-Level Results Release</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -73,18 +72,18 @@ description: ""
 <p>11 January 2025, Saturday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1 PES &amp; CCA Open House</p>
+<p>Sec 1 Parents Engagement Session &amp; CCA Open House</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8:30am to 11:30am</p>
 </td>
 </tr>
-<tr>
+	<tr>
 <td rowspan="1" colspan="1">
-<p>13 January 2025, Monday</p>
+<p>11 January 2025, Monday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1 Phototaking</p>
+<p>Sec 3 Parents Engagement Session</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2:00pm to 4:00pm</p>
@@ -92,7 +91,62 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6th March, Wednesday</p>
+<p>15 January 2025, Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Home-Based Learning</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+	<tr>
+<td rowspan="1" colspan="1">
+<p>17 January 2025, Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 4 Parents Engagement Session (Online)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6:30pm to 8:00pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24 January 2025, Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 2 Parents Engagement Session (Online)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6:30pm to 8:00pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28 January 2025, Tuesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese New Year Celebrations</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8:00am to 10:30am</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 February 2025, Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class Committee Training</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2:00pm to 4:30pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12 February 2025, Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Home-Based Learning</p>
@@ -103,68 +157,34 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>20th March, Wednesday</p>
+<p>17 - 21 Febuary 2025, Monday to Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 3: 15 Year Old NRIC Registration at School</p>
+<p>Sec 3: OBS (Group 1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9:00am to 12:00nn</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>20th March, Wednesday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 3 Cohort Enrichment (Critical/Creative Skills)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2:30pm to 5:30pm</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>27th March, Wednesday</p>
+<p>24 - 28 February 2025, Monday to Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cohort Experience Week<br>&amp; Sec 3: OBS (Group 2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12 March 2025, Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Home-Based Learning</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5th April, Friday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>International Friendship Day</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>16th April, Tuesday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Student Leaders' Investiture</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8:00am to 9:00am</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>24th April, Wednesday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Home-Based Learning</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
