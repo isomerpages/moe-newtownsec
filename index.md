@@ -15,9 +15,6 @@ sections:
         - title: Upcoming Events
           description: ""
           url: https://www.newtownsec.moe.edu.sg/upcoming-events/savethedates/
-        - title: SEC 1 REGISTRATION
-          description: ""
-          url: https://cms.isomer.gov.sg/sites/moe-newtownsec/homepage
   - infopic:
       title: Sec 1 CCA Open House & CCA Selections
       subtitle: ATTENTION PARENTS!
