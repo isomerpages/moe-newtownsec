@@ -25,21 +25,21 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>31st January, Wednesday</p>
+<p>6 January 2025, Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1 to 5 Class Committee Training</p>
+<p>Sec 1 Orientation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2:00pm to 5:00pm</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7th February, Wednesday</p>
+<p>8 January 2025, Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Home-Based Learning</p>
+<p>Sec 1 Orientation Programme [Uniformed Group Engagement Programme)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
