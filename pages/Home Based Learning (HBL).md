@@ -44,7 +44,7 @@ variant: tiptap
 </p>
 <p>Follow the instructions in your class ASPIRE! Padlet and complete the
 task assigned.
-<br>[Refer to google classoom(Form Class) for the Padlet link]</p>
+<br>[Refer to google classoom (Form Class) for the Padlet link]</p>
 <h4>Have a great day learning!</h4>
 <p>Technical Support
 <br>For any technical issue, please refer to the following:</p>
