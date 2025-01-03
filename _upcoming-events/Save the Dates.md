@@ -39,10 +39,11 @@ description: ""
 <p>8 January 2025, Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1 Orientation Programme [Uniformed Group Engagement Programme)</p>
+<p>Sec 1 Orientation Programme <br>[Uniformed Group Engagement Programme (UGEP)]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+	<p>2:00pm to 5:30pm
+</p><p></p>
 </td>
 </tr>
 <tr>
