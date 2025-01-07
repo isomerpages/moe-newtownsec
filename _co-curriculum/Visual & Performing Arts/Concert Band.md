@@ -5,9 +5,8 @@ description: ""
 third_nav_title: Visual & Performing Arts
 variant: tiptap
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Concert Band/Asia_Pacific_Band_Festival_2024_Our_proud_New_Towners_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Concert Band/Photo_1.jpg">
 </div>
 <h2>INTRODUCTION</h2>
 <p><strong>New Town Concert Band: A Legacy of Musical Excellence</strong>
@@ -47,8 +46,8 @@ musical narratives, earning them well-deserved recognition.</p>
 <p>Date / Time</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Tuesdays : 3.15pm – 6.00pm
-<br>Fridays : 1.15pm/2.30pm - 5.30pm</p>
+<p>Tuesdays : 3.30pm – 5.30pm
+<br>Fridays : 1.30pm - 4.30pm</p>
 </th>
 </tr>
 <tr>
@@ -56,7 +55,8 @@ musical narratives, earning them well-deserved recognition.</p>
 <p>Venue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Music Room and Blk G level 3 &amp; 4 classrooms (S1-01 to S1-06)</p>
+<p>Music Room and Blk G level 3 &amp; 4 classrooms (S1-Confidence, S1-Success,
+S1-Respect &amp; S1-Resilience)</p>
 </td>
 </tr>
 </tbody>
@@ -64,10 +64,10 @@ musical narratives, earning them well-deserved recognition.</p>
 <h3>TEACHERS IN-CHARGE</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr Muhammad Nur Azman Shah (1st i/c)</p>
+<p>Mr Muhammad Nur Azman Shah (1st IC)</p>
 </li>
 <li>
-<p>Mdm Song Ziyan (2nd i/c) (Term 2 onwards)</p>
+<p>Mr Joel Chan Jie Hao (2nd IC)</p>
 </li>
 <li>
 <p>Ms Lu Jing</p>
@@ -76,51 +76,58 @@ musical narratives, earning them well-deserved recognition.</p>
 <h3>CONDUCTORS/TUTORS</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr Tan Thiam Hock Erik</p>
+<p>Mr Tan Thiam Hock Erik (Main Conductor)</p>
 </li>
 <li>
-<p>Mr Chang Tat Fai Edmund</p>
+<p>Mr Chang Tat Fai Edmund (Assistant Conductor)</p>
 </li>
 <li>
-<p>Mr Gordon Tan Li Chuan</p>
+<p>Mr Gordon Tan Li Chuan (Percussion Tutor)</p>
 </li>
 </ul>
 <h3>STUDENT LEADERS</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Band Major -&nbsp;Sharlene Neo Yi Ning</p>
+<p>Band Major/Student Conductor: Brayan Lee Yin Hao</p>
 </li>
 <li>
-<p>Drum Major - Hafidzah Binte Zuraimi</p>
+<p>Drum Major: Xing Ende</p>
 </li>
 <li>
-<p>Assistant Band Major - Brayan Lee Yin Hao</p>
+<p>Assistant Band Major: Insyirah Binte Shajib</p>
 </li>
 <li>
-<p>Assistant Drum Major - Wong Chun Lum Adon</p>
+<p>Assistant Drum Major/Student Conductor: Amelie Sarah Yana Wairisal</p>
 </li>
 </ul>
 <h3>ACTIVITIES FOR THE YEAR</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Band Camp</p>
+<p>CCA Open House</p>
 </li>
 <li>
-<p>IN-HOUSE AND OUTDOOR PERFORMANCES</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>eCCA Open House</p>
+<p>Chinese New Year Celebrations</p>
 </li>
 <li>
-<p>Chinese New Year Concert</p>
+<p>Singapore Youth Festival Arts Presentation</p>
 </li>
 <li>
 <p>Commendation Day</p>
 </li>
 <li>
-<p>National Day Concert</p>
+<p>Asia Pacific Band Festival</p>
 </li>
-</ul>
+<li>
+<p>Enrichment Programme - Wind Orchestra Performance</p>
+</li>
+<li>
+<p>National Day</p>
+</li>
+<li>
+<p>Non-residential Band Camp</p>
+</li>
+<li>
+<p>Band Exchange</p>
 </li>
 </ul>
 <h3>ACHIEVEMENTS</h3>
@@ -142,7 +149,19 @@ musical narratives, earning them well-deserved recognition.</p>
 </li>
 </ul>
 <h3>Photo Gallery</h3>
-<div class="iframe-wrapper">
-<iframe height="500" width="500" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRDUvo2lCOwafTBdVmDyfis7cURu5UG68W-fsI-RYin5zXcA4zIfV5adld9KNwNBEbgQNVglDouNXdn/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Concert Band/Photo_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Concert Band/Photo_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Concert Band/Photo_4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Concert Band/Photo_5.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Concert Band/Photo_6.jpg">
 </div>
 <p></p>
