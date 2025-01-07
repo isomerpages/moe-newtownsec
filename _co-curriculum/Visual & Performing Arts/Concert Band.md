@@ -106,10 +106,10 @@ S1-Respect &amp; S1-Resilience)</p>
 <p>Band Major/Student Conductor: Brayan Lee Yin Hao</p>
 </li>
 <li>
-<p>Drum Major - Xing Ende</p>
+<p>Drum Major: Xing Ende</p>
 </li>
 <li>
-<p>Assistant Band Major - Insyirah Binte Shajib</p>
+<p>Assistant Band Major: Insyirah Binte Shajib</p>
 </li>
 <li>
 <p>Assistant Drum Major/Student Conductor: Amelie Sarah Yana Wairisal</p>
@@ -163,8 +163,4 @@ S1-Respect &amp; S1-Resilience)</p>
 <p>Singapore Youth Festival (2017) – Certificate of Accomplishment</p>
 </li>
 </ul>
-<h3>Photo Gallery</h3>
-<div class="iframe-wrapper">
-<iframe height="500" width="500" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRDUvo2lCOwafTBdVmDyfis7cURu5UG68W-fsI-RYin5zXcA4zIfV5adld9KNwNBEbgQNVglDouNXdn/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
 <p></p>
