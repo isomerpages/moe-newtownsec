@@ -280,6 +280,32 @@ Fencing Championships</p>
 <p>6.</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Singapore Cadets Cup</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024 Women’s Epee Individual Top 15</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Singapore Cadets Nationals</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024 Men’s Sabre Individual Ranked 2nd&nbsp;</p>
+<p>2024 Women’s&nbsp; Sabre Individual Ranked Top 20</p>
+<p>2024 Women’s Epee Individual Top 20</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Singapore Junior Nationals</strong>
 </p>
 </td>
@@ -289,7 +315,7 @@ Fencing Championships</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7.</p>
+<p>9.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Singapore Youth Olympic Festival</strong>
@@ -308,7 +334,7 @@ Fencing Championships</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8.</p>
+<p>10.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Pesta Sukan</strong>
@@ -324,7 +350,7 @@ Fencing Championships</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9.</p>
+<p>11.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>NUS Fencing Challenge</strong>
@@ -338,7 +364,7 @@ Fencing Championships</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10.</p>
+<p>12.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Hwa Chong Fencing Invites</strong>
@@ -357,7 +383,7 @@ Fencing Championships</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11.</p>
+<p>13.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Raffles Invite</strong>
