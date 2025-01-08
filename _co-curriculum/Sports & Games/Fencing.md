@@ -141,8 +141,8 @@ Association (SIMPA), SportSG &amp; &nbsp;Active SG</p>
 <td rowspan="1" colspan="1">
 <p>Colours Award for sporting excellence in Fencing (2019)
 <br>Colours Award for sporting excellence in Fencing (2022)
-<br>Colours Award for sporting excellence in Fencing (2023)</p>
-<p>Colours Award for sporting excellence in Fencing (2024)</p>
+<br>Colours Award for sporting excellence in Fencing (2023)
+<br>Colours Award for sporting excellence in Fencing (2024)</p>
 </td>
 </tr>
 <tr>
@@ -154,49 +154,49 @@ Association (SIMPA), SportSG &amp; &nbsp;Active SG</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2024 Overall School Championship B Division Girls ranked 3rd</p>
-<p>2024 Overall School Championship C Division Girls ranked 2nd</p>
-<p>2023 Overall School Championship B Division Girls ranked 3rd
-<br>2022 Overall School Championship C Division Girls Ranked 3rd</p>
+<p>2024 Overall School Championship B Division Girls ranked 3rd<br>
+2024 Overall School Championship C Division Girls ranked 2nd<br>
+2023 Overall School Championship B Division Girls ranked 3rd<br>
+2022 Overall School Championship C Division Girls Ranked 3rd</p>
 <p>2024 Sportsmanship Award for demonstrating outstanding sportsmanship in
-Fencing Championships</p>
-<p>2023 Sportsmanship Award for demonstrating outstanding sportsmanship in
+Fencing Championships<br>
+2023 Sportsmanship Award for demonstrating outstanding sportsmanship in
 Fencing Championships
 <br>2022 Sportsmanship Award for demonstrating outstanding sportsmanship in
 Fencing Championships
 <br>2019 Sportsmanship Award for demonstrating outstanding sportsmanship in
 Fencing Championships</p>
-<p></p>
-<p>2024 B Division&nbsp; Boys’ Sabre Individual Ranked 2nd</p>
-<p>2024 B Division&nbsp; Girls’ Sabre Individual Ranked 5<sup>th</sup> &amp;
-10th</p>
-<p>2024 B Division&nbsp; Girls’ Epee Individual Top 20</p>
-<p>2024 B Division&nbsp; Girls’ Foil Individual Top 15</p>
-<p>
-<br>
-</p>
-<p>2024 C Division Girls’ Sabre Individual Ranked 3<sup>rd</sup>&nbsp;</p>
-<p>2024 C Division Girls’ Foil Individual Ranked 9th</p>
-<p>2024 C Division Girls’ Epee, Foil &amp; Sabre Individual Top 15</p>
+<p>2024 B Division&nbsp; Boys’ Sabre Individual Ranked 2nd
+<br>2024 B Division&nbsp; Girls’ Sabre Individual Ranked 5<sup>th</sup> &amp;
+10th
+<br>2024 B Division&nbsp; Girls’ Epee Individual Top 20
+<br>2024 B Division&nbsp; Girls’ Foil Individual Top 15</p>
+
+<p>2024 C Division Girls’ Sabre Individual Ranked 3<sup>rd</sup>&nbsp;
+<br>2024 C Division Girls’ Foil Individual Ranked 9th
+<br>2024 C Division Girls’ Epee, Foil &amp; Sabre Individual Top 15</p>
+	
 <p>2023 B Division&nbsp; Boys’ Epee &amp; Foil Individual Top 20
 <br>2023 B Division&nbsp; Boy’s Sabre Individual Top 15
-<br>2023 B Division 2023 Girls’ Epee, Foil &amp; Sabre Individual Top 20
-<br>2023 C Division 2023&nbsp; Girl’s Sabre Individual Top 15
-<br>2022 B Division Boys’ Epee &amp; Foil Individual Top 20
-<br>2022 B Division Girls’ Foil Individual Ranked 10
-<br>2022 C Division Girls’ Epee Individual Top 15
-<br>2022 C Division Girls’ Sabre Individual Top 15&nbsp;&nbsp;&nbsp;
-<br>2019 B Division Boys’ Epee Individual Top 20
+	<br>2023 B Division 2023 Girls’ Epee, Foil &amp; Sabre Individual Top 20</p>
+	<p>2023 C Division 2023&nbsp; Girl’s Sabre Individual Top 15</p>
+<p>
+2022 B Division Boys’ Epee &amp; Foil Individual Top 20
+	<br>2022 B Division Girls’ Foil Individual Ranked 10</p>
+<p>
+2022 C Division Girls’ Epee Individual Top 15
+	<br>2022 C Division Girls’ Sabre Individual Top 15&nbsp;&nbsp;&nbsp;</p>
+<p>2019 B Division Boys’ Epee Individual Top 20
 <br>2019 B Division Boys’ Sabre Individual Ranked 9th and 10th
-<br>2019 B Division Girls’ Epee &amp; Sabre Individual Top 20
-<br>2019 C Division Boys’ Epee Individual Ranked 3rd
+	<br>2019 B Division Girls’ Epee &amp; Sabre Individual Top 20</p>
+<p>2019 C Division Boys’ Epee Individual Ranked 3rd
 <br>2019 C Division Boys’ Foil Individual Ranked Top 20
 <br>2019 C Division Girls’ Epee Individual Top 20
-<br>2019 C Division Girls’ Sabre Individual Ranked 8th
-<br>2018 B Division Boys’ Epee &amp; Sabre Individual Top 20
-<br>2018 C Division Girls’ Epee &amp; Sabre Individual Top 20
-<br>2017 C Division Boys’ Sabre Individual Top 20
-<br>2017 B Division Boys’ Epee &amp; Sabre Individual Top 20
+	<br>2019 C Division Girls’ Sabre Individual Ranked 8th</p>
+	<p>2018 B Division Boys’ Epee &amp; Sabre Individual Top 20</p>
+	<p>2018 C Division Girls’ Epee &amp; Sabre Individual Top 20</p>
+	<p>2017 C Division Boys’ Sabre Individual Top 20</p>
+<p>2017 B Division Boys’ Epee &amp; Sabre Individual Top 20
 <br>2017 B Division Girls’ Sabre Individual Top 20</p>
 </td>
 </tr>
@@ -296,9 +296,9 @@ Fencing Championships</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2024 Men’s Sabre Individual Ranked 2nd&nbsp;</p>
-<p>2024 Women’s&nbsp; Sabre Individual Ranked Top 20</p>
-<p>2024 Women’s Epee Individual Top 20</p>
+<p>2024 Men’s Sabre Individual Ranked 2nd&nbsp;<br>
+2024 Women’s&nbsp; Sabre Individual Ranked Top 20<br>
+2024 Women’s Epee Individual Top 20</p>
 </td>
 </tr>
 <tr>
