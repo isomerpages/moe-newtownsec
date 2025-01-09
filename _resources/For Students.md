@@ -40,8 +40,13 @@ variant: tiptap
 <li>
 <p><a href="https://www.newtownsec.moe.edu.sg/self-help-guide-for-students/" rel="noopener nofollow" target="_blank">Self Help Guide For Students</a>
 </p>
-<p></p>
-<p></p>
+</li>
+</ul>
+<h3><strong>Safety and Discipline</strong></h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2025/2025_NTSS_Rules_and_Regulations.pdf" rel="noopener noreferrer nofollow" target="_blank">School Rules and Regulations</a>
+</p>
 </li>
 </ul>
 <p></p>
