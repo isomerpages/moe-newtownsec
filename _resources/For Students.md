@@ -45,7 +45,7 @@ variant: markdown
 <h3><strong>Safety and Discipline</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2025/2025_NTSS_Rules_and_Regulations.pdf" rel="noopener noreferrer nofollow" target="_blank">School Rules and Regulations</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/2025/2025_NTSS_Rules_and_Regulations.pdf">School Rules and Regulations</a>
 </p>
 </li>
 </ul>
