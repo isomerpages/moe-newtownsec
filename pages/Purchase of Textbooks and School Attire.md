@@ -5,9 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h2>School Bookshop</h2>
-<p><strong>Overseas Associates Pte Ltd</strong>
+<p><strong>Asencio Pte Ltd</strong>
 <br><strong>Retail Shop:</strong>  <a href="https://www.newtownsec.moe.edu.sg/about-us/contact-us/" rel="noopener nofollow" target="_blank">New Town Secondary School</a>
-<br><strong>Online Shop:</strong>  <a href="https://www.oapl.sg/outlets/nts" rel="noopener nofollow" target="_blank">Shop Here</a>
+<br><strong>Online Shop:</strong>  <a href="https://asencio.com.sg/" rel="noopener nofollow" target="_blank">Shop Here</a>
 <br><strong>Booklist 2025:</strong>
 </p>
 <table style="minWidth: 75px">

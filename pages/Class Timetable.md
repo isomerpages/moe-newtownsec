@@ -2,7 +2,7 @@
 title: Class Timetable
 permalink: /others/announcements/class-timetable/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <ul data-tight="true" class="tight">
 <li>
