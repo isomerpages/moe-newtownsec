@@ -7,7 +7,8 @@ variant: tiptap
 <h2>School Bookshop</h2>
 <p><strong>Asencio Pte Ltd</strong>
 <br><strong>Retail Shop:</strong>  <a href="https://www.newtownsec.moe.edu.sg/about-us/contact-us/" rel="noopener nofollow" target="_blank">New Town Secondary School</a>
-<br><strong>Online Shop:</strong>  <a href="https://asencio.com.sg/" rel="noopener nofollow" target="_blank">Shop Here</a>
+<br><strong>Online Shop:</strong>  <a href="https://asencio.com.sg/" rel="noopener nofollow" target="_blank">Shop Here </a>(online ordering is only available
+during year-end sales period)
 <br><strong>Booklist 2025:</strong>
 </p>
 <table style="minWidth: 75px">
