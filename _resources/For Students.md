@@ -45,7 +45,7 @@ variant: tiptap
 <h3><strong>Safety and Discipline</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.newtownsec.moe.edu.sg/files/2025%20ntss%20rules%20and%20regulations.pdf" rel="noopener nofollow" target="_blank">Rules and Regulations</a>
+<p><a href="/files/2025/2025 ntss rules and regulations.pdf" rel="noopener nofollow" target="_blank">Rules and Regulations</a>
 </p>
 </li>
 </ul>
