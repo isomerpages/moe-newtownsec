@@ -36,11 +36,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>2.&nbsp;ASPIRE! Programme</strong>
-</p>
-<p>Follow the instructions in your class ASPIRE! Padlet and complete the
-task assigned.
-<br>[Refer to google classoom (Form Class) for the Padlet link]</p>
+<p></p>
 <h4>Have a great day learning!</h4>
 <p>Technical Support
 <br>For any technical issue, please refer to the following:</p>
