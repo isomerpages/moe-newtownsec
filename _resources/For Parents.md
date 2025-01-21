@@ -11,10 +11,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/about-us/links/parents/admin-information" rel="noopener noreferrer nofollow" target="_blank">Admin Information</a>
-</p>
-</li>
-<li>
 <p><a href="/about-us/links/parents/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">Financial&nbsp;Assistance</a>
 </p>
 </li>
