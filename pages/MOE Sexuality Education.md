@@ -90,9 +90,7 @@ issues related to sexuality, which are of prime concern at this age.</p>
 </li>
 </ol>
 <h4><strong>At New Town Secondary School, the following Sexuality Education lessons will be taught in <u>2025</u>:</strong></h4>
-<p><strong><u>Secondary 1</u></strong>
-</p>
-<p></p>
+<h4><strong><u>Secondary 1</u></strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -127,8 +125,7 @@ issues related to sexuality, which are of prime concern at this age.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Steady or Not</p>
-<p>Lesson 1</p>
-<p>(60 mins)</p>
+<p>Lesson 1 (60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson helps students understand more about relationship building
@@ -180,9 +177,13 @@ of self.&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>understand that physical and psychological abuse from others, especially
 those we know and trust, can have strong negative effects on a person’s
 self-concept</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 9</p>
@@ -191,8 +192,7 @@ self-concept</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>More than Meets the Eye</p>
-<p>Lesson 3&nbsp;</p>
-<p>(60 mins)</p>
+<p>Lesson 3&nbsp; (60 mins)</p>
 <p>
 <br>
 </p>
@@ -206,9 +206,6 @@ watching pornography as a private issue without consequences to bear, they
 will learn that it could lead to addiction and/or other risky sexual behaviours.&nbsp;</p>
 <p></p>
 <p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
-</p>
-<p>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -232,9 +229,7 @@ etc.)</p>
 </tr>
 </tbody>
 </table>
-<p><strong><u>Secondary 2</u></strong>
-</p>
-<p></p>
+<h4><strong><u>Secondary 2</u></strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -264,8 +259,8 @@ etc.)</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="3" colspan="1">
+<p>Respectful Relationships &amp; Safety</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>A Role for Everyone&nbsp;</p>
@@ -311,12 +306,8 @@ as a male or female</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Online Safety Challenge&nbsp;</p>
-<p>Lesson 2A</p>
-<p>(60 mins)</p>
+<p>Lesson 2A (60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson focuses on the issue of online grooming and cyber-flashing.
@@ -333,9 +324,13 @@ and safety.&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>recognise one’s vulnerability to risky situations and the importance of
 exercising discretion to reduce risks and avoid negative consequences,
 both online and offline</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 9</p>
@@ -343,12 +338,8 @@ both online and offline</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Do I or Don’t I&nbsp;</p>
-<p>Lesson 2B</p>
-<p>(60 mins)</p>
+<p>Lesson 2B (60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson focuses on respect for personal boundaries; and how to be
@@ -378,9 +369,7 @@ both offline and online</p>
 </tr>
 </tbody>
 </table>
-<p><strong><u>Secondary 3</u></strong>
-</p>
-<p></p>
+<h4><strong><u>Secondary 3</u></strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -414,8 +403,7 @@ both offline and online</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Love Yourself, Love Others&nbsp;</p>
-<p>Lesson 1A</p>
-<p>(60 mins)</p>
+<p>Lesson 1A (60 mins)</p>
 <p>
 <br>
 </p>
@@ -451,12 +439,12 @@ is important when entering into a dating relationship</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mending a Broken Heart Lesson 1B</p>
-<p>(60 mins)</p>
+<p>Mending a Broken Heart</p>
+<p>Lesson 1B (60 mins)</p>
 <p>
 <br>
 </p>
@@ -497,12 +485,8 @@ and friends are important pillars of support</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>When Respect Takes Centre Stage&nbsp;</p>
-<p>Lesson 2</p>
-<p>(60 mins)</p>
+<p>Lesson 2 (60 mins)</p>
 <p>
 <br>
 </p>
@@ -538,8 +522,7 @@ alignment with our beliefs</p>
 </tr>
 </tbody>
 </table>
-<p><strong><u>Secondary 4</u></strong>
-</p>
+<h4><strong><u>Secondary 4</u></strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -568,14 +551,12 @@ alignment with our beliefs</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Respectful Relationships &amp; Safety</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Levelling the Ground Lesson 1</p>
-<p>(60 mins)</p>
-<p>
-<br>Term 3 Week 1</p>
+<p>Levelling the Ground</p>
+<p>Lesson 1 (60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson aims to help students think critically about gender stereotypes
@@ -605,12 +586,8 @@ and femininity vary over time and space, and are shaped by societal expectations
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>When Love Hurts&nbsp;</p>
-<p>Lesson 2</p>
-<p>(60 mins)</p>
+<p>Lesson 2 (60 mins)</p>
 <p>
 <br>
 </p>
@@ -640,9 +617,12 @@ social impact on victims&nbsp;</p>
 <li>
 <p>understand that we need moral courage and wisdom to recognise and end
 relationships that are unhealthy and cause harm to our mental and emotional
-well-beingunderstand the importance of ensuring that non-verbal messages
-match with verbal ones, when communicating personal and emotional boundaries
-in a relationship</p>
+well-being</p>
+</li>
+<li>
+<p>understand the importance of ensuring that non-verbal messages match with
+verbal ones, when communicating personal and emotional boundaries in a
+relationship</p>
 </li>
 </ul>
 </td>
@@ -652,12 +632,8 @@ in a relationship</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>For Better or For Worse&nbsp;</p>
-<p>Lesson 3</p>
-<p>(60 mins)</p>
+<p>Lesson 3 (60 mins)</p>
 <p>
 <br>
 </p>
@@ -683,11 +659,9 @@ with each other.&nbsp;</p>
 understanding oneself and others in the intellectual, emotional, social
 and moral dimensions&nbsp;</p>
 </li>
-</ul>
-<ul>
 <li>
 <p>know that marriage entails a union between a man and a woman based on
-love, trust, commitment, and requires mutual effort&nbsp;</p>
+love, trust, commitment, and requires mutual effort</p>
 </li>
 <li>
 <p>understand that conflicts are normal in any relationship, including marriage,
@@ -702,12 +676,8 @@ of their marriage</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>There’s Always More to a Story&nbsp;</p>
-<p>Lesson 4</p>
-<p>(60 mins)</p>
+<p>Lesson 4 (60 mins)</p>
 <p>
 <br>
 </p>
@@ -721,9 +691,13 @@ boundaries and overcoming difficulties in making sound decisions, to prevent
 themselves from encountering danger.</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>understand that we strengthen our character when we commit to sound values-based
 viewpoints (e.g. respect for life) and decisions, and speak and act in
 alignment with our beliefs</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 8</p>
@@ -888,8 +862,8 @@ form is to be submitted by 28/02/2025.</p>
 <li>
 <p>Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable here. The completed form
-is to be submitted by 28/02/2025.</p>
+at the start of the year and is also downloadable [here]. The completed
+form is to be submitted by 28/02/2025.</p>
 <p></p>
 </li>
 <li>
