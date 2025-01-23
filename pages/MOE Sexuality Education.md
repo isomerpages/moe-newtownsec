@@ -818,9 +818,7 @@ Abstinence and upholding family values are the key messages.</p>
 <ul>
 <li>
 <p>Raise awareness and provide knowledge on:</p>
-</li>
-</ul>
-<ol>
+<ul data-tight="true" class="tight">
 <li>
 <p>Infectious diseases (STIs and HIV): what it is, how it spreads, how to
 prevent infection mainly through ABC (abstinence, being faithful, correct,
@@ -829,7 +827,9 @@ and consistent condom use).</p>
 <li>
 <p>Managing relationships and risky situations in a healthy way.</p>
 </li>
-</ol>
+</ul>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 8</p>
