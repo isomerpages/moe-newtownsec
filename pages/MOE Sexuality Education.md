@@ -705,9 +705,7 @@ alignment with our beliefs</p>
 </tr>
 </tbody>
 </table>
-<p><strong><u>Secondary 5</u></strong>
-</p>
-<p></p>
+<h4><strong><u>Secondary 5</u></strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
