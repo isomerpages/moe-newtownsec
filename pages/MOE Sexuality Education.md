@@ -130,8 +130,7 @@ Abstinence and upholding family values are the key messages.</p>
 <img style="width: 100%" height="auto" width="100%" alt="e-Teen 2024" src="/images/Image_9.jpg">
 </div>
 <p></p>
-<p><strong>INFORMATION FOR PARENTS</strong>
-</p>
+<h4><strong>INFORMATION FOR PARENTS</strong></h4>
 <ol start="10">
 <li>
 <p>Parents may opt their children out of the Sexuality Education lessons, <em>eTeens</em> and/or
@@ -141,14 +140,15 @@ supplementary sexuality education programmes by MOE-approved external providers.
 <li>
 <p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable&nbsp;<a href="/files/ANNEX_A_Parent_s_Opt_Out_form_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-The completed form is to be submitted by 01/03/2024.&nbsp;</p>
+at the start of the year and is also downloadable [here]. The completed
+form is to be submitted by 28/02/2025.</p>
 <p></p>
 </li>
 <li>
-<p>Parents who wish to opt their children out of the This form will be communicated
-to parents at the start of the year and is also downloadable&nbsp;<a href="/files/Annex_B_eTeens_Parents_Opt_out_Form__Sec__2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.&nbsp;
-The completed form is to be submitted by 01/03/2024.</p>
+<p>Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
+to complete an opt-out form. This form will be communicated to parents
+at the start of the year and is also downloadable here. The completed form
+is to be submitted by 28/02/2025.</p>
 <p></p>
 </li>
 <li>
