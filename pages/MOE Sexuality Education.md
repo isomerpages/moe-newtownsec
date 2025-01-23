@@ -788,8 +788,7 @@ family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
 </li>
 </ol>
-<p><strong>At New Town Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2025:</strong>
-</p>
+<h4><strong>At New Town Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2025:</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
