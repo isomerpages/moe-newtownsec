@@ -87,11 +87,13 @@ of the possible consequences of sexual behaviour.</p>
 the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
+<hr>
 </li>
 </ol>
-<h4>Click the link below to view the lesson plans for 2025:</h4>
-<p><a href="/files/2025/For Parents/2025_Info_on_SEd_for_schs_website__New_Town_Sec_.pdf" rel="noopener nofollow" target="_blank">[All levels] MOE Sexuality Education 2025.pdf</a>
+<h4><strong>Click the link below to view the lesson plans for 2025:</strong></h4>
+<p><strong><a href="/files/2025/For Parents/2025_Info_on_SEd_for_schs_website__New_Town_Sec_.pdf" rel="noopener nofollow" target="_blank">[All levels] MOE Sexuality Education 2025.pdf</a></strong>
 </p>
+<hr>
 <p><strong><em><u>eTeens</u></em><u> Programme:</u></strong>
 </p>
 <ol start="8">
