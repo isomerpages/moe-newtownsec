@@ -14,9 +14,8 @@ to build ownership in their choices and this inspires student agency, thereby
 developing school values such as resilience, self-discipline and care in
 them.</p>
 <p>Check out some of our students' sharing below:</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -34,12 +33,17 @@ them.</p>
 </div>
 <p></p>
 </th>
-<th rowspan="1" colspan="1">
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
 <iframe height="180" width="320" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Y4R971ZQ9cg?si=J6NO33nx5HNOGaSH"></iframe>
 </div>
 <p></p>
-</th>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
