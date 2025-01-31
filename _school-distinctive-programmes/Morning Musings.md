@@ -22,16 +22,16 @@ them.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="180" width="320" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/o3dwUHQhD04?si=7KVwMjNCyaAr6txL"></iframe>
 </div>
-<p></p>
 </th>
 <th rowspan="1" colspan="1">
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="180" width="320" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/H6HYGl6YlQg?si=Lr4KUtTIZF7_oHau"></iframe>
 </div>
-<p></p>
 </th>
 </tr>
 <tr>
