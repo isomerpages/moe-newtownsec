@@ -39,7 +39,6 @@ them.</p>
 <div class="iframe-wrapper">
 <iframe height="180" width="320" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Y4R971ZQ9cg?si=J6NO33nx5HNOGaSH"></iframe>
 </div>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
