@@ -194,7 +194,7 @@ The completed form is to be submitted by <strong><u>28/02/2025</u></strong>.</p>
 <p></p>
 </li>
 <li>
-<p>Parents can contact the school at <a rel="noopener noreferrer nofollow" target="_blank">chai_woon_yin_charine@schools.gov.sg</a> or
+<p>Parents can contact the school at <a href="mailto:chai_woon_yin_charine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chai_woon_yin_charine@moe.edu.sg</a> or
 6775 4140 for discussion or to seek clarification about the school’s Sexuality
 Education programme.</p>
 </li>
