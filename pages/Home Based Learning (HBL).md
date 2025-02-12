@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h1>Home Based Learning (HBL)</h1>
-<h3><strong>15 JAN 2025</strong></h3>
+<h3><strong>12 FEB 2025</strong></h3>
 <p><strong>1.&nbsp;HBL Timetable and Learning Task</strong> 
 <br>&nbsp; &nbsp;Click on your respective level.</p>
 <table style="minWidth: 50px">
@@ -16,29 +16,28 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><a href="https://docs.google.com/spreadsheets/d/1iNdN1ontdoPC421gGSbHDqtYikvHhL9pVs4c5WyfUxU/edit?gid=679269688#gid=679269688" rel="noopener nofollow" target="_blank">Sec 1</a>
+<p><a href="https://docs.google.com/spreadsheets/d/1_qcGoy0vypoJq46O6pm6UcKM3uzaFT89f5J2NmPgmD4/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 1</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="https://docs.google.com/spreadsheets/d/1fFHP4LB4b3j1TcPNP9iB9dR1EZKs1p4B/edit?gid=1412961414#gid=1412961414" rel="noopener nofollow" target="_blank">Sec 3</a>
+<p><a href="https://docs.google.com/spreadsheets/d/1T6YK-1DpUdQChJYzIY_TUN_F-l06ORjy/edit?usp=sharing&amp;ouid=114349310661457557026&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Sec 3</a>
 </p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://docs.google.com/spreadsheets/d/1RkIj1_GDIyIYAIi_HvMLb0lnn2ScDl_GKnKXwSdlkmQ/edit?gid=679269688#gid=679269688" rel="noopener nofollow" target="_blank">Sec 2</a></strong>
+<p><strong><a href="https://docs.google.com/spreadsheets/d/1EYaHegHG6FYLcNuQmoD0japwClf2KXzeXHdJMdVJVvk/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 2</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://docs.google.com/spreadsheets/d/1rMjRLMxbBWIhcykh0s25Qc9Z8Z_shQdh/edit?gid=1412961414#gid=1412961414" rel="noopener nofollow" target="_blank">Sec 4&amp;5</a></strong>
+<p><strong><a href="https://docs.google.com/spreadsheets/d/1tYb1zo9dEA0lgwfpAv3d7qJ_Gy7UmSzW/edit?usp=sharing&amp;ouid=114349310661457557026&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Sec 4&amp;5</a></strong>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4>Have a great day learning!</h4>
-<p>Technical Support
+<p><strong>Technical Support </strong>
 <br>For any technical issue, please refer to the following:</p>
 <ul data-tight="true" class="tight">
 <li>
