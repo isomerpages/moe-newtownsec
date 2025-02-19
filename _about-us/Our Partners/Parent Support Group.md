@@ -5,7 +5,11 @@ description: ""
 third_nav_title: Our Partners
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -65,4 +69,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>For queries or to express interest in joining the Parent Support Group
+(PSG), please contact <strong>Ms Ariel Heng</strong> at <a href="mailto:newtownss.psg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">newtownss.psg@gmail.com</a>.</p>
