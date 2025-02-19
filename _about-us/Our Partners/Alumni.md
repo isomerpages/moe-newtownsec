@@ -5,7 +5,11 @@ description: ""
 third_nav_title: Our Partners
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -113,9 +117,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ExCo Member
-<br>
-</p>
+<p>ExCo Member</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Daniel Lam</p>
@@ -123,4 +125,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>For queries or to express interest in joining the Alumni Group, please
+contact <strong>Mr Allan Lieu</strong> at <a href="mailto:newtownalumni@gmail.com" rel="noopener noreferrer nofollow" target="_blank">newtownalumni@gmail.com</a>.</p>
