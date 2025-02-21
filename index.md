@@ -15,14 +15,15 @@ sections:
         - title: Upcoming Events
           description: ""
           url: https://www.newtownsec.moe.edu.sg/upcoming-events/savethedates/
-  - infopic:
-      title: Sec 1 CCA Open House & CCA Selections
-      subtitle: ATTENTION PARENTS!
-      id: infopic
-      button: MORE DETAILS
-      alt: Image alt text
-      url: https://www.newtownsec.moe.edu.sg/sec-1-2025-cca-open-house-cca-selections/
-      image: /images/CCAs/NTSS_Website___Main.jpg
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: T1W8 Cohort Experience Week Timetable
+          date: 21 February 2025
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
   - infopic:
       title: Applied Learning (ALP)
       subtitle: School Distinctive Programmes
