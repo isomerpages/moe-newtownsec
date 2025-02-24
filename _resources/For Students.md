@@ -19,7 +19,8 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>T1W8 Cohort Experience Week Timetable</p>
+<p><a href="https://www.newtownsec.moe.edu.sg/t1w8-cohort-experience-week-timetable/" rel="noopener nofollow" target="_blank">T1W8 Cohort Experience Week Timetables</a>
+</p>
 </li>
 <li>
 <p><a href="https://www.newtownsec.moe.edu.sg/exam-timetable/" rel="noopener noreferrer nofollow" target="_blank">Sec 4&amp;5 Exam Timetable</a>
