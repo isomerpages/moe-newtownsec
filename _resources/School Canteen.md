@@ -29,10 +29,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Halal Food Stall</p>
+<p>Noodle Stall (Non-Halal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>06 Mar 2024 [CLOSED]&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;7 March 2025&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NIL</p>
@@ -44,10 +44,16 @@ variant: tiptap
 </p>
 <p>1. Download and complete the application form. You may also request for
 a hardcopy from the School’s General Office.</p>
-<p><a href="https://go.gov.sg/canteen-application-form" rel="noopener noreferrer nofollow" target="_blank">Application Form (Word Format)</a>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2025/Canteen_Advertisement__Food_Stall_NonHalal_Stall_6_19Feb2024_docx_EmbeddedFile_docx.pdf" rel="noopener nofollow" target="_blank">Application Form (PDF Format)</a>
 </p>
-<p><a href="/files/application%20form.pdf" rel="noopener noreferrer nofollow" target="_blank">Application form(Pdf format)</a>
+</li>
+<li>
+<p><a href="https://go.gov.sg/canteen-application-form" rel="noopener nofollow" target="_blank">Application Form (Word Format)</a>
 </p>
+</li>
+</ul>
 <p>2. Attached the following documents together with the application form:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -69,7 +75,7 @@ via email OR to the School's General Office.</p>
 <p>Contact No: <strong>67754140</strong> 
 <br>Email: <strong>ntss@moe.edu.sg</strong>
 </p>
-<p>Contact Person: <strong>Mdm Rohaidah (CSO)/Mr Chia Yuen Teck (Operations Mgr)</strong>
+<p>Contact Person: <strong>Mdm Rohaidah (CSO) / Mr Sam Meng Chong (Operations Mgr) / Ms Fauziah Zainal (Administration Mgr)</strong>
 </p>
 <p><strong>How to get there?</strong>
 </p>
@@ -95,8 +101,8 @@ and stall assistant.</p>
 <li>
 <p>Able to provide good service and quality food with prices determined in
 consultation with the school. (at most $3.40 for a set meal of rice, meat,
-vegetable &amp; fruit).&nbsp; Proposed menu with price list must be attached
-to the application form for our consideration.</p>
+vegetable &amp; fruit). Proposed menu with price list <strong>must</strong> be
+attached to the application form for our consideration.</p>
 </li>
 <li>
 <p>Able to provide cooked food that meets the health / nutritional standards
