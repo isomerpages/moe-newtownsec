@@ -20,17 +20,17 @@ variant: tiptap
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="https://docs.google.com/spreadsheets/d/1T6YK-1DpUdQChJYzIY_TUN_F-l06ORjy/edit?usp=sharing&amp;ouid=114349310661457557026&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Sec 3</a>
+<p><a href="https://docs.google.com/spreadsheets/d/1_4-cQvE31q6l7N--EH-Aktkn3tZ7d6Pg/edit?usp=sharing&amp;ouid=114349310661457557026&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Sec 3</a>
 </p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://docs.google.com/spreadsheets/d/1EYaHegHG6FYLcNuQmoD0japwClf2KXzeXHdJMdVJVvk/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 2</a></strong>
+<p><strong><a href="https://docs.google.com/spreadsheets/d/1OPgs_6fr3dHg1DEsFli0hll6XmmzG5IvGt9paa_96Is/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 2</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://docs.google.com/spreadsheets/d/1tYb1zo9dEA0lgwfpAv3d7qJ_Gy7UmSzW/edit?usp=sharing&amp;ouid=114349310661457557026&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Sec 4&amp;5</a></strong>
+<p><strong><a href="https://docs.google.com/spreadsheets/d/1Nakr1iz7ECydjryqyXhJfD5DxcLMd6jq/edit?usp=sharing&amp;ouid=114349310661457557026&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Sec 4&amp;5</a></strong>
 </p>
 </td>
 </tr>
