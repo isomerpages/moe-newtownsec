@@ -29,31 +29,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Honorary Advisors</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dr Teo Ho Pin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Honorary Advisors</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr James Chia</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Honorary Advisors</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Alan Chua</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice-President (Collaboration)</p>
+<p>Vice-President</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Wilna Tan</p>
@@ -61,10 +37,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice-President (Membership)</p>
+<p>Vice-President</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Seng Chun Guan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-President</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Alan Chua</p>
 </td>
 </tr>
 <tr>
@@ -93,7 +77,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Membership Development Vice Chairman</p>
+<p>Membership Development Vice-Chairman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Jean Tan</p>
@@ -101,7 +85,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ExCo Member</p>
+<p>Exco Member</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lew Kwan Koon</p>
@@ -109,18 +93,42 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ExCo Member</p>
+<p>Exco Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Wong Kan Kee</p>
+<p>Mr Desmond Moey</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ExCo Member</p>
+<p>Exco Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Daniel Lam</p>
+<p>Mr Mikee Chang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Exco Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Andrew Liu</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Exco Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sandy Phua</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Exco member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lau Hwee Bee</p>
 </td>
 </tr>
 </tbody>
