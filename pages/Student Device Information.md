@@ -19,11 +19,11 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/IP2___Parent_Handbook__I__2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (I) on learning with a PLD</a>
+<p><a href="/files/2025/IP2___Parent_Handbook__I__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (I) on learning with a PLD</a>
 </p>
 </li>
 <li>
-<p><a href="/files/IP3___Parent_Handbook__II__2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (II) on learning with a PLD</a>
+<p><a href="/files/2025/IP3___Parent_Handbook__II__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (II) on learning with a PLD</a>
 </p>
 </li>
 </ul>
