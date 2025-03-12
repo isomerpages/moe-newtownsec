@@ -15,7 +15,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/2025/Annex_A_B_C_DMA_Parent_Option.pdf" rel="noopener noreferrer nofollow" target="_blank">Apply - DMA Parent Options</a>
+<p><a href="https://go.gov.sg/ntss-dma-parent-options-form" rel="noopener nofollow" target="_blank">Apply - DMA Parent Option</a>
 </p>
 </li>
 <li>
