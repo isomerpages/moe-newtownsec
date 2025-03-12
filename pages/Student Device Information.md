@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/This_page_will_be_updated_soon.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Device Information Kit</a>
+<p><a href="/files/2025/DR4___Student_Device_Information_Kit_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Device Information Kit</a>
 </p>
 </li>
 <li>
