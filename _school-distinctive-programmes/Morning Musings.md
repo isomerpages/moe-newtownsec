@@ -14,7 +14,7 @@ to build ownership in their choices and this inspires student agency, thereby
 developing school values such as resilience, self-discipline and care in
 them.</p>
 <p>Check out some of our students' sharing below:</p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Term 1</strong>
 </summary>
@@ -104,11 +104,19 @@ them.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="180" width="320" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ESuNjqpVxGY?si=48T8fkGcF0_CjtUb"></iframe>
+</div>
 </td>
 </tr>
 </tbody>
 </table>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Term 2</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
