@@ -15,6 +15,24 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Outstanding Alumnus/AEG___MARTIN_ELLIOT_GAN_BOON_PENG.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>MARTIN ELLIOT GAN BOON PENG</strong>
+<br>
+<br>An alumnus of&nbsp;<strong>New Town Secondary School</strong>, MARTIN
+ELLIOT GAN BOON PENG, has excelled academically in his first year in our
+School (2024/25), and has won the prestigious <strong>Temasek Polytechnic (Engineering) </strong>scholarship.</p>
+<p>&nbsp;</p>
+<p>The scholarship is awarded to students with outstanding academic results,
+impressive CCA achievements, and strong leadership qualities and potential.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Outstanding Alumnus/New_Town_Secondary_School_Ethan_Pang_SB.jpg">
 </div>
 </td>
