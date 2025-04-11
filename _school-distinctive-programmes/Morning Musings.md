@@ -117,7 +117,24 @@ them.</p>
 <summary><strong>Term 2</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe height="180" width="320" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jwAw_X-T_X4?si=uZBEYblbC87VUidu"></iframe>
+</div>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
+</th>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 </div>
