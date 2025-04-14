@@ -22,8 +22,8 @@ variant: tiptap
 <p><strong>MARTIN ELLIOT GAN BOON PENG</strong>
 <br>
 <br>An alumnus of&nbsp;<strong>New Town Secondary School</strong>, MARTIN
-ELLIOT GAN BOON PENG, has excelled academically in his first year in our
-School (2024/25), and has won the prestigious <strong>Temasek Polytechnic (Engineering) </strong>scholarship.</p>
+ELLIOT GAN BOON PENG, has excelled academically in his first year (2024/25),
+and has won the prestigious <strong>Temasek Polytechnic (Engineering) </strong>scholarship.</p>
 <p>&nbsp;</p>
 <p>The scholarship is awarded to students with outstanding academic results,
 impressive CCA achievements, and strong leadership qualities and potential.</p>
