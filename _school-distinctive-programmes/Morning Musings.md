@@ -125,15 +125,21 @@ them.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Apr 1</p>
+<div class="iframe-wrapper">
+<iframe height="180" width="320" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nwkuAaE6Jw8?si=5L-ze6crbRUVlsmm"></iframe>
+</div>
 </th>
 <th rowspan="1" colspan="1">
-<p>Apr 3</p>
+<div class="iframe-wrapper">
+<iframe height="180" width="320" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/njsIBcEy0XA?si=_HdR2PYEqN6yTOeY"></iframe>
+</div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Apr 4</p>
+<div class="iframe-wrapper">
+<iframe height="180" width="320" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tDdvBM9Q32o?si=LDVRxdRtuA9MubIb"></iframe>
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Apr 7</p>
@@ -149,26 +155,34 @@ them.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Apr 11</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Apr 14</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Apr 15</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Apr 21</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Apr 23</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 24</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Apr 24</p>
+<p>Apr 25</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Apr 25</p>
+<p></p>
 </td>
 </tr>
 </tbody>
