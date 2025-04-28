@@ -6,7 +6,7 @@ third_nav_title: Uniformed Group
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/main.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Girl_Guides___for_school_website_Apr_2025.jpg">
 </div>
 <h3><strong>INTRODUCTION</strong></h3>
 <p>In Girl Guides, our girls embark on a journey of sisterhood, leadership,
@@ -206,7 +206,6 @@ responsible citizens of the world.</p>
 <p>West Division Day Competition (Get Creative with TikTok) – Bronze</p>
 </li>
 </ul>
-<p></p>
 <h3><strong>PHOTO GALLERY</strong></h3>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS7u05Ct3p1uOO6hMgeBHikvcz9TY85JgnJJz71MpZY7e0lZyLOVqO61zmoS0WCRbOrnkzM0LcDIct3/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
