@@ -19,12 +19,12 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: T1W8 Cohort Experience Week Timetable
-          date: 21 February 2025
-          announcement: Students may find their timetables for Cohort Experience Week at
-            the link below.
-          link_text: Access timetables here >>>
-          link_url: https://www.newtownsec.moe.edu.sg/t1w8-cohort-experience-week-timetable/
+        - title: Road Run Information
+          date: 28 April 2025
+          announcement: Dear Students, please find information regarding the upcoming NTSS
+            60th Road Run in the link below.
+          link_text: Click here >>>
+          link_url: /ntss-60th-road-run-information/
   - infopic:
       title: Applied Learning (ALP)
       subtitle: School Distinctive Programmes
