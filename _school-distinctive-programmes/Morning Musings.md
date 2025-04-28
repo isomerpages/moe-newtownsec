@@ -188,12 +188,16 @@ them.</p>
 <p>Apr 23</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Apr 24</p>
+<div class="iframe-wrapper">
+<iframe height="180" width="320" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QRGk9VEYAgs?si=0qlECv8Y4TpObiJH"></iframe>
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Apr 25</p>
+<div class="iframe-wrapper">
+<iframe height="180" width="320" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IZnQ4bZ66Uw?si=ZAupZurZq-A7JL-z"></iframe>
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Apr 28</p>
