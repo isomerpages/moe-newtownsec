@@ -30,7 +30,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://docs.google.com/spreadsheets/d/1V64B6K4CllgwsY0sY4OKyX8Yr_-C2cDy/edit?usp=sharing&amp;ouid=114349310661457557026&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Sec 4</a></strong>
+<p><strong><a href="https://docs.google.com/spreadsheets/d/1V64B6K4CllgwsY0sY4OKyX8Yr_-C2cDy/edit?usp=sharing&amp;ouid=114349310661457557026&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5</a></strong>
 </p>
 </td>
 </tr>
