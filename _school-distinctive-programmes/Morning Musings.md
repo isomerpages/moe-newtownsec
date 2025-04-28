@@ -142,15 +142,21 @@ them.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Apr 7</p>
+<div class="iframe-wrapper">
+<iframe height="180" width="320" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Em17madWJbQ?si=Pvaw_FUviIOX37k7"></iframe>
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Apr 9</p>
+<div class="iframe-wrapper">
+<iframe height="180" width="320" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4znzmzm2kJo?si=7ge9hjQV_fBfIypH"></iframe>
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Apr 10</p>
+<div class="iframe-wrapper">
+<iframe height="180" width="320" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/alTmnKUx1Tw?si=IJBE2qrL-wRpbfkp"></iframe>
+</div>
 </td>
 </tr>
 <tr>
