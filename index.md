@@ -24,7 +24,7 @@ sections:
           announcement: Dear Students, please find information regarding the upcoming NTSS
             60th Road Run in the link below.
           link_text: Click here >>>
-          link_url: https://go.gov.sg/ntss60throadrun-marinabarrage-gettingthere
+          link_url: /ntss-60th-road-run-information/
   - infopic:
       title: Applied Learning (ALP)
       subtitle: School Distinctive Programmes
