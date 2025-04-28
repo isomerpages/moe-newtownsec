@@ -142,16 +142,13 @@ responsible citizens of the world.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>ACTIVITIES FOR THE YEAR 2024</strong></h4>
+<h4><strong>ACTIVITIES FOR THE YEAR 2025</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>World Thinking Day Commemoration</p>
 </li>
 <li>
-<p>West Division Day</p>
-</li>
-<li>
-<p>West Division Learning Day</p>
+<p>West Division Fest</p>
 </li>
 <li>
 <p>Annual Unit Camp</p>
@@ -163,13 +160,7 @@ responsible citizens of the world.</p>
 <p>Free Being Me Programme</p>
 </li>
 <li>
-<p>Mental Health Advocacy Badge Programme</p>
-</li>
-<li>
-<p>AETOS Self-Defense Workshop</p>
-</li>
-<li>
-<p>SANA Anti-Drug &amp; Inhalant Abuse Badge Programme</p>
+<p>Plastic Tide Turners Challenge</p>
 </li>
 <li>
 <p>Patrol Leaders’ Training Course</p>
@@ -182,6 +173,16 @@ responsible citizens of the world.</p>
 </li>
 </ul>
 <h4><strong>ACHIEVEMENTS</strong></h4>
+<p><u>2023</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Puan Noor Aishah Award – Gold</p>
+</li>
+<li>
+<p>West Division Day Competition (Patch Design) – 2<sup>nd</sup> Place</p>
+</li>
+</ul>
 <p><u>2022</u>
 </p>
 <ul data-tight="true" class="tight">
