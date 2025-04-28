@@ -161,18 +161,26 @@ them.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Apr 11</p>
+<div class="iframe-wrapper">
+<iframe height="180" width="320" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/pLyWG3RBxQw?si=YyhQSK7T1nTfotK3"></iframe>
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Apr 14</p>
+<div class="iframe-wrapper">
+<iframe height="180" width="320" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/AyXXCouua3s?si=GGCmNJK0SC988enA"></iframe>
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Apr 15</p>
+<div class="iframe-wrapper">
+<iframe height="180" width="320" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/p5pg5FnzLYM?si=SwVCbwOS6FWh3Fo-"></iframe>
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Apr 21</p>
+<div class="iframe-wrapper">
+<iframe height="180" width="320" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jXRsHlbBXXY?si=VlPr55lqADq8QxIv"></iframe>
+</div>
 </td>
 </tr>
 <tr>
