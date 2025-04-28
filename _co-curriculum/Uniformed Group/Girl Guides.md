@@ -22,7 +22,7 @@ responsible citizens of the world.</p>
 <p>Be Prepared</p>
 <h3><strong>TRAINING SCHEDULE/PRACTICE SESSIONS</strong></h3>
 <p><strong>Day:</strong> Tuesdays
-<br><strong>Time:</strong> 3.20PM – 5.30PM</p>
+<br><strong>Time:</strong> 3.30PM – 5.30PM</p>
 <p></p>
 <h4><strong>TEACHERS IN-CHARGE</strong>&nbsp;</h4>
 <ul data-tight="true" class="tight">
@@ -38,15 +38,110 @@ responsible citizens of the world.</p>
 </ul>
 <p></p>
 <h4><strong>STUDENT LEADERS</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Jeneil Chia Min Yu, 3-Care (Company Leader)</p>
-</li>
-<li>
-<p>Lim Xin Rui, 3-Care (Assistant Company Leader)</p>
-</li>
-</ul>
-<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Position</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Company Leader</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Ee Shin Alexis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3-CA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Assistant Company Leader</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chen Enjia, Tu Quynh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3-SD</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Head of Administration</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chan En Yue Joy Marie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3-CF</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Head of Discipline</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Midori Harriet Takahashi Dooley</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3-CA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Head of Drills</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thone Dray Aung</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3-CA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Head of Logistics</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cheyenne Tang Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3-RS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Head of Welfare</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Giselle Png Yi Wen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3-RS</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>ACTIVITIES FOR THE YEAR 2024</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
