@@ -268,17 +268,6 @@ variant: tiptap
 <p>ng_siew_siew_tracy@moe.edu.sg</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <h3>Teacher Leaders</h3>
@@ -313,14 +302,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher/Malay Language
-<br>
-</p>
+<p>Senior Teacher/Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Kasumawati Bte Wansi
-<br>
-</p>
+<p>Ms Kasumawati Bte Wansi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>kasumawati_wansi@moe.edu.sg</p>
@@ -339,9 +324,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher/Social Studies
-<br>
-</p>
+<p>Senior Teacher/Social Studies</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Sutinah</p>
@@ -352,9 +335,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher/PE
-<br>
-</p>
+<p>Senior Teacher/PE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Kian Guan</p>
@@ -365,9 +346,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher/Educational Support
-<br>
-</p>
+<p>Senior Teacher/Educational Support</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lucas Chia Chin Pean</p>
@@ -922,7 +901,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p></p>
 <p></p>
 <p>S4-Care</p>
@@ -940,14 +919,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>ding_chao@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -1201,6 +1172,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Wei Siong Holden</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_wei_siong_holden@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Student Welfare Officer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1219,17 +1201,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>surinder_kaur@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
