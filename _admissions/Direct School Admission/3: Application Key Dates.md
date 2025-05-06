@@ -22,55 +22,79 @@ third_nav_title: Direct School Admission
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;7 May 2024, 11:00am</p>
+<p>&nbsp;7 May 2025, 11am</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Start of DSA-Sec Application</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;3 June 2024, 3:00pm</p>
+<p>&nbsp;3 June 2025, 3pm</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>End of DSA-Sec Application</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>&nbsp;
-<br>22 July 2024</p>
+<br>18 July 2025</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Notification of shortlisted applicants</p>
+</li>
+<li>
 <p>Notification of unsuccessful applicants</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>29 July to 23 August 2024&nbsp;</p>
+<p>28 July to 15 August 2025</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Interview session for shortlisted applicants</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9 September 2024</p>
+<p>25 August to 4 September 2025</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Notification of results of successful applicants by email</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>21 October 2024, 9:00am
-<br>to
-<br>25 October 2024, 3:00pm</p>
+<p>27 October 2025, 9am to 31 October 2025, 3pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<ul data-tight="true" class="tight">
+<li>
 <p>School Preference Submission</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
