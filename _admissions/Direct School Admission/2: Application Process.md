@@ -7,7 +7,6 @@ third_nav_title: Direct School Admission
 ---
 <h1><strong>2.&nbsp;&nbsp; Application Process</strong></h1>
 <h3>The 4-stage Application Process is as follows:</h3>
-<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -15,7 +14,7 @@ third_nav_title: Direct School Admission
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>Stage 1 – Application</strong><br><strong>(7 May 2024, 11am to 3 June 2024, 3pm)</strong></h4>
+<h4><strong>Stage 1 – Application</strong><br><strong>(7 May 2025, 11am to 3 June 2025, 3pm)</strong></h4>
 </td>
 </tr>
 </tbody>
@@ -24,7 +23,7 @@ third_nav_title: Direct School Admission
 <li>
 <p><strong>Students from MOE mainstream primary schools</strong>: Login to
 DSA-Sec Portal via parent’s SingPass or apply through primary school from
-7 May 2024 to 3 June 2024 (3pm).</p>
+7 May 2025 to 3 June 2025 (3pm).</p>
 </li>
 <li>
 <p>Fill in all relevant information in the DSA-Sec portal. Verify all information
@@ -33,13 +32,11 @@ and submit application through the website.</p>
 <li>
 <p><strong>Non-mainstream school students</strong>: Parents should apply
 online for a Registration Number through DSA-Sec Portal. This can be done
-through an online form via MOE website: <a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
+through an online form via MOE website: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
 </p>
 </li>
 </ul>
-<p>
-<br>
-</p>
+<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -47,7 +44,7 @@ through an online form via MOE website: <a href="https://go.gov.sg/nmsdsa-sec-ap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>Stage 2 – Interview</strong><br><strong>(29 July to 23 August 2024)</strong></h4>
+<h4><strong>Stage 2 – Interview</strong><br><strong>(28 July to 15 August 2025)</strong></h4>
 </td>
 </tr>
 </tbody>
@@ -83,12 +80,10 @@ the candidate.</p>
 </li>
 <li>
 <p><strong><u>Shortlisted applicants</u></strong> will be notified by the
-school on the interview date by <strong>22 July 2024</strong>.</p>
+school on the interview date by <strong>18 July 2025</strong>.</p>
 </li>
 </ul>
-<p>
-<br>
-</p>
+<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -96,7 +91,7 @@ school on the interview date by <strong>22 July 2024</strong>.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>Stage 3 – Result Notification</strong><br><strong>(By 9 September 2024)</strong></h4>
+<h4><strong>Stage 3 – Result Notification</strong><br><strong>(25 August to 4 September 2025)</strong></h4>
 </td>
 </tr>
 </tbody>
@@ -118,9 +113,7 @@ school on the interview date by <strong>22 July 2024</strong>.</p>
 <p>Students who are given a Confirmed Offer are guaranteed a place in the
 school, provided they accept the offer and qualify for an academic Posting
 Group offered by the school based on their PSLE results.</p>
-<p>
-<br>
-</p>
+<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -128,13 +121,14 @@ Group offered by the school based on their PSLE results.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>Stage 4 – School Preference Submission</strong><br><strong>(21 October 2024, 9am to 25 October 2024, 3pm)</strong></h4>
+<h4><strong>Stage 4 – School Preference Submission</strong><br><strong>(27 October 2025, 9am to 31 October 2025, 3pm)</strong></h4>
 </td>
 </tr>
 </tbody>
 </table>
 <p>Students with Confirmed Offer or on Waiting List will receive email and
-SMS notification via <a href="https://postman.gov.sg/login" rel="noopener noreferrer nofollow" target="_blank">Postman.gov.sg</a> on the School Preference
-Submission around mid-Oct 2024. Both parents are required to login to the
-DSA-Sec Portal using their Singpass to submit the school preferences.</p>
-<p>The School Preference Submission will end on 25 October 2024, 3pm.</p>
+SMS notification via <a rel="noopener noreferrer nofollow" target="_blank">Postman.gov.sg</a> on
+the School Preference Submission around mid-Oct 2025. Both parents are
+required to login to the DSA-Sec Portal using their Singpass to submit
+the school preferences.</p>
+<p>The School Preference Submission will end on 31 October 2025, 3pm.</p>
