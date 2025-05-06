@@ -11,11 +11,9 @@ variant: tiptap
 in student admission, to allow for the recognition and development of a
 more diverse range of student achievements and talents beyond academic
 achievements.</p>
-<p></p>
-<p>We are looking for interested Primary 6 students with talents/passion/skills
+<p>&nbsp;We are looking for interested Primary 6 students with talents/passion/skills
 in <strong>Leadership, Visual Arts, Fencing, Basketball</strong> and/or <strong>Guzheng</strong> for
-admission to Secondary One in 2025.</p>
-<p></p>
+admission to Secondary One in 2026.</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -56,7 +54,6 @@ Secondary Art Programme as well as the Art and Crafts CCA.</p>
 a wide range of materials and medium - dry to wet medium, digital photography
 to animation, learning opportunities with creative professionals and alumnus,
 as well as platforms for like-minded students to meet and grow together.</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -68,7 +65,7 @@ as well as platforms for like-minded students to meet and grow together.</p>
 <td rowspan="1" colspan="1">
 <p>Students with talent and interest in Fencing can look forward to having
 the opportunity to develop their sporting talent and ability through our
-Fencing CCA.&nbsp;</p>
+Fencing CCA.&nbsp;&nbsp;</p>
 <p></p>
 <p>Fencing aims to nurture and develop students with positive attitude to
 learn and to build character through competitive sports. The CCA also strives
@@ -94,7 +91,6 @@ to learn and to build character through competitive sports. The CCA also
 strives to develop in students, greater competency in the areas of self-management,
 mental resilience, responsible decision-making, social awareness and relationship
 management.</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -106,13 +102,12 @@ management.</p>
 <td rowspan="1" colspan="1">
 <p>Students with talent and interest in playing the Guzheng can look forward
 to having the opportunity to develop their musical talent and lifelong
-passion for the arts through our Guzheng Ensemble CCA.</p>
+passion for the arts through our Guzheng Ensemble CCA.&nbsp;</p>
 <p></p>
 <p>Through the meaningful music experiences planned, Guzheng Ensemble aims
 to nurture and develop students with positive attitude to learn, build
 character, cultivate mental resilience and develop competency in self-management,
 responsible decision-making and relationship management.</p>
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -132,7 +127,6 @@ responsible decision-making and relationship management.</p>
 </p>
 </li>
 </ol>
-<p></p>
 <p>Parents and students are encouraged to choose schools wisely based on
 the student’s aptitudes and strengths, bearing in mind the schools’ academic
 and non-academic requirements, and the programmes available to develop
