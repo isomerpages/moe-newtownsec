@@ -66,7 +66,7 @@ their participation in sports CCAs will be preferred.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Strong passion in music and/or playing Guzheng, and display positive attitude
-to learn, improve and contribute.</p>
+to learn, improve and contribute.&nbsp;</p>
 </li>
 <li>
 <p>Relevant experiences in performing the Guzheng or other similar instruments
@@ -108,20 +108,18 @@ of leadership capabilities.</p>
 to provide evidence of their level of aptitude in art.</p>
 </li>
 <li>
-<p>For <strong>Fencing</strong>, applicants will be required to provide evidence
-of their sporting qualities, either through demonstration of Fencing abilities
-or equivalent sporting ability.</p>
+<p>&nbsp;For <strong>Fencing</strong>, applicants will be required to provide
+evidence of their sporting qualities, either through demonstration of Fencing
+abilities or equivalent sporting ability.</p>
 </li>
 <li>
 <p>For <strong>Basketball</strong>, applicants will be required to provide
 evidence of their sporting qualities, either through demonstration of Basketball
 abilities or equivalent sporting ability.</p>
 </li>
-<li>
+</ul>
 <p>For <strong>Guzheng</strong>, applicants will be required to provide evidence
 of their level of aptitude in music.</p>
-</li>
-</ul>
 <h4><strong>Note:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
