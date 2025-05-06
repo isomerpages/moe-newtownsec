@@ -36,7 +36,6 @@ through an online form via MOE website: <a rel="noopener noreferrer nofollow" ta
 </p>
 </li>
 </ul>
-<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -83,7 +82,6 @@ the candidate.</p>
 school on the interview date by <strong>18 July 2025</strong>.</p>
 </li>
 </ul>
-<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -113,7 +111,6 @@ school on the interview date by <strong>18 July 2025</strong>.</p>
 <p>Students who are given a Confirmed Offer are guaranteed a place in the
 school, provided they accept the offer and qualify for an academic Posting
 Group offered by the school based on their PSLE results.</p>
-<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
