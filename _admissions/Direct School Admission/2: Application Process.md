@@ -32,7 +32,7 @@ and submit application through the website.</p>
 <li>
 <p><strong>Non-mainstream school students</strong>: Parents should apply
 online for a Registration Number through DSA-Sec Portal. This can be done
-through an online form via MOE website: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
+through an online form via MOE website: <a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
 </p>
 </li>
 </ul>
