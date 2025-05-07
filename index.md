@@ -12,6 +12,9 @@ sections:
         - title: Home-Based Learning
           description: ""
           url: https://www.newtownsec.moe.edu.sg/about-us/links/students/home-based-learning-hbl/
+        - title: Direct School Admissions (DSA)
+          description: ""
+          url: /direct-school-admission-secondary-dsa-sec-exercise/
         - title: Upcoming Events
           description: ""
           url: https://www.newtownsec.moe.edu.sg/upcoming-events/savethedates/
