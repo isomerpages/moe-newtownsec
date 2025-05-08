@@ -34,7 +34,7 @@ Teamwork, Skills and Fitness</p>
 <p>Training Venue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Field and Blk F level 2 classrooms (S2-02 &amp; S2-03)</p>
+<p>School Field and Blk F level 2 classrooms (F2-03 &amp; F2-04)</p>
 </td>
 </tr>
 </tbody>
@@ -60,38 +60,35 @@ Teamwork, Skills and Fitness</p>
 <li>
 <p>Mr Ngiam Swee Kee</p>
 </li>
-<li>
-<p>Miss Adelia Koh</p>
-</li>
 </ul>
 <h3>STUDENT LEADERS</h3>
 <p><strong>B Division</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Captain – Nur Humairah Binte Mohd Amin</p>
+<p>Captain – Aliya Natasha Binte Rosli</p>
 </li>
 <li>
-<p>Vice Captains – Luo Minyu, Debbie Goh Riki</p>
+<p>Vice Captain – Celeste Goh Zi Xuan</p>
 </li>
 <li>
-<p>Head of Logistics – Rebecca Neo Ming Ming</p>
+<p>Head of Logistics – Sarah Ong</p>
 </li>
 </ul>
 <p><strong>C Division</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Captain – Celeste Goh Zi Xuan</p>
+<p>Captain – Ng Ki Rin, Kaelyn</p>
 </li>
 <li>
-<p>Vice Captain – Aliya Natasha Binte Rosli</p>
+<p>Vice Captain – Ashlyn Cho, Kang Gek Ngee</p>
 </li>
 <li>
-<p>Head of Logistics - Sarah Ong</p>
+<p>Head of Logistics - Yuuki Yohanna</p>
 </li>
 </ul>
-<h3>ACTIVITIES FOR THE YEAR</h3>
+<h3>ACTIVITIES FOR THE YEAR 2025 </h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>‘B’ &amp; ‘C’ Girls National Inter-School Softball Championships</p>
@@ -125,6 +122,9 @@ Teamwork, Skills and Fitness</p>
 </ul>
 <h3>ACHIEVEMENTS</h3>
 <ul data-tight="true" class="tight">
+<li>
+<p>2025 'C' Division SRC Inter-School Softball Carnival - Top 4</p>
+</li>
 <li>
 <p>2023 ‘C’ Division NSG Competition – Top 8</p>
 </li>
