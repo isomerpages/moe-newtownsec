@@ -297,7 +297,7 @@ variant: tiptap
 <p>Mr Jeffrey Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ong_siew_meng_jeffrey@moed.edu.sg</p>
+<p>ong_siew_meng_jeffrey@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
