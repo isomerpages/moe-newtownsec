@@ -88,7 +88,7 @@ Teamwork, Skills and Fitness</p>
 <p>Head of Logistics - Yuuki Yohanna</p>
 </li>
 </ul>
-<h3>ACTIVITIES FOR THE YEAR 2025 </h3>
+<h3>ACTIVITIES FOR THE YEAR 2025</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>‘B’ &amp; ‘C’ Girls National Inter-School Softball Championships</p>
