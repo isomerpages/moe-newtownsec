@@ -82,10 +82,10 @@ Teamwork, Skills and Fitness</p>
 <p>Captain – Ng Ki Rin, Kaelyn</p>
 </li>
 <li>
-<p>Vice Captain – Ashlyn Cho, Kang Gek Ngee</p>
+<p>Vice Captains – Ashlyn Cho, Kang Gek Ngee</p>
 </li>
 <li>
-<p>Head of Logistics - Yuuki Yohanna</p>
+<p>Head of Logistics - Yuuki Yohanna Binte Salihin</p>
 </li>
 </ul>
 <h3>ACTIVITIES FOR THE YEAR 2025</h3>
@@ -123,7 +123,7 @@ Teamwork, Skills and Fitness</p>
 <h3>ACHIEVEMENTS</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>2025 'C' Division SRC Inter-School Softball Carnival - Top 4</p>
+<p>2025 'C' Division SRC Inter-School Softball Carnival – Top 4</p>
 </li>
 <li>
 <p>2023 ‘C’ Division NSG Competition – Top 8</p>
