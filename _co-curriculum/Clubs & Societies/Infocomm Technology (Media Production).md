@@ -24,11 +24,6 @@ Infocomm Technology (Media Production) was established in 2018, tapping on the s
 *   Mr Loganadhan Prathap
 *   Mdm Vemalathevey Manikiam
 
-### INSTRUCTORS
-
-*   Ms Stiti Zaleha Binte Zainal
-*   Mr Mahyuddin Chan
-*   Mr Hirwanis Bin Ismail
 
 ### ACTIVITIES FOR THE YEAR
 
