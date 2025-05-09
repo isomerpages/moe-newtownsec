@@ -136,16 +136,20 @@ S1-Respect &amp; S1-Resilience)</p>
 <p>2023 PAssionArts Festival - Open Stage Concert Bands Competition - Champion</p>
 </li>
 <li>
-<p>Singapore Youth Festival (2023) – Certificate of Distinction</p>
+<p>Singapore Youth Festival (SYF) Arts Presentation (2023) – Certificate
+of Distinction</p>
 </li>
 <li>
-<p>Singapore Youth Festival (2021) – Certificate of Accomplishment</p>
+<p>Singapore Youth Festival (SYF) Arts Presentation (2021) – Certificate
+of Accomplishment</p>
 </li>
 <li>
-<p>Singapore Youth Festival (2019) – Certificate of Accomplishment</p>
+<p>Singapore Youth Festival (SYF) Arts Presentation (2019) – Certificate
+of Accomplishment</p>
 </li>
 <li>
-<p>Singapore Youth Festival (2017) – Certificate of Accomplishment</p>
+<p>Singapore Youth Festival (SYF) Arts Presentation (2017) – Certificate
+of Accomplishment</p>
 </li>
 </ul>
 <h3>Photo Gallery</h3>
