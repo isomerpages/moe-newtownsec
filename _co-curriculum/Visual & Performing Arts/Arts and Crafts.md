@@ -27,17 +27,7 @@ To nurture artistic talent and develop leaders who are confident ambassadors of 
 *   Mdm Pang Jia Mien (1st i/c)
 *   Ms Grace Pushparani d/o William (2nd i/c)
 *   Ms Lai Xue Fen
-*   Mr Kalidass s/o Jayaraman
-
-### INSTRUCTORS
-
-* Ms Lee Yi Lin
-
-### STUDENT LEADERS
-*   Chairperson: TBA
-*   Vice Chairperson:&nbsp; TBA&nbsp;
-*   Publicity Chairperson: TBA
-*   Publicity Vice-chairperson: TBA
+*   Ms Ding Chao
 
 ### ACTIVITIES FOR THE YEAR
 * Rediscover Cartoon Drawing &amp; Colouring Workshop

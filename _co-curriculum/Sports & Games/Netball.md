@@ -54,7 +54,7 @@ the alumni. &nbsp;&nbsp;</p>
 <h3>COACHES</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Yeo Mee Hong</p>
+<p>Lee Pei Shan</p>
 </li>
 </ul>
 <h3>ACTIVITIES FOR THE YEAR</h3>

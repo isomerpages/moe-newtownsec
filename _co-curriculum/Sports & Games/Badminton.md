@@ -61,9 +61,6 @@ Hall)</p>
 <p>Ms Yong Li Ping (2nd i/c)</p>
 </li>
 <li>
-<p>Mdm Manjula Shanmuganathan</p>
-</li>
-<li>
 <p>Mr Sim Ik Fong</p>
 </li>
 <li>
@@ -80,9 +77,6 @@ Hall)</p>
 </li>
 <li>
 <p>Mr Liao Junwei&nbsp;</p>
-</li>
-<li>
-<p>Mr Voon Thian Seong Benedict</p>
 </li>
 <li>
 <p>Mr Justin Tay Liwei</p>
