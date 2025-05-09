@@ -87,10 +87,10 @@ E level 4 classrooms (S4-03 &amp; S4-04)</p>
 <p>Mr Chong Beng Chee Elvin</p>
 </li>
 <li>
-<p>Mr Denilson Soh Caijun</p>
+<p>Mr Zhang Zhexin</p>
 </li>
 <li>
-<p>Mr Wong&nbsp; Wee Jun Warren</p>
+<p>Mr Leonard Soh</p>
 </li>
 </ul>
 <h3>ACTIVITIES FOR THE YEAR</h3>
