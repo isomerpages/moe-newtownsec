@@ -29,16 +29,6 @@ To nurture artistic talent and develop leaders who are confident ambassadors of 
 *   Ms Lai Xue Fen
 *   Ms Ding Chao
 
-### INSTRUCTORS
-
-* Ms Lee Yi Lin
-
-### STUDENT LEADERS
-*   Chairperson: TBA
-*   Vice Chairperson:&nbsp; TBA&nbsp;
-*   Publicity Chairperson: TBA
-*   Publicity Vice-chairperson: TBA
-
 ### ACTIVITIES FOR THE YEAR
 * Rediscover Cartoon Drawing &amp; Colouring Workshop
 * Exploring Acrylic and Oil painting
