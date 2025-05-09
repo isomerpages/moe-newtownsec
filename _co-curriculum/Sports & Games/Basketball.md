@@ -75,10 +75,10 @@ E level 4 classrooms (S4-03 &amp; S4-04)</p>
 <p>Mr Loh Yong Qi (2nd i/c)</p>
 </li>
 <li>
-<p>Mdm Aidashikin Bte Solikin</p>
+<p>Mr Francis Yee Hsien Hsi</p>
 </li>
 <li>
-<p>Mr Joel Chan Jie Hao</p>
+<p>Mr Noah Ong</p>
 </li>
 </ul>
 <h3>COACHES</h3>
