@@ -114,8 +114,17 @@ E level 4 classrooms (S4-03 &amp; S4-04)</p>
 <h3>ACHIEVEMENTS</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>B Division Boys was qualified for Round 2 of National School Games West
-Zone Badminton Championship 2018-2019</p>
+<p>NSG West Zone Basketball Championship B Division Boys qualify for Round
+2 of National School Games 2018-2025</p>
+</li>
+<li>
+<p>NSG C Division Boys (League 6) 2024 – Champion</p>
+</li>
+<li>
+<p>NSG C Division Girls (League 3) 2024 – 3rd</p>
+</li>
+<li>
+<p>Clementi Inter-School U16 Boys Basketball Tournament 2024 – 2nd</p>
 </li>
 </ul>
 <h3>PHOTO GALLERY</h3>
