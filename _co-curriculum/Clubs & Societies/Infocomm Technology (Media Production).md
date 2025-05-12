@@ -22,13 +22,8 @@ Infocomm Technology (Media Production) was established in 2018, tapping on the s
 *   Ms Hannah Cheng Woan Woon (2nd i/c)
 *   Ms Chew Ying Ying
 *   Mr Loganadhan Prathap
-*   Mr Xu Yiming
+*   Mdm Vemalathevey Manikiam
 
-### INSTRUCTORS
-
-*   Ms Stiti Zaleha Binte Zainal
-*   Mr Mahyuddin Chan
-*   Mr Hirwanis Bin Ismail
 
 ### ACTIVITIES FOR THE YEAR
 

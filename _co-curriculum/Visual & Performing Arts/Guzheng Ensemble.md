@@ -113,16 +113,24 @@ build confidence, and embody the values of diligence and perseverance.</p>
 <h3>ACHIEVEMENTS</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>SYF Arts Presentation 2023 (Certificate of Distinction)</p>
+<p>Singapore Youth Festival (SYF) Arts Presentation (2025) – Certificate
+of Distinction</p>
 </li>
 <li>
-<p>SYF Arts Presentation 2021 (Certificate of Distinction)</p>
+<p>Singapore Youth Festival (SYF) Arts Presentation (2023) – Certificate
+of Distinction</p>
 </li>
 <li>
-<p>SYF Arts Presentation 2019 (Certificate of Distinction)</p>
+<p>Singapore Youth Festival (SYF) Arts Presentation (2021) – Certificate
+of Distinction</p>
 </li>
 <li>
-<p>SYF Arts Presentation 2017 (Certificate of Distinction)</p>
+<p>Singapore Youth Festival (SYF) Arts Presentation (2019) – Certificate
+of Distinction</p>
+</li>
+<li>
+<p>Singapore Youth Festival (SYF) Arts Presentation (2017) – Certificate
+of Distinction</p>
 </li>
 </ul>
 <h3>Photo Gallery</h3>

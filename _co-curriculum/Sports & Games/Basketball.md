@@ -75,10 +75,10 @@ E level 4 classrooms (S4-03 &amp; S4-04)</p>
 <p>Mr Loh Yong Qi (2nd i/c)</p>
 </li>
 <li>
-<p>Mdm Aidashikin Bte Solikin</p>
+<p>Mr Francis Yee Hsien Hsi</p>
 </li>
 <li>
-<p>Mr Joel Chan Jie Hao</p>
+<p>Mr Noah Ong</p>
 </li>
 </ul>
 <h3>COACHES</h3>
@@ -87,10 +87,10 @@ E level 4 classrooms (S4-03 &amp; S4-04)</p>
 <p>Mr Chong Beng Chee Elvin</p>
 </li>
 <li>
-<p>Mr Denilson Soh Caijun</p>
+<p>Mr Zhang Zhexin</p>
 </li>
 <li>
-<p>Mr Wong&nbsp; Wee Jun Warren</p>
+<p>Mr Leonard Soh</p>
 </li>
 </ul>
 <h3>ACTIVITIES FOR THE YEAR</h3>
@@ -114,8 +114,17 @@ E level 4 classrooms (S4-03 &amp; S4-04)</p>
 <h3>ACHIEVEMENTS</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>B Division Boys was qualified for Round 2 of National School Games West
-Zone Badminton Championship 2018-2019</p>
+<p>NSG West Zone Basketball Championship B Division Boys qualify for Round
+2 of National School Games 2018-2025</p>
+</li>
+<li>
+<p>NSG C Division Boys (League 6) 2024 – Champion</p>
+</li>
+<li>
+<p>NSG C Division Girls (League 3) 2024 – 3rd</p>
+</li>
+<li>
+<p>Clementi Inter-School U16 Boys Basketball Tournament 2024 – 2nd</p>
 </li>
 </ul>
 <h3>PHOTO GALLERY</h3>

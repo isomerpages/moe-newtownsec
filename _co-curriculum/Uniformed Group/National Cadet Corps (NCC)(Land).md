@@ -32,7 +32,6 @@ NCC has eight Core Values:
 ### TEACHERS-IN-CHARGE
 
 *   Mr Jackson Goh Sheng Bao (1st i/c)
-*   Mr Tay Chong Guan (2nd i/c)
 *   Mr Randall Lim Wei Chun
 
 ### ACTIVITIES FOR THE YEAR
@@ -58,14 +57,11 @@ NCC has eight Core Values:
 
 ### ACHIEVEMENTS
 
-* Accomplishment Award for Unit Recognition 2019
-* Accomplishment Award for Unit Recognition 2018
-* Silver Award for Best Unit Competition 2017
-* Silver Award for Best Unit Competition 2016
-* Silver Award for Best Unit Competition 2015
-* West Zone Shooting Competition 2015(Sec 3) : 1st Placing
-* West Zone IMT Shooting Competition 2015(Sec 2) : 3rd placing
-* Silver Award for Best Unit Competition 2014
+*  Distinction Award for Unit Recognition 2022 – 2024
+*  Accomplishment Award for Unit Recognition 2017 – 2020
+*  Silver Award for Best Unit Competition 2014 – 2017
+*  West Zone Shooting Competition 2015(Sec 3): 1st Placing
+*  West Zone IMT Shooting Competition 2015(Sec 2): 3rd placing
 
 ### EXTERNAL LINK
 [National Cadet Corps (Singapore) Facebook Page](https://www.facebook.com/sgncc.hq/)
