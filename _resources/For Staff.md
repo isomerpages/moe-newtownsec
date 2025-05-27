@@ -4,7 +4,6 @@ permalink: /quick-links/for-staff/
 description: ""
 variant: tiptap
 ---
-<h4><a href="https://www.newtownsec.moe.edu.sg/self-help-guide-for-staff/" rel="noopener nofollow" target="_blank">Self Help ICT Guide for Staff</a></h4>
 <h4><u>App Site and Portal Link</u></h4>
 <ul data-tight="true" class="tight">
 <li>
