@@ -4,14 +4,18 @@ permalink: /self-help-guide-for-students/
 variant: tiptap
 description: ""
 ---
-<h4><strong>[For Graduating Students 2024]</strong></h4>
+<h4><strong>[PLD Support Guide]</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/For_Graduating_Students__Google_Takeout_Guide_for_Student_iCON__2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">Google_Takeout_Guide_for_Student_iCON_(2024)</a>
+<p><a href="/files/Guide_for_Manage_Apple_ID__MAID__Login_and_Enable_iCloud_Backup.pdf" rel="noopener nofollow" target="_blank">Guide for Manage Apple ID (MAID) Login and Enable iCloud Backup</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Guide__Backup_to_Cloud_Storage__iCloud__OneDrive_and_Google_Drive_.pdf" rel="noopener nofollow" target="_blank">[Guide] Backup to Cloud Storage (iCloud, OneDrive and Google Drive)</a>
+<p><strong><a href="/files/2025/For_Student__Quick_Guide_on_Student_iCON_Data_Management.pdf" rel="noopener noreferrer nofollow" target="_blank">Quick Guide on Student iCON Data Management &amp; Housekeeping</a></strong>
+</p>
+</li>
+<li>
+<p><a href="/files/Guide__Backup_to_Cloud_Storage__iCloud__OneDrive_and_Google_Drive_.pdf" rel="noopener nofollow" target="_blank"><u>[Guide] Backup to Cloud Storage (iCloud, OneDrive and Google Drive)</u></a>
 </p>
 </li>
 <li>
@@ -19,11 +23,5 @@ description: ""
 </p>
 </li>
 </ol>
-<h4><strong>[PLD Support Guide]</strong></h4>
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="/files/Guide_for_Manage_Apple_ID__MAID__Login_and_Enable_iCloud_Backup.pdf" rel="noopener nofollow" target="_blank">Guide for Manage Apple ID (MAID) Login and Enable iCloud Backup</a>
-</p>
-</li>
-</ol>
+<h4></h4>
 <p></p>

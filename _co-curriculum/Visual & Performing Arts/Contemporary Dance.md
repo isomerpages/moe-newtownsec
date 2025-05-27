@@ -25,7 +25,7 @@ Contemporary Dance is one of the school’s visual and performing arts CCAs wher
 <thead>
   <tr>
     <th class="tg-n4qt">Date / Time</th>
-    <th class="tg-ii8k">Tuesdays : 3.15pm – 6.00pm<br>Fridays : 1.15pm/2.30pm - 5.30pm</th>
+    <th class="tg-ii8k">Tuesdays : 3.15pm – 5.45pm<br>Fridays : 1.15pm - 3.45pm</th>
   </tr>
 </thead>
 <tbody>
@@ -41,29 +41,33 @@ Contemporary Dance is one of the school’s visual and performing arts CCAs wher
 *   Ms Joyce Gayathri (1st i/c)
 *   Mrs Dolly Teo (2nd i/c)
 *   Mdm Kokila Athinamilagi
+*   Ms Leong Yin Pheng
 
 ### INSTRUCTORS
 
 *   Ms Jean Tan Mei Qi
-*   Mr Elias Han Quan Azib&nbsp;
-
+*   Mr Elias Han Quan Azib
   
-
-### ACTIVITIES FOR THE YEAR
+### STUDENT LEADERS
+*  Yiau Dee Fen (President)
+* Ong Shi Ying Gabriella (Vice-President)
+* Nikita Ru Qi Mohd Nasir (Dance Captain)
+* Nurul A’Syaqirah bte Kasim (Asst Dance Captain)
+### ACTIVITIES FOR THE YEAR 2025
 
   
 
 *   Sec 1 Orientation CCA Open House Performance  
     
-*   Achievers’ Day Performance  
+*   Commendation Day Performance  
     
-*   West Coast CC National Day Dinner Performance  
+*   West Coast CC National Day Performance  
     
-*   National Day Celebrations Performance  
-    
-*   Teachers’ Day&nbsp;Performance
+*   Teachers’ Day Performance
 
 ### ACHIEVEMENTS
+
+* Singapore Youth Festival (SYF) Arts Presentation (2025) – Certificate of Accomplishment
 
 * Singapore Youth Festival (SYF) Arts Presentation (2023) – Certificate of Distinction
 
