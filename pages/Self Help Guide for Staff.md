@@ -29,7 +29,7 @@ description: ""
 </li>
 </ol>
 <p></p>
-<h4><strong>[ICT Guideline for Official Overseas Travel] </strong></h4>
+<h4><strong>[ICT Guideline for Official Overseas Travel]</strong></h4>
 <p><a href="https://intranet.moe.gov.sg/itd/Pages/travel-schools.aspx" rel="noopener nofollow" target="_blank">MOE Intranet - Travel for MOE School Users, Travel Equipment, Preparation Procedures and FAQs</a>
 </p>
 <p></p>
