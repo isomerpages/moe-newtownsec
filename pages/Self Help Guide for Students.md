@@ -25,5 +25,13 @@ description: ""
 <p><a href="/files/Guide_for_Manage_Apple_ID__MAID__Login_and_Enable_iCloud_Backup.pdf" rel="noopener nofollow" target="_blank">Guide for Manage Apple ID (MAID) Login and Enable iCloud Backup</a>
 </p>
 </li>
+<li>
+<p><strong><a href="/files/2025/For_Student__Quick_Guide_on_Student_iCON_Data_Management.pdf" rel="noopener noreferrer nofollow" target="_blank">Quick Guide on Student iCON Data Management &amp; Housekeeping</a></strong>
+</p>
+</li>
+<li>
+<p><a href="https://cms.isomer.gov.sg/files/Guide__Backup_to_Cloud_Storage__iCloud__OneDrive_and_Google_Drive_.pdf" rel="noopener nofollow" target="_blank"><u>[Guide] Backup to Cloud Storage (iCloud, OneDrive and Google Drive)</u></a>
+</p>
+</li>
 </ol>
 <p></p>
