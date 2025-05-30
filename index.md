@@ -24,10 +24,10 @@ sections:
       announcement_items:
         - title: School Bookshop Operating Hours
           date: 30 May 2025
-          announcement: Dear Students, please take note of the school bookshop’s operating
-            hours during the mid-year school holidays.  You may refer to the
-            link below for details and for downloading of the booklist.
-          link_text: Click here >>>
+          announcement: Dear Students, please take note that the school bookshop’s
+            operating hours for next week (2 to 6 June) will be from 9am to
+            12.30pm.
+          link_text: Click here for updated booklist >>>
           link_url: /about-us/links/parents/purchase-of-textbooks-and-school-attire/
   - infopic:
       title: Applied Learning (ALP)
