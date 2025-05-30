@@ -7,6 +7,7 @@ variant: markdown
 <h2>School Bookshop</h2>
 <p><strong>Asencio Pte Ltd</strong>
 <br><strong>Retail Shop:</strong>  <a href="https://www.newtownsec.moe.edu.sg/about-us/contact-us/" rel="noopener nofollow" target="_blank">New Town Secondary School</a>
+<br><strong>Operating Hours:</strong> 7.30am to 3.00pm on Mondays to Fridays during school terms and year-end sales period.
 <br><strong>Online Shop:</strong>  <a href="https://asencio.com.sg/" rel="noopener nofollow" target="_blank">Shop Here </a>(online ordering is only available
 during year-end sales period)
 <br><strong>Booklist 2025:</strong>
