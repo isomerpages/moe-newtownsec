@@ -22,12 +22,13 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Road Run Information
-          date: 28 April 2025
-          announcement: Dear Students, please find information regarding the upcoming NTSS
-            60th Road Run in the link below.
+        - title: School Bookshop Operating Hours
+          date: 30 May 2025
+          announcement: Dear Students, please take note of the school bookshop’s operating
+            hours during the mid-year school holidays.  You may refer to the
+            link below for details and for downloading of the booklist.
           link_text: Click here >>>
-          link_url: /ntss-60th-road-run-information/
+          link_url: /about-us/links/parents/purchase-of-textbooks-and-school-attire/
   - infopic:
       title: Applied Learning (ALP)
       subtitle: School Distinctive Programmes
