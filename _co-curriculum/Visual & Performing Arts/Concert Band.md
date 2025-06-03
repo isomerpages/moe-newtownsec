@@ -88,19 +88,22 @@ S1-Respect &amp; S1-Resilience)</p>
 <h3>STUDENT LEADERS</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Band Major/Student Conductor: Brayan Lee Yin Hao</p>
+<p>Band Major: Insyirah Binte Shajib</p>
 </li>
 <li>
-<p>Drum Major: Xing Ende</p>
+<p>Drum Major: Amelie Sarah Yana Wairisal</p>
 </li>
 <li>
-<p>Assistant Band Major: Insyirah Binte Shajib</p>
+<p>Assistant Band Major: Ho Lin Xuan</p>
 </li>
 <li>
-<p>Assistant Drum Major/Student Conductor: Amelie Sarah Yana Wairisal</p>
+<p>Assistant Drum Major: Yap Sheng Venko</p>
+</li>
+<li>
+<p>Student Conductor: Loh Shuen</p>
 </li>
 </ul>
-<h3>ACTIVITIES FOR THE YEAR</h3>
+<h2>ACTIVITIES FOR THE YEAR</h2>
 <ul data-tight="true" class="tight">
 <li>
 <p>CCA Open House</p>
@@ -132,6 +135,10 @@ S1-Respect &amp; S1-Resilience)</p>
 </ul>
 <h3>ACHIEVEMENTS</h3>
 <ul data-tight="true" class="tight">
+<li>
+<p>Singapore Youth Festival (SYF) Arts Presentation (2025) – Certificate
+of Distinction</p>
+</li>
 <li>
 <p>2023 PAssionArts Festival - Open Stage Concert Bands Competition - Champion</p>
 </li>
