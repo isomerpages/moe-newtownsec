@@ -22,6 +22,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Notice of School Closure
+          date: 06 June 2025
+          announcement: The School will be closed on Wed, 11 Jun 2025 for Staff Training.
+          link_text: ""
+          link_url: ""
         - title: School Bookshop Operating Hours
           date: 30 May 2025
           announcement: Dear Students, please take note that the school bookshop’s
