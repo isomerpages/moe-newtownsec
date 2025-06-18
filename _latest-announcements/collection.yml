@@ -1,6 +1,0 @@
-collections:
-  latest-announcements:
-    output: true
-    order:
-      - Cohort Learning Week (22 – 25 May) Schedule.md
-      - NTSS Cross Country 2023.md
