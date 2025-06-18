@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: New Town Secondary School
-description: An Isomer site of the Singapore Government
+description: Official Website for New Town Secondary School.
 image: /images/School Crest/ntss crest (transparent bg).png
 permalink: /
 notification: ""
