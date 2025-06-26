@@ -116,6 +116,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD/Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Koh Wendy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>koh_wendy@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>HOD/Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -233,17 +244,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>siow_xing_yu@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Subject Head/Chemistry</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Koh Wendy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>koh_wendy@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

@@ -19,10 +19,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/about-us/links/parents/parents-engagement-session-resources" rel="noopener noreferrer nofollow" target="_blank">Parents Engagement Session Resources</a>
-</p>
-</li>
-<li>
 <p><a href="/about-us/links/parents/purchase-of-textbooks-and-school-attire" rel="noopener noreferrer nofollow" target="_blank">Purchase of Textbooks and School Attire</a>
 </p>
 </li>

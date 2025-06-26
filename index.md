@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: New Town Secondary School
-description: An Isomer site of the Singapore Government
+description: Official Website for New Town Secondary School.
 image: /images/School Crest/ntss crest (transparent bg).png
 permalink: /
 notification: ""
@@ -18,22 +18,6 @@ sections:
         - title: Upcoming Events
           description: ""
           url: https://www.newtownsec.moe.edu.sg/upcoming-events/savethedates/
-  - announcements:
-      title: Announcements
-      id: announcements
-      announcement_items:
-        - title: Notice of School Closure
-          date: 06 June 2025
-          announcement: The School will be closed on Wed, 11 Jun 2025 for Staff Training.
-          link_text: ""
-          link_url: ""
-        - title: School Bookshop Operating Hours
-          date: 30 May 2025
-          announcement: Dear Students, please take note that the school bookshop’s
-            operating hours for next week (2 to 6 June) will be from 9am to
-            12.30pm.
-          link_text: Click here for updated booklist >>>
-          link_url: /about-us/links/parents/purchase-of-textbooks-and-school-attire/
   - infopic:
       title: Applied Learning (ALP)
       subtitle: School Distinctive Programmes
