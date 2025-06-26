@@ -6,19 +6,18 @@ variant: markdown
 ---
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2025/Timetable/2025sem1_timetable_sec1.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Sem 1 Timetable</a>
+<p><a href="/files/Class%20Timetable/2025_Sec_1_Sem_2_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Sem 2 Timetable</a></p>
+</li>
+<li>
+<p><a href="/files/Class%20Timetable/2025_Sec_2_Sem_2_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Sem 2 Timetable</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2025/Timetable/2025sem1_timetable_sec2.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Sem 1 Timetable</a>
+<p><a href="/files/Class%20Timetable/2025_Sec_3_Sem_2_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Sem 2 Timetable</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2025/Timetable/2025sem1_timetable_sec3.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Sem 1 Timetable</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2025/Timetable/2025sem1_timetable_sec4_and_5.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4/5 Sem 1 Timetable</a>
+<p><a href="/files/Class%20Timetable/2025_Sec_4_5_Sem_2_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4/5 Sem 2 Timetable</a>
 </p>
 </li>
 </ul>
