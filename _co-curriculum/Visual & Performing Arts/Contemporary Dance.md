@@ -38,8 +38,8 @@ Contemporary Dance is one of the school’s visual and performing arts CCAs wher
 
 ### TEACHERS IN-CHARGE
 
-*   Ms Joyce Gayathri (1st i/c)
-*   Mrs Dolly Teo (2nd i/c)
+*   Ms Joyce Gayathri (1st IC)
+*   Mrs Dolly Teo (2nd IC)
 *   Mdm Kokila Athinamilagi
 *   Mdm Song Ziyan
 
@@ -49,10 +49,11 @@ Contemporary Dance is one of the school’s visual and performing arts CCAs wher
 *   Mr Elias Han Quan Azib
   
 ### STUDENT LEADERS
-*  Yiau Dee Fen (President)
+* Yiau Dee Fen (President)
 * Ong Shi Ying Gabriella (Vice-President)
 * Nikita Ru Qi Mohd Nasir (Dance Captain)
 * Nurul A’Syaqirah bte Kasim (Asst Dance Captain)
+
 ### ACTIVITIES FOR THE YEAR 2025
 
   
