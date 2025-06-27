@@ -64,13 +64,13 @@ S1-Respect &amp; S1-Resilience)</p>
 <h3>TEACHERS IN-CHARGE</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr Muhammad Nur Azman Shah (1st IC)</p>
+<p>Mr Joel Chan Jie Hao (1st IC)</p>
 </li>
 <li>
-<p>Mr Joel Chan Jie Hao (2nd IC)</p>
+<p>Ms Lu Jing (2nd IC)</p>
 </li>
 <li>
-<p>Ms Lu Jing</p>
+<p>Mr Muhammad Nur Azman Shah</p>
 </li>
 </ul>
 <h3>CONDUCTORS/TUTORS</h3>
