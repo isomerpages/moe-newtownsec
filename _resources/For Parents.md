@@ -30,10 +30,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/about-us/links/parents/school-newsletters" rel="noopener noreferrer nofollow" target="_blank">School Newsletters</a>
-</p>
-</li>
-<li>
 <p><a href="/others/announcements/class-timetable" rel="noopener noreferrer nofollow" target="_blank">Class Timetable</a>
 </p>
 </li>
