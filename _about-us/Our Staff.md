@@ -647,7 +647,7 @@ variant: tiptap
 <p>Ms Viswalingam Thenmozhi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>viswalingam_thenmozhi@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -849,7 +849,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Song Ziyan</p>
+<p>Ms Song Ziyan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
