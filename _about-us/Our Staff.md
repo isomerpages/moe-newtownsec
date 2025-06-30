@@ -644,10 +644,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Syahirah</p>
+<p>Ms Viswalingam Thenmozhi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nur_syahirah_nahadi@moe.edu.sg</p>
+<p>viswalingam_thenmozhi@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -667,7 +667,7 @@ variant: tiptap
 <p>Mr Joel Chan Jie Hao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Joel_chan_jie_hao@moe.edu.sg</p>
+<p>joel_chan_jie_hao@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -849,10 +849,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lucas Chia Chin Pean</p>
+<p>Mdm Song Ziyan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chia_chin_pean@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
