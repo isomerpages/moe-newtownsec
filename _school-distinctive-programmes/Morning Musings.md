@@ -293,5 +293,29 @@ them.</p>
 </table>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>Term 3</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe height="180" width="320" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/N99__-pKH4w?si=lkFC1MvL8paoge1w"></iframe>
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
 </div>
 <p></p>
