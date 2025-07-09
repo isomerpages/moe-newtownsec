@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h1>Home Based Learning (HBL)</h1>
-<h3><strong>30 APR 2025</strong></h3>
+<h3><strong>15 JUL 2025</strong></h3>
 <p><strong>1.&nbsp;HBL Timetable and Learning Task</strong> 
 <br>&nbsp; &nbsp;Click on your respective level.</p>
 <table style="minWidth: 50px">
@@ -16,21 +16,83 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><a href="https://docs.google.com/spreadsheets/d/1hdQoD7dqhgo98t8NVeGcV-hU0HW8ocpuUGKe5srZtEI/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 1</a>
+<p><a href="https://docs.google.com/spreadsheets/d/16zaav1C_5xaLJy5fi5Jj8XHHDQDNxVX8sA22d0Pd7AA/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 1</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="https://docs.google.com/spreadsheets/d/1Qx6VI68ig15AijdY06IuRntO7CEZciuBSeZS9HQ1qkY/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 2</a>
+<p><a href="https://docs.google.com/spreadsheets/d/1K8DTePssPSNnp92hFkyadMr8sCyGtPdpR6TIu5a5fAM/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 2</a>
 </p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://docs.google.com/spreadsheets/d/1i2oWmZgD0fc27AJ21VqChbJzXJOKLsvH/edit?usp=sharing&amp;ouid=114349310661457557026&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Sec 3</a></strong>
+<p><strong><a href="https://docs.google.com/spreadsheets/d/1okFuOgLpurBXU0DiJQDVw_IGfN898zUe/edit?usp=sharing&amp;ouid=114349310661457557026&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Sec 3</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://docs.google.com/spreadsheets/d/1V64B6K4CllgwsY0sY4OKyX8Yr_-C2cDy/edit?usp=sharing&amp;ouid=114349310661457557026&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5</a></strong>
+<p><strong><a href="https://docs.google.com/spreadsheets/d/1MghJLFuKInjeuHA21poAwkpYTudqUWvM/edit?usp=sharing&amp;ouid=114349310661457557026&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Sec 4&amp;5</a></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3><strong>16 JUL 2025</strong></h3>
+<p><strong>1.&nbsp;HBL Timetable and Learning Task</strong> 
+<br>&nbsp; &nbsp;Click on your respective level.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><a href="https://docs.google.com/spreadsheets/d/1D-yy7OPpBxPzlBm0UVURwMsaQU5eNhh--XJmD0pJ1Bg/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 1</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><a href="https://docs.google.com/spreadsheets/d/1RWx4y2qPVYOQh6Zh6go3PZuS7IUVbcWhjrQNNv2Jsf4/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 2</a>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://docs.google.com/spreadsheets/d/1fhXJmqlu75qaxiyk5vLK3Yp-ailI-Paw/edit?usp=sharing&amp;ouid=114349310661457557026&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Sec 3</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://docs.google.com/spreadsheets/d/1JKO7kR8R9CBRlnwR3XVuY2_QJTlJpvbC/edit?usp=sharing&amp;ouid=114349310661457557026&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Sec 4&amp;5</a></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3><strong>17 JUL 2025</strong></h3>
+<p><strong>1.&nbsp;HBL Timetable and Learning Task</strong> 
+<br>&nbsp; &nbsp;Click on your respective level.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><a href="https://docs.google.com/spreadsheets/d/1_3P-BRjh0y4KjCp9aS5AJaDZxoNqhdaQgC03HpShR6c/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 1</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><a href="https://docs.google.com/spreadsheets/d/1is04LKgDZg1cATgRsNY_YQXu2ncBC4lcogayiJ4sTHg/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 2</a>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://docs.google.com/spreadsheets/d/1ELuDDQbx1-35VcGxdOEVleykcYYDKzec/edit?usp=sharing&amp;ouid=114349310661457557026&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Sec 3</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://docs.google.com/spreadsheets/d/1Jiv9r9hs4Np44b-PBLzxrD-JmdT7Yu-G/edit?usp=sharing&amp;ouid=114349310661457557026&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Sec 4&amp;5</a></strong>
 </p>
 </td>
 </tr>
