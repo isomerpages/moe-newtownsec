@@ -13,16 +13,34 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Outstanding Alumnus/CHEANG_LI_XUAN_SHERMAINE.png">
+</div>
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Cheang Li Xuan Shermaine</strong>
+</p>
+<p></p>
+<p>An alumnus of <strong>New Town Secondary School</strong>, Cheang Li Xuan
+Shermaine, has attained a <strong>Diploma with Merit in Chinese Studies </strong>and
+a <strong>Minor in Global Readiness</strong>, and was awarded <strong>The Kongzi Culture Fund Ltd Silver Medal &amp; Prize</strong>,
+as well as the <strong>SFCCA Prize.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Outstanding Alumnus/AEG___MARTIN_ELLIOT_GAN_BOON_PENG.jpg">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MARTIN ELLIOT GAN BOON PENG</strong>
+<p><strong>Martin Elliot Gan Boon Peng</strong>
 <br>
-<br>An alumnus of&nbsp;<strong>New Town Secondary School</strong>, MARTIN
-ELLIOT GAN BOON PENG, has excelled academically in his first year (2024/25),
+<br>An alumnus of&nbsp;<strong>New Town Secondary School</strong>, Martin
+Elliot Gan Boon Peng, has excelled academically in his first year (2024/25),
 and has won the prestigious <strong>Temasek Polytechnic (Engineering) </strong>scholarship.</p>
 <p>&nbsp;</p>
 <p>The scholarship is awarded to students with outstanding academic results,
@@ -31,10 +49,10 @@ impressive CCA achievements, and strong leadership qualities and potential.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Outstanding Alumnus/New_Town_Secondary_School_Ethan_Pang_SB.jpg">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ethan Pang</strong>
@@ -51,6 +69,7 @@ leadership qualities and significant accomplishments in co-curricular activities
 <div class="isomer-image-wrapper">
 <img style="margin-top:5px" height="auto" width="100%" src="/images/Outstanding%20Alumnus/230928%20lee%20wen%20wei.jpg">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Lee Wen Wei</strong> 
@@ -184,7 +203,7 @@ the Ngee Ann Polytechnic Graduation Ceremony 2024.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Ian Leong</strong>
 <br>
-<br>An alumnus of <strong>New Town Secondary School</strong>, attained a <strong>Diploma in Biomedial Engineering, Minor in User Experience Design with Merit </strong>and<strong> Certificate in Advanced Engineering Mathematics </strong>at
+<br>An alumnus of <strong>New Town Secondary School</strong>, attained a <strong>Diploma in Biomedical Engineering, Minor in User Experience Design with Merit </strong>and<strong> Certificate in Advanced Engineering Mathematics </strong>at
 the Ngee Ann Polytechnic Graduation Ceremony 2024.</p>
 </td>
 </tr>
@@ -259,7 +278,12 @@ the Republic Polytechnic Graduation Ceremony 2025.</p>
 the Republic Polytechnic Graduation Ceremony 2025.</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Grace Tang Sii Yun</strong>
+</p>
 <p></p>
+<p>An alumnus of <strong>New Town Secondary School</strong>,<strong> </strong>was
+awarded the <strong>NGEE ANN KONGSI TALENT SCHOLARSHIP </strong>for the
+Diploma in Design (Interior and Spatial).</p>
 </td>
 </tr>
 </tbody>
