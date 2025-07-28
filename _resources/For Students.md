@@ -19,7 +19,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/exam-timetable/" rel="noopener nofollow" target="_blank">Sec 4&amp;5 Exam Timetable</a>
+<p><a href="https://newtownsec.moe.edu.sg/exam-timetable/" rel="noopener nofollow" target="_blank">Sec 4&amp;5 Exam Timetable</a>
 </p>
 </li>
 </ul>
