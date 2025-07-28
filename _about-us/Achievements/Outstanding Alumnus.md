@@ -13,16 +13,36 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Outstanding Alumnus/CHEANG_LI_XUAN_SHERMAINE.png">
+</div>
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Cheang Li Xuan Shermaine</strong>
+</p>
+<p></p>
+<p>An alumnus of <strong>New Town Secondary School</strong>, Cheang Li Xuan
+Shermaine, has attained a <strong>Diploma in Chinese Studies with Merit</strong> and<strong> </strong>a <strong>Minor in Global Readiness</strong>,
+and was awarded <strong>The Kongzi Culture Fund Ltd Silver Medal &amp; Prize</strong> as
+well as the <strong>SFCCA Prize.</strong>
+</p>
+<p></p>
+<p>The Silver Medal is awarded to the second top student of the course.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Outstanding Alumnus/AEG___MARTIN_ELLIOT_GAN_BOON_PENG.jpg">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MARTIN ELLIOT GAN BOON PENG</strong>
+<p><strong>Martin Elliot Gan Boon Peng</strong>
 <br>
-<br>An alumnus of&nbsp;<strong>New Town Secondary School</strong>, MARTIN
-ELLIOT GAN BOON PENG, has excelled academically in his first year (2024/25),
+<br>An alumnus of&nbsp;<strong>New Town Secondary School</strong>, Martin
+Elliot Gan Boon Peng, has excelled academically in his first year (2024/25),
 and has won the prestigious <strong>Temasek Polytechnic (Engineering) </strong>scholarship.</p>
 <p>&nbsp;</p>
 <p>The scholarship is awarded to students with outstanding academic results,
@@ -31,10 +51,10 @@ impressive CCA achievements, and strong leadership qualities and potential.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Outstanding Alumnus/New_Town_Secondary_School_Ethan_Pang_SB.jpg">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ethan Pang</strong>
@@ -51,6 +71,7 @@ leadership qualities and significant accomplishments in co-curricular activities
 <div class="isomer-image-wrapper">
 <img style="margin-top:5px" height="auto" width="100%" src="/images/Outstanding%20Alumnus/230928%20lee%20wen%20wei.jpg">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Lee Wen Wei</strong> 
@@ -166,7 +187,7 @@ the Republic Polytechnic Graduation Ceremony 2023.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>CHEN SHIH-HSI</strong>
+<p><strong>Chen Shih-Hsi</strong>
 </p>
 <p></p>
 <p>An alumnus of <strong>Tanglin Secondary School</strong>, attained outstanding
@@ -175,53 +196,47 @@ results at the 2024 GCE A-Level Examinations.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Wong Chao Han</strong>
-<br>
-<br>An alumnus of <strong>New Town Secondary School</strong>, who was a recipient
-of <strong>IMDA Gold Medal &amp; Prize</strong>, he also attained a <strong>Diploma in Immersive Media with Merit and ITMA Prize </strong>at
-the Ngee Ann Polytechnic Graduation Ceremony 2024.</p>
+<p><strong>Grace Tang Sii Yun</strong>
+</p>
+<p></p>
+<p>An alumnus of <strong>New Town Secondary School</strong>,<strong> </strong>was
+awarded the <strong>Ngee Ann Kongsi Talent Scholarship </strong>for the
+Diploma in Design (Interior and Spatial) at the NAFA Scholarships &amp;
+Awards Ceremony 2025.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ian Leong</strong>
-<br>
-<br>An alumnus of <strong>New Town Secondary School</strong>, attained a <strong>Diploma in Biomedial Engineering, Minor in User Experience Design with Merit </strong>and<strong> Certificate in Advanced Engineering Mathematics </strong>at
-the Ngee Ann Polytechnic Graduation Ceremony 2024.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ricky Soo Choon Kiat</strong>
-<br>
-<br>An alumnus of <strong>New Town Secondary School</strong>, attained a <strong>Diploma in Banking &amp; Finance, Minor in Entrepreneurship with Merit </strong>and<strong> Certificate in Quantitative Methods &amp; Economics </strong>at
-the Ngee Ann Polytechnic Graduation Ceremony 2024.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Matthew Lim</strong>
-<br>
-<br>An alumnus of <strong>New Town Secondary School</strong>, attained a <strong>Diploma in Automation &amp; Mechatronic Systems with Merit </strong>and<strong> Certificate in Advanced Engineering Mathematics </strong>at
-the Ngee Ann Polytechnic Graduation Ceremony 2024.</p>
+<p><strong>Huang Weixuan, Enzo</strong>
+</p>
+<p></p>
+<p>An alumnus of <strong>New Town Secondary School</strong>, attained a <strong>Diploma in Electronic &amp; Computer Engineering with Merit,</strong> a <strong>Minor in User Experience Design</strong> and
+a <strong>Certificate in Advanced Engineering Mathematics</strong> at the
+Ngee Ann Polytechnic Graduation Ceremony 2025.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Tey Tee Chong Keith</strong>
+<p><strong>Naomi Goh Yuki</strong>
 <br>
-<br>An alumnus of <strong>New Town Secondary School</strong>, attained a <strong>Diploma in Aerospace Engineering with Merit </strong>and<strong> Certificate in Advanced Engineering Mathematics </strong>at
-the Ngee Ann Polytechnic Graduation Ceremony 2024.</p>
+<br>An alumnus of <strong>New Town Secondary School</strong>, attained a <strong>Diploma in Community Development with Merit </strong>at
+the Ngee Ann Polytechnic Graduation Ceremony 2025.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Geok Qing Yao</strong>
-<br>
-<br>An alumnus of <strong>New Town Secondary School</strong>, attained a <strong>Diploma in Banking &amp; Finance with Merit, Minor in Fundamentals of Internet of Things </strong>at
-the Ngee Ann Polytechnic Graduation Ceremony 2024.</p>
+<p><strong>Noor Fazila Binte Farook</strong>
+</p>
+<p></p>
+<p>An alumnus of <strong>New Town Secondary School</strong>, attained a <strong>Diploma in Early Childhood Development &amp; Education with Merit</strong> and
+a <strong>Minor in Applied Psychology </strong>at the Ngee Ann Polytechnic
+Graduation Ceremony 2025.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Goh Boon Hwee Alison</strong>
-<br>
-<br>An alumnus of <strong>New Town Secondary School</strong>, attained a <strong>Diploma in Biomedical Engineering with Merit </strong>at
-the Ngee Ann Polytechnic Graduation Ceremony 2024.</p>
+<p><strong>Tan Jia Yi Charmain</strong>
+</p>
+<p></p>
+<p>An alumnus of <strong>New Town Secondary School</strong>, attained a <strong>Diploma in Financial Technology with Merit </strong>and
+was awarded the <strong>Tan Sri (Dr) Tan Chin Tuan Scholarship</strong> at
+the Republic Polytechnic Graduation Ceremony 2025.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Tan Ziyi, Sarah</strong>
@@ -242,21 +257,62 @@ was awarded the <strong>Lee Foundation Scholarship</strong> at the Republic
 Polytechnic Graduation Ceremony 2025.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Tan Jia Yi Charmain</strong>
-</p>
-<p></p>
-<p>An alumnus of <strong>New Town Secondary School</strong>, attained a <strong>Diploma in Financial Technology with Merit </strong>and
-was awarded the <strong>Tan Sri (Dr) Tan Chin Tuan Scholarship</strong> at
-the Republic Polytechnic Graduation Ceremony 2025.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Tan Qi Xuan Javier</strong>
 </p>
 <p></p>
 <p>An alumnus of <strong>New Town Secondary School</strong>, attained a <strong>Diploma in Financial Technology with Merit </strong>at
 the Republic Polytechnic Graduation Ceremony 2025.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Wong Chao Han</strong>
+<br>
+<br>An alumnus of <strong>New Town Secondary School</strong>, who was a recipient
+of <strong>IMDA Gold Medal &amp; Prize</strong>, he also attained a <strong>Diploma in Immersive Media with Merit and ITMA Prize </strong>at
+the Ngee Ann Polytechnic Graduation Ceremony 2024.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Tey Tee Chong Keith</strong>
+<br>
+<br>An alumnus of <strong>New Town Secondary School</strong>, attained a <strong>Diploma in Aerospace Engineering with Merit </strong>and<strong> Certificate in Advanced Engineering Mathematics </strong>at
+the Ngee Ann Polytechnic Graduation Ceremony 2024.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Matthew Lim</strong>
+<br>
+<br>An alumnus of <strong>New Town Secondary School</strong>, attained a <strong>Diploma in Automation &amp; Mechatronic Systems with Merit </strong>and<strong> Certificate in Advanced Engineering Mathematics </strong>at
+the Ngee Ann Polytechnic Graduation Ceremony 2024.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Geok Qing Yao</strong>
+<br>
+<br>An alumnus of <strong>New Town Secondary School</strong>, attained a <strong>Diploma in Banking &amp; Finance with Merit, Minor in Fundamentals of Internet of Things </strong>at
+the Ngee Ann Polytechnic Graduation Ceremony 2024.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ian Leong</strong>
+<br>
+<br>An alumnus of <strong>New Town Secondary School</strong>, attained a <strong>Diploma in Biomedical Engineering, Minor in User Experience Design with Merit </strong>and<strong> Certificate in Advanced Engineering Mathematics </strong>at
+the Ngee Ann Polytechnic Graduation Ceremony 2024.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ricky Soo Choon Kiat</strong>
+<br>
+<br>An alumnus of <strong>New Town Secondary School</strong>, attained a <strong>Diploma in Banking &amp; Finance, Minor in Entrepreneurship with Merit </strong>and<strong> Certificate in Quantitative Methods &amp; Economics </strong>at
+the Ngee Ann Polytechnic Graduation Ceremony 2024.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Goh Boon Hwee Alison</strong>
+<br>
+<br>An alumnus of <strong>New Town Secondary School</strong>, attained a <strong>Diploma in Biomedical Engineering with Merit </strong>at
+the Ngee Ann Polytechnic Graduation Ceremony 2024.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
