@@ -19,7 +19,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>Sec 4 Exam Timetable</p>
+<p>Sec 4&amp;5 Exam Timetable</p>
 </li>
 </ul>
 <h3><strong>ICT Links</strong></h3>
