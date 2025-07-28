@@ -18,10 +18,6 @@ variant: tiptap
 <p><a href="https://newtownsec.moe.edu.sg/others/announcements/class-timetable" rel="noopener noreferrer nofollow" target="_blank">Class Timetable</a>
 </p>
 </li>
-<li>
-<p><a href="https://www.newtownsec.moe.edu.sg/exam-timetable/" rel="noopener noreferrer nofollow" target="_blank">Sec 4&amp;5 Exam Timetable</a>
-</p>
-</li>
 </ul>
 <h3><strong>ICT Links</strong></h3>
 <ul>
