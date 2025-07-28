@@ -19,7 +19,8 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>Sec 4&amp;5 Exam Timetable</p>
+<p><a href="/exam-timetable/" rel="noopener nofollow" target="_blank">Sec 4&amp;5 Exam Timetable</a>
+</p>
 </li>
 </ul>
 <h3><strong>ICT Links</strong></h3>
