@@ -281,16 +281,7 @@ description: ""
 <p>2:00pm to 4:30pm</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>30 July 2025, Wednesday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Home-Based Learning</p>
-</td>
-<td rowspan="1" colspan="1">
-</td>
-</tr>
+
 <tr>
 <td rowspan="1" colspan="1">
 <p>8 August 2025, Friday</p>
