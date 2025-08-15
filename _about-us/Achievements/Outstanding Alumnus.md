@@ -196,6 +196,22 @@ results at the 2024 GCE A-Level Examinations.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Outstanding Alumnus/NACArtsScholarship_Yeo_Ka_Ing__S4_04__2024__1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Yeo Ka Ing</strong>
+</p>
+<p></p>
+<p>An alumnus of <strong>New Town Secondary School</strong>, <strong>Yeo Ka Ing</strong> from
+the Class of 2024 (S4-04) was among the first batch of 27 recipients receiving
+the NAC Arts Scholarship (Diploma) on 5 August. She will begin her studies
+at LASALLE College of the Arts the same month.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Grace Tang Sii Yun</strong>
 </p>
 <p></p>
