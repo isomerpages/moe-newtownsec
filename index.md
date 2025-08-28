@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero Banner/NTSS_Open_House_2025___Banner_Printing__Final_.jpg
+      background: /images/Hero Banner/2024_NTSS_Philosophy_Hero_Banner_1920x720px.png
       key_highlights:
         - title: Home-Based Learning
           description: ""
