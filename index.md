@@ -4,7 +4,8 @@ title: New Town Secondary School
 description: Official Website for New Town Secondary School.
 image: /images/School Crest/ntss crest (transparent bg).png
 permalink: /
-notification: ""
+notification: The School will be closed at 12pm on Thursday, 4 September 2025
+  for Teachers’ Day Celebration.
 sections:
   - hero:
       background: /images/Hero Banner/2024_NTSS_Philosophy_Hero_Banner_1920x720px.png
@@ -18,6 +19,16 @@ sections:
         - title: Upcoming Events
           description: ""
           url: https://www.newtownsec.moe.edu.sg/upcoming-events/savethedates/
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: School Closure Notice
+          date: 01 September 2025
+          announcement: The School will be closed at 12pm on Thursday, 4 September 2025
+            for Teachers’ Day Celebration.
+          link_text: ""
+          link_url: ""
   - infopic:
       title: New Town Sec Open House 2025
       subtitle: COME JOIN US!
