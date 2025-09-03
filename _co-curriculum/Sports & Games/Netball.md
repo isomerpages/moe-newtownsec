@@ -82,72 +82,20 @@ the alumni. &nbsp;&nbsp;</p>
 </li>
 </ul>
 <h3>ACHIEVEMENTS</h3>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>No.</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Year</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Full Title</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Award / Achievement / Position</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2020</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>South Zone Inter-School Netball Championship (B Division)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Top 8</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>West Zone Inter-School Netball Championship (B Division)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Top 8</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2015</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>West Zone Inter-School Netball Championship (B Division)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Top 8</p>
-</td>
-</tr>
-</tbody>
-</table>
+<ul data-tight="true" class="tight">
+<li>
+<p>2025 NSG C Division Girls (League 4) - 4th</p>
+</li>
+<li>
+<p>2020 NSG South Zone Netball Championship B Division - Top 8</p>
+</li>
+<li>
+<p>2019 NSG West Zone Netball Championship B Division - Top 8</p>
+</li>
+<li>
+<p>2015 NSG West Zone Netball Championship B Division - Top 8</p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Netball%20TSS1.jpeg">
 </div>
