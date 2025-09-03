@@ -142,7 +142,8 @@ Association (SIMPA), SportSG &amp; &nbsp;Active SG</p>
 <p>Colours Award for sporting excellence in Fencing (2019)
 <br>Colours Award for sporting excellence in Fencing (2022)
 <br>Colours Award for sporting excellence in Fencing (2023)
-<br>Colours Award for sporting excellence in Fencing (2024)</p>
+<br>Colours Award for sporting excellence in Fencing (2024)
+	<br>Colours Award for sporting excellence in Fencing (2025)</p>
 </td>
 </tr>
 <tr>
@@ -154,7 +155,8 @@ Association (SIMPA), SportSG &amp; &nbsp;Active SG</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2024 Overall School Championship B Division Girls ranked 3rd<br>
+<p>2025 Overall School Championship B Division Girls ranked 3rd<br>
+	2024 Overall School Championship B Division Girls ranked 3rd<br>
 2024 Overall School Championship C Division Girls ranked 2nd<br>
 2023 Overall School Championship B Division Girls ranked 3rd<br>
 2022 Overall School Championship C Division Girls Ranked 3rd</p>
