@@ -57,7 +57,7 @@ NCC has eight Core Values:
 
 ### ACHIEVEMENTS
 
-*  Distinction Award for Unit Recognition 2022 – 2024
+*  Distinction Award for Unit Recognition 2022 – 2025
 *  Accomplishment Award for Unit Recognition 2017 – 2020
 *  Silver Award for Best Unit Competition 2014 – 2017
 *  West Zone Shooting Competition 2015(Sec 3): 1st Placing
