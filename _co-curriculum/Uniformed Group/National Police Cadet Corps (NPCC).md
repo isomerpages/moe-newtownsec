@@ -78,6 +78,19 @@ Gallery visit, sports enrichment activity, outreach programme,</p>
 </li>
 </ul>
 <h3>ACHIEVEMENTS</h3>
+<p><strong>2025</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Unit Overall Proficiency Award (2025) – Gold</p>
+</li>
+<li>
+<p>SPF-NPCC Badge Awardee – Kong Yue Mi (S4-IT)</p>
+</li>
+<li>
+<p>SPF-NPCC Badge Awardee – Wong Jiun Yi Brandon (S4-RS)</p>
+</li>
+</ul>
 <p><strong>2024</strong>
 </p>
 <ul data-tight="true" class="tight">

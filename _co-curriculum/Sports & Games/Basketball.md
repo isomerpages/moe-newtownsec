@@ -69,10 +69,10 @@ E level 4 classrooms (S4-03 &amp; S4-04)</p>
 <h3>TEACHERS-IN-CHARGE</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mdm Valli D/O Sundaram (1st i/c)</p>
+<p>Mdm Valli D/O Sundaram (1st I/C)</p>
 </li>
 <li>
-<p>Mr Loh Yong Qi (2nd i/c)</p>
+<p>Mr Loh Yong Qi (2nd I/C)</p>
 </li>
 <li>
 <p>Mr Francis Yee Hsien Hsi</p>
@@ -114,17 +114,20 @@ E level 4 classrooms (S4-03 &amp; S4-04)</p>
 <h3>ACHIEVEMENTS</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>NSG West Zone Basketball Championship B Division Boys qualify for Round
-2 of National School Games 2018-2025</p>
+<p>2025 NSG C Division Boys (League 5) – 4th</p>
 </li>
 <li>
-<p>NSG C Division Boys (League 6) 2024 – Champion</p>
+<p>2018-2025 NSG West Zone Basketball Championship B Division Boys qualify
+for Round 2 of National School Games</p>
 </li>
 <li>
-<p>NSG C Division Girls (League 3) 2024 – 3rd</p>
+<p>2024 NSG C Division Boys (League 6) – Champion</p>
 </li>
 <li>
-<p>Clementi Inter-School U16 Boys Basketball Tournament 2024 – 2nd</p>
+<p>2024 NSG C Division Girls (League 3) – 3rd</p>
+</li>
+<li>
+<p>2024 Clementi Inter-School U16 Boys Basketball Tournament 2024 – 2nd</p>
 </li>
 </ul>
 <h3>PHOTO GALLERY</h3>

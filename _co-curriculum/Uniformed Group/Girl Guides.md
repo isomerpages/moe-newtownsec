@@ -173,6 +173,13 @@ responsible citizens of the world.</p>
 </li>
 </ul>
 <h4><strong>ACHIEVEMENTS</strong></h4>
+<p><u>2025</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Puan Noor Aishah Award – Gold</p>
+</li>
+</ul>
 <p><u>2024</u>
 </p>
 <ul data-tight="true" class="tight">
