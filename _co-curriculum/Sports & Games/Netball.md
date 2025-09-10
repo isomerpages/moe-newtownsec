@@ -115,4 +115,3 @@ the alumni. &nbsp;&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Netball/05_Netball_CCA.jpg">
 </div>
 <p></p>
-<p></p>
