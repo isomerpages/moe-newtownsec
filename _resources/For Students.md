@@ -26,6 +26,9 @@ variant: tiptap
 <p><a href="https://newtownsec.moe.edu.sg/exam-timetable/" rel="noopener nofollow" target="_blank">Sec 4&amp;5 Exam Timetable</a>
 </p>
 </li>
+<li>
+<p>Sec 1 to 3 Post-Exam Schedule (access from 8 Oct onwards)</p>
+</li>
 </ul>
 <h3><strong>ICT Links</strong></h3>
 <ul>
