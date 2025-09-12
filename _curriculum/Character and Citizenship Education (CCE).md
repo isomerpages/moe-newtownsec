@@ -2,6 +2,7 @@
 title: Character and Citizenship Education (CCE)
 permalink: /department/character-and-citizenship-education-cce-2023/
 description: ""
+variant: markdown
 ---
 **CHARACTER & CITIZENSHIP EDUCATION**
 
@@ -9,11 +10,11 @@ New Town Secondary School adopts a whole-school approach in its Character and Ci
 
 **CCE Programme**
 
-The CCE programme is the MOE’s Character and Citizenship Education programme. Reflected in the curriculum content, it covers dynamic content areas like Education and Career Guidance, Cyber Wellness, National Education, Mental health, Family Education and Sexuality Education. It is also an explicit teaching of the school values and social-emotional skills. The CCE programme focuses on the Three Big Ideas: Identity, Relationships and Choices. Values education is also infused in the various subjects to reflect the teaching of school values and SEL.
+The CCE programme in New Town Secondary School is aligned to the MOE’s CCE 2021 Curriculum Framework. Reflected in the curriculum content, it covers dynamic content areas like Education and Career Guidance, Cyber Wellness, National Education, Mental health, Family Education and Sexuality Education. The CCE curriculum also covers explicit teaching of school values and social-emotional skills, in ways that are age-appropriate and meaningful for our students.. The CCE programme focuses on the Three Big Ideas: Identity, Relationships and Choices. Values education is also infused in the various subjects to reflect the teaching of school values and social-emotional skills.
 
 **Citizenship**
 
-Students are provided with opportunities to contribute to the well-being of the community and nation building through the school’s National Education (NE) and Values-in-Action (VIA) programmes. Through the four NE events: namely the Total Defence Day, International Friendship Day, Racial Harmony Day, and National Day, the school empowers students to share  different perspectives on national issues and concerns, and advocate for student agency. Through VIA programme, students plan and execute projects based on the IPARD/C process: investigate community needs, and using their strengths and talents to meet these needs.
+Students are provided with opportunities to contribute to the well-being of the community and nation building through the school’s National Education (NE) and Values-in-Action (VIA) programmes. Through the four NE events: namely the Total Defence Day, International Friendship Day, Racial Harmony Day, and National Day, the school empowers students to share  different perspectives on national issues and concerns, and advocate for student agency. Through VIA programme, students plan and execute projects based on the IPARD/C process: investigate community needs, therein contributing to the betterment of the community.
 
 **Gratitude Practices**
 
@@ -21,7 +22,7 @@ As part of the school’s efforts in developing a positive school culture and we
 
 **Care for Students with Special Needs**
 
-The school supports student learning and experience for students with special needs. The SEN committee is set up to identify and monitor the progress of these students.
+The school supports student learning and experience for students with special needs. The SEN committee is set up to identify and meet the learning needs of these students.
 
 **Care for International Students and Permanent Residents (ISPRs)**
 
