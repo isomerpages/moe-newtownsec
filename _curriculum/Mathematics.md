@@ -2,6 +2,7 @@
 title: Mathematics
 permalink: /department/mathematics-2023/
 description: ""
+variant: markdown
 ---
 ### Key Focus
 
@@ -15,7 +16,7 @@ description: ""
 
 ### Programmes
 
-**ENRICHMENT PROGRAMMES &amp; ACTIVITIES (As planned for 2023)**
+**ENRICHMENT PROGRAMMES &amp; ACTIVITIES**
 
 **Core Programme**
 
@@ -23,21 +24,18 @@ To engage students in the learning of Mathematics through the development of con
 
 **Enrichment Programmes and Activities**
 
-* Financial Literacy Programme
-
-* Algebra Gym
+* Algegames
 
 **Stretch Programmes**
 
-* All Singapore Secondary Mathematics Competition for Normal Course Students
-
-* Singapore Mathematics Olympiad
+* Math Talent Development Programme
+* Singapore Mathematical Olympiad
+* NIE Mathematics Challenge
+* National FinLit Competition
 
 **Support Programme**
 
-* Afternoon Sign-Up Learning (ASL)
-
-* Math Clinic Sessions
+* After-school Academic Coaching (AAC)
 
 ### Snapshots of Curriculum
 
