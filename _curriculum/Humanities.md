@@ -37,7 +37,7 @@ In&nbsp;**Geography**, students will learn about the relationships between envir
 
 **Stretch Programmes**
 
-Students who demonstrate an aptitude and passion for the Humanities subjects may be invited and mentored to participate in local Humanities competitions / events (e.g. NUS Geography Challenge, Model UN) to deepen their growth and interest in the subjects.
+Students who demonstrate an aptitude and passion for the Humanities subjects may be invited and mentored to participate in local Humanities competitions / events (e.g. NUS Geography Challenge, Model UN, etc.) to deepen their growth and interest in the subjects.
 
 ### Snapshots of Curriculum
 
