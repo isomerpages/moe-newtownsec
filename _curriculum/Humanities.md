@@ -2,6 +2,7 @@
 title: Humanities
 permalink: /department/humanities-2023/
 description: ""
+variant: markdown
 ---
 ### KEY FOCUS
 
@@ -21,10 +22,9 @@ In&nbsp;**Geography**, students will learn about the relationships between envir
 
 **Social Studies**&nbsp;allows students to inquire into contemporary societal issues in the local and global context through classroom discussions and examination of sources of different forms and types. Students will appreciate multiple perspectives and the importance of cultural diversity and develop the agency to respond to pertinent societal issues.
 
-**Principles of Accounts**&nbsp;develops in students the knowledge and skills to prepare, communicate and use both accounting information and non-accounting information related to the business to make decisions. The understanding and application of accounting knowledge to develop lifelong skills and values will be of value to students in the increasingly complex world of business.&nbsp;
-
 **Enrichment Programmes and Activities**
 
+* Humanities Overseas Learning Journey to Hanoi, Vietnam
 * Geographical Investigation for Lower Secondary students
 
 * Geography fieldwork experience for Upper Secondary Geography students
