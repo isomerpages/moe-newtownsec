@@ -18,7 +18,8 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>2025 Term 4 School Letter</p>
+<p><a href="/files/2025_Term_4_Letter_to_Parent_15_Sep_2025_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Term 4 School Letter</a>
+</p>
 </li>
 </ul>
 <p></p>
