@@ -62,17 +62,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Gold Medal</strong>
 </p>
-<p>CHEN FANG YEE (3-CF)</p>
+<p>Chen Fang Yee (3-CF)</p>
 <p></p>
 <p><strong>Silver Medal</strong>
 </p>
-<p>YU KA KI GIGI (1-CF)</p>
-<p>CHLOE OR YI TING (1-CF)</p>
-<p>QIAN JIAXIN (1-SU)</p>
+<p>Yu Ka Ki Gigi (1-CF)</p>
+<p>Chloe Or Yi Ting (1-CF)</p>
+<p>Qian Jiaxin (1-SU)</p>
 <p></p>
 <p><strong>Bronze Medal</strong>
 </p>
-<p>FIONA YAP (4-IT)</p>
+<p>Fiona Yap (4-IT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
