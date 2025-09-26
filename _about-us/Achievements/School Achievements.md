@@ -61,18 +61,15 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Gold Medal</strong>
+<br>Chen Fang Yee (3-CF)
 </p>
-<p>Chen Fang Yee (3-CF)</p>
-<p></p>
 <p><strong>Silver Medal</strong>
+<br>Yu Ka Ki Gigi (1-CF)
+<br>Chloe Or Yi Ting (1-CF)
+<br>Qian Jiaxin (1-SU)
 </p>
-<p>Yu Ka Ki Gigi (1-CF)</p>
-<p>Chloe Or Yi Ting (1-CF)</p>
-<p>Qian Jiaxin (1-SU)</p>
-<p></p>
 <p><strong>Bronze Medal</strong>
-</p>
-<p>Fiona Yap (4-IT)</p>
+<br>Fiona Yap (4-IT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
