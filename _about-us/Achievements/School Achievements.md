@@ -52,6 +52,34 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Mother Tongue Language</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>8th National Text Recital Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Gold Medal</strong>
+</p>
+<p>CHEN FANG YEE</p>
+<p></p>
+<p><strong>Silver Medal</strong>
+</p>
+<p>YU KA KI GIGI</p>
+<p>CHLOE OR YI TING</p>
+<p>QIAN JIAXIN</p>
+<p></p>
+<p><strong>Bronze Medal</strong>
+</p>
+<p>FIONA YAP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Concert Band</strong>
 </p>
 </td>
