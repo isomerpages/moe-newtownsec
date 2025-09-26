@@ -44,7 +44,7 @@ variant: tiptap
 <p><strong>Distinction Award</strong>
 </p>
 <p></p>
-<p>Chen Youting</p>
+<p>Chen Youting (3-IT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
