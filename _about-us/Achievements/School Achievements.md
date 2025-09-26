@@ -33,6 +33,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Mother Tongue Language</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>National Sec Sch Chinese Essay Writing Competition 2025 (新蕾奖)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Distinction Award</strong>
+</p>
+<p></p>
+<p>Chen Youting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Concert Band</strong>
 </p>
 </td>
