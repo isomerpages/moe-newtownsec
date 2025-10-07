@@ -3,7 +3,7 @@ title: School Achievements
 permalink: /permalink/
 description: School Achievements
 third_nav_title: Achievements
-variant: tiptap
+variant: markdown
 ---
 <table style="minWidth: 100px">
 <colgroup>
@@ -29,6 +29,50 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>PHOTO</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mother Tongue Language</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>National Sec Sch Chinese Essay Writing Competition 2025 (新蕾奖)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Distinction Award</strong>
+</p>
+<p></p>
+<p>Chen Youting (3-IT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mother Tongue Language</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>8th National Text Recital Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Gold Medal</strong>
+<br>Chen Fang Yee (3-CF)
+</p>
+<p><strong>Silver Medal</strong>
+<br>Yu Ka Ki Gigi (1-CF)
+<br>Chloe Or Yi Ting (1-CF)
+<br>Qian Jiaxin (1-SU)
+</p>
+<p><strong>Bronze Medal</strong>
+<br>Fiona Yap (4-IT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
