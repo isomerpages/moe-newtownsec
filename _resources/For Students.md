@@ -27,7 +27,8 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>Sec 1 to 3 Post-Exam Schedule (access from 8 Oct onwards)</p>
+<p><a href="/files/Sec_1_to_3_2025_Post_Exam_Schedule_final_08102025.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 to 3 Post-Exam Schedule (access from 8 Oct onwards)</a>
+</p>
 </li>
 </ul>
 <h3><strong>ICT Links</strong></h3>
