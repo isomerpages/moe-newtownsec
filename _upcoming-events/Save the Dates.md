@@ -293,17 +293,6 @@ description: ""
 <p>8:00am to 11:00am</p>
 </td>
 </tr>
-	<tr>
-<td rowspan="1" colspan="1">
-<p>24 October 2025, Friday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Open House 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8:00am to 3:00pm</p>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>15 November 2025, Saturday</p>
