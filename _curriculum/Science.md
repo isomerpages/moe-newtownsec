@@ -57,7 +57,7 @@ a.&nbsp;&nbsp;&nbsp;&nbsp;Inquiry-based lessons to promote questioning in studen
 
 b.&nbsp;&nbsp;&nbsp;&nbsp;Practical lessons to acquire science process skills
 
-c.&nbsp;&nbsp;&nbsp;&nbsp;Use of ICT tools (PDLP) and SLS to develop communication and information skills
+c.&nbsp;&nbsp;&nbsp;&nbsp;Use of ICT tools (PDLP) and SLS to develop self-directed learning and assessment, communication and information skills
 
 d.&nbsp;&nbsp;&nbsp;&nbsp;Blended Learning packages to promote civic literacy and real-life problem solving
 
@@ -69,21 +69,21 @@ e.&nbsp;&nbsp;&nbsp;&nbsp;Differentiated programmes to cater to varied interests
 
 * Secondary 2 Integrative Activity for solar oven
 
-* Secondary 3 Student Initiated Learning Activity on home-made indicators
+* Secondary 3 Forensic Science Programme
 
 * Secondary 4/5 NUS Demonstration Lab
 
 **Stretch Programmes**
 
-* Science Innovation Challenge
+* Singapore Junior Biology/Chemistry/Physics Olympiad
 
-* Singapore Science Olympiad
+* ALP programmes @ Polytechnic
 
 * Ignite Skills Challenge
 
 **Support Programme**
 
-* Afternoon Sign-up Learning to close learning gaps and clarify doubts
+* After-school Academic Coaching (AAC) to close learning gaps and clarify doubts
 
 ### Snapshots of Curriculum
 
