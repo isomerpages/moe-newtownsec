@@ -31,6 +31,62 @@ variant: markdown
 </p>
 </td>
 </tr>
+		<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Science</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2025 Singapore Junior Chemistry Olympiad</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Certificate of Merit</strong>
+<br>Hii Neng Hao (4-CA)
+<br>Kimi Nurizam (4-CA)
+<br>Pandirajan Parvathi (4-CA)
+	</p>
+</td><td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+	<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Science</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2025 Singapore Junior Physics Olympiad</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Bronze</strong>
+<br>Liu YiNuo Enoch (4-CA)</p>
+<p><strong>Honourable Mention</strong>
+<br>Hii Neng Hao (4-CA)
+<br>Wang Zihao (4-CA)
+<br>Xing Ende (4-CA)
+	</p>
+</td><td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+	<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Humanities</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>US Geography Challenge</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Bronze Award</strong>
+<br>Lim Jia Xuan, Amabel (4-IT)</p>
+</td><td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mother Tongue Language</strong>
@@ -42,9 +98,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Distinction Award</strong>
-</p>
-<p></p>
-<p>Chen Youting (3-IT)</p>
+<br>Chen Youting (3-IT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
