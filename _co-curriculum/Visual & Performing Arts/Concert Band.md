@@ -136,6 +136,9 @@ S1-Respect &amp; S1-Resilience)</p>
 <h3>ACHIEVEMENTS</h3>
 <ul data-tight="true" class="tight">
 <li>
+<p>Asia Pacific Band Festival 2024 – Gold Award</p>
+</li>
+<li>
 <p>Singapore Youth Festival (SYF) Arts Presentation (2025) – Certificate
 of Distinction</p>
 </li>
