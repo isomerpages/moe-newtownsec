@@ -2,6 +2,7 @@
 title: English & Literature
 permalink: /department/english-n-literature-2023/
 description: ""
+variant: markdown
 ---
 ### Key Focus
 
@@ -21,28 +22,20 @@ The English Language and Literature curriculum focuses on building language skil
 
 ***Secondary One***
 
-* Writing and Reciting Poems
-
-* Bringing Texts Alive through Reader’s Theatre
-
-* Blackout Poetry and Flash Fiction
+* Drama Appreciation
+* Speaking Skills
 
 ***Secondary Two***
 
-* Drama Appreciation
-
-* Poetry Writing Workshop
-
-* Film Immersion Workshop
+* Poetry Writing
+* Speaking Skills
 
 ***Secondary Three***
 
-* NTSS-NUS College Think Writing Mentorship Programme
-
+* NTSS-NUS Think Writing Mentorship Programme
 * Theatrical Production Enrichment
-
-* Debating Workshop
+* Oral Communication / Debating Skills
 
 ***Secondary Four/Five***
 
-* Oral Communication Workshop
+* Oral Communication
