@@ -26,6 +26,15 @@ sections:
       image: /images/Hero Banner/NTSS_Open_House_2025___Banner_Printing__Final_.jpg
       alt: Image alt text
   - infopic:
+      title: "A Final Look: Ghim Moh Secondary Campus"
+      subtitle: 1 Nov, Sat
+      id: infopic
+      description: More information in the link below.
+      button: READ MORE
+      url: /
+      image: /images/GMSS_One_Final_Look___v3.png
+      alt: Image alt text
+  - infopic:
       title: Applied Learning (ALP)
       subtitle: School Distinctive Programmes
       id: infopic
