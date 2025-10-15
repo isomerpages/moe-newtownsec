@@ -31,7 +31,7 @@ sections:
       id: infopic
       description: More information in the link below.
       button: READ MORE
-      url: /
+      url: /a-final-look-ghim-moh-secondary-campus/
       image: /images/GMSS_One_Final_Look___v3.png
       alt: Image alt text
   - infopic:
