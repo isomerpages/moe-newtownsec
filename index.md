@@ -32,7 +32,7 @@ sections:
       description: All former students and staff are invited to take a final walk
         through the school grounds and revisit cherished memories before the
         site is permanently closed.
-      button: READ MORE
+      button: Register here
       url: /a-final-look-ghim-moh-secondary-campus/
       image: /images/GMSS_One_Final_Look___v3.png
       alt: Image alt text
