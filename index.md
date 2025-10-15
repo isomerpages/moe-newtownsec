@@ -29,7 +29,9 @@ sections:
       title: "A Final Look: Ghim Moh Secondary Campus"
       subtitle: 1 Nov, Sat
       id: infopic
-      description: More information in the link below.
+      description: All former students and staff are invited to take a final walk
+        through the school grounds and revisit cherished memories before the
+        site is permanently closed.
       button: READ MORE
       url: /a-final-look-ghim-moh-secondary-campus/
       image: /images/GMSS_One_Final_Look___v3.png
