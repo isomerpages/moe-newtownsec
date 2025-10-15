@@ -42,7 +42,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Certificate of Achievement (Finalist)</strong>
-<br>Rizwana Beevi Binte Mohhamed Rafeeq (2-SDv)
+<br>Rizwana Beevi Binte Mohamed Rafeeq (2-SD)
 	</p>
 </td><td rowspan="1" colspan="1">
 <p></p>
