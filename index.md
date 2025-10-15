@@ -33,7 +33,7 @@ sections:
         through the school grounds and revisit cherished memories before the
         site is permanently closed.
       button: Register here
-      url: /a-final-look-ghim-moh-secondary-campus/
+      url: /
       image: /images/GMSS_One_Final_Look___v3.png
       alt: Image alt text
   - infopic:
