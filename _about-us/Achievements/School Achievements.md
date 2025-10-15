@@ -31,6 +31,23 @@ variant: markdown
 </p>
 </td>
 </tr>
+			<tr>
+<td rowspan="1" colspan="1">
+<p><strong>English</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>38th YMCA Plain English Speaking Awards</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Certificate of Achievement (Finalist)</strong>
+<br>Rizwana Beevi Binte Mohamed Rafeeq (2-SD)
+	</p>
+</td><td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 		<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Science</strong>
