@@ -75,7 +75,7 @@ of ICT.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/1_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Picture1.jpg">
 </div>
 <p><strong>Math Talent Programme</strong>
 </p>
@@ -94,14 +94,14 @@ Mathematics</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:100%;height: 100%" height="auto" width="100%" src="/images/Mathematics/financial%20literacy%20workshop%20photograph%201_the%20beginning%20of%20fun%20and%20learning.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Picture2.jpg">
 </div>
 <p><strong>Sec 2 Financial Literacy Workshop</strong> 
 <br>Learning about financial literacy through games</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/Mathematics/financial%20literacy%20workshop%20photograph%206_making%20a%20choice.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Picture3.jpg">
 </div>
 <p><strong>Sec 2 Financial Literacy Workshop</strong> 
 <br>Discussing and making choices</p>
