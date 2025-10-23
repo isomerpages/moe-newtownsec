@@ -7,6 +7,10 @@ description: ""
 <h4><strong>[PLD Support Guide]</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
+<p><a href="/files/2025/For_Students__Instructions_for_DMA_Uninstallation__iPadOS____2025.pdf" rel="noopener nofollow" target="_blank">For Students Instruction for DMA Uninstallation </a>
+</p>
+</li>
+<li>
 <p><a href="/files/Guide_for_Manage_Apple_ID__MAID__Login_and_Enable_iCloud_Backup.pdf" rel="noopener nofollow" target="_blank">Guide for Manage Apple ID (MAID) Login and Enable iCloud Backup</a>
 </p>
 </li>
