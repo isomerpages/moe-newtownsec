@@ -7,7 +7,7 @@ description: ""
 <h4><strong>[PLD Support Guide]</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/2025/For_Students__Instructions_for_DMA_Uninstallation__iPadOS____2025.pdf" rel="noopener nofollow" target="_blank">For Students Instruction for DMA Uninstallation </a>
+<p><a href="/files/2025/For_Students__Instructions_for_DMA_Uninstallation__iPadOS____2025.pdf" rel="noopener nofollow" target="_blank">For Students Instruction for DMA Uninstallation</a>
 </p>
 </li>
 <li>
