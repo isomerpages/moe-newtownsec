@@ -11,10 +11,10 @@ description: ""
 </p>
 </li>
 <li>
-<p></p>
+<p><a href="/files/2025/For_Graduating_Students_Google_Takeout_Guide_for_Student_iCON__2025_.pdf" rel="noopener nofollow" target="_blank">Google_Takeout_Guide_for_Student_iCON</a>
+</p>
 </li>
 </ol>
-<p></p>
 <p></p>
 <h4><strong>[PLD Support Guide]</strong></h4>
 <ol data-tight="true" class="tight">
