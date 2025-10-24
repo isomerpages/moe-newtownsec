@@ -7,8 +7,7 @@ description: ""
 <h4><strong>[For Graduation Student Guide]</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/2025/For_Students__Instructions_for_DMA_Uninstallation__iPadOS__2025.pdf" rel="noopener nofollow" target="_blank">For Students Instructions for DMA Uninstallation</a>
-</p>
+<p></p>
 </li>
 <li>
 <p><a href="/files/2025/For_Graduating_Students_Google_Takeout_Guide_for_Student_iCON__2025_.pdf" rel="noopener nofollow" target="_blank">Google_Takeout_Guide_for_Student_iCON</a>
