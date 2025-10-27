@@ -32,7 +32,7 @@ variant: tiptap
 <p>Noodle Stall (Non-Halal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;7 March 2025&nbsp;&nbsp;</p>
+<p>&nbsp;31 October 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NIL</p>
