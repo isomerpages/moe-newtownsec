@@ -4,8 +4,8 @@ title: New Town Secondary School
 description: Official Website for New Town Secondary School.
 image: /images/School Crest/ntss crest (transparent bg).png
 permalink: /
-notification: The School will be closed on Tuesday, 11 November 2025 and
-  Wednesday, 26 November 2025 for our Staff Learning Day.
+notification: The School will be closed on Wednesday, 26 November 2025 for our
+  Staff Learning Day.
 sections:
   - hero:
       background: /images/Hero Banner/2024_NTSS_Philosophy_Hero_Banner_1920x720px.png
