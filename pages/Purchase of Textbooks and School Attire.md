@@ -12,7 +12,7 @@ during school term
 <br><strong>Online Shop:</strong>  <a href="https://asencio.com.sg/" rel="noopener nofollow" target="_blank">Shop Here </a>(online ordering is only available
 during year-end sales period)</p>
 <p>
-<br><strong>Booklist 2026: </strong>Sec 1 | <a href="/files/Booklist/2026_NTSS_Booklist_S2.pdf" rel="noopener nofollow" target="_blank">Sec 2</a> | <a href="/files/Booklist/2026_NTSS_Booklist_S3.pdf" rel="noopener nofollow" target="_blank">Sec 3</a> |
+<br><strong>Booklist 2026: </strong>Sec 1 | <a href="/files/Booklist/2026_NTSS_Booklist_S2_R1.pdf" rel="noopener nofollow" target="_blank">Sec 2</a> | <a href="/files/Booklist/2026_NTSS_Booklist_S3_R1.pdf" rel="noopener nofollow" target="_blank">Sec 3</a> |
 <a href="/files/Booklist/2026_NTSS_Booklist_S4.pdf" rel="noopener nofollow" target="_blank">Sec 4</a>| <a href="/files/Booklist/2026_NTSS_Booklist_S5.pdf" rel="noopener nofollow" target="_blank">Sec 5</a>
 </p>
 <h2>School Uniform &amp; PE Attire</h2>
