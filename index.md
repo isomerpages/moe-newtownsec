@@ -4,8 +4,8 @@ title: New Town Secondary School
 description: Official Website for New Town Secondary School.
 image: /images/School Crest/ntss crest (transparent bg).png
 permalink: /
-notification: The School will be closed on Tuesday, 11 November 2025 and
-  Wednesday, 26 November 2025 for our Staff Learning Day.
+notification: The School will be closed on Wednesday, 26 November 2025 for our
+  Staff Learning Day.
 sections:
   - hero:
       background: /images/Hero Banner/2024_NTSS_Philosophy_Hero_Banner_1920x720px.png
@@ -25,17 +25,6 @@ sections:
       id: infopic
       description: 15 Nov 2025, 8.30am - 12.30pm.
       image: /images/Hero Banner/NTSS_Open_House_2025___Banner_Printing__Final_.jpg
-      alt: Image alt text
-  - infopic:
-      title: "A Final Look: Ghim Moh Secondary Campus"
-      subtitle: 1 Nov, Sat
-      id: infopic
-      description: All former students and staff are invited to take a final walk
-        through the school grounds and revisit cherished memories before the
-        site is permanently closed.
-      button: Register here
-      url: /a-final-look-ghim-moh-secondary-campus/
-      image: /images/GMSS_One_Final_Look___v3.png
       alt: Image alt text
   - infopic:
       title: Applied Learning (ALP)
