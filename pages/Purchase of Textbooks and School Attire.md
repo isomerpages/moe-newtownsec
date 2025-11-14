@@ -11,7 +11,7 @@ variant: tiptap
 during school term
 <br><strong>Online Shop:</strong>  <a href="https://asenciobookshop.sg/" rel="noopener nofollow" target="_blank">Shop Here</a> (online ordering is only
 available during year-end sales period)
-<br><strong>Email: </strong>ntssbookshop@ascencio.com.sg
+<br><strong>Email: </strong>ntssbookshop@asencio.com.sg
 <br><strong>Booklist 2026: </strong>Sec 1 | <a href="/files/Booklist/2026_NTSS_Booklist_S2_R1.pdf" rel="noopener nofollow" target="_blank">Sec 2</a> | <a href="/files/Booklist/2026_NTSS_Booklist_S3_R1.pdf" rel="noopener nofollow" target="_blank">Sec 3</a> |
 <a href="/files/Booklist/2026_NTSS_Booklist_S4_R1.pdf" rel="noopener nofollow" target="_blank">Sec 4</a>| <a href="/files/Booklist/2026_NTSS_Booklist_S5_R1.pdf" rel="noopener nofollow" target="_blank">Sec 5</a>
 </p>
