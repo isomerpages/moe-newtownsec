@@ -73,9 +73,8 @@ via email OR to the School's General Office.</p>
 <p>Address: <strong>New Town Sec School, 1020 Dover Road, Singapore 139657</strong>
 </p>
 <p>Contact No: <strong>67754140</strong> 
-<br>Email: <strong>ntss@moe.edu.sg</strong>
-</p>
-<p>Contact Person: <strong>Mdm Rohaidah (CSO) / Mr Sam Meng Chong (Operations Mgr) / Ms Fauziah Zainal (Administration Mgr)</strong>
+<br>Email: <strong><a href="mailto:ntss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ntss@moe.edu.sg</a></strong>
+<br>Contact Person: <strong>Mdm Rohaidah (CSO)</strong>
 </p>
 <p><strong>How to get there?</strong>
 </p>
