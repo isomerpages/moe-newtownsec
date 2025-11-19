@@ -2,15 +2,11 @@
 title: Applied Learning Programme (ALP)
 permalink: /holistic-education/school-distinctive-programmes/applied-learning-alp-from-2023/
 description: ""
+variant: markdown
 ---
 New Town Secondary School’s ALP titled&nbsp;**‘Digital Communicators, Change Makers’**&nbsp;seeks to develop in every New Towner the interest, knowledge and skills in digital literacy to enable students to think critically and respond creatively to authentic situations. Students will be given opportunities to apply their learning in digital literacies through Art and Humanities subjects. This will enable students to&nbsp;appreciate the relevance and value of what they have learned, and allow them to contribute&nbsp;actively to an increasingly interconnected future workforce and society.
 
 **_Through the ALP, students will be supported to develop digital communications literacies to understand and contribute actively to society._**
-
-<figure>
-<img style="width:75%" src="/images/stop%20motion.png">
-<figcaption>Students working on their stop-motion animation</figcaption>
-</figure>
 
 The programme takes key reference from UNICEF’s (2019) definition of digital literacy and the National Digital Literacy Programme.&nbsp;In particular, the ALP considers students’ development of digital communications in relation to the key aspects of digital literacy:
 
