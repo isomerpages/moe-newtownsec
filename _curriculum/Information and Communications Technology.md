@@ -19,4 +19,12 @@ and productively for learning.</p>
 <p><strong>Sec 2: Introduction to coding with Minecraft for Education</strong>
 <br>Blending gaming fun with coding skills to spark creativity and build computational
 thinking.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/WhatsApp_Image_2025_11_07_at_2_23_09_PM__1_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/WhatsApp_Image_2025_03_28_at_11_30_15_AM.jpg">
+</div>
+<p>
+<br>
+</p>
