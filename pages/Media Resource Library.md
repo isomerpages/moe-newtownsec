@@ -2,8 +2,8 @@
 title: Media Resource Library
 permalink: /cca/clubs-n-societies/media-resource-library/
 description: ""
+variant: markdown
 ---
-![](/images/profile%20picture%201.jpg)
 # INTRODUCTION
 
 At Media Resource Library Club, we organize activities to promote a reading culture within the Club and the student population. There are also various platforms for members to share their favourite book with the school on social media. Members also have the opportunities to participate in the National Stamp Collecting Competition organized by the Singapore Philatelic Museum.
