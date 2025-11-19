@@ -10,5 +10,13 @@ variant: tiptap
 <br>Sec 2 and 3 ICT Ambassadors led a hands-on training workshop to guide
 their juniors on using their Personal Learning Device (iPad) effectively
 and productively for learning.</p>
-<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/240409_PLD_Skills_with_ICT_Ambassadors_4828.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/ipad_Productivity_skills_workshop_conducted_by_ICT_Ambassadors.jpg">
+</div>
+<p><strong>Sec 2: Introduction to coding with Minecraft for Education</strong>
+<br>Blending gaming fun with coding skills to spark creativity and build computational
+thinking.</p>
 <p></p>
