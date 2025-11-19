@@ -35,6 +35,21 @@ using Teachable Machine to design their own image-recognition bots.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Using_generative_AI_to_solve_community_problems.jpg">
 </div>
-<p>
-<br>
+<h4>Tier 2 Programmes: Competitions and training sessions to nurture and strengthen students’ digital literacies.</h4>
+<p><strong>National Digital Explorer</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/WhatsApp_Image_2025_11_07_at_2_30_55_PM.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/WhatsApp_Image_2025_11_07_at_2_31_11_PM__1_.jpg">
+</div>
+<p><strong>National Youth Tech Championship - AI Drone Competition</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/National_Youth_Tech_Championships.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Screenshot_2025_11_07_142727.png">
+</div>
+<p></p>
