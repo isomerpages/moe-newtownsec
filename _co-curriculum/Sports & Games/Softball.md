@@ -130,72 +130,19 @@ Teamwork, Skills and Fitness</p>
 </li>
 </ul>
 <h3>PHOTO GALLERY</h3>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Softball/2024May_01.jpg">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="232" width="412" alt="A group of people posing for a photo
-
-AI-generated content may be incorrect." src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfT_QAfA2i4Z4G2K5DqElG6_2YnSDhsP0XwrzlzNwyiHWtUcf9xaHQjaPG4hMr2tOJUYI030KCb_3aTjX4l5FCSbc1AYpdTp1Tf0MD-BDpBh3ZjMCPqxEHrfJsdDf6AEBYfuvGIgxKu9DVQk-T8yxg?key=ejZiXH22UYokXILU90X5lw">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Softball/2024May_02.jpg">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Softball/2024May_03.jpg">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="268" width="424" alt="A group of girls posing for a photo
-
-AI-generated content may be incorrect." src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc_FmfoCgmxievcgLlWtzlSZfcpwO_FdsyBe4RvSLCxfIKYcrPR3BPVi53M_Tr3qXgnJ9xpo1u-Q7zvZWQh4zGF9egrg95G41UY2bvOqyFEkR6v_gyibvnLWwuk6k8FTRXwz9JbUo6D2T7r3KWp1K8?key=ejZiXH22UYokXILU90X5lw">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Softball/2024May_04.jpg">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="264" width="393" alt="A group of people posing for a photo
-
-AI-generated content may be incorrect." src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXexO9JMf3KJW3bLB-V1Tgvpv9YPH3dkb-qd2RR2a0QnBPU0iEN1zcboLXyHaj4tdWQmdzVH6c3ZetX_vWjHjkTKNvXS0OXJBu0zsslB9CB-3QRK7F1onJxYlTu7Mc99ukQxBJ5TvydMJ9eAuLyNaUo?key=ejZiXH22UYokXILU90X5lw">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Softball/2024May_05.jpg">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="393" width="295" alt="A person taking a selfie with a group of people
-
-AI-generated content may be incorrect." src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdygC6FaSbnbgLU9_whR_rTzQ8WboOTketgQcft920b3Ya0DotAVaPcGt_rkz_wxeXv9xIlgIphpDEoIXbtF5e5U-babS17UUuTLimQPdSmOEthE6DQSSx-w1g5ZM6qzDSfBIQHgbpMnSvRajRqFgU?key=ejZiXH22UYokXILU90X5lw">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="207" width="368" alt="A group of people posing for a photo
-
-AI-generated content may be incorrect." src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd4_Z1c_G4f-a48JOkiri8YuFKHxOd7HuwgUqbbv23PmBI7ze7HC2LfjIuJYMY70s7CnavonK6xXauhvfr6GPve_qsP7p2Uj9wPks3PCnvO30OrBiyQD2xkP8ILGT-8fALyR5rnoC7MpIMJjljVj4s?key=ejZiXH22UYokXILU90X5lw">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<p></p>
 <p></p>
