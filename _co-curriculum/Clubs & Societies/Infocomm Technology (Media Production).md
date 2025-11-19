@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Clubs & Societies
 variant: markdown
 ---
-![](/images/infocomm%20tech.jpg)
 # INTRODUCTION
 
 Infocomm Technology (Media Production) was established in 2018, tapping on the strengths of the previous Infocomm Club and AVA and Photography Club.Infocomm Technology aims to provide members with opportunities to develop their media skills and build their portfolio in two inter-related areas – namely, photography (handling DSLR cameras, design elements) and audio-visual support. Students deepen their competencies in these areas through in-house training sessions, photography outings, participation in national competitions and providing audio-visual support to school events.
