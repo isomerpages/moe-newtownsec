@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Uniformed Group
 variant: markdown
 ---
-![](/images/IMG_9844.jpg)
-
 # INTRODUCTION
 National Cadet Corps (NCC) is a youth organisation supported by Ministry of Defence and Ministry of Education. Its mission is to nurture inspiring leaders and committed citizens through fun, adventurous and military-related activities..
 
