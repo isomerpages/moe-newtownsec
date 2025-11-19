@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Visual & Performing Arts
 variant: markdown
 ---
-![](/images/Header.jpg)
 # INTRODUCTION
 
 To nurture artistic talent and develop leaders who are confident ambassadors of Art.
