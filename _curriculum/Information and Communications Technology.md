@@ -25,6 +25,16 @@ thinking.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/WhatsApp_Image_2025_03_28_at_11_30_15_AM.jpg">
 </div>
+<p><strong>Sec 3: Introduction to Artificial Intelligence (AI) and AI literacy.</strong>
+<br>Students explored the world of AI and prompt engineering, discovering
+how to use these tools effectively. They then applied their learning by
+using Teachable Machine to design their own image-recognition bots.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Creating_gen_AI_bots.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Using_generative_AI_to_solve_community_problems.jpg">
+</div>
 <p>
 <br>
 </p>
