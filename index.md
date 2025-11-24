@@ -17,13 +17,6 @@ sections:
           description: ""
           url: https://www.newtownsec.moe.edu.sg/upcoming-events/savethedates/
   - infopic:
-      title: New Town Sec Open House 2025
-      subtitle: COME JOIN US!
-      id: infopic
-      description: 15 Nov 2025, 8.30am - 12.30pm.
-      image: /images/Hero Banner/NTSS_Open_House_2025___Banner_Printing__Final_.jpg
-      alt: Image alt text
-  - infopic:
       title: Applied Learning (ALP)
       subtitle: School Distinctive Programmes
       id: infopic
