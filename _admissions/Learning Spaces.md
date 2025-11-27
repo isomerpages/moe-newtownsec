@@ -1,6 +1,6 @@
 ---
 title: Learning Spaces
-permalink: /admissions/permalink/
+permalink: /admissions/learning-spaces/
 description: ""
 variant: tiptap
 ---

@@ -4,8 +4,7 @@ title: New Town Secondary School
 description: Official Website for New Town Secondary School.
 image: /images/School Crest/ntss crest (transparent bg).png
 permalink: /
-notification: The School will be closed on Wednesday, 26 November 2025 for our
-  Staff Learning Day.
+notification: ""
 sections:
   - hero:
       background: /images/Hero Banner/2024_NTSS_Philosophy_Hero_Banner_1920x720px.png
@@ -13,6 +12,9 @@ sections:
         - title: Direct School Admissions (DSA)
           description: ""
           url: /direct-school-admission-secondary-dsa-sec-exercise/
+        - title: Learning Spaces
+          description: ""
+          url: /admissions/learning-spaces/
         - title: Upcoming Events
           description: ""
           url: https://www.newtownsec.moe.edu.sg/upcoming-events/savethedates/
