@@ -13,6 +13,9 @@ sections:
         - title: Direct School Admissions (DSA)
           description: ""
           url: /direct-school-admission-secondary-dsa-sec-exercise/
+        - title: Learning Spaces
+          description: ""
+          url: /admissions/learning-spaces/
         - title: Upcoming Events
           description: ""
           url: https://www.newtownsec.moe.edu.sg/upcoming-events/savethedates/
