@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/Hero Banner/2024_NTSS_Philosophy_Hero_Banner_1920x720px.png
       key_highlights:
-        - title: Direct School Admissions (DSA)
+        - title: admission info
           description: ""
-          url: /direct-school-admission-secondary-dsa-sec-exercise/
+          url: /sec-1-2025-cca-open-house-cca-selections/
         - title: Learning Spaces
           description: ""
           url: /admissions/learning-spaces/
