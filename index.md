@@ -12,6 +12,9 @@ sections:
         - title: Direct School Admissions (DSA)
           description: ""
           url: /direct-school-admission-secondary-dsa-sec-exercise/
+        - title: admission info
+          description: ""
+          url: /sec-1-2025-cca-open-house-cca-selections/
         - title: Learning Spaces
           description: ""
           url: /admissions/learning-spaces/
