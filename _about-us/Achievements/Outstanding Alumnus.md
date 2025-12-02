@@ -105,6 +105,19 @@ the ITE College West Graduation Ceremony earlier this year.
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Outstanding Alumnus/Certs_Page_2.jpg">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>An alumnus of <strong>New Town Secondary School</strong>, attained a <strong>Diploma in Financial Technology with Merit </strong>and<strong> </strong>was
+awarded the <strong>Tan Sri (Dr) Tan Chin Tuan Scholarship </strong>at the
+Republic Polytechnic Graduation Ceremony 2025.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Outstanding Alumnus/Certs_Page_3.jpg">
 </div>
 <p></p>
