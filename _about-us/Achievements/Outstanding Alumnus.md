@@ -107,7 +107,8 @@ the ITE College West Graduation Ceremony earlier this year.
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>An alumnus of <strong>New Town Secondary School</strong>, attained a <strong>Diploma in Financial Technology with Merit</strong> at
+the Republic Polytechnic Graduation Ceremony 2025.</p>
 </td>
 </tr>
 <tr>
