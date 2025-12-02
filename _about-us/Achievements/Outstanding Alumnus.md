@@ -104,9 +104,26 @@ the ITE College West Graduation Ceremony earlier this year.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Outstanding Alumnus/Certs_Page_3.jpg">
+</div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>An alumnus of <strong>New Town Secondary School</strong>, attained a <strong>Diploma in Financial Technology with Merit </strong>and<strong> </strong>was
+awarded the <strong>Lee Foundation Scholarship</strong> at the Republic Polytechnic
+Graduation Ceremony 2025.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Outstanding Alumnus/Certs_Page_4.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Tan Qi Xuan Javier</strong>
+</p>
 <p>An alumnus of <strong>New Town Secondary School</strong>, attained a <strong>Diploma in Financial Technology with Merit</strong> at
 the Republic Polytechnic Graduation Ceremony 2025.</p>
 </td>
@@ -119,6 +136,8 @@ the Republic Polytechnic Graduation Ceremony 2025.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Mohamad Raes Bin Mohamad Kefli</strong>
+</p>
 <p>An alumnus of <strong>New Town Secondary School</strong>, attained a <strong>Diploma in health Services Management with Merit</strong> at
 the Republic Polytechnic Graduation Ceremony 2025.</p>
 </td>
