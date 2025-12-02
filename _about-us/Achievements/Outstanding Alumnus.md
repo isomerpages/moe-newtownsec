@@ -110,6 +110,8 @@ the ITE College West Graduation Ceremony earlier this year.
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Sim Sheng Hao</strong>
+</p>
 <p>An alumnus of <strong>New Town Secondary School</strong>, attained a <strong>Diploma in Financial Technology with Merit </strong>and<strong> </strong>was
 awarded the <strong>Lee Foundation Scholarship </strong>at the Republic
 Polytechnic Graduation Ceremony 2025.</p>
