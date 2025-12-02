@@ -111,8 +111,8 @@ the ITE College West Graduation Ceremony earlier this year.
 </td>
 <td rowspan="1" colspan="1">
 <p>An alumnus of <strong>New Town Secondary School</strong>, attained a <strong>Diploma in Financial Technology with Merit </strong>and<strong> </strong>was
-awarded the <strong>Lee Foundation Scholarship</strong> at the Republic Polytechnic
-Graduation Ceremony 2025.</p>
+awarded the <strong>Lee Foundation Scholarship </strong>at the Republic
+Polytechnic Graduation Ceremony 2025.</p>
 </td>
 </tr>
 <tr>
