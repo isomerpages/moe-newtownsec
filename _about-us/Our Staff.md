@@ -22,7 +22,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal</p>
+<p>Vice-Principal (EO)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Leonard Tan</p>
@@ -30,7 +30,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal</p>
+<p>Vice-Principal (EO)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Elissa Goh</p>
