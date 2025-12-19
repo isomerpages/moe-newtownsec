@@ -41,7 +41,7 @@ below.</p>
 <ol>
 <li>
 <p>For the online purchase of uniform, please click on the following link
-<a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank"><u>https://finestuniform.com/collections/new-town-secondary-school</u>
+<a href="https://finestuniform.com/collections/new-town-secondary-school" rel="noopener noreferrer nofollow" target="_blank"><u>https://finestuniform.com/collections/new-town-secondary-school</u>
 </a>. If prompted for a password, please enter <strong>Newtown22</strong>.&nbsp;</p>
 </li>
 <li>
@@ -61,7 +61,7 @@ from 9.00 am to 3.00 pm on 22, 23, 26 and 29 December 2025, and 2 January
 </p>
 <ol>
 <li>
-<p>The booklist for Secondary One students can be accessed via <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.newtownsec.moe.edu.sg/about-us/links/parents/purchase-of-textbooks-and-school-attire/</u></a>.&nbsp;</p>
+<p>The booklist for Secondary One students can be accessed via <a href="https://www.newtownsec.moe.edu.sg/about-us/links/parents/purchase-of-textbooks-and-school-attire/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.newtownsec.moe.edu.sg/about-us/links/parents/purchase-of-textbooks-and-school-attire/</u></a>.&nbsp;</p>
 </li>
 <li>
 <p>For students who are eligible to offer one or more subjects at a more
