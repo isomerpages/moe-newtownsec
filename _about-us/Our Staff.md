@@ -474,10 +474,10 @@ variant: tiptap
 <p>S1-Self-Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Amy Leong</p>
+<p>Ms Amy Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ng_chin_shan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -812,7 +812,7 @@ variant: tiptap
 <p>Ms Syahirah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>nur_syahirah_nahadi@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
