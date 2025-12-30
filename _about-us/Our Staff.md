@@ -1231,10 +1231,10 @@ variant: tiptap
 <p>ECG Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Surinder Kaur</p>
+<p>Mdm Phua Ngee Lian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>surinder_kaur@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 </tbody>
