@@ -237,7 +237,7 @@ variant: tiptap
 <p>Level Head/Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jocelyn Teo Ching Fang</p>
+<p>Ms Tan Mei Ying</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>teo_ching_fang_jocelyn@moe.edu.sg</p>
@@ -266,7 +266,9 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
+<p></p>
+<p></p>
 <p>Subject Head/Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -274,6 +276,22 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>ng_siew_siew_tracy@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ang Xiang Rui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ang_xiang_rui@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Nur Azman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>muhammad_nur_azman_shah@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
