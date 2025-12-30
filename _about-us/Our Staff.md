@@ -245,6 +245,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Subject Head/English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Basu Roy Priyanka</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Subject Head/Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -266,7 +277,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Subject Head/Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -278,6 +289,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Subject Head/Student Leadership Development</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mr Ang Xiang Rui</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -285,6 +299,9 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head/CCA</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Mr Nur Azman</p>
 </td>
