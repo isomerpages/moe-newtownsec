@@ -304,17 +304,6 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher/Malay Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Irmawati</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>irmawati_mascom@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Lead Teacher/English Language</p>
 </td>
 <td rowspan="1" colspan="1">
