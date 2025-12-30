@@ -18,18 +18,6 @@ variant: tiptap
 <p><a href="https://newtownsec.moe.edu.sg/others/announcements/class-timetable" rel="noopener noreferrer nofollow" target="_blank">Class Timetable</a>
 </p>
 </li>
-<li>
-<p><a href="https://www.newtownsec.moe.edu.sg/s1to3-end-of-year-examinations/" rel="noopener nofollow" target="_blank">Sec 1 - 3 EOY Exam Timetable</a>
-</p>
-</li>
-<li>
-<p><a href="https://newtownsec.moe.edu.sg/exam-timetable/" rel="noopener nofollow" target="_blank">Sec 4&amp;5 Exam Timetable</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Sec_1_to_3_2025_Post_Exam_Schedule_final_08102025.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 to 3 Post-Exam Schedule (access from 8 Oct onwards)</a>
-</p>
-</li>
 </ul>
 <h3><strong>ICT Links</strong></h3>
 <ul>
