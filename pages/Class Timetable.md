@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Class%20Timetable/2026_S1_Sem_1_Class_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Sem 1 Timetable</a>
+<p><a href="/files/Class Timetable/2026_NTSS_Sem_1_TT_Sec_1_updated.pdf" rel="noopener nofollow" target="_blank">Sec 1 Sem 1 Timetable</a>
 </p>
 </li>
 <li>
@@ -14,7 +14,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Class%20Timetable/2026_S3_Sem_1_Class_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Sem 1 Timetable</a>
+<p><a href="/files/Class Timetable/2026_NTSS_Sem_1_TT_Sec_3_updated.pdf" rel="noopener nofollow" target="_blank">Sec 3 Sem 1 Timetable</a>
 </p>
 </li>
 <li>
@@ -22,4 +22,5 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p></p>
+<p><em>(Updated on 31 Dec 2025)</em>
+</p>
