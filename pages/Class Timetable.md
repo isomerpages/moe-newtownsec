@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Class Timetable/2026_NTSS_Sem_1_TT_Sec_1_updated.pdf" rel="noopener nofollow" target="_blank">Sec 1 Sem 1 Timetable</a>
+<p><a href="/files/Class Timetable/2026_NTSS_Sem_1_TT_Sec_1_updated_V2.pdf" rel="noopener nofollow" target="_blank">Sec 1 Sem 1 Timetable</a>
 </p>
 </li>
 <li>
