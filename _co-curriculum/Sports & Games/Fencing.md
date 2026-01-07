@@ -44,10 +44,10 @@ to succeed in the 21st Century.</p>
 <p>Mdm Tan Soon May (1st i/c)</p>
 </li>
 <li>
-<p>Ms Wahidah Binte Salamon (2nd i/c)</p>
+<p>Ms Kok Han Ni (2nd i/c)</p>
 </li>
 <li>
-<p>Ms Kok Han Ni</p>
+<p>Mdm Song Ziyan</p>
 </li>
 </ul>
 <h3>COACHES</h3>
