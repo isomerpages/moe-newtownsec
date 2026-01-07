@@ -3,7 +3,7 @@ title: Fencing
 permalink: /cca/sports-n-games/fencing/
 description: ""
 third_nav_title: Sports & Games
-variant: markdown
+variant: tiptap
 ---
 <h1>INTRODUCTION</h1>
 <p>Fencing is one of the main sports Co-Curricular Activities (CCAs) offered
@@ -64,11 +64,10 @@ to succeed in the 21st Century.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Captain: Nichole Ho Ai En</p>
+<p>Captain: Shermaine Loh Zhi You</p>
 </li>
 <li>
-<p>Vice Captains: Shermaine Loh Zhi You &amp; Muhammad Zade Zaeyaen Bin Mohammad
-Nazri</p>
+<p>Vice Captains: Teo Jia Xuan and Mohd Ryan Sallehuddin Bin Zulkifli</p>
 </li>
 <li>
 <p>Head of Logistics: Tan Jin Kai, Jayden</p>
@@ -143,7 +142,7 @@ Association (SIMPA), SportSG &amp; &nbsp;Active SG</p>
 <br>Colours Award for sporting excellence in Fencing (2022)
 <br>Colours Award for sporting excellence in Fencing (2023)
 <br>Colours Award for sporting excellence in Fencing (2024)
-	<br>Colours Award for sporting excellence in Fencing (2025)</p>
+<br>Colours Award for sporting excellence in Fencing (2025)</p>
 </td>
 </tr>
 <tr>
@@ -155,49 +154,55 @@ Association (SIMPA), SportSG &amp; &nbsp;Active SG</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2025 Overall School Championship B Division Girls ranked 3rd<br>
-	2024 Overall School Championship B Division Girls ranked 3rd<br>
-2024 Overall School Championship C Division Girls ranked 2nd<br>
-2023 Overall School Championship B Division Girls ranked 3rd<br>
-2022 Overall School Championship C Division Girls Ranked 3rd</p>
-<p>2024 Sportsmanship Award for demonstrating outstanding sportsmanship in
-Fencing Championships<br>
-2023 Sportsmanship Award for demonstrating outstanding sportsmanship in
+<p>2025 Overall School Championship B Division Girls ranked 3rd
+<br>2024 Overall School Championship B Division Girls ranked 3rd
+<br>2024 Overall School Championship C Division Girls ranked 2nd
+<br>2023 Overall School Championship B Division Girls ranked 3rd
+<br>2022 Overall School Championship C Division Girls Ranked 3rd</p>
+<p></p>
+<p>2025 Sportsmanship Award for demonstrating outstanding sportsmanship in
+Fencing Championships
+<br>2024 Sportsmanship Award for demonstrating outstanding sportsmanship in
+Fencing Championships
+<br>2023 Sportsmanship Award for demonstrating outstanding sportsmanship in
 Fencing Championships
 <br>2022 Sportsmanship Award for demonstrating outstanding sportsmanship in
 Fencing Championships
 <br>2019 Sportsmanship Award for demonstrating outstanding sportsmanship in
 Fencing Championships</p>
+<p></p>
+<p>2025 B Division Girls’ Foil Individual Ranked 7 th</p>
+<p>2025 B Division Girls’ Sabre Individual Top 10
+<br>2025 B Division Girls’ Epee Individual Top 15
+<br>2025 C Division Girls’ Foil Individual Top 15
+<br>2025 C Division Girls’ Epee, Foil Sabre Individual Top 20
+<br>2025 C Division Boys’ Sabre Individual Top 20</p>
 <p>2024 B Division&nbsp; Boys’ Sabre Individual Ranked 2nd
 <br>2024 B Division&nbsp; Girls’ Sabre Individual Ranked 5<sup>th</sup> &amp;
 10th
 <br>2024 B Division&nbsp; Girls’ Epee Individual Top 20
 <br>2024 B Division&nbsp; Girls’ Foil Individual Top 15</p>
-
 <p>2024 C Division Girls’ Sabre Individual Ranked 3<sup>rd</sup>&nbsp;
 <br>2024 C Division Girls’ Foil Individual Ranked 9th
 <br>2024 C Division Girls’ Epee, Foil &amp; Sabre Individual Top 15</p>
-	
 <p>2023 B Division&nbsp; Boys’ Epee &amp; Foil Individual Top 20
 <br>2023 B Division&nbsp; Boy’s Sabre Individual Top 15
-	<br>2023 B Division 2023 Girls’ Epee, Foil &amp; Sabre Individual Top 20</p>
-	<p>2023 C Division 2023&nbsp; Girl’s Sabre Individual Top 15</p>
-<p>
-2022 B Division Boys’ Epee &amp; Foil Individual Top 20
-	<br>2022 B Division Girls’ Foil Individual Ranked 10</p>
-<p>
-2022 C Division Girls’ Epee Individual Top 15
-	<br>2022 C Division Girls’ Sabre Individual Top 15&nbsp;&nbsp;&nbsp;</p>
+<br>2023 B Division 2023 Girls’ Epee, Foil &amp; Sabre Individual Top 20</p>
+<p>2023 C Division 2023&nbsp; Girl’s Sabre Individual Top 15</p>
+<p>2022 B Division Boys’ Epee &amp; Foil Individual Top 20
+<br>2022 B Division Girls’ Foil Individual Ranked 10</p>
+<p>2022 C Division Girls’ Epee Individual Top 15
+<br>2022 C Division Girls’ Sabre Individual Top 15&nbsp;&nbsp;&nbsp;</p>
 <p>2019 B Division Boys’ Epee Individual Top 20
 <br>2019 B Division Boys’ Sabre Individual Ranked 9th and 10th
-	<br>2019 B Division Girls’ Epee &amp; Sabre Individual Top 20</p>
+<br>2019 B Division Girls’ Epee &amp; Sabre Individual Top 20</p>
 <p>2019 C Division Boys’ Epee Individual Ranked 3rd
 <br>2019 C Division Boys’ Foil Individual Ranked Top 20
 <br>2019 C Division Girls’ Epee Individual Top 20
-	<br>2019 C Division Girls’ Sabre Individual Ranked 8th</p>
-	<p>2018 B Division Boys’ Epee &amp; Sabre Individual Top 20</p>
-	<p>2018 C Division Girls’ Epee &amp; Sabre Individual Top 20</p>
-	<p>2017 C Division Boys’ Sabre Individual Top 20</p>
+<br>2019 C Division Girls’ Sabre Individual Ranked 8th</p>
+<p>2018 B Division Boys’ Epee &amp; Sabre Individual Top 20</p>
+<p>2018 C Division Girls’ Epee &amp; Sabre Individual Top 20</p>
+<p>2017 C Division Boys’ Sabre Individual Top 20</p>
 <p>2017 B Division Boys’ Epee &amp; Sabre Individual Top 20
 <br>2017 B Division Girls’ Sabre Individual Top 20</p>
 </td>
@@ -211,7 +216,8 @@ Fencing Championships</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2022 Women’s Sabre Individual Top 15
+<p>2025 U-14 Women’s Sabre Individual Top 15
+<br>2022 Women’s Sabre Individual Top 15
 <br>2021 Men’s Epee Individual Ranked 3rd
 <br>2019 Boys’ and Girl’s Sabre Individual Top 15
 <br>2019 Boys’ Epee Individual Ranked 2nd
@@ -298,14 +304,26 @@ Fencing Championships</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2024 Men’s Sabre Individual Ranked 2nd&nbsp;<br>
-2024 Women’s&nbsp; Sabre Individual Ranked Top 20<br>
-2024 Women’s Epee Individual Top 20</p>
+<p>2024 Men’s Sabre Individual Ranked 2nd&nbsp;
+<br>2024 Women’s&nbsp; Sabre Individual Ranked Top 20
+<br>2024 Women’s Epee Individual Top 20</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>8.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Singapore Cadets Trial</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025 Women’s Epee &amp;amp; Sabre Individual Top 20</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Singapore Junior Nationals</strong>
@@ -317,7 +335,7 @@ Fencing Championships</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9.</p>
+<p>10.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Singapore Youth Olympic Festival</strong>
@@ -336,7 +354,7 @@ Fencing Championships</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10.</p>
+<p>11.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Pesta Sukan</strong>
@@ -352,7 +370,7 @@ Fencing Championships</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11.</p>
+<p>12.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>NUS Fencing Challenge</strong>
@@ -366,7 +384,7 @@ Fencing Championships</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12.</p>
+<p>13.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Hwa Chong Fencing Invites</strong>
@@ -385,7 +403,7 @@ Fencing Championships</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13.</p>
+<p>14.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Raffles Invite</strong>
