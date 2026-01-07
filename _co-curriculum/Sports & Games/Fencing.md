@@ -377,7 +377,8 @@ Fencing Championships</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2019 Women’s Sabre Individual Top 15
+<p>2025 Senior Women’s Foil Individual Ranked 8th
+<br>2019 Women’s Sabre Individual Top 15
 <br>2018 Men’s Sabre Individual Ranked 6th
 <br>2017 Men’s Sabre Individual Top 15</p>
 </td>
@@ -410,7 +411,8 @@ Fencing Championships</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2018 Men’s Sabre Individual Ranked 8th
+<p>2025 Senior Women’s Foil Individual Ranked 7th
+<br>2018 Men’s Sabre Individual Ranked 8th
 <br>2018 Women’s Epee Individual Ranked 6th
 <br>2018 Women’s Epee Individual Ranked 10th
 <br>2017 Men’s Epee Individual Ranked 6th
