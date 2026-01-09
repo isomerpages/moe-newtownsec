@@ -226,7 +226,7 @@ description: ""
 <p>24 April 2026, Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School 60th Commendation Day</p>
+<p>Commendation Day</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2:30pm - 4:30pm</p>
