@@ -1,7 +1,7 @@
 ---
 title: Save the Dates
 permalink: /upcoming-events/savethedates/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <p></p>
@@ -25,7 +25,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 January 2025, Wednesday</p>
+<p>2 - 6 January 2026, Friday - Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 1 Orientation</p>
@@ -36,29 +36,62 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8 January 2025, Wednesday</p>
+<p>2 &amp; 5 January 2026, Friday &amp; Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 2 - 5 Start Right Programme</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7 January 2026, Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 1 Uniformed Group Engagement Programme (UGEP)</p>
 </td>
 <td rowspan="1" colspan="1">
-	<p>2:00pm to 5:30pm</p>
+<p>2:00pm to 5:30pm</p>
 </td>
 </tr>
-	<tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>10 January 2025, Friday</p>
+<p>9 January 2026, Friday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 1 Sports &amp; Games Engagement Programme (SGEP)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1:30pm to 5:00pm
-</p></td>
+<p>1:30pm to 5:00pm</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10 January 2025, Friday</p>
+<p>10 January 2026, Saturday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 Parents Engagement Session (PES) &amp; CCA Open House</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8:30am to 11:30am</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10 January 2026, Saturday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 3 Parents Engagement Session (PES)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10:30am to 12:00pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14 January 2026, Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>O-Level Results Release</p>
@@ -69,40 +102,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11 January 2025, Saturday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 1 Parents Engagement Session &amp; CCA Open House</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8:30am to 11:30am</p>
-</td>
-</tr>
-	<tr>
-<td rowspan="1" colspan="1">
-<p>11 January 2025, Monday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 3 Parents Engagement Session</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>10:00am to 12:00pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>15 January 2025, Wednesday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Home-Based Learning</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-	<tr>
-<td rowspan="1" colspan="1">
-<p>17 January 2025, Friday</p>
+<p>16 January 2026, Friday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 4 Parents Engagement Session (Online)</p>
@@ -113,40 +113,73 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24 January 2025, Friday</p>
+<p>23 January 2026, Friday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 2 Parents Engagement Session (Online)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6:30pm to 8:00pm</p>
+<p>6:00pm to 7:30pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>28 January 2025, Tuesday</p>
+<p>28 January 2026, Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chinese New Year Celebrations</p>
+<p>Home-Based Learning</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8:00am to 10:30am</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 February 2025, Wednesday</p>
+<p>4 February 2026, Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Class Committee Training</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2:00pm to 4:30pm</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12 February 2025, Wednesday</p>
+<p>6 February 2026, Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NTSS Road Run</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8:00am - 12:30pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13 February 2026, Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Total Defence Day Commemoration</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16 February 2026, Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese New Year Celebrations</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8:00am to 10:30pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25 February 2026, Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Home-Based Learning</p>
@@ -157,21 +190,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>17 - 21 Febuary 2025, Monday to Friday</p>
+<p>24 - 27 March 2026, Tuesday - Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 3: OBS (Group 1)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>24 - 28 February 2025, Monday to Friday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Cohort Experience Week<br>&amp; Sec 3: OBS (Group 2)</p>
+<p>S1 - S4/5 Cohort Experience Week 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -179,126 +201,153 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12 March 2025, Wednesday</p>
+<p>10 April 2026, Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>International Friendship Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15 April 2026, Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Home-Based Learning</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 April 2025, Wednesday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Home-Based Learning</p>
-</td>
-<td rowspan="1" colspan="1">
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>25 April 2025, Friday</p>
+<p>24 April 2026, Friday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School 60th Commendation Day</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>2:30pm - 4:30pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>30 April 2025, Wednesday</p>
+<p>13 May 2026, Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Home-Based Learning</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9 May 2025, Friday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NTSS Road Run at Marina Barrage</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8:00am to 12:30pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>21 May 2025, Wednesday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S2 Level Wide Music Experience (Performing Arts-Based Learning)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3:00pm to 6:00pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>30 May 2025, Friday</p>
+<p>29 May 2026, Friday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Parent Teacher Conference</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8:00am to 3:00pm</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Jun 2025, Thursday</p>
+<p>5 June 2026, Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Combined Sports Camp</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>15 - 17 July 2025, Tuesday to Thursday</p>
+<p>29 June 2026, Monday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Home-Based Learning</p>
+<p>Term 3 Start Right Programme</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>23 July 2025, Wednesday</p>
+<p>8 July 2026, Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Class Committee Training 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2:00pm to 4:30pm</p>
-</td>
-</tr>
-
-<tr>
-<td rowspan="1" colspan="1">
-<p>8 August 2025, Friday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National Day Celebrations &amp; VIA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8:00am to 11:00am</p>
+<p>2:00pm to 5:00pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>15 November 2025, Saturday</p>
+<p>14 - 16 July 2026, Tuesday - Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NTSS Open House 2025</p>
+<p>Home-Based Learning</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>29 July 2026, Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2 Level Wide Music Experience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1:00pm - 4:30pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7 August 2026, Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Day School Celebration</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8:00am - 10:30am</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 September 2026, Thursday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Staff Appreciation Fiesta Celebration</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8:00am - 11:00am</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23 October 2026, Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parent Teacher Conversations</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8:00am - 3:00pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14 November 2026, Saturday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NTSS Open House 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8:00am to 12:30pm</p>
