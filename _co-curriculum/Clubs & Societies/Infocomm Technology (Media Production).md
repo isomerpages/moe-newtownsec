@@ -7,7 +7,7 @@ variant: markdown
 ---
 # INTRODUCTION
 
-Infocomm Technology (Media Production) was established in 2018, tapping on the strengths of the previous Infocomm Club and AVA and Photography Club.Infocomm Technology aims to provide members with opportunities to develop their media skills and build their portfolio in two inter-related areas – namely, photography (handling DSLR cameras, design elements) and audio-visual support. Students deepen their competencies in these areas through in-house training sessions, photography outings, participation in national competitions and providing audio-visual support to school events.
+Infocomm Technology (Media Production) was established in 2018, tapping on the strengths of the previous Infocomm Club and AVA and Photography Club. Infocomm Technology aims to provide members with opportunities to develop their media skills and build their portfolio in two inter-related areas – namely, photography (handling DSLR cameras, design elements) and audio-visual support. Students deepen their competencies in these areas through in-house training sessions, photography outings, participation in national competitions and providing audio-visual support to school events.
 
 ### TRAINING SCHEDULE: 
 
@@ -17,9 +17,8 @@ Infocomm Technology (Media Production) was established in 2018, tapping on the s
 
 
 ### TEACHERS IN-CHARGE
-*   Mr Yong Wei Hoong (1st i/c)
-*   Ms Hannah Cheng Woan Woon (2nd i/c)
-*   Ms Chew Ying Ying
+*   Ms Hannah Cheng Woan Woon (1st i/c)
+*   Ms Chew Ying Ying (2nd i/c)
 *   Mr Loganadhan Prathap
 *   Mdm Vemalathevey Manikiam
 
