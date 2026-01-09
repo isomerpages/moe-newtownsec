@@ -250,7 +250,7 @@ description: ""
 <p>Parent Teacher Conference</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>9:00am - 2:00pm</p>
 </td>
 </tr>
 <tr>
