@@ -17,9 +17,8 @@ Infocomm Technology (Media Production) was established in 2018, tapping on the s
 
 
 ### TEACHERS IN-CHARGE
-*   Mr Yong Wei Hoong (1st i/c)
-*   Ms Hannah Cheng Woan Woon (2nd i/c)
-*   Ms Chew Ying Ying
+*   Ms Hannah Cheng Woan Woon (1st i/c)
+*   Ms Chew Ying Ying (2nd i/c)
 *   Mr Loganadhan Prathap
 *   Mdm Vemalathevey Manikiam
 
