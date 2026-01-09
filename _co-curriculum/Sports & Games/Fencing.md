@@ -60,7 +60,7 @@ to succeed in the 21st Century.</p>
 </li>
 </ul>
 <h3>STUDENT LEADERS</h3>
-<p><strong>C Division</strong>
+<p><strong>B Division</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -98,7 +98,7 @@ to succeed in the 21st Century.</p>
 </li>
 <li>
 <p>VIA for UIPM Laser Run City Tour 2017 with the Singapore Modern Pentathlon
-Association (SIMPA), SportSG &amp; &nbsp;Active SG</p>
+Association (SIMPA), SportSG &amp; Active SG</p>
 </li>
 <li>
 <p>Participation in Singapore GNC Cadet Open Championships (Epee and Sabre)</p>
@@ -171,8 +171,8 @@ Fencing Championships
 <br>2019 Sportsmanship Award for demonstrating outstanding sportsmanship in
 Fencing Championships</p>
 <p></p>
-<p>2025 B Division Girls’ Foil Individual Ranked 7 th</p>
-<p>2025 B Division Girls’ Sabre Individual Top 10
+<p>2025 B Division Girls’ Foil Individual Ranked 7th
+<br>2025 B Division Girls’ Sabre Individual Top 10
 <br>2025 B Division Girls’ Epee Individual Top 15
 <br>2025 C Division Girls’ Foil Individual Top 15
 <br>2025 C Division Girls’ Epee, Foil Sabre Individual Top 20
