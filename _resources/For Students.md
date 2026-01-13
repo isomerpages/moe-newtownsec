@@ -4,6 +4,13 @@ permalink: /quick-links/for-students/
 description: ""
 variant: tiptap
 ---
+<h3><strong>Student E-Handbook</strong></h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://drive.google.com/drive/folders/1cQD6AdBbRew8ArX8KntfNqktwHrViU2d?usp=sharing" rel="noopener nofollow" target="_blank">Download Here</a>
+</p>
+</li>
+</ul>
 <h3><strong>Academic Links</strong></h3>
 <ul>
 <li>
