@@ -487,7 +487,7 @@ variant: tiptap
 <p>Ms Pauline Lee Lin Jing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_lin_ling_pauline@moe.edu.sg</p>
+<p>lee_lin_jing_pauline@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
