@@ -18,7 +18,7 @@ curriculum</p>
 </li>
 </ul>
 <h3>Programmes</h3>
-<p><strong>ENRICHMENT PROGRAMMES &amp; ACTIVITIES (As planned for 2025)</strong>
+<p><strong>ENRICHMENT PROGRAMMES &amp; ACTIVITIES</strong>
 </p>
 <p><strong>Core Programme</strong>
 </p>
