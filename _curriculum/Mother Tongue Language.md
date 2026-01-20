@@ -51,7 +51,7 @@ their respective cultures.</p>
 <p>Reading Programme</p>
 </li>
 <h5>Step into our students' world of creativity and talent!
-	<br>Explore by clicking on the image.
+	<br>Explore by clicking on the image below.
 	</h5>
 <a target="_blank" href="https://online.fliphtml5.com/ovsgf/yhyh/">
     <img alt="MTL Dept E-Magazine" src="/images/MTL_E_Magazine_Cover_2025.png">
