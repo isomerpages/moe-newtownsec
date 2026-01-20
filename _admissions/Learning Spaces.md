@@ -2,7 +2,7 @@
 title: Learning Spaces
 permalink: /admissions/learning-spaces/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <p></p>
 <div class="isomer-image-wrapper">
