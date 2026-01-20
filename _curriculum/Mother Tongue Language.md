@@ -50,6 +50,10 @@ their respective cultures.</p>
 <li>
 <p>Reading Programme</p>
 </li>
+	<a target="_blank" href="https://online.fliphtml5.com/ovsgf/yhyh/">
+    <img alt="MTL Dept E-Magazine" src="">
+</a>
+
 </ul>
 <h3>Support Programme</h3>
 <ul>
