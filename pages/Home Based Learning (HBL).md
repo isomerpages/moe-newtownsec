@@ -5,7 +5,22 @@ description: ""
 variant: tiptap
 ---
 <h1>Home Based Learning (HBL)</h1>
-<h3>- To be updated -</h3>
+<h3>28 Jan 2026</h3>
+<p>(Click to access your learning tasks and assignments)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sec 1</p>
+</li>
+<li>
+<p>Sec 2</p>
+</li>
+<li>
+<p>Sec 3</p>
+</li>
+<li>
+<p>Sec 4 and 5</p>
+</li>
+</ul>
 <h4>Have a great day learning!</h4>
 <p><strong>Technical Support </strong>
 <br>For any technical issue, please refer to the following:</p>
