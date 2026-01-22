@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/Hero Banner/2024_NTSS_Philosophy_Hero_Banner_1920x720px.png
       key_highlights:
-        - title: admission info
+        - title: Home-Based Learning (HBL)
           description: ""
-          url: /sec-1-2025-cca-open-house-cca-selections/
+          url: /about-us/links/students/home-based-learning-hbl/
         - title: Learning Spaces
           description: ""
           url: /admissions/learning-spaces/
