@@ -9,16 +9,20 @@ variant: tiptap
 <p>(Click to access your learning tasks and assignments)</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Sec 1</p>
+<p><a href="https://docs.google.com/spreadsheets/d/1N_ahz5Okq-ck3PHLasnPupGsp6GZfhNJl7gr8UGWXbU/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 1</a>
+</p>
 </li>
 <li>
-<p>Sec 2</p>
+<p><a href="https://docs.google.com/spreadsheets/d/1xgPnVTxH1sQCfbwcLOOU1Rh-RVUulzCyoaDmHxxpfOI/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 2</a>
+</p>
 </li>
 <li>
-<p>Sec 3</p>
+<p><a href="https://docs.google.com/spreadsheets/d/1gfR-C4ik6dVLVcEsHKAJ-ACp8LFGNw2d5YAV_Tcij5c/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 3</a>
+</p>
 </li>
 <li>
-<p>Sec 4 and 5</p>
+<p><a href="https://docs.google.com/spreadsheets/d/1IGFdmzGSjHHSLs_QnAQ4h8GOxtjWWQj7fWvB67twPqc/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5</a>
+</p>
 </li>
 </ul>
 <h4>Have a great day learning!</h4>
