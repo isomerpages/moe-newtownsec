@@ -91,7 +91,7 @@ issues related to sexuality, which are of prime concern at this age.</p>
 </li>
 </ol>
 <h4><strong>Click the link below to view the lesson plans for 2026:</strong></h4>
-<p><strong><a href="/files/2025/For Parents/2025_Info_on_SEd_for_schs_website__New_Town_Sec_.pdf" rel="noopener nofollow" target="_blank">[All levels] MOE Sexuality Education 2025.pdf</a></strong>
+<p><a href="/files/All_levels__MOE_Sexuality_Education_2026.pdf" rel="noopener nofollow" target="_blank">[All levels] MOE Sexuality Education 2026</a>
 </p>
 <hr>
 <p><strong><em><u>eTeens</u></em><u> Programme:</u></strong>
