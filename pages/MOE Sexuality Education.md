@@ -90,8 +90,8 @@ issues related to sexuality, which are of prime concern at this age.</p>
 <hr>
 </li>
 </ol>
-<h4><strong>Click the link below to view the lesson plans for 2025:</strong></h4>
-<p><strong><a href="/files/2025/For Parents/2025_Info_on_SEd_for_schs_website__New_Town_Sec_.pdf" rel="noopener nofollow" target="_blank">[All levels] MOE Sexuality Education 2025.pdf</a></strong>
+<h4><strong>Click the link below to view the lesson plans for 2026:</strong></h4>
+<p><a href="/files/All_levels__MOE_Sexuality_Education_2026.pdf" rel="noopener nofollow" target="_blank">[All levels] MOE Sexuality Education 2026</a>
 </p>
 <hr>
 <p><strong><em><u>eTeens</u></em><u> Programme:</u></strong>
@@ -100,10 +100,13 @@ issues related to sexuality, which are of prime concern at this age.</p>
 <li>
 <p><em>eTeens</em> is a programme developed by Health Promotion Board, in
 collaboration with the Ministry of Education, to provide Secondary 3 students
-with accurate information on STIs, HIV and protection from a health perspective. <em>eTeens</em> is
-conducted in two segments – a mass talk segment and a classroom-based programme.
-The desired outcome of the <em>eTeens</em> programme is that students are
-empowered to make wise, informed and sensible decisions.</p>
+with accurate information on STIs, HIV and protection from a health perspective.
+With the formation of the Communicable Diseases Agency (CDA) on 1 April
+2025, the programme would now be managed by CDA’s Training and Education
+Division instead of HPB. eTeens is conducted in two segments – a mass talk
+segment and a classroom-based programme. The desired outcome of the eTeens
+programme is that students are empowered to make wise, informed and sensible
+decisions to protect themselves from sexually transmitted infectious diseases.</p>
 <p></p>
 </li>
 <li>
@@ -114,7 +117,7 @@ family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
 </li>
 </ol>
-<h4><strong>At New Town Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2025:</strong></h4>
+<h4><strong>At New Town Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2026:</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -138,19 +141,16 @@ Abstinence and upholding family values are the key messages.</p>
 <p>Mass Talk delivered through a pre-recorded video</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul>
-<li>
-<p>Raise awareness and provide knowledge on:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Infectious diseases (STIs and HIV): what it is, how it spreads, how to
-prevent infection mainly through ABC (abstinence, being faithful, correct,
-and consistent condom use).</p>
-</li>
-<li>
-<p>Managing relationships and risky situations in a healthy way.</p>
-</li>
-</ul>
+<p>Raise awareness and provide knowledge on:</p>
+<p>a) Sexually transmitted infectious diseases (STIs and HIV): what it is,
+how it spreads, how to prevent infection mainly through ABC (abstinence,
+being faithful, correct, and consistent condom use), consequences and impact</p>
+<p>b) Skills for respecting boundaries (e.g. decision-making, assertiveness,
+negotiation to say ‘no’ to peer pressure)</p>
+<p>c) Managing relationships and risky situations in a healthy way, including
+avenues for help-seeking.</p>
 </li>
 </ul>
 </td>
@@ -163,8 +163,12 @@ and consistent condom use).</p>
 <p>Classroom-based Lesson</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Learn to negotiate their way out of a risky situation by applying skills
 of assertiveness and responsible decision-making</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 9</p>
@@ -182,15 +186,15 @@ supplementary sexuality education programmes by MOE-approved external providers.
 <li>
 <p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="/files/2025/For Parents/ANNEX_A_Parent_s_Opt_Out_form_2025.pdf" rel="noopener nofollow" target="_blank">here</a>.
-The completed form is to be submitted by <strong><u>28/02/2025</u></strong>.</p>
+at the start of the year and is also downloadable <a href="/files/ANNEX_A.pdf" rel="noopener nofollow" target="_blank">here</a>. The completed form is to be submitted
+by <strong><u>20/02/2026</u></strong>.</p>
 <p></p>
 </li>
 <li>
-<p>Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
+<p>Parents who wish to opt their children out of the <strong><em>eTeens</em> programme (applicable to ONLY Sec 3)</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="/files/2025/For Parents/eTeens_Parents_Opt_out_Form__Sec__HPB__Annex_B.pdf" rel="noopener nofollow" target="_blank">here</a>.
-The completed form is to be submitted by <strong><u>28/02/2025</u></strong>.</p>
+at the start of the year and is also downloadable <a href="/files/ANNEX_B.pdf" rel="noopener nofollow" target="_blank">here</a>. The completed form is to be submitted
+by <strong><u>20/02/2026</u></strong>.</p>
 <p></p>
 </li>
 <li>
