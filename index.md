@@ -18,6 +18,16 @@ sections:
         - title: Upcoming Events
           description: ""
           url: https://www.newtownsec.moe.edu.sg/upcoming-events/savethedates/
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: Annual Cross Country 2026
+          date: 27 January 2026
+          announcement: The Annual Cross Country will be held on 6 February 2026. Click
+            below for more details.
+          link_text: Learn more >
+          link_url: /annual-cross-country-2026/
   - infopic:
       title: Applied Learning (ALP)
       subtitle: School Distinctive Programmes

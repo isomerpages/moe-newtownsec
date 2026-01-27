@@ -45,7 +45,7 @@ ones.</p>
 information on MOE Sexuality Education.&nbsp;</p>
 </li>
 </ol>
-<h4><strong>OVERVIEW OF NEW TOWN SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</strong></h4>
+<h4><strong>OVERVIEW OF NEW TOWN SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2026</strong></h4>
 <ol start="4">
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
