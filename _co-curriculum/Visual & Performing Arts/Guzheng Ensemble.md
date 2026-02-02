@@ -6,7 +6,7 @@ third_nav_title: Visual & Performing Arts
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/guzheng%2002.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Guzheng Ensemble/Main_Guz_Photo_1.jpg">
 </div>
 <h1>INTRODUCTION</h1>
 <p>The Guzheng Ensemble, an integral part of New Town Secondary School's
@@ -25,15 +25,13 @@ build confidence, and embody the values of diligence and perseverance.</p>
 <p><strong>Fridays: </strong>1.30pm - 4.30pm</p>
 </li>
 </ul>
-<p></p>
 <h3><strong>TRAINING VENUE(S)</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>AVA room</strong>
+<p><strong>Synergy Space</strong>
 </p>
 </li>
 </ul>
-<p></p>
 <h3>TEACHERS IN-CHARGE</h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -52,32 +50,31 @@ build confidence, and embody the values of diligence and perseverance.</p>
 <p>Ms Chen Shanhui Indra</p>
 </li>
 </ul>
-<p></p>
 <h3><strong>STUDENT LEADERS</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Fiona Yap (Chairperson)</p>
+<p>Rainie Yeo Xuan Wen (Chairperson)</p>
 </li>
 <li>
-<p>Ng Xiang Ting (Vice-Chairperson)</p>
+<p>Tham An Ting, Hayley (Vice-Chairperson)</p>
 </li>
 <li>
-<p>Tay Jia Xuan (Vice-Chairperson)</p>
+<p>Poon Heem Han (Vice-Chairperson)</p>
 </li>
 <li>
-<p>Sofea Sherryza Bin Hasli</p>
+<p>Yap Vivian</p>
 </li>
 <li>
-<p>Tan Kah Him</p>
+<p>Jordan Tan</p>
 </li>
 <li>
-<p>Rainie Yeo Xuan Wen</p>
+<p>Toh Mei En</p>
 </li>
 <li>
-<p>Tham An Ting Hayley</p>
+<p>Chen Fang Yee</p>
 </li>
 <li>
-<p>Poon Heem Han</p>
+<p>Tam Hilary Heiting</p>
 </li>
 </ul>
 <h3>ACTIVITIES FOR THE YEAR 2025</h3>
@@ -135,26 +132,21 @@ of Distinction</p>
 </ul>
 <h3>Photo Gallery</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Guzheng Ensemble/Guzheng_Photo_1___for_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Guzheng Ensemble/Guz_Photo_2.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Guzheng Ensemble/Guzheng_Photo_2_for_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Guzheng Ensemble/Guz_Photo_3.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Guzheng Ensemble/Guzheng_Photo_3_for_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Guzheng Ensemble/Guz_Photo_4.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Guzheng Ensemble/Guzheng_Photo_4_for_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Guzheng Ensemble/Guz_Photo_4.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Guzheng Ensemble/Guzheng_Photo_5_for_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Guzheng Ensemble/Guz_Photo_5.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Guzheng Ensemble/Guzheng_Photo_6_for_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Guzheng Ensemble/Guz_Photo_6.jpg">
 </div>
 <p></p>
