@@ -24,8 +24,8 @@ sections:
       announcement_items:
         - title: Annual Cross Country 2026
           date: 27 January 2026
-          announcement: The Annual Cross Country will be held on 6 February 2026. Click
-            below for more details.
+          announcement: The School will be closed on Friday, 6 February 2026 for our
+            Annual Cross Country. Students may click below for more details.
           link_text: Learn more >
           link_url: /annual-cross-country-2026/
   - infopic:
