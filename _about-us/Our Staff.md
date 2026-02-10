@@ -240,7 +240,8 @@ variant: tiptap
 <p>Ms Tan Mei Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:tan_mei_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_mei_ying@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -251,7 +252,8 @@ variant: tiptap
 <p>Ms Basu Roy Priyanka</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:basu_roy_priyanka@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">basu_roy_priyanka@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -446,7 +448,8 @@ variant: tiptap
 <p>Ms Tan Mei Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:tan_mei_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_mei_ying@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -528,7 +531,8 @@ variant: tiptap
 <p>Ms Priyanka</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:basu_roy_priyanka@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">basu_roy_priyanka@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -557,7 +561,8 @@ variant: tiptap
 <p>Dr Kamaladasan S/O Kalidasan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:kamaladasan_kalidasan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kamaladasan_kalidasan@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -671,7 +676,8 @@ variant: tiptap
 <p>Ms Lim Zhi Yan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lim_zhi_yan_h@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_zhi_yan_h@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -910,7 +916,8 @@ variant: tiptap
 <p>Ms Sheela</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:nur_sheela_sugirmanto@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_sheela_sugirmanto@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1256,7 +1263,8 @@ variant: tiptap
 <p>Mdm Phua Ngee Lian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:phua_ngee_lian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">phua_ngee_lian@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
