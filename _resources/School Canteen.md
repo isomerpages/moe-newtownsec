@@ -71,10 +71,9 @@ of all food handlers</p>
 <p>3. Submit the completed application form and documents by closing date
 via email OR to the School's General Office.</p>
 <p>Address: <strong>New Town Sec School, 1020 Dover Road, Singapore 139657</strong>
-</p>
-<p>Contact No: <strong>67754140</strong> 
+<br>Contact No: <strong>67754140</strong> 
 <br>Email: <strong><a href="mailto:ntss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ntss@moe.edu.sg</a></strong>
-<br>Contact Person: <strong>Mdm Rohaidah (CSO)</strong>
+<br>Contact Person: <strong>Mdm Rohaidah (CSO) / Mr Azman Bin Hassan (Operations Mgr) / Mr Sam Meng Chong (Operations Mgr)</strong>
 </p>
 <p><strong>How to get there?</strong>
 </p>
@@ -84,7 +83,8 @@ via email OR to the School's General Office.</p>
 Interchange</p>
 </li>
 <li>
-<p>Bouna Vista MRT (EW21) – Change to Bus 196 at Bus Stop Opp MOE Bldg</p>
+<p>Buona Vista MRT (EW21) – Change to Bus 196 at Bus Stop in front of MOE
+Bldg</p>
 </li>
 <li>
 <p>Bus number: 196 and 33 - 3 minutes walking distance</p>
@@ -99,7 +99,7 @@ and stall assistant.</p>
 </li>
 <li>
 <p>Able to provide good service and quality food with prices determined in
-consultation with the school. (at most $3.40 for a set meal of rice, meat,
+consultation with the school (at most $3.40 for a set meal of rice, meat,
 vegetable &amp; fruit). Proposed menu with price list <strong>must</strong> be
 attached to the application form for our consideration.</p>
 </li>
