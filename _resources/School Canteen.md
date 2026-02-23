@@ -38,6 +38,17 @@ variant: tiptap
 <p>NIL</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Noodle Stall (Non-Halal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 March 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NIL</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong>Application Procedure</strong>
@@ -136,4 +147,3 @@ Singapore Food Agency (SFA).</p>
 </ul>
 <p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.</em>
 </p>
-<p></p>
