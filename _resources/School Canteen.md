@@ -32,7 +32,7 @@ variant: tiptap
 <p>Malay Stall (Halal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;28 November 2025</p>
+<p>6 March 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NIL</p>
@@ -54,7 +54,7 @@ a hardcopy from the School’s General Office.</p>
 </p>
 </li>
 </ul>
-<p>2. Attached the following documents together with the application form:</p>
+<p>2. Attach the following documents together with the application form:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Photocopy of the NRIC (front and back)</p>
