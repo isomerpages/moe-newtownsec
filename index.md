@@ -22,13 +22,13 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Cohort Experience Week Timetable
+        - title: Cohort Experience Week 2026 Timetables
           date: 20 March 2026
           announcement: Cohort Experience Week will take place from 24 Mar to 27 Mar 2026.
             Click on the link below to access the timetables for each respective
             level.
-          link_text: Learn more >
-          link_url: /annual-cross-country-2026/
+          link_text: Timetables for Cohort Experience Week >
+          link_url: /cohort-experience-week-timetable-2026/
   - infopic:
       title: Applied Learning (ALP)
       subtitle: School Distinctive Programmes
