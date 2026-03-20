@@ -22,12 +22,13 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Annual Cross Country 2026
-          date: 27 January 2026
-          announcement: The School will be closed on Friday, 6 February 2026 for our
-            Annual Cross Country. Students may click below for more details.
-          link_text: Learn more >
-          link_url: /annual-cross-country-2026/
+        - title: Cohort Experience Week 2026 Timetables
+          date: 20 March 2026
+          announcement: Cohort Experience Week will take place from 24 Mar to 27 Mar 2026.
+            Click on the link below to access the timetables for each respective
+            level.
+          link_text: Timetables for Cohort Experience Week >
+          link_url: /cohort-experience-week-timetable-2026/
   - infopic:
       title: Applied Learning (ALP)
       subtitle: School Distinctive Programmes
