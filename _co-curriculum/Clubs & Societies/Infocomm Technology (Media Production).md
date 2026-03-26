@@ -21,6 +21,7 @@ Infocomm Technology (Media Production) was established in 2018, tapping on the s
 *   Ms Chew Ying Ying (2nd i/c)
 *   Mr Loganadhan Prathap
 *   Mdm Vemalathevey Manikiam
+*   Ms Chia Hui Lin Evelyn
 
 
 ### ACTIVITIES FOR THE YEAR
