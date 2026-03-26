@@ -38,10 +38,9 @@ Contemporary Dance is one of the school’s visual and performing arts CCAs wher
 
 ### TEACHERS IN-CHARGE
 
-*   Ms Joyce Gayathri (1st IC)
-*   Mrs Dolly Teo (2nd IC)
-*   Mdm Kokila Athinamilagi
-*   Mdm Song Ziyan
+*   Mdm Kokila Athinamilagi (1st IC)
+*   Mdm Valli D/O Sundaram (2nd IC)
+*   Mrs Dolly Teo
 
 ### INSTRUCTORS
 
