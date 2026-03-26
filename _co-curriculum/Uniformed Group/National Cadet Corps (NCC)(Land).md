@@ -30,7 +30,7 @@ NCC has eight Core Values:
 ### TEACHERS-IN-CHARGE
 
 *   Mr Jackson Goh Sheng Bao (1st i/c)
-*   Mr Randall Lim Wei Chun
+*   Mr Randall Lim Wei Chun (2nd i/c)
 
 ### ACTIVITIES FOR THE YEAR
 

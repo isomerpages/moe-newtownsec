@@ -72,6 +72,9 @@ S1-Respect &amp; S1-Resilience)</p>
 <li>
 <p>Mr Muhammad Nur Azman Shah</p>
 </li>
+<li>
+<p>Ms Lee Lin Jing Pauline</p>
+</li>
 </ul>
 <h3>CONDUCTORS/TUTORS</h3>
 <ul data-tight="true" class="tight">

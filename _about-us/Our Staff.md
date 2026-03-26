@@ -33,14 +33,6 @@ variant: tiptap
 <p>Vice-Principal (EO)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Elissa Goh</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice-Principal (EO)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mrs Tye-Ong Lay Yen</p>
 </td>
 </tr>
@@ -536,7 +528,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p></p>
 <p></p>
 <p>S1-Success</p>
@@ -554,15 +546,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>muhammad_nur_azman_shah@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dr Kamaladasan S/O Kalidasan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:kamaladasan_kalidasan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kamaladasan_kalidasan@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>

@@ -42,13 +42,16 @@ the alumni. &nbsp;&nbsp;</p>
 <h3>TEACHERS-IN-CHARGE</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Serene Tay Seok Hean (1st i/c)</p>
+<p>Mdm Ong Hwee Hien (1st i/c)</p>
 </li>
 <li>
 <p>Mrs Tricia Ong (2nd i/c)</p>
 </li>
 <li>
-<p>Mdm Ong Hwee Hien</p>
+<p>Ms Balqis Binte Kamaruzaman</p>
+</li>
+<li>
+<p>Ms Chai Lai Choo Violet</p>
 </li>
 </ul>
 <h3>COACHES</h3>
