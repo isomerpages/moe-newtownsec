@@ -24,9 +24,9 @@ To nurture artistic talent and develop leaders who are confident ambassadors of 
 ### TEACHERS IN-CHARGE
 
 *   Mdm Pang Jia Mien (1st i/c)
-*   Ms Grace Pushparani d/o William (2nd i/c)
+*   Ms Ding Chao (2nd i/c)
+*   Ms Grace Pushparani d/o William
 *   Ms Lai Xue Fen
-*   Ms Ding Chao
 
 ### ACTIVITIES FOR THE YEAR
 * Rediscover Cartoon Drawing &amp; Colouring Workshop
