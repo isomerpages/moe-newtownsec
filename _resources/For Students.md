@@ -10,6 +10,10 @@ variant: tiptap
 <p><a href="https://drive.google.com/drive/folders/1cQD6AdBbRew8ArX8KntfNqktwHrViU2d?usp=sharing" rel="noopener nofollow" target="_blank">Download Here</a>
 </p>
 </li>
+<li>
+<p><a href="https://calendar.google.com/calendar/embed?src=c_df7efb760c92dd138df4b2e4068270b840d7ec8f81fb3663dfbfa6053ceae4e1%40group.calendar.google.com&amp;ctz=Asia%2FSingapore" rel="noopener nofollow" target="_blank">School Google Calendar</a>
+</p>
+</li>
 </ul>
 <h3><strong>Academic Links</strong></h3>
 <ul>
