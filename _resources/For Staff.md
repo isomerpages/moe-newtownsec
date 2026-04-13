@@ -87,8 +87,10 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
+<p><strong>
+<a>test</a>
+</strong></p><strong>
+</strong></td>
 </tr>
 </tbody>
 </table>
