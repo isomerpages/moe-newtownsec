@@ -5,23 +5,23 @@ description: ""
 variant: tiptap
 ---
 <h1>Home Based Learning (HBL)</h1>
-<h3>25 Feb 2026</h3>
-<p>(Click to access your learning tasks and assignments)</p>
+<h3>15 Apr 2026</h3>
+<p>(Click below to access your learning tasks and assignments)</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://docs.google.com/spreadsheets/d/12y8o9z-XW9T1ix6jK-fyKRX8Ewk4kZMlEs7oiebVxgU/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 1</a>
+<p><a href="https://docs.google.com/spreadsheets/d/1hSP02qm66vEHv-Tg0U-aDZFpAet43yz38aH9tqjCkWA/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 1</a>
 </p>
 </li>
 <li>
-<p><a href="https://docs.google.com/spreadsheets/d/1TX8QmiLCZ75ExsRv6b_zo7X5RfK0VjjaOVHL9fVlJWo/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 2</a>
+<p><a href="https://docs.google.com/spreadsheets/d/1R83RQn3xqL9urlFgct77qmsrYJumTQsqCTk1Ej6xipY/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 2</a>
 </p>
 </li>
 <li>
-<p><a href="https://docs.google.com/spreadsheets/d/1Dnjj7AAsWUtwLw3MaaiINkOWb0ACfG7iHldtVIj36Cc/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 3</a>
+<p><a href="https://docs.google.com/spreadsheets/d/1-W0iEwnndaVwR0QxW3H4YmfhBEKLw5gODa4h6UA6zYU/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 3</a>
 </p>
 </li>
 <li>
-<p><a href="https://docs.google.com/spreadsheets/d/14XXdNXhIhZzhRy0o9tEojr-klMFL-3KL7VTJAZJAoL8/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5</a>
+<p><a href="https://docs.google.com/spreadsheets/d/17963Ubj5hXRvP_Q3RqhYjIcfhIY0_-Dvysbc5mMeneU/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 4/5</a>
 </p>
 </li>
 </ul>
