@@ -88,9 +88,9 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>
-<a rel="noopener nofollow" target="_blank">test</a>
-</strong></p><strong>
-</strong></td>
+Bus Booking Form
+</strong><br>
+	Copy and paste the address below into File Explorer to access. </p></td>
 </tr>
 </tbody>
 </table>
