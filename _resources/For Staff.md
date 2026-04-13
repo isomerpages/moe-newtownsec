@@ -90,7 +90,7 @@ variant: tiptap
 <p><strong>Bus Booking Form </strong>
 <br>Copy and paste the address below into File Explorer to access.</p>
 <p></p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">S:\_4. Finance, Administrative and Operation\4.2 School Admin\4.2.3 School Letterhead &amp; Forms\2026</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">4.2.3 School Letterhead &amp; Forms\2026</a>
 </p>
 </td>
 </tr>
