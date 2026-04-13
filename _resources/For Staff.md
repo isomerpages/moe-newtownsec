@@ -88,7 +88,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>
-<a>test</a>
+<a rel="noopener nofollow" target="_blank">test</a>
 </strong></p><strong>
 </strong></td>
 </tr>
