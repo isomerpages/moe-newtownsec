@@ -146,3 +146,223 @@ in the activities related to the talent they are selected for from year
 1-4.</p>
 <p>For more information on DSA-Sec, please refer to the MOE website at <strong><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">http://www.moe.gov.sg/dsa-sec</a>.</strong>
 </p>
+<h4><strong>1. Eligibility Criteria</strong></h4>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>S/N</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>DSA Main Category</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>DSA Talent Area</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Criteria</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Selection (in-person)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Leadership</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Leadership (Girls and Boys)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Student leadership involvement in primary school.</p>
+</li>
+<li>
+<p>Leadership position held at school level, CCA or cohort-level projects.</p>
+</li>
+<li>
+<p>Involvement in Values-in-Action or Community Services.</p>
+</li>
+<li>
+<p>Displays interest and passion in service and community-related activities
+outside of school.</p>
+</li>
+<li>
+<p>Demonstrates exemplary character and leadership.</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Interview and Simulation Tasks</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Visual Art</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Visual Art&nbsp;</p>
+<p>(Girls and Boys)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>Submission of student Art Portfolio of 3-5 original works prior to interview
+(applicants will be notified and provided more information via email).</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Other relevant achievements or qualifications pertaining to Art.</p>
+</li>
+<li>
+<p>On the spot Art talent demonstration via Art task (students will be required
+to complete the Art task within a set time limit).
+<br><strong><u>Note</u></strong>: Prospective students who are enrolled via
+DSA Visual Art will have Arts and Crafts as their CCA.</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Submission of student Art portfolio, on the spot Art talent Demonstration
+and Interview</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sports</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Basketball (Boys)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>Evidence of passion/ talent/ interest and positive attitude.&nbsp;</p>
+</li>
+<li>
+<p>Past competition experience and achievements.</p>
+</li>
+<li>
+<p>Performance during sports trial.</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sports trial &amp; Interview</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sports</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fencing&nbsp;</p>
+<p>(Girls and Boys)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>Evidence of passion/ talent/ interest and positive attitude.&nbsp;</p>
+</li>
+<li>
+<p>Past competition experience and achievements.</p>
+</li>
+<li>
+<p>Performance during sports trial.</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sports trial &amp; Interview</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Performing Arts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Concert Band (Girls and Boys)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>Evidence of passion/ talent/ interest and positive attitude.&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Relevant experience performing on wind, brass, percussion, or other musical
+instrument in school and/or external events.</p>
+</li>
+<li>
+<p>Other achievements or accomplishments in music or instrumental performance.</p>
+</li>
+<li>
+<p>Performance during audition.</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Audition &amp; Interview</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Performing Arts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Guzheng Ensemble (Girls)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>Evidence of passion/ talent/ interest and positive attitude.&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Relevant experiences in performing the Guzheng or other similar instruments
+at school and/or external events.&nbsp;</p>
+</li>
+<li>
+<p>Other achievements or accomplishments in Guzheng or music.</p>
+</li>
+<li>
+<p>Performance during audition.</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Audition &amp; Interview</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
