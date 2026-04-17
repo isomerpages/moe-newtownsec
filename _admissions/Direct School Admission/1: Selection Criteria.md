@@ -40,7 +40,8 @@ third_nav_title: Direct School Admission
 <p>Leadership</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Leadership (Girls and Boys)</p>
+<p><a href="/holistic-education/school-distinctive-programmes/learning-for-life-llp-from-2023/" rel="noopener nofollow" target="_blank">Leadership (Girls and Boys)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -74,8 +75,8 @@ outside of school.</p>
 <p>Visual Art</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Visual Art&nbsp;</p>
-<p>(Girls and Boys)</p>
+<p><a href="/cca/visual-n-performing-arts/arts-and-crafts/" rel="noopener nofollow" target="_blank">Visual Art (Girls and Boys)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul>
@@ -109,7 +110,8 @@ and Interview</p>
 <p>Sports</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Basketball (Boys)</p>
+<p><a href="/cca/sports-and-games/basketball/" rel="noopener nofollow" target="_blank">Basketball (Boys)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul>
@@ -136,8 +138,8 @@ and Interview</p>
 <p>Sports</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fencing&nbsp;</p>
-<p>(Girls and Boys)</p>
+<p><a href="/cca/sports-n-games/fencing/" rel="noopener nofollow" target="_blank">Fencing (Girls and Boys)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul>
@@ -164,7 +166,8 @@ and Interview</p>
 <p>Performing Arts</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Concert Band (Girls and Boys)</p>
+<p><a href="/cca/visual-n-performing-arts/concert-band/" rel="noopener nofollow" target="_blank">Concert Band (Girls and Boys)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul>
@@ -197,7 +200,8 @@ instrument in school and/or external events.</p>
 <p>Performing Arts</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Guzheng Ensemble (Girls)</p>
+<p><a href="/cca/visual-n-performing-arts/guzheng-ensemble/" rel="noopener nofollow" target="_blank">Guzheng Ensemble (Girls)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul>
