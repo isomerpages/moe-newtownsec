@@ -5,12 +5,44 @@ description: ""
 variant: tiptap
 third_nav_title: Direct School Admission
 ---
-<h1><strong>1.&nbsp;&nbsp; Selection Criteria</strong></h1>
-<p>The Selection Criteria for Leadership, Visual Arts, Fencing, Basketball
-and Guzheng talent areas as follows:</p>
-<h3><strong>#1 Evidence in talent area</strong></h3>
-<p><strong><u>For Leadership (Girls and Boys):</u></strong>
-</p>
+<h1><strong>1.&nbsp;Eligibility Criteria</strong></h1>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>S/N</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>DSA Main Category</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>DSA Talent Area</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Criteria</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Selection (in-person)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Leadership</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Leadership (Girls and Boys)</p>
+</td>
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p>Student leadership involvement in primary school.</p>
@@ -21,107 +53,186 @@ and Guzheng talent areas as follows:</p>
 <li>
 <p>Involvement in Values-in-Action or Community Services.</p>
 </li>
-</ul>
-<p><strong><u>For Visual Arts (Girls and Boys):</u></strong>
-</p>
-<ul data-tight="true" class="tight">
 <li>
-<p>Student Art portfolio (Portfolio of 3 – 5 original works to be presented
-during the interview).</p>
+<p>Displays interest and passion in service and community-related activities
+outside of school.</p>
 </li>
 <li>
-<p>Other relevant qualifications pertaining to Art.</p>
+<p>Demonstrates exemplary character and leadership.</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Interview and Simulation Tasks</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Visual Art</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Visual Art&nbsp;</p>
+<p>(Girls and Boys)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>Submission of student Art Portfolio of 3-5 original works prior to interview
+(applicants will be notified and provided more information via email).</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Other relevant achievements or qualifications pertaining to Art.</p>
 </li>
 <li>
 <p>On the spot Art talent demonstration via Art task (students will be required
-to complete the Art task within a set time limit).</p>
+to complete the Art task within a set time limit).
+<br><strong><u>Note</u></strong>: Prospective students who are enrolled via
+DSA Visual Art will have Arts and Crafts as their CCA.</p>
 </li>
 </ul>
-<p><strong><u>For Fencing (Girls and Boys):</u></strong>
-</p>
-<ul data-tight="true" class="tight">
+</td>
+<td rowspan="1" colspan="1">
+<p>Submission of student Art portfolio, on the spot Art talent Demonstration
+and Interview</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sports</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Basketball (Boys)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
 <li>
-<p>Strong passion in fencing and display positive attitude to learn, improve
-and contribute.&nbsp;</p>
+<p>Evidence of passion/ talent/ interest and positive attitude.&nbsp;</p>
 </li>
 <li>
-<p>Candidates who display determined and competitive sporting qualities through
-their participation in sports CCAs will be preferred.</p>
+<p>Past competition experience and achievements.</p>
+</li>
+<li>
+<p>Performance during sports trial.</p>
 </li>
 </ul>
-<p><strong><u>For Basketball (Boys):</u></strong>
-</p>
-<ul data-tight="true" class="tight">
+</td>
+<td rowspan="1" colspan="1">
+<p>Sports trial &amp; Interview</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sports</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fencing&nbsp;</p>
+<p>(Girls and Boys)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
 <li>
-<p>Strong passion in Basketball and display positive attitude to learn, improve
-and contribute.&nbsp;</p>
+<p>Evidence of passion/ talent/ interest and positive attitude.&nbsp;</p>
 </li>
 <li>
-<p>Candidates who display determined and competitive sporting qualities through
-their participation in sports CCAs will be preferred.</p>
+<p>Past competition experience and achievements.</p>
+</li>
+<li>
+<p>Performance during sports trial.</p>
 </li>
 </ul>
-<p><strong><u>For Guzheng Ensemble (Girls):</u></strong>
-</p>
-<ul data-tight="true" class="tight">
+</td>
+<td rowspan="1" colspan="1">
+<p>Sports trial &amp; Interview</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Performing Arts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Concert Band (Girls and Boys)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
 <li>
-<p>Strong passion in music and/or playing Guzheng, and display positive attitude
-to learn, improve and contribute.&nbsp;</p>
+<p>Evidence of passion/ talent/ interest and positive attitude.&nbsp;</p>
 </li>
+</ul>
+<ul>
+<li>
+<p>Relevant experience performing on wind, brass, percussion, or other musical
+instrument in school and/or external events.</p>
+</li>
+<li>
+<p>Other achievements or accomplishments in music or instrumental performance.</p>
+</li>
+<li>
+<p>Performance during audition.</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Audition &amp; Interview</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Performing Arts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Guzheng Ensemble (Girls)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>Evidence of passion/ talent/ interest and positive attitude.&nbsp;</p>
+</li>
+</ul>
+<ul>
 <li>
 <p>Relevant experiences in performing the Guzheng or other similar instruments
-at school and/or external events.</p>
+at school and/or external events.&nbsp;</p>
 </li>
 <li>
-<p>Other achievement(s)/attainment(s) in Guzheng or music.</p>
+<p>Other achievements or accomplishments in Guzheng or music.</p>
+</li>
+<li>
+<p>Performance during audition.</p>
 </li>
 </ul>
-<h3><strong>#2 Assessment of attitude and suitability: </strong>(during the interview)</h3>
-<ul data-tight="true" class="tight">
+</td>
+<td rowspan="1" colspan="1">
+<p>Audition &amp; Interview</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Note:&nbsp;</strong>
+</p>
+<ul>
 <li>
-<p>Positive attitude in learning and/or contributing.</p>
+<p>Parents and students are encouraged to choose schools wisely based on
+the student’s aptitudes and strengths, bearing in mind the schools’ academic
+and non-academic requirements, and the programmes available to develop
+the area of talent.</p>
 </li>
-<li>
-<p>Communication skills.</p>
-</li>
-<li>
-<p>Passion and interest in the identified talent area.</p>
-</li>
-</ul>
-<h3><strong>#3 School reports (to be submitted)</strong></h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>Primary 5 and Primary 6 school examination results.</p>
-</li>
-</ul>
-<p></p>
-<p><strong>Shortlisted applicants</strong> will be required to attend an interview
-session. During the interview session, applicants will be assessed on the
-qualities and/or potential indicated in the DSA Selection Criteria.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>For <strong>Leadership</strong>, applicants will need to provide evidence
-of leadership capabilities.</p>
-</li>
-<li>
-<p>For <strong>Visual</strong>  <strong>Arts</strong>, applicants will be required
-to provide evidence of their level of aptitude in art.</p>
-</li>
-<li>
-<p>&nbsp;For <strong>Fencing</strong>, applicants will be required to provide
-evidence of their sporting qualities, either through demonstration of Fencing
-abilities or equivalent sporting ability.</p>
-</li>
-<li>
-<p>For <strong>Basketball</strong>, applicants will be required to provide
-evidence of their sporting qualities, either through demonstration of Basketball
-abilities or equivalent sporting ability.</p>
-</li>
-</ul>
-<p>For <strong>Guzheng</strong>, applicants will be required to provide evidence
-of their level of aptitude in music.</p>
-<h4><strong>Note:</strong></h4>
-<ul data-tight="true" class="tight">
 <li>
 <p>Applicants who do not have prior experience may also apply. The school
 will assess applicants based on the selection criteria, which may include
@@ -130,6 +241,11 @@ assessing the potential of the applicants.</p>
 <li>
 <p>Meeting all the criteria does not guarantee the DSA applicant will be
 shortlisted or given an offer.</p>
+</li>
+<li>
+<p>Students who are successfully admitted to the school via DSA are required
+to honour their commitment to the school and participate in the activities
+related to the talent they are selected for from year 1-4.</p>
 </li>
 </ul>
 <p></p>
