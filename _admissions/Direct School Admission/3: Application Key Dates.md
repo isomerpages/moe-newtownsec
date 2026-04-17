@@ -14,15 +14,17 @@ third_nav_title: Direct School Admission
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>Dates</strong></h4>
+<p><strong>Dates</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<h4><strong>Event</strong></h4>
+<p><strong>Event</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;7 May 2025, 11am</p>
+<p>6 May 2026, 11am</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -34,7 +36,7 @@ third_nav_title: Direct School Admission
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;3 June 2025, 3pm</p>
+<p>2 June 2026, 4.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -46,13 +48,12 @@ third_nav_title: Direct School Admission
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;
-<br>18 July 2025</p>
+<p>10 July 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Notification of shortlisted applicants</p>
+<p>Notification of shortlisted applicants&nbsp;</p>
 </li>
 <li>
 <p>Notification of unsuccessful applicants</p>
@@ -62,19 +63,19 @@ third_nav_title: Direct School Admission
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>28 July to 15 August 2025</p>
+<p>13 July to 28 August 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Interview session for shortlisted applicants</p>
+<p>Interview session and trial/audition for shortlisted applicants</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>25 August to 4 September 2025</p>
+<p>17 to 28 August 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -86,10 +87,9 @@ third_nav_title: Direct School Admission
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>27 October 2025, 9am to 31 October 2025, 3pm</p>
+<p>19 October 2026, 9am to&nbsp;23 October 2026, 4.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>School Preference Submission</p>
