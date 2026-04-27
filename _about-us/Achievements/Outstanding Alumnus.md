@@ -284,6 +284,22 @@ at LASALLE College of the Arts the same month.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Kevin Liew Yong Wei</strong>
+</p>
+<p></p>
+<p>An alumnus of <strong>New Town Secondary School</strong>, attained a <strong>Diploma in Human Resource Management with Psychology with Merit </strong>at
+the Republic Polytechnic Graduation Ceremony 2026.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Hari Kishen s/o Balakrishnan</strong>
+</p>
+<p></p>
+<p>An alumnus of <strong>New Town Secondary School</strong>, attained a<strong> Diploma in Restaurant &amp; Culinary Operations with Merit </strong>at
+the Republic Polytechnic Graduation Ceremony 2026.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Wong Xian Zhe</strong>
 </p>
 <p></p>
