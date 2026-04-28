@@ -62,10 +62,10 @@ responsible citizens of the world.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lim Ee Shin Alexis</p>
+<p>Loh Yin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3-CA</p>
+<p>3-RP</p>
 </td>
 </tr>
 <tr>
@@ -74,7 +74,43 @@ responsible citizens of the world.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chen Enjia, Tu Quynh</p>
+<p>Mae Oh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3-RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Senior Patrol Leader (Administration)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chan Yi Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3-CA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Senior Patrol Leader (Discipline)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kaitlyn Chiou Jia Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3-IT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Senior Patrol Leader (Drills)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fu Jia En Jollie</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3-SD</p>
@@ -82,47 +118,11 @@ responsible citizens of the world.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Head of Administration</strong>
+<p><strong>Senior Patrol Leader (Logistics)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chan En Yue Joy Marie</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3-CF</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Head of Discipline</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Midori Harriet Takahashi Dooley</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3-CA</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Head of Drills</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Thone Dray Aung</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3-CA</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Head of Logistics</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Cheyenne Tang Xuan</p>
+<p>Cara Goh Chang He</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3-RS</p>
@@ -130,19 +130,19 @@ responsible citizens of the world.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Head of Welfare</strong>
+<p><strong>Senior Patrol Leader (Welfare)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Giselle Png Yi Wen</p>
+<p>Annette Hoo Bing Sing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3-RS</p>
+<p>3-CA</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4><strong>ACTIVITIES FOR THE YEAR 2025</strong></h4>
+<h4><strong>ACTIVITIES FOR THE YEAR 2026</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>World Thinking Day Commemoration</p>
@@ -157,12 +157,6 @@ responsible citizens of the world.</p>
 <p>NTSS Uniformed Groups Integration Day</p>
 </li>
 <li>
-<p>Free Being Me Programme</p>
-</li>
-<li>
-<p>Plastic Tide Turners Challenge</p>
-</li>
-<li>
 <p>Patrol Leaders’ Training Course</p>
 </li>
 <li>
@@ -170,6 +164,9 @@ responsible citizens of the world.</p>
 </li>
 <li>
 <p>1 Star Kayaking Certification</p>
+</li>
+<li>
+<p>National Day Parade</p>
 </li>
 </ul>
 <h4><strong>ACHIEVEMENTS</strong></h4>
@@ -222,6 +219,6 @@ responsible citizens of the world.</p>
 </ul>
 <h3><strong>PHOTO GALLERY</strong></h3>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS7u05Ct3p1uOO6hMgeBHikvcz9TY85JgnJJz71MpZY7e0lZyLOVqO61zmoS0WCRbOrnkzM0LcDIct3/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS7u05Ct3p1uOO6hMgeBHikvcz9TY85JgnJJz71MpZY7e0lZyLOVqO61zmoS0WCRbOrnkzM0LcDIct3/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
