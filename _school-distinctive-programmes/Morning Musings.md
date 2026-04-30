@@ -10,9 +10,9 @@ and coherently, lending their student voice in areas which they are passionate
 about. They engage their peers in a lively manner while uplifting them
 to achieve goals, take on challenges or embrace new ideas. When students
 share their personal and school learning experiences, they are motivated
-to build oqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqwnership
-in their choices and this inspires student agency, thereby developing school
-values such as resilience, self-discipline and care in them.</p>
+to build ownership in their choices and this inspires student agency, thereby
+developing school values such as resilience, self-discipline and care in
+them.</p>
 <p>Check out some of our students' sharing below:</p>
 <hr>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
