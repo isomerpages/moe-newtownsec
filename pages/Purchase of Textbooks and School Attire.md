@@ -17,11 +17,13 @@ available during year-end sales period)
 <a href="/files/Booklist/2026_NTSS_Booklist_S5_R1.pdf" rel="noopener nofollow" target="_blank">Sec 5</a>
 </p>
 <h2>School Uniform &amp; PE Attire</h2>
-<p><strong>Finest Fashion Centre</strong>
+<p><strong>KH UNIFORM Pte Ltd</strong>
 <br><strong>Retail Shop:</strong>
-<br>Beauty World Centre
-<br>B1-03, 144 Upper Bukit Timah Road
-<br>Singapore 588 177
-<br>Tel: 6466 5697</p>
-<p><strong>Online Shop:</strong>  <a href="https://finestuniform.com/collections/new-town-secondary-school" rel="noopener noreferrer nofollow" target="_blank">Shop Here</a>
+</p>
+<p>8 Boon Lay Way
+<br>8 @TradeHub 21
+<br>#03-14
+<br>Singapore 609964
+<br>Tel: 6479 6811</p>
+<p><strong>Online Shop:</strong>  <a href="https://khuniform.com/" rel="noopener nofollow" target="_blank">Shop Here</a>
 </p>
