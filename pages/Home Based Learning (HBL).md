@@ -21,7 +21,8 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p></p>
+<p><a href="https://docs.google.com/spreadsheets/d/1NLSEiWXiShWwDq76M6U_BhWPDJ4x_pX9ZCUh19-9UXA/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 4/5</a>
+</p>
 </li>
 </ul>
 <h4>Have a great day learning!</h4>
