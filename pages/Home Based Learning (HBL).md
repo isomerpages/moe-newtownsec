@@ -17,7 +17,8 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p></p>
+<p><a href="https://docs.google.com/spreadsheets/d/1ARnjQNBbUBRinm3e-Jswi4rQnk9XBKxCDpLb2f4zhnw/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 3</a>
+</p>
 </li>
 <li>
 <p></p>
