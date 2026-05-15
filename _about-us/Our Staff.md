@@ -238,18 +238,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head/English Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Basu Roy Priyanka</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:basu_roy_priyanka@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">basu_roy_priyanka@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Subject Head/Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
