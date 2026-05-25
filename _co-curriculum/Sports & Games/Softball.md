@@ -10,9 +10,9 @@ variant: tiptap
 </div>
 <h1>INTRODUCTION</h1>
 <p>Our motto is Nil Satis Nisi Optimum, “Nothing but the Best”. Through softball,
-we hope to inculcate the 3 values of thinking, athletic and resilient in
-each member, and to build up these four aspects of the team: Character,
-Teamwork, Skills and Fitness</p>
+we hope to inculcate the 3 values of thinking, athleticism and resilience
+in each member, and to build up these four aspects of the team: Character,
+Teamwork, Skills and Fitness.</p>
 <h3>TRAINING SCHEDULE:</h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -66,29 +66,29 @@ Teamwork, Skills and Fitness</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Captain – Aliya Natasha Binte Rosli</p>
+<p>Captain – Au Yong Ee Jie</p>
 </li>
 <li>
-<p>Vice Captain – Celeste Goh Zi Xuan</p>
+<p>Vice Captains – Ng Yi Lin Faith, Nurul Elmiera Binte Abdul Karim</p>
 </li>
 <li>
-<p>Head of Logistics – Sarah Ong</p>
+<p>Head of Logistics – Seow Xi En, Emma</p>
 </li>
 </ul>
 <p><strong>C Division</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Captain – Ng Ki Rin, Kaelyn</p>
+<p>Captain – Kang Gek Ngee</p>
 </li>
 <li>
-<p>Vice Captains – Ashlyn Cho, Kang Gek Ngee</p>
+<p>Vice Captains – Ashlyn Cho, Ng Ki Rin, Kaelyn</p>
 </li>
 <li>
-<p>Head of Logistics - Yuuki Yohanna Binte Salihin</p>
+<p>Head of Logistics - Macy Oh</p>
 </li>
 </ul>
-<h3>ACTIVITIES FOR THE YEAR 2025</h3>
+<h3>ACTIVITIES FOR THE YEAR</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>‘B’ &amp; ‘C’ Girls National Inter-School Softball Championships</p>
@@ -103,9 +103,6 @@ Teamwork, Skills and Fitness</p>
 </li>
 <li>
 <p>SRC Inter-School Softball Carnival (March Holidays)</p>
-</li>
-<li>
-<p>Softball Outreach Programme with Alexandra Primary School (Term 2)</p>
 </li>
 <li>
 <p>New Town Inter-School Softball Carnival (June Holidays)</p>
@@ -131,18 +128,15 @@ Teamwork, Skills and Fitness</p>
 </ul>
 <h3>PHOTO GALLERY</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Softball/2024May_01.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Softball/image1.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Softball/2024May_02.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Softball/image2.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Softball/2024May_03.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Softball/image3.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Softball/2024May_04.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Softball/2024May_05.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Softball/image4.jpg">
 </div>
 <p></p>
