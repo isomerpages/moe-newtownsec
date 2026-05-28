@@ -17,39 +17,47 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Basketball/04_Basketball_CCA.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Main-1.jpg">
-</div>
 <h1>INTRODUCTION</h1>
-<p>The NTSS Basketball CCA consists of both girls and boys team. We aim to
-empower our students to:</p>
-<ol>
+<p>The New Town Secondary School Basketball CCA comprises both the Boys’
+and Girls’ teams, providing students with opportunities to develop holistically
+through sport.</p>
+<p>Through training, competition, and teamwork, we aim to empower our students
+to:</p>
+<ul>
 <li>
-<p>Discover &amp; Develop their strength of character of Sportsmanship;</p>
+<p>Develop strong character and sportsmanship</p>
 </li>
 <li>
-<p>Nurture Student Leadership Skills and</p>
+<p>Nurture leadership qualities and teamwork skills</p>
 </li>
 <li>
-<p>Encourage student opportunities to pursue and excel in their passion /
-talent through positivity and the joy of learning</p>
+<p>Pursue excellence in their passion and talents with positivity, resilience,
+and a joy for learning.</p>
 </li>
-</ol>
+</ul>
+<p>The Basketball CCA seeks to cultivate disciplined and confident student-athletes
+who demonstrate respect, perseverance, and commitment both on and off the
+court.</p>
 <h3>MOTTO:</h3>
 <p><strong>DEDICATION. DETERMINATION. DISCIPLINE</strong>
 </p>
-<p>Through an emphasis on Dedication, Determination, and Discipline; we strive
-to strengthen our New Town Basketballers' mental resilience and physical
-stamina to bring out the best in every Basketballer.</p>
-<p>TEAM MOTIVATION (HANDS IN CHEER)</p>
+<p>Guided by our motto, we strive to strengthen our basketballers’ mental
+resilience, physical stamina, and character development. Through dedication
+in training, determination in challenges, and discipline in conduct, every
+player is encouraged to achieve their fullest potential and bring out the
+best in themselves and their teammates.</p>
+<p><strong>TEAM MOTIVATION (HANDS IN CHEER)</strong>
+</p>
 <p><strong>MORE. TEAM. NOW</strong>
 </p>
-<p>A reminder to Basketballers to give nothing but the best in attitude,
-mind and performance. Uniting in diversity of roles, living in the moment
-to strive and soar for excellence. Caring and respecting teammates, opponents,
-officials and self and staying true to our belief in sports. It is about
-helping your teammates through their life journey because, what happens
-to your teammates matters to you.</p>
+<p>Our team cheer reminds every New Town basketball player to give their
+best in attitude, effort, and performance at every moment. It reflects
+our belief in unity, teamwork, and collective growth despite our different
+roles and strengths.</p>
+<p>We uphold the values of respect, care, and sportsmanship towards teammates,
+opponents, officials, and ourselves. Beyond the game, we believe in supporting
+one another through challenges and successes, because every teammate matters
+both on and off the court.</p>
 <h3>TRAINING SCHEDULE:</h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -62,8 +70,8 @@ to your teammates matters to you.</p>
 <p>Training Time*</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Tuesdays : 3.15pm – 6.00pm
-<br>Fridays : 1.15pm/2.30pm - 5.30pm</p>
+<p>Tuesdays: 3.15pm – 5.15pm
+<br>Fridays: 1.30pm - 4.30pm</p>
 </th>
 </tr>
 <tr>
@@ -71,23 +79,28 @@ to your teammates matters to you.</p>
 <p>Training Venue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Indoor Sports Hall Level 1 and Outdoor Basketball Court and/orBlk
-E level 4 classrooms (S4-03 &amp; S4-04)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Indoor Sports Hall Level 1</p>
+</li>
+<li>
+<p>Outdoor Basketball Court</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
 </table>
-<p>*Extra Weekly &amp; Holiday Trainings before the Competition Season</p>
 <h3>TEACHERS-IN-CHARGE</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mdm Valli D/O Sundaram (1st I/C)</p>
+<p>Mr Loh Yong Qi (1st I/C)</p>
 </li>
 <li>
-<p>Mr Loh Yong Qi (2nd I/C)</p>
+<p>Mdm Sheela Sugirmanto (2nd I/C)</p>
 </li>
 <li>
-<p>Mr Francis Yee Hsien Hsi</p>
+<p>Mr Francis Yee Hsien His</p>
 </li>
 <li>
 <p>Mr Noah Ong</p>
@@ -99,51 +112,56 @@ E level 4 classrooms (S4-03 &amp; S4-04)</p>
 <p>Mr Chong Beng Chee Elvin</p>
 </li>
 <li>
-<p>Mr Zhang Zhexin</p>
-</li>
-<li>
-<p>Mr Leonard Soh</p>
+<p>Ms Lee Chen Ning</p>
 </li>
 </ul>
-<h3>ACTIVITIES FOR THE YEAR</h3>
+<h3>STUDENT LEADERS</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>West Zone ‘B’ Division Championships (Jan – Apr)</p>
+<p>B Division Captains - James Ang Zi Yan &amp; Lim Jia En, Rachel</p>
 </li>
 <li>
-<p>ActiveSG BAS Basketball Development League (Apr – May)</p>
+<p>C Division Captains - Chew Yu Heng &amp; Emmy Rose Mathew</p>
+</li>
+</ul>
+<h3>ACTIVITIES FOR THE YEAR 2026</h3>
+<ul>
+<li>
+<p>NSG West Zone ‘B’ Division Championships&nbsp;</p>
 </li>
 <li>
-<p>West Zone ‘C’ Division Championships (Jul – Aug)</p>
+<p>NSG West Zone ‘C’ Division Championships&nbsp;</p>
 </li>
 <li>
-<p>ActiveSG BAS Basketball Development League (Aug – Sept)</p>
+<p>Basketball Day Camp/Activities</p>
 </li>
 <li>
-<p>Basketball Day Camp /Activities (*NEW)</p>
+<p>Basketball Invitational Competitions</p>
 </li>
 </ul>
 <h3>ACHIEVEMENTS</h3>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
-<p>2025 NSG C Division Boys (League 5) – 4th</p>
+<p>2025 NSG C Division Boys (League 5) – 4<sup>th</sup>&nbsp;</p>
 </li>
 <li>
-<p>2018-2025 NSG West Zone Basketball Championship B Division Boys qualify
-for Round 2 of National School Games</p>
+<p>2018-2025 NSG West Zone ‘B’ Division Boys Championships – Qualified for
+Round 2&nbsp;</p>
 </li>
 <li>
 <p>2024 NSG C Division Boys (League 6) – Champion</p>
 </li>
 <li>
-<p>2024 NSG C Division Girls (League 3) – 3rd</p>
+<p>2024 NSG C Division Girls (League 3) – 3<sup>rd</sup>
+</p>
 </li>
 <li>
-<p>2024 Clementi Inter-School U16 Boys Basketball Tournament 2024 – 2nd</p>
+<p>2025 Clementi Inter-School U16 Boys Basketball Tournament 2025 – 5<sup>th</sup>
+</p>
+</li>
+<li>
+<p>2024 Clementi Inter-School U16 Boys Basketball Tournament 2024 – 2<sup>nd</sup>
+</p>
 </li>
 </ul>
-<h3>PHOTO GALLERY</h3>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRT1rkzIEO_kbrB1sLiTqqEXkKmk7E3QsfIiHheWLVWPBIQRtrCnIu_g65kCQ_-otfxw5yRqOKe7VPR/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
 <p></p>
