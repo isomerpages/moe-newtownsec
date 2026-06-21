@@ -7,11 +7,13 @@ variant: tiptap
 ---
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2025/DR4___Student_Device_Information_Kit_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Device Information Kit</a>
+<p><a href="/files/2025/DR4___Student_Device_Information_Kit_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Device </a>
+<a href="/files/Student_Device_Information_Kit_Updated_17_Apr_26.pdf" rel="noopener noreferrer nofollow" target="_blank">Information</a><a href="/files/2025/DR4___Student_Device_Information_Kit_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Kit</a>
 </p>
 </li>
 <li>
 <p><a href="/files/2025/Annex_A_B_C_DMA_Parent_Option.pdf" rel="noopener noreferrer nofollow" target="_blank">DMA After-School Parent Options</a>
+<a href="/files/Student_Device_Information_Kit_Updated_17_Apr_26.pdf" rel="noopener nofollow" target="_blank">file</a>
 </p>
 </li>
 <li>
@@ -23,11 +25,13 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/2025/IP2___Parent_Handbook__I__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (I) on learning with a PLD</a>
+<p><a href="/files/2025/IP2___Parent_Handbook__I__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (I) on lea</a>
+<a href="/files/IP2___Parent_Handbook__I__2026.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/2025/IP2___Parent_Handbook__I__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">rning with a PLD</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2025/IP3___Parent_Handbook__II__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (II) on learning with a PLD</a>
+<p><a href="/files/2025/IP3___Parent_Handbook__II__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handb</a>
+<a href="/files/IP3___Parent_Handbook__II__2026.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/2025/IP3___Parent_Handbook__II__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">ook (II) on learning with a PLD</a>
 </p>
 </li>
 </ul>
