@@ -21,7 +21,9 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Student_Helpdesk___Library.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Helpdesk @ Library</a>
+<p><a href="/files/Student_Helpdesk___Library.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Helpd</a>
+<a href="/files/Student_Helpdesk_Support.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/Student_Helpdesk___Library.pdf" rel="noopener noreferrer nofollow" target="_blank">esk</a>
+<a href="/files/Student_Helpdesk_Support.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/Student_Helpdesk___Library.pdf" rel="noopener noreferrer nofollow" target="_blank"> @ Library</a>
 </p>
 </li>
 <li>
