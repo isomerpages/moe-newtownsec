@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2025/DR4___Student_Device_Information_Kit_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Device Information Kit</a>
+<p><a href="/files/Student_Device_Information_Kit_Updated_17_Apr_26.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Device Information Kit</a>
 </p>
 </li>
 <li>
@@ -19,15 +19,18 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Student_Helpdesk___Library.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Helpdesk @ Library</a>
+<p><a href="/files/Student_Helpdesk_Support.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Helpd</a>
+<a href="/files/Student_Helpdesk_Support.pdf" rel="noopener nofollow" target="_blank">esk</a><a href="/files/Student_Helpdesk_Support.pdf" rel="noopener noreferrer nofollow" target="_blank"> @ School Canteen</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2025/IP2___Parent_Handbook__I__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (I) on learning with a PLD</a>
+<p><a href="/files/IP2___Parent_Handbook__I__2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (I) o</a>
+<a href="/files/IP2___Parent_Handbook__I__2026.pdf" rel="noopener nofollow" target="_blank">n</a><a href="/files/IP2___Parent_Handbook__I__2026.pdf" rel="noopener noreferrer nofollow" target="_blank"> lea</a>
+<a href="/files/IP2___Parent_Handbook__I__2026.pdf" rel="noopener nofollow" target="_blank">rning</a><a href="/files/IP2___Parent_Handbook__I__2026.pdf" rel="noopener noreferrer nofollow" target="_blank"> with a PLD</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2025/IP3___Parent_Handbook__II__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (II) on learning with a PLD</a>
+<p><a href="/files/IP3___Parent_Handbook__II__2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (II) on learning with a PLD</a>
 </p>
 </li>
 </ul>
