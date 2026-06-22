@@ -19,14 +19,11 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Student_Helpdesk_Support.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Helpd</a>
-<a href="/files/Student_Helpdesk_Support.pdf" rel="noopener nofollow" target="_blank">esk</a><a href="/files/Student_Helpdesk_Support.pdf" rel="noopener noreferrer nofollow" target="_blank"> @ School Canteen</a>
+<p><a href="/files/Student_Helpdesk_Support.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Helpdesk @ School Canteen</a>
 </p>
 </li>
 <li>
-<p><a href="/files/IP2___Parent_Handbook__I__2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (I) o</a>
-<a href="/files/IP2___Parent_Handbook__I__2026.pdf" rel="noopener nofollow" target="_blank">n</a><a href="/files/IP2___Parent_Handbook__I__2026.pdf" rel="noopener noreferrer nofollow" target="_blank"> lea</a>
-<a href="/files/IP2___Parent_Handbook__I__2026.pdf" rel="noopener nofollow" target="_blank">rning</a><a href="/files/IP2___Parent_Handbook__I__2026.pdf" rel="noopener noreferrer nofollow" target="_blank"> with a PLD</a>
+<p><a href="/files/IP2___Parent_Handbook__I__2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (I) on learning with a PLD</a>
 </p>
 </li>
 <li>
