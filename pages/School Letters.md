@@ -14,10 +14,11 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>2026 Term 3 School Letter</p>
+<p><a href="/files/2026_Term_3_Letter_to_Parents_PG_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Term 3 School Letter</a>
+</p>
 </li>
 <li>
 <p>2026 Term 4 School Letter</p>
 </li>
 </ul>
-<p></p>
+<p>(Updated 26 Jun 2026)</p>
