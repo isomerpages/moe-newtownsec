@@ -24,3 +24,5 @@ variant: tiptap
 </ul>
 <p><em>(Updated on 18 Mar 2026)</em>
 </p>
+<p><em>*Semester 2 timetable coming soon</em>
+</p>
