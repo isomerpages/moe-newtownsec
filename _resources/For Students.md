@@ -29,8 +29,8 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://newtownsec.moe.edu.sg/others/announcements/class-timetable" rel="noopener noreferrer nofollow" target="_blank">Class Timetable</a>
-</p>
+<p><a href="https://newtownsec.moe.edu.sg/others/announcements/class-timetable" rel="noopener noreferrer nofollow" target="_blank">Class Timetable</a> (Semester
+2 Timetable coming soon)</p>
 </li>
 </ul>
 <h3><strong>ICT Links</strong></h3>
