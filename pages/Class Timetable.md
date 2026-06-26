@@ -10,7 +10,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Class Timetable/2026_Sec_2_Sem_2_Class_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Sem 2 Timetable</a>
+<p><a href="/files/Class Timetable/FIX_2026_Sec_2_Sem_2_Class_Timetable.pdf" rel="noopener nofollow" target="_blank">Sec 2 Sem 2 Timetable</a>
 </p>
 </li>
 <li>
@@ -22,4 +22,4 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p>(Updated on 26 June 2026)</p>
+<p>(Updated on 26 June 2026, 3PM)</p>
