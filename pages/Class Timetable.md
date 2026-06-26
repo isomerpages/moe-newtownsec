@@ -22,4 +22,4 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p>(Updated on 26 June 2026)</p>
+<p>(Updated on 26 June 2026, 3PM)</p>
