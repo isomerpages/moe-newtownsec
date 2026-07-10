@@ -5,23 +5,63 @@ description: ""
 variant: tiptap
 ---
 <h1>Home Based Learning (HBL)</h1>
-<h3>13 May 2026</h3>
+<h3>14 Jul 2026</h3>
 <p>(Click below to access your learning tasks and assignments)</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://docs.google.com/spreadsheets/d/1f7SECVTEkMLW14aBtndEOVzr79zbhaAwldTfi3VM548/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 1</a>
+<p><a href="https://docs.google.com/spreadsheets/d/1r5q09tvNuF7IlXUMA3EBOpHhtBHyLdgQp0aoIUcE-ew/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 1</a>
 </p>
 </li>
 <li>
-<p><a href="https://docs.google.com/spreadsheets/d/1LT5pRgALDCz9Zk648vJPfKbvvGkRFv5KHnw3jywyNE8/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 2</a>
+<p><a href="https://docs.google.com/spreadsheets/d/1sPpFwb0kJjz3SdA-FDnlL34jrGRVYbpJNui8B8N236s/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 2</a>
 </p>
 </li>
 <li>
-<p><a href="https://docs.google.com/spreadsheets/d/1ARnjQNBbUBRinm3e-Jswi4rQnk9XBKxCDpLb2f4zhnw/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 3</a>
+<p><a href="https://docs.google.com/spreadsheets/d/17TMjOKpLEWQP6eKLHUyDrMC28sxFRG0DJ1Xnu6H0uTA/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 3</a>
 </p>
 </li>
 <li>
-<p><a href="https://docs.google.com/spreadsheets/d/1NLSEiWXiShWwDq76M6U_BhWPDJ4x_pX9ZCUh19-9UXA/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 4/5</a>
+<p><a href="https://docs.google.com/spreadsheets/d/1mG-OtZThc6A0MJ-NEYOC-Q3CbVfIViCTFc02KrOjsLc/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 4/5</a>
+</p>
+</li>
+</ul>
+<h3>15 Jul 2026</h3>
+<p>(Click below to access your learning tasks and assignments)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://docs.google.com/spreadsheets/d/1Rt3LQt_7V-yUzSUvIG7zNJWXlmR82_MSm8WWANEDqyA/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 1</a>
+</p>
+</li>
+<li>
+<p><a href="https://docs.google.com/spreadsheets/d/1GO_16gYxCy_uIJYMmqd-8uFtFZMiYmO-4w3pIMibmHA/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 2</a>
+</p>
+</li>
+<li>
+<p><a href="https://docs.google.com/spreadsheets/d/1xBAdusQ-_LSXUIiEbk5oz_oLyGDjwIgb_3rKx7GjOvM/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 3</a>
+</p>
+</li>
+<li>
+<p><a href="https://docs.google.com/spreadsheets/d/10Gz8ZIm9n-cUVpqmc0FTSfUg6BnAl8lv7eZhsKwmBz0/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 4/5</a>
+</p>
+</li>
+</ul>
+<h3>16 Jul 2026</h3>
+<p>(Click below to access your learning tasks and assignments)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://docs.google.com/spreadsheets/d/10nDGCzT2V8IU4oMMbvYVlhZ8dFjDWs4mrnxaj2X2Dj4/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 1</a>
+</p>
+</li>
+<li>
+<p><a href="https://docs.google.com/spreadsheets/d/1uzE-sxZhy3p32u6pWhEnF2ysvZ1CDX3ihknU0W0sOZM/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 2</a>
+</p>
+</li>
+<li>
+<p><a href="https://docs.google.com/spreadsheets/d/1KCre-eMawM8c0BlAl4gyYV3sBqjcfqhLjCqow0Wt69Y/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 3</a>
+</p>
+</li>
+<li>
+<p><a href="https://docs.google.com/spreadsheets/d/1P7Y8fNqQoQSspDiKfnIk2985zYQR7G0AFpH3F1x7M-U/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 4/5</a>
 </p>
 </li>
 </ul>
