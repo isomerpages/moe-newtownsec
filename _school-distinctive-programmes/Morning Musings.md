@@ -118,7 +118,8 @@ them.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Term 2</summary>
+<summary><strong>Term 2</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
