@@ -20,7 +20,7 @@ them.</p>
 <summary><strong>2026</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Term 1</strong>
 </summary>
@@ -57,10 +57,159 @@ them.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="180" width="320" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UxObYA5D4vg?si=S7VMsE3TLzK9VNW7"></iframe>
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="180" width="320" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hhjnYEbGe_k?si=XIsrAZG6H5dKA-gO"></iframe>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="180" width="320" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3Jh89MnYY4o?si=_sbHThZYOOu__lNP"></iframe>
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="180" width="320" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_We2SNgzdpI?si=_U3-soRQHjoKuL6h"></iframe>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="180" width="320" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gpk0FEmLsuc?si=JjuMXzQaxazRA_Zd"></iframe>
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="180" width="320" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FBjpfODwL6Q?si=h0e6shD9ck69gZ5e"></iframe>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="180" width="320" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/c7vpHi0yImk?si=gQoWUUJiF1p5JYG3"></iframe>
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="180" width="320" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/n26arjW4yJM?si=tbPj--T9d4w3w4P8"></iframe>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="180" width="320" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/n26arjW4yJM?si=tbPj--T9d4w3w4P8"></iframe>
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="180" width="320" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PtSs5mB_ymE?si=fEyaimfa2GuqDZ3_"></iframe>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="180" width="320" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nU9EGo2zTO4?si=NSoNBsXPAFoXmwFt"></iframe>
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="180" width="320" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/g_3YqV6fXrk?si=zpESNUQBZVEzMmZ4"></iframe>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="180" width="320" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Fat2LU0Ak98?si=EqbAOjnguXcIvhMv"></iframe>
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="180" width="320" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/KQF7cIsvtuE?si=Br0YOYwpJjFTDxBi"></iframe>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Term 2</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="180" width="320" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/YmOwQ5_5Twg?si=9wfNerXxkRhJEIf-"></iframe>
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="180" width="320" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/bDKhCgV5cFE?si=Fr-ju0xkjxiKoLM3"></iframe>
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="180" width="320" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ZjPVcw8dUkE?si=od23n7e8lZEmBur6"></iframe>
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="180" width="320" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ZlHTFmz8lRE?si=07BiNxeXCVY2YaP-"></iframe>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="180" width="320" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kebThpN5L4E?si=XVyVevWZlzpxptB6"></iframe>
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="180" width="320" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6hoDiHV4is0?si=htyZWNsNuUdeduX8"></iframe>
+</div>
 </td>
 </tr>
 </tbody>
@@ -68,7 +217,6 @@ them.</p>
 </div>
 </details>
 </div>
-<p></p>
 </div>
 </details>
 <details class="isomer-details">
