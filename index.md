@@ -18,6 +18,16 @@ sections:
         - title: Upcoming Events
           description: ""
           url: https://www.newtownsec.moe.edu.sg/upcoming-events/savethedates/
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: Sec 4/5 Prelim Timetable
+          date: 21 July 2026
+          announcement: Students may find the 4N/4T Preliminary Exam Timetables at the
+            link below.
+          link_text: ""
+          link_url: ""
   - infopic:
       title: Applied Learning (ALP)
       subtitle: School Distinctive Programmes
