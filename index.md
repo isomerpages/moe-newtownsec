@@ -26,8 +26,8 @@ sections:
           date: 21 July 2026
           announcement: Students may find the 4N/4T Preliminary Exam Timetables at the
             link below.
-          link_text: ""
-          link_url: ""
+          link_text: Click here >>
+          link_url: /exam-timetable/
   - infopic:
       title: Applied Learning (ALP)
       subtitle: School Distinctive Programmes
