@@ -66,19 +66,6 @@ Teamwork, Skills and Fitness.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Captain – Au Yong Ee Jie</p>
-</li>
-<li>
-<p>Vice Captains – Ng Yi Lin Faith, Nurul Elmiera Binte Abdul Karim</p>
-</li>
-<li>
-<p>Head of Logistics – Seow Xi En, Emma</p>
-</li>
-</ul>
-<p><strong>C Division</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
 <p>Captain – Kang Gek Ngee</p>
 </li>
 <li>
@@ -88,6 +75,20 @@ Teamwork, Skills and Fitness.</p>
 <p>Head of Logistics - Macy Oh</p>
 </li>
 </ul>
+<p><strong>C Division</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Captain – Au Yong Ee Jie</p>
+</li>
+<li>
+<p>Vice Captains – Ng Yi Lin Faith, Nurul Elmiera Binte Abdul Karim</p>
+</li>
+<li>
+<p>Head of Logistics – Seow Xi En, Emma</p>
+</li>
+</ul>
+<p></p>
 <h3>ACTIVITIES FOR THE YEAR</h3>
 <ul data-tight="true" class="tight">
 <li>
