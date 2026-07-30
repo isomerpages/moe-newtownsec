@@ -421,7 +421,4 @@ Fencing Championships</p>
 </tr>
 </tbody>
 </table>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRLB4jrZFvZEdY_cxB_-gRqO07AkTfCYKvtxwOj8XhzXzYPhHHwmfly6JKjvFudCZTGv02i0b3R5xi2/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
 <p></p>
