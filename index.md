@@ -22,9 +22,15 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Sec 4/5 Prelim Timetable
+        - title: Sec 4N/4T Prelim Timetable
           date: 21 July 2026
           announcement: Students may find the 4N/4T Preliminary Exam Timetables at the
+            link below.
+          link_text: Click here >>
+          link_url: /exam-timetable/
+        - title: Sec 4E/5N Prelim Timetable
+          date: 06 August 2026
+          announcement: Students may find the 4E/5N Preliminary Exam Timetables at the
             link below.
           link_text: Click here >>
           link_url: /exam-timetable/
